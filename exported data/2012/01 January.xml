@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-03-12T10:17:50Z</date>
+	<key>Application Version</key><string>10.6</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>627827E98632DD88</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6533</key>
+		<dict>
+			<key>Track ID</key><integer>6533</integer>
+			<key>Name</key><string>Sunny Day</string>
+			<key>Artist</key><string>BRONZE</string>
+			<key>Album</key><string>BRONZE</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5439691</integer>
+			<key>Total Time</key><integer>333949</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-06-07T10:27:10Z</date>
+			<key>Date Added</key><date>2012-03-11T13:28:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Visit http://bronze.bandcamp.com</string>
+			<key>Normalization</key><integer>2092</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78D6E19020990521</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/BRONZE/BRONZE/03%20Sunny%20Day.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11513</key>
+		<dict>
+			<key>Track ID</key><integer>11513</integer>
+			<key>Name</key><string>Stripped</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Composer</key><string>Martin L. Gore</string>
+			<key>Album</key><string>The Singles 86 &#62; 98</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5563774</integer>
+			<key>Total Time</key><integer>231732</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2006-08-23T15:00:32Z</date>
+			<key>Date Added</key><date>2012-03-11T13:29:28Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4703</integer>
+			<key>Sort Album</key><string>Singles 86 &#62; 98</string>
+			<key>Persistent ID</key><string>A856239F28590ECF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Depeche%20Mode/The%20Singles%2086%20_%2098/1-01%20Stripped.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19049</key>
+		<dict>
+			<key>Track ID</key><integer>19049</integer>
+			<key>Name</key><string>Kingfish Pies</string>
+			<key>Artist</key><string>Midlake</string>
+			<key>Album Artist</key><string>Midlake</string>
+			<key>Album</key><string>Bamnan and Slivercork</string>
+			<key>Genre</key><string>Rock/Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6807147</integer>
+			<key>Total Time</key><integer>260623</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2012-01-06T11:16:25Z</date>
+			<key>Date Added</key><date>2012-03-11T13:30:51Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3F42D0678A48F79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Midlake/Bamnan%20and%20Slivercork/03%20Kingfish%20Pies.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>26691</key>
+		<dict>
+			<key>Track ID</key><integer>26691</integer>
+			<key>Name</key><string>Close To Me</string>
+			<key>Artist</key><string>The Cure</string>
+			<key>Album Artist</key><string>The Cure</string>
+			<key>Album</key><string>The Head On The Door</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4896597</integer>
+			<key>Total Time</key><integer>204016</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2008-01-05T14:53:17Z</date>
+			<key>Date Added</key><date>2012-03-11T13:33:26Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>, Ag# Befe9316</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3414390906</integer>
+			<key>Play Date UTC</key><date>2012-03-12T09:55:06Z</date>
+			<key>Sort Album</key><string>Head On The Door</string>
+			<key>Sort Album Artist</key><string>Cure</string>
+			<key>Sort Artist</key><string>Cure</string>
+			<key>Persistent ID</key><string>B063682C5D042E89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/The%20Cure/The%20Head%20On%20The%20Door/07%20Close%20To%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>27391</key>
+		<dict>
+			<key>Track ID</key><integer>27391</integer>
+			<key>Name</key><string>What If Punk Never Happened (Dan Le Sac vs. Scroobius Pip Remix)</string>
+			<key>Artist</key><string>The King Blues</string>
+			<key>Album Artist</key><string>The King Blues</string>
+			<key>Album</key><string>Save the World, Get the Girl (Radio Edit) - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21778903</integer>
+			<key>Total Time</key><integer>539872</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2012-01-07T12:08:39Z</date>
+			<key>Date Added</key><date>2012-03-11T13:33:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Dan Le Sac vs. Scroobius Pip Remix)</string>
+			<key>Normalization</key><integer>2370</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>King Blues</string>
+			<key>Sort Artist</key><string>King Blues</string>
+			<key>Persistent ID</key><string>E1D575EC75137F6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/The%20King%20Blues/Save%20the%20World,%20Get%20the%20Girl%20(Radio%20Edit/04%20What%20If%20Punk%20Never%20Happened%20(Dan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>01 January</string>
+			<key>Playlist ID</key><integer>59387</integer>
+			<key>Playlist Persistent ID</key><string>80A77BE3B9A88048</string>
+			<key>Parent Persistent ID</key><string>7180450771F6D43A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>27391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19049</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

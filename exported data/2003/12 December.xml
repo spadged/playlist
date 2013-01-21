@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7032</key>
+		<dict>
+			<key>Track ID</key><integer>7032</integer>
+			<key>Name</key><string>Solsbury Hill</string>
+			<key>Artist</key><string>Peter Gabriel</string>
+			<key>Album</key><string>Vanilla Sky</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4296280</integer>
+			<key>Total Time</key><integer>263836</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2004-09-02T21:17:00Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1594</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C287</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Vanilla%20Sky/04%20Solsbury%20Hill.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7034</key>
+		<dict>
+			<key>Track ID</key><integer>7034</integer>
+			<key>Name</key><string>Have You Forgotten </string>
+			<key>Artist</key><string>Red House Painters</string>
+			<key>Album</key><string>Vanilla Sky</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5337937</integer>
+			<key>Total Time</key><integer>328881</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2004-09-02T21:17:00Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3323437709</integer>
+			<key>Play Date UTC</key><date>2009-04-24T16:08:29Z</date>
+			<key>Normalization</key><integer>1550</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C28A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Vanilla%20Sky/08%20Have%20You%20Forgotten.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7042</key>
+		<dict>
+			<key>Track ID</key><integer>7042</integer>
+			<key>Name</key><string>Elevator Heat</string>
+			<key>Artist</key><string>Nancy Wilson</string>
+			<key>Album</key><string>Vanilla Sky</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2700512</integer>
+			<key>Total Time</key><integer>164101</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2004-09-02T21:17:02Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:33Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>931</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C296</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Vanilla%20Sky/15%20Elevator%20Heat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9076</key>
+		<dict>
+			<key>Track ID</key><integer>9076</integer>
+			<key>Name</key><string>Satisfied Mind</string>
+			<key>Artist</key><string>Jeff Buckley</string>
+			<key>Composer</key><string>J. Hayes/J. Rhodes</string>
+			<key>Album</key><string>Sketches For My Sweetheart The Drunk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8592546</integer>
+			<key>Total Time</key><integer>357929</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2006-02-08T10:48:42Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1235</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CBE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Jeff%20Buckley/Sketches%20For%20My%20Sweetheart%20The%20Drunk/2-11%20Satisfied%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10258</key>
+		<dict>
+			<key>Track ID</key><integer>10258</integer>
+			<key>Name</key><string>Tangerine</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album</key><string>Led Zeppelin Three</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2299613</integer>
+			<key>Total Time</key><integer>190380</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2005-10-03T09:15:26Z</date>
+			<key>Date Added</key><date>2006-11-30T17:51:54Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D118</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Led%20Zeppelin/Led%20Zeppelin%20Three/07%20Tangerine.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>12 December</string>
+			<key>Playlist ID</key><integer>67699</integer>
+			<key>Playlist Persistent ID</key><string>3152A26BB9C382DB</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DD</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9076</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10258</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7034</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

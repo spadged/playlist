@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-09-20T07:41:53Z</date>
+	<key>Application Version</key><string>10.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/</string>
+	<key>Library Persistent ID</key><string>D607696AFC4E0948</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4799</key>
+		<dict>
+			<key>Track ID</key><integer>4799</integer>
+			<key>Name</key><string>Rafting Starlit Everglades</string>
+			<key>Artist</key><string>Baths</string>
+			<key>Album Artist</key><string>Baths</string>
+			<key>Album</key><string>Cerulean</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9725712</integer>
+			<key>Total Time</key><integer>237662</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2010-09-01T15:49:29Z</date>
+			<key>Date Added</key><date>2012-03-21T08:43:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3428566475</integer>
+			<key>Play Date UTC</key><date>2012-08-23T10:34:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C4411FE5AA69EAF8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Baths/Cerulean/05%20Rafting%20Starlit%20Everglades.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5675</key>
+		<dict>
+			<key>Track ID</key><integer>5675</integer>
+			<key>Name</key><string>Feminine Eye</string>
+			<key>Artist</key><string>Bibio</string>
+			<key>Album</key><string>Mind Bokeh</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3542318</integer>
+			<key>Total Time</key><integer>110628</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-05-05T15:45:27Z</date>
+			<key>Date Added</key><date>2012-03-21T08:43:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3428499817</integer>
+			<key>Play Date UTC</key><date>2012-08-22T16:03:37Z</date>
+			<key>Normalization</key><integer>9239</integer>
+			<key>Persistent ID</key><string>061E07135542F435</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Bibio/Mind%20Bokeh/11%20Feminine%20Eye.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19435</key>
+		<dict>
+			<key>Track ID</key><integer>19435</integer>
+			<key>Name</key><string>Humming</string>
+			<key>Artist</key><string>Memory Tapes</string>
+			<key>Album</key><string>Player Piano</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5445468</integer>
+			<key>Total Time</key><integer>166920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-07-04T14:00:41Z</date>
+			<key>Date Added</key><date>2012-03-21T08:44:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3429102248</integer>
+			<key>Play Date UTC</key><date>2012-08-29T15:24:08Z</date>
+			<key>Normalization</key><integer>1856</integer>
+			<key>Persistent ID</key><string>8D25195FA53D2A8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Memory%20Tapes/Player%20Piano/06%20Humming.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32081</key>
+		<dict>
+			<key>Track ID</key><integer>32081</integer>
+			<key>Name</key><string>Seod</string>
+			<key>Artist</key><string>Kindness</string>
+			<key>Composer</key><string>Kindness</string>
+			<key>Album</key><string>World, You Need A Change Of Mind</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12500893</integer>
+			<key>Total Time</key><integer>390582</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-05-31T13:11:48Z</date>
+			<key>Date Added</key><date>2012-05-31T13:11:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3428573118</integer>
+			<key>Play Date UTC</key><date>2012-08-23T12:25:18Z</date>
+			<key>Normalization</key><integer>2127</integer>
+			<key>Persistent ID</key><string>626D8B99B84AA3D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Kindness/World,%20You%20Need%20A%20Change%20Of%20Mind/01%20Seod.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32697</key>
+		<dict>
+			<key>Track ID</key><integer>32697</integer>
+			<key>Name</key><string>Fingers Never Bleed</string>
+			<key>Artist</key><string>Yeasayer</string>
+			<key>Composer</key><string>Chris Keating</string>
+			<key>Album</key><string>Fragrant World</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8638116</integer>
+			<key>Total Time</key><integer>269871</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-08-28T08:53:01Z</date>
+			<key>Date Added</key><date>2012-08-28T08:52:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3429106922</integer>
+			<key>Play Date UTC</key><date>2012-08-29T16:42:02Z</date>
+			<key>Normalization</key><integer>3452</integer>
+			<key>Persistent ID</key><string>E9BA37B0B96858BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Yeasayer/Fragrant%20World/01%20Fingers%20Never%20Bleed.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>08 August</string>
+			<key>Playlist ID</key><integer>62862</integer>
+			<key>Playlist Persistent ID</key><string>C2DF25ADFEB90765</string>
+			<key>Parent Persistent ID</key><string>3D9DD568D7300D5C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>32081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4799</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32697</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

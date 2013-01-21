@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-04-26T11:07:52Z</date>
+	<key>Application Version</key><string>10.6.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/</string>
+	<key>Library Persistent ID</key><string>D607696AFC4E0948</string>
+	<key>Tracks</key>
+	<dict>
+		<key>10110</key>
+		<dict>
+			<key>Track ID</key><integer>10110</integer>
+			<key>Name</key><string>Medium Blue</string>
+			<key>Artist</key><string>Christopher Willits</string>
+			<key>Album</key><string>Surf Boundaries</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4774914</integer>
+			<key>Total Time</key><integer>298292</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-29T16:07:24Z</date>
+			<key>Date Added</key><date>2012-03-21T08:43:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3417868011</integer>
+			<key>Play Date UTC</key><date>2012-04-21T14:46:51Z</date>
+			<key>Normalization</key><integer>5596</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F02CB8E48092FF47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Compilations/Surf%20Boundaries/03%20Medium%20Blue.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12596</key>
+		<dict>
+			<key>Track ID</key><integer>12596</integer>
+			<key>Name</key><string>Distance</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Back Room</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5249020</integer>
+			<key>Total Time</key><integer>218618</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-03-01T12:40:12Z</date>
+			<key>Date Added</key><date>2012-03-21T08:43:49Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3417868696</integer>
+			<key>Play Date UTC</key><date>2012-04-21T14:58:16Z</date>
+			<key>Normalization</key><integer>3525</integer>
+			<key>Sort Album</key><string>Back Room</string>
+			<key>Persistent ID</key><string>26EDFF5EEE0E21BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Editors/The%20Back%20Room/11%20Distance.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>21308</key>
+		<dict>
+			<key>Track ID</key><integer>21308</integer>
+			<key>Name</key><string>Smile Upon Me</string>
+			<key>Artist</key><string>Passion Pit</string>
+			<key>Album</key><string>Chunk of Change [EP]</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11004032</integer>
+			<key>Total Time</key><integer>349857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Date Modified</key><date>2009-05-11T14:20:02Z</date>
+			<key>Date Added</key><date>2012-03-21T08:44:04Z</date>
+			<key>Bit Rate</key><integer>251</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> </string>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3417872322</integer>
+			<key>Play Date UTC</key><date>2012-04-21T15:58:42Z</date>
+			<key>Normalization</key><integer>4915</integer>
+			<key>Persistent ID</key><string>730B1F00C7244678</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Passion%20Pit/Chunk%20of%20Change%20%5BEP%5D/02%20Smile%20Upon%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>21360</key>
+		<dict>
+			<key>Track ID</key><integer>21360</integer>
+			<key>Name</key><string>I Know What I Know</string>
+			<key>Artist</key><string>Paul Simon</string>
+			<key>Composer</key><string>General M. D. Shirinda/Paul Simon</string>
+			<key>Album</key><string>Graceland</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4649934</integer>
+			<key>Total Time</key><integer>193280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2005-10-03T09:15:20Z</date>
+			<key>Date Added</key><date>2012-03-21T08:44:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3417871768</integer>
+			<key>Play Date UTC</key><date>2012-04-21T15:49:28Z</date>
+			<key>Normalization</key><integer>1155</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>626E58DE257438D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Paul%20Simon/Graceland/03%20I%20Know%20What%20I%20Know.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>21496</key>
+		<dict>
+			<key>Track ID</key><integer>21496</integer>
+			<key>Name</key><string>Ancient Curse</string>
+			<key>Artist</key><string>Peter Bjorn And John</string>
+			<key>Album</key><string>Young Folks </string>
+			<key>Genre</key><string>131</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4181957</integer>
+			<key>Total Time</key><integer>201012</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-02-01T08:49:30Z</date>
+			<key>Date Added</key><date>2012-03-21T08:44:04Z</date>
+			<key>Bit Rate</key><integer>166</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>.::StormTroopers::..</string>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3417871241</integer>
+			<key>Play Date UTC</key><date>2012-04-21T15:40:41Z</date>
+			<key>Persistent ID</key><string>C904F8AFD6C2171A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Peter%20Bjorn%20and%20John/Young%20Folks/Ancient%20Curse.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March</string>
+			<key>Playlist ID</key><integer>60642</integer>
+			<key>Playlist Persistent ID</key><string>79D3F68CFCF78B44</string>
+			<key>Parent Persistent ID</key><string>3D9DD568D7300D5C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12596</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21308</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

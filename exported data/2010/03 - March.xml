@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>9.0.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/</string>
+	<key>Library Persistent ID</key><string>EB19DAD055647C03</string>
+	<key>Tracks</key>
+	<dict>
+		<key>37323</key>
+		<dict>
+			<key>Track ID</key><integer>37323</integer>
+			<key>Name</key><string>Hollywood</string>
+			<key>Artist</key><string>Marina and the Diamonds</string>
+			<key>Album</key><string>The Family Jewels</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5531648</integer>
+			<key>Total Time</key><integer>230426</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-02-24T14:47:51Z</date>
+			<key>Date Added</key><date>2010-02-24T13:51:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped by</string>
+			<key>Sort Album</key><string>Family Jewels</string>
+			<key>Persistent ID</key><string>B6DAB50CD987AFD1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Marina%20and%20the%20Diamonds/The%20Family%20Jewels/07%20Hollywood.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37361</key>
+		<dict>
+			<key>Track ID</key><integer>37361</integer>
+			<key>Name</key><string>Parisian Goldfish</string>
+			<key>Artist</key><string>Flying Lotus</string>
+			<key>Album</key><string>Los Angeles</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4790353</integer>
+			<key>Total Time</key><integer>181106</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-02-26T09:06:35Z</date>
+			<key>Date Added</key><date>2010-02-26T10:52:53Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Encoded with LAME v3.97 (--alt-preset standard)</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-03-09T08:16:28Z</date>
+			<key>Persistent ID</key><string>B48511AD081753AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Flying%20Lotus/Los%20Angeles/11%20Parisian%20Goldfish%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37587</key>
+		<dict>
+			<key>Track ID</key><integer>37587</integer>
+			<key>Name</key><string>Ambling Alp</string>
+			<key>Artist</key><string>Yeasayer</string>
+			<key>Album</key><string>Odd Blood</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9853508</integer>
+			<key>Total Time</key><integer>237479</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-03-04T11:16:46Z</date>
+			<key>Date Added</key><date>2010-03-04T10:26:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6A2208F4685C83F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Yeasayer/Odd%20Blood/02%20Ambling%20Alp.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37635</key>
+		<dict>
+			<key>Track ID</key><integer>37635</integer>
+			<key>Name</key><string>Meet Me Halfway</string>
+			<key>Artist</key><string>Black Eyed Peas</string>
+			<key>Album</key><string>The E.N.D.[Deluxe] [CD1]</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11385251</integer>
+			<key>Total Time</key><integer>284525</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-03-08T12:29:48Z</date>
+			<key>Date Added</key><date>2010-03-08T12:47:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>E.N.D.[Deluxe] [CD1]</string>
+			<key>Persistent ID</key><string>B5BBAFA9D49D8BB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Black%20Eyed%20Peas/The%20E.N.D.%5BDeluxe%5D%20%5BCD1%5D/03%20Meet%20Me%20Halfway.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37883</key>
+		<dict>
+			<key>Track ID</key><integer>37883</integer>
+			<key>Name</key><string>I Think I Like U 2</string>
+			<key>Artist</key><string>Jamaica</string>
+			<key>Album Artist</key><string>Jamaica</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5534104</integer>
+			<key>Total Time</key><integer>178494</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-03-23T09:58:57Z</date>
+			<key>Date Added</key><date>2010-03-26T10:32:55Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FFDC62EFFFE1A814</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Jamaica/Unknown%20Album/01%20I%20Think%20I%20Like%20U%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March2010</string>
+			<key>Playlist ID</key><integer>74986</integer>
+			<key>Playlist Persistent ID</key><string>CC6405908B88912E</string>
+			<key>Parent Persistent ID</key><string>518CC79444260D8B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>37323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37883</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

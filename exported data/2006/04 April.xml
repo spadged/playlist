@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6166</key>
+		<dict>
+			<key>Track ID</key><integer>6166</integer>
+			<key>Name</key><string>Where To Begin</string>
+			<key>Artist</key><string>My Morning Jacket</string>
+			<key>Composer</key><string>Jim James</string>
+			<key>Album</key><string>Elizabethtown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4846796</integer>
+			<key>Total Time</key><integer>238863</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-04-12T18:04:48Z</date>
+			<key>Date Added</key><date>2006-11-30T17:48:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307995330</integer>
+			<key>Play Date UTC</key><date>2008-10-27T22:35:30Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01BC89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Elizabethtown/1-06%20Where%20To%20Begin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6172</key>
+		<dict>
+			<key>Track ID</key><integer>6172</integer>
+			<key>Name</key><string>Don't I Hold You Right</string>
+			<key>Artist</key><string>Wheat</string>
+			<key>Album</key><string>Elizabethtown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4453977</integer>
+			<key>Total Time</key><integer>219271</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-04-12T18:04:50Z</date>
+			<key>Date Added</key><date>2006-11-30T17:48:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3307983136</integer>
+			<key>Play Date UTC</key><date>2008-10-27T19:12:16Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01BC92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Elizabethtown/1-09%20Don't%20I%20Hold%20You%20Right.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10992</key>
+		<dict>
+			<key>Track ID</key><integer>10992</integer>
+			<key>Name</key><string>(She's In) Dry Dock Now</string>
+			<key>Artist</key><string>Minotaur Shock</string>
+			<key>Album</key><string>Maritime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5674727</integer>
+			<key>Total Time</key><integer>236355</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-04-12T09:23:20Z</date>
+			<key>Date Added</key><date>2006-11-30T17:52:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307992318</integer>
+			<key>Play Date UTC</key><date>2008-10-27T21:45:18Z</date>
+			<key>Normalization</key><integer>1350</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D429</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Minotaur%20Shock/Maritime/02%20(She's%20In)%20Dry%20Dock%20Now.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16462</key>
+		<dict>
+			<key>Track ID</key><integer>16462</integer>
+			<key>Name</key><string>...Passing By</string>
+			<key>Artist</key><string>Ulrich Schnauss</string>
+			<key>Album</key><string>Elizabethtown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9568147</integer>
+			<key>Total Time</key><integer>395311</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Date Modified</key><date>2006-04-12T18:04:24Z</date>
+			<key>Date Added</key><date>2006-11-30T18:05:41Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307990671</integer>
+			<key>Play Date UTC</key><date>2008-10-27T21:17:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01EBB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Ulrich%20Schnauss/Elizabethtown/2-08%20...Passing%20By.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16886</key>
+		<dict>
+			<key>Track ID</key><integer>16886</integer>
+			<key>Name</key><string>Deja Vu</string>
+			<key>Artist</key><string>Yeah Yeah Yeahs</string>
+			<key>Composer</key><string>Yeah Yeah Yeahs</string>
+			<key>Album</key><string>Show Your Bones</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4863511</integer>
+			<key>Total Time</key><integer>202553</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2006-03-27T14:22:04Z</date>
+			<key>Date Added</key><date>2006-11-30T18:06:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3316642016</integer>
+			<key>Play Date UTC</key><date>2009-02-05T00:26:56Z</date>
+			<key>Normalization</key><integer>5598</integer>
+			<key>Persistent ID</key><string>C77DA932BD01ED93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Yeah%20Yeah%20Yeahs/Show%20Your%20Bones/12%20Deja%20Vu.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>04 April</string>
+			<key>Playlist ID</key><integer>68152</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A87</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E0</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16886</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6166</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10992</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

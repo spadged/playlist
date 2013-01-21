@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>9.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>0CB08677A2F85983</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16533</key>
+		<dict>
+			<key>Track ID</key><integer>16533</integer>
+			<key>Name</key><string>On Melancholy Hill</string>
+			<key>Artist</key><string>Gorillaz</string>
+			<key>Album</key><string>Plastic Beach</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5049777</integer>
+			<key>Total Time</key><integer>227683</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-03-03T11:34:51Z</date>
+			<key>Date Added</key><date>2010-06-29T09:57:41Z</date>
+			<key>Bit Rate</key><integer>174</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3365515661</integer>
+			<key>Play Date UTC</key><date>2010-08-24T16:27:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3057A5246CAC7D0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Gorillaz/Plastic%20Beach/10%20On%20Melancholy%20Hill.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>20199</key>
+		<dict>
+			<key>Track ID</key><integer>20199</integer>
+			<key>Name</key><string>Knocked Up</string>
+			<key>Artist</key><string>Kings Of Leon</string>
+			<key>Album</key><string>Because Of The Times</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10279040</integer>
+			<key>Total Time</key><integer>430393</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-04-30T16:27:24Z</date>
+			<key>Date Added</key><date>2010-06-29T09:58:19Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3365513863</integer>
+			<key>Play Date UTC</key><date>2010-08-24T15:57:43Z</date>
+			<key>Persistent ID</key><string>93B178ECED982D2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Kings%20Of%20Leon/Because%20Of%20The%20Times/01%20Knocked%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37057</key>
+		<dict>
+			<key>Track ID</key><integer>37057</integer>
+			<key>Name</key><string>The Ballad of Moose Bruce</string>
+			<key>Artist</key><string>Born Ruffians</string>
+			<key>Album Artist</key><string>Born Ruffians</string>
+			<key>Album</key><string>Say It</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8582116</integer>
+			<key>Total Time</key><integer>233647</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-06-19T07:05:36Z</date>
+			<key>Date Added</key><date>2010-06-29T10:02:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3365510499</integer>
+			<key>Play Date UTC</key><date>2010-08-24T15:01:39Z</date>
+			<key>Release Date</key><date>2010-05-31T07:00:00Z</date>
+			<key>Normalization</key><integer>1985</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Ballad of Moose Bruce</string>
+			<key>Persistent ID</key><string>BA0C8D0903CD43CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/Born%20Ruffians/Say%20It/05%20The%20Ballad%20of%20Moose%20Bruce.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37097</key>
+		<dict>
+			<key>Track ID</key><integer>37097</integer>
+			<key>Name</key><string>Asha</string>
+			<key>Artist</key><string>Pantha du Prince</string>
+			<key>Album</key><string>This Bliss</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10703500</integer>
+			<key>Total Time</key><integer>391157</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-01-16T16:43:02Z</date>
+			<key>Date Added</key><date>2010-07-09T10:17:28Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>a deephouse release</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3365682458</integer>
+			<key>Play Date UTC</key><date>2010-08-26T14:47:38Z</date>
+			<key>Persistent ID</key><string>3D25B8FC26F1ADD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Pantha%20du%20Prince/This%20Bliss/01%20Asha.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37119</key>
+		<dict>
+			<key>Track ID</key><integer>37119</integer>
+			<key>Name</key><string>Ready To Start</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Composer</key><string>Regine Chassagne/Richard Reed Parry/Timothy Kingsbury/William Butler/Win Butler</string>
+			<key>Album</key><string>The Suburbs</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8192625</integer>
+			<key>Total Time</key><integer>255947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-08-04T10:54:44Z</date>
+			<key>Date Added</key><date>2010-08-04T10:54:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3365576171</integer>
+			<key>Play Date UTC</key><date>2010-08-25T09:16:11Z</date>
+			<key>Normalization</key><integer>7162</integer>
+			<key>Sort Album</key><string>Suburbs</string>
+			<key>Persistent ID</key><string>192AC23EE0FDE9B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Arcade%20Fire/The%20Suburbs/02%20Ready%20To%20Start.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>07 July</string>
+			<key>Playlist ID</key><integer>55316</integer>
+			<key>Playlist Persistent ID</key><string>8ACA4B87DAF3B34C</string>
+			<key>Parent Persistent ID</key><string>92FFF3AD1EF6377D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37119</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

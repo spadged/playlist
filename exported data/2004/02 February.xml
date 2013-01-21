@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>9014</key>
+		<dict>
+			<key>Track ID</key><integer>9014</integer>
+			<key>Name</key><string>Moodswing Whiskey</string>
+			<key>Artist</key><string>Jeff Buckley</string>
+			<key>Composer</key><string>J. Buckley/M. Tighe</string>
+			<key>Album</key><string>Mystery White Boy </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6827743</integer>
+			<key>Total Time</key><integer>336927</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2005-10-03T10:08:12Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:56Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1347</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CBA1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Jeff%20Buckley/Mystery%20White%20Boy/1-09%20Moodswing%20Whiskey.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9022</key>
+		<dict>
+			<key>Track ID</key><integer>9022</integer>
+			<key>Name</key><string>That's All I Ask (live)</string>
+			<key>Artist</key><string>Jeff Buckley</string>
+			<key>Composer</key><string>H. Ott</string>
+			<key>Album</key><string>Mystery White Boy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6604125</integer>
+			<key>Total Time</key><integer>325746</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2005-10-03T09:08:08Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:58Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2480</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CBAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Jeff%20Buckley/Mystery%20White%20Boy/2-01%20That's%20All%20I%20Ask%20(live).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10014</key>
+		<dict>
+			<key>Track ID</key><integer>10014</integer>
+			<key>Name</key><string>South bound on Avalon</string>
+			<key>Artist</key><string>Kidd</string>
+			<key>Album</key><string>Then it was a bad, bad night</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9104386</integer>
+			<key>Total Time</key><integer>445962</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:16Z</date>
+			<key>Date Added</key><date>2006-11-30T17:51:45Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1504</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D011</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Kidd/Then%20it%20was%20a%20bad,%20bad%20night/05%20South%20bound%20on%20Avalon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13716</key>
+		<dict>
+			<key>Track ID</key><integer>13716</integer>
+			<key>Name</key><string>Ágaetis Byrjun</string>
+			<key>Artist</key><string>Sigur Rós</string>
+			<key>Album</key><string>Ágætis Byrjun</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5741308</integer>
+			<key>Total Time</key><integer>475872</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:22Z</date>
+			<key>Date Added</key><date>2006-11-30T18:03:47Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288726550</integer>
+			<key>Play Date UTC</key><date>2008-03-18T22:09:10Z</date>
+			<key>Normalization</key><integer>1544</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01E027</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Sigur%20R%C3%B3s/%C3%81g%C3%A6tis%20Byrjun/09%20%C3%81gaetis%20Byrjun.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15630</key>
+		<dict>
+			<key>Track ID</key><integer>15630</integer>
+			<key>Name</key><string>Please please please let me get what I want</string>
+			<key>Artist</key><string>The Smiths</string>
+			<key>Album</key><string>Louder than Bombs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2306041</integer>
+			<key>Total Time</key><integer>114207</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:24Z</date>
+			<key>Date Added</key><date>2006-11-30T18:04:51Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1062</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Smiths</string>
+			<key>Persistent ID</key><string>C77DA932BD01E826</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Smiths/Louder%20than%20Bombs/21%20Please%20please%20please%20let%20me%20get%20w.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>02 February</string>
+			<key>Playlist ID</key><integer>67778</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A6D</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13716</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9014</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

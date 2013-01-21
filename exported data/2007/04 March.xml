@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>26302</key>
+		<dict>
+			<key>Track ID</key><integer>26302</integer>
+			<key>Name</key><string>On Call</string>
+			<key>Artist</key><string>Kings Of Leon</string>
+			<key>Album</key><string>Because Of The Times</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5331072</integer>
+			<key>Total Time</key><integer>201848</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-04-30T16:27:24Z</date>
+			<key>Date Added</key><date>2008-01-17T20:30:51Z</date>
+			<key>Bit Rate</key><integer>211</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3306945926</integer>
+			<key>Play Date UTC</key><date>2008-10-15T19:05:26Z</date>
+			<key>Persistent ID</key><string>42A05833CEC07202</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Kings%20Of%20Leon/Because%20Of%20The%20Times/03%20On%20Call.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27802</key>
+		<dict>
+			<key>Track ID</key><integer>27802</integer>
+			<key>Name</key><string>I Can't Stop This Feeling I've</string>
+			<key>Artist</key><string>Razorlight</string>
+			<key>Album</key><string>Razorlight</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4948784</integer>
+			<key>Total Time</key><integer>206184</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-03-06T16:38:36Z</date>
+			<key>Date Added</key><date>2008-01-17T21:15:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304174890</integer>
+			<key>Play Date UTC</key><date>2008-09-13T17:21:30Z</date>
+			<key>Persistent ID</key><string>42A05833CEC075C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Razorlight/Razorlight/06%20I%20Can't%20Stop%20This%20Feeling%20I've.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27854</key>
+		<dict>
+			<key>Track ID</key><integer>27854</integer>
+			<key>Name</key><string>Strip My Mind</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Flea, John Frusciante, Chad Smith/red hot chili peppers</string>
+			<key>Album</key><string>Stadium Arcadium: Jupiter (Disc 1)</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6229719</integer>
+			<key>Total Time</key><integer>259474</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-01-11T09:19:38Z</date>
+			<key>Date Added</key><date>2008-01-17T21:15:41Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5941</integer>
+			<key>Persistent ID</key><string>42A05833CEC075E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Red%20Hot%20Chili%20Peppers/Stadium%20Arcadium_%20Jupiter%20(Disc%201)/1-09%20Strip%20My%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28176</key>
+		<dict>
+			<key>Track ID</key><integer>28176</integer>
+			<key>Name</key><string>Open Your Eyes</string>
+			<key>Artist</key><string>Snow Patrol</string>
+			<key>Album</key><string>Eyes Open</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8833882</integer>
+			<key>Total Time</key><integer>341315</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-03-13T16:19:15Z</date>
+			<key>Date Added</key><date>2008-01-17T21:19:33Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304179176</integer>
+			<key>Play Date UTC</key><date>2008-09-13T18:32:56Z</date>
+			<key>Persistent ID</key><string>42A05833CEC076AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Snow%20Patrol/Eyes%20Open/10%20Open%20Your%20Eyes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30216</key>
+		<dict>
+			<key>Track ID</key><integer>30216</integer>
+			<key>Name</key><string>Ambulance</string>
+			<key>Artist</key><string>TV On The Radio</string>
+			<key>Composer</key><string>TV On The Radio</string>
+			<key>Album</key><string>Desperate Youth, Blood Thirsty Babes</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11796034</integer>
+			<key>Total Time</key><integer>294844</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-19T00:04:38Z</date>
+			<key>Date Added</key><date>2008-03-18T23:04:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3328546503</integer>
+			<key>Play Date UTC</key><date>2009-06-22T19:15:03Z</date>
+			<key>Normalization</key><integer>1156</integer>
+			<key>Persistent ID</key><string>D5319BBBE6152D81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/TV%20On%20The%20Radio/Desperate%20Youth,%20Blood%20Thirsty%20Babes/05%20Ambulance.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March</string>
+			<key>Playlist ID</key><integer>68323</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A9D</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>27802</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27854</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30216</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

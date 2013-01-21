@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>17706</key>
+		<dict>
+			<key>Track ID</key><integer>17706</integer>
+			<key>Name</key><string>Your Heart On Your Sleeve</string>
+			<key>Artist</key><string>Colleen</string>
+			<key>Album</key><string>Everyone Alive Wants Answers</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4272231</integer>
+			<key>Total Time</key><integer>166635</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2006-11-27T15:32:26Z</date>
+			<key>Date Added</key><date>2006-12-06T18:26:59Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000642 000006B5 00001164 00000F1A 00002123 00002123 00005DCD 00005BC8 00015CBC 00013532</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3307900857</integer>
+			<key>Play Date UTC</key><date>2008-10-26T20:20:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2009-02-04T20:40:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C4B031859F2DB8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Colleen/Everyone%20Alive%20Wants%20Answers/04%20Your%20Heart%20On%20Your%20Sleeve.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30470</key>
+		<dict>
+			<key>Track ID</key><integer>30470</integer>
+			<key>Name</key><string>In Dreams</string>
+			<key>Artist</key><string>Roy Orbison</string>
+			<key>Album</key><string>Blue Velvet</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6779424</integer>
+			<key>Total Time</key><integer>169430</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2008-08-17T12:52:23Z</date>
+			<key>Date Added</key><date>2008-08-17T12:52:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3316631878</integer>
+			<key>Play Date UTC</key><date>2009-02-04T21:37:58Z</date>
+			<key>Normalization</key><integer>868</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>4C8524C9B22F0AD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Blue%20Velvet/12%20In%20Dreams.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30516</key>
+		<dict>
+			<key>Track ID</key><integer>30516</integer>
+			<key>Name</key><string>Love</string>
+			<key>Artist</key><string>Simian Mobile Disco</string>
+			<key>Composer</key><string>James Ellis Ford, James Anthony Shaw</string>
+			<key>Album</key><string>Attack Decay Sustain Release</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5843681</integer>
+			<key>Total Time</key><integer>182543</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-08-17T09:39:02Z</date>
+			<key>Date Added</key><date>2008-08-28T22:37:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3316630086</integer>
+			<key>Play Date UTC</key><date>2009-02-04T21:08:06Z</date>
+			<key>Normalization</key><integer>5261</integer>
+			<key>Persistent ID</key><string>E2525668CD6D18A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Simian%20Mobile%20Disco/Attack%20Decay%20Sustain%20Release/09%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30966</key>
+		<dict>
+			<key>Track ID</key><integer>30966</integer>
+			<key>Name</key><string>Bruises</string>
+			<key>Artist</key><string>Chairlift</string>
+			<key>Album Artist</key><string>Chairlift</string>
+			<key>Album</key><string>Does You Inspire You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8189449</integer>
+			<key>Total Time</key><integer>241573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2008-09-25T07:48:11Z</date>
+			<key>Date Added</key><date>2008-09-25T07:47:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3316637375</integer>
+			<key>Play Date UTC</key><date>2009-02-04T23:09:35Z</date>
+			<key>Normalization</key><integer>3155</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>617F8236820AE3F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/itunes/Chairlift/Does%20You%20Inspire%20You/04%20Bruises.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30968</key>
+		<dict>
+			<key>Track ID</key><integer>30968</integer>
+			<key>Name</key><string>I Kissed A Girl</string>
+			<key>Artist</key><string>Katy Perry</string>
+			<key>Album</key><string>One Of The Boys</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7212100</integer>
+			<key>Total Time</key><integer>180244</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-28T09:38:33Z</date>
+			<key>Date Added</key><date>2008-09-25T07:53:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3316632058</integer>
+			<key>Play Date UTC</key><date>2009-02-04T21:40:58Z</date>
+			<key>Persistent ID</key><string>617F8236820AE3FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Katy%20Perry/One%20Of%20The%20Boys/02%20I%20Kissed%20A%20Girl.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>09 September</string>
+			<key>Playlist ID</key><integer>68549</integer>
+			<key>Playlist Persistent ID</key><string>579C2A2B4B633692</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30470</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30968</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

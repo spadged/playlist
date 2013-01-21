@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>23986</key>
+		<dict>
+			<key>Track ID</key><integer>23986</integer>
+			<key>Name</key><string>Perverted Undertone</string>
+			<key>Artist</key><string>Prefuse 73</string>
+			<key>Album Artist</key><string>Prefuse 73</string>
+			<key>Album</key><string>One Word Extinguisher</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5535402</integer>
+			<key>Total Time</key><integer>198086</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-01-13T21:40:54Z</date>
+			<key>Date Added</key><date>2008-01-10T22:11:54Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3316623436</integer>
+			<key>Play Date UTC</key><date>2009-02-04T19:17:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2009-02-23T23:32:19Z</date>
+			<key>Normalization</key><integer>2876</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BE7F963CF3F0771</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Prefuse%2073/One%20Word%20Extinguisher/16%20Perverted%20Undertone.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26412</key>
+		<dict>
+			<key>Track ID</key><integer>26412</integer>
+			<key>Name</key><string>Losing My Edge</string>
+			<key>Artist</key><string>LCD Soundsystem</string>
+			<key>Album</key><string>LCD Soundsystem</string>
+			<key>Genre</key><string>Indie Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11653642</integer>
+			<key>Total Time</key><integer>473129</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2007-08-10T08:47:24Z</date>
+			<key>Date Added</key><date>2008-01-17T20:33:00Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3316630559</integer>
+			<key>Play Date UTC</key><date>2009-02-04T21:15:59Z</date>
+			<key>Persistent ID</key><string>42A05833CEC0724D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/LCD%20Soundsystem/LCD%20Soundsystem/2-01%20Losing%20My%20Edge.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30946</key>
+		<dict>
+			<key>Track ID</key><integer>30946</integer>
+			<key>Name</key><string>Stork And Owl</string>
+			<key>Artist</key><string>TV On The Radio</string>
+			<key>Album Artist</key><string>TV On The Radio</string>
+			<key>Album</key><string>Dear Science</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6112854</integer>
+			<key>Total Time</key><integer>241841</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-21T13:37:45Z</date>
+			<key>Date Added</key><date>2008-09-21T13:35:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3330027967</integer>
+			<key>Play Date UTC</key><date>2009-07-09T22:46:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC14DE780E304763</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/TV%20On%20The%20Radio/Dear%20Science/04%20Stork%20And%20Owl.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31378</key>
+		<dict>
+			<key>Track ID</key><integer>31378</integer>
+			<key>Name</key><string>metamorphosis one</string>
+			<key>Artist</key><string>Philip Glass</string>
+			<key>Album Artist</key><string>Philip Glass</string>
+			<key>Album</key><string>Oeuvres Majeures</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5089192</integer>
+			<key>Total Time</key><integer>341655</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2008-10-11T16:47:20Z</date>
+			<key>Date Added</key><date>2008-10-11T16:29:18Z</date>
+			<key>Bit Rate</key><integer>119</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amiran, AG# 4F1B6C84</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3323433205</integer>
+			<key>Play Date UTC</key><date>2009-04-24T14:53:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2009-02-27T12:42:00Z</date>
+			<key>Persistent ID</key><string>9FF8C515999F6D23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Philip%20Glass/Oeuvres%20Majeures/metamorphosis%20one.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32284</key>
+		<dict>
+			<key>Track ID</key><integer>32284</integer>
+			<key>Name</key><string>Strawberry Wine</string>
+			<key>Artist</key><string>Ryan Adams</string>
+			<key>Composer</key><string>Ryan Adams</string>
+			<key>Album</key><string>29</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19149973</integer>
+			<key>Total Time</key><integer>478693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-11-16T15:35:32Z</date>
+			<key>Date Added</key><date>2008-11-16T14:35:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3320172808</integer>
+			<key>Play Date UTC</key><date>2009-03-17T21:13:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2009-02-27T13:33:56Z</date>
+			<key>Normalization</key><integer>1295</integer>
+			<key>Persistent ID</key><string>EE741059B28B9A54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Ryan%20Adams/29/02%20Strawberry%20Wine.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>10 October</string>
+			<key>Playlist ID</key><integer>68557</integer>
+			<key>Playlist Persistent ID</key><string>6D59FFD0F4CF1434</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>32284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30946</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31378</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

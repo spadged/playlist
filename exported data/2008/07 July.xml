@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>30604</key>
+		<dict>
+			<key>Track ID</key><integer>30604</integer>
+			<key>Name</key><string>Let's Just See</string>
+			<key>Artist</key><string>Engineers</string>
+			<key>Album</key><string>Engineers</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4178433</integer>
+			<key>Total Time</key><integer>261015</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-06-27T23:17:46Z</date>
+			<key>Date Added</key><date>2008-09-03T20:27:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3316630820</integer>
+			<key>Play Date UTC</key><date>2009-02-04T21:20:20Z</date>
+			<key>Normalization</key><integer>5749</integer>
+			<key>Persistent ID</key><string>327DD48334594A35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Engineers/Engineers/05%20Let's%20Just%20See.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30634</key>
+		<dict>
+			<key>Track ID</key><integer>30634</integer>
+			<key>Name</key><string>Worry Wort</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album Artist</key><string>Radiohead</string>
+			<key>Composer</key><string>Colin Greenwood/Ed O'Brien/Jonny Greenwood/Phil Selway/Thom Yorke</string>
+			<key>Album</key><string>Knives Out, Pt. 3</string>
+			<key>Genre</key><string>Limewire</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4429952</integer>
+			<key>Total Time</key><integer>276819</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-03-25T17:49:46Z</date>
+			<key>Date Added</key><date>2008-09-03T20:27:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3320358138</integer>
+			<key>Play Date UTC</key><date>2009-03-20T00:42:18Z</date>
+			<key>Persistent ID</key><string>327DD48334594A48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Radiohead/Knives%20Out,%20Pt.%203/02%20Worry%20Wort.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30636</key>
+		<dict>
+			<key>Track ID</key><integer>30636</integer>
+			<key>Name</key><string>1,2,3, No Gravity</string>
+			<key>Artist</key><string>Closer Musik</string>
+			<key>Album</key><string>Kompakt</string>
+			<key>Genre</key><string>Techno</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6413250</integer>
+			<key>Total Time</key><integer>400692</integer>
+			<key>Date Modified</key><date>2008-06-09T16:37:48Z</date>
+			<key>Date Added</key><date>2008-09-03T20:27:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3316628410</integer>
+			<key>Play Date UTC</key><date>2009-02-04T20:40:10Z</date>
+			<key>Normalization</key><integer>1369</integer>
+			<key>Persistent ID</key><string>327DD48334594A49</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Closer%20Musik/Kompakt/1,2,3,%20No%20Gravity.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30654</key>
+		<dict>
+			<key>Track ID</key><integer>30654</integer>
+			<key>Name</key><string>Hospital Beds</string>
+			<key>Artist</key><string>Cold War Kids</string>
+			<key>Album Artist</key><string>Cold War Kids</string>
+			<key>Album</key><string>Robbers &#38; Cowards</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4472960</integer>
+			<key>Total Time</key><integer>279431</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-04-07T03:45:56Z</date>
+			<key>Date Added</key><date>2008-09-03T20:27:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3318965577</integer>
+			<key>Play Date UTC</key><date>2009-03-03T21:52:57Z</date>
+			<key>Persistent ID</key><string>327DD48334594A55</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Cold%20War%20Kids/Robbers%20&#38;%20Cowards/08%20Hospital%20Beds.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30678</key>
+		<dict>
+			<key>Track ID</key><integer>30678</integer>
+			<key>Name</key><string>Cavedweller (instrumental version)</string>
+			<key>Artist</key><string>The Reflecting Skin</string>
+			<key>Album</key><string>The Synchronicity Suite</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5634551</integer>
+			<key>Total Time</key><integer>299311</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-06-10T15:45:40Z</date>
+			<key>Date Added</key><date>2008-09-03T20:27:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>moodgadget.com | ghostly.com</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3316637134</integer>
+			<key>Play Date UTC</key><date>2009-02-04T23:05:34Z</date>
+			<key>Normalization</key><integer>5776</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Synchronicity Suite</string>
+			<key>Sort Artist</key><string>Reflecting Skin</string>
+			<key>Persistent ID</key><string>327DD48334594A6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/The%20Synchronicity%20Suite/06%20Cavedweller%20(instrumental%20version.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30686</key>
+		<dict>
+			<key>Track ID</key><integer>30686</integer>
+			<key>Name</key><string>Dubble</string>
+			<key>Artist</key><string>Funki Porcini</string>
+			<key>Album Artist</key><string>Funki Porcini</string>
+			<key>Genre</key><string>Acid</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6652032</integer>
+			<key>Total Time</key><integer>415634</integer>
+			<key>Date Modified</key><date>2008-07-16T19:39:52Z</date>
+			<key>Date Added</key><date>2008-09-03T20:27:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3316636386</integer>
+			<key>Play Date UTC</key><date>2009-02-04T22:53:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-10-11T10:44:00Z</date>
+			<key>Persistent ID</key><string>327DD48334594A70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Funki%20Porcini/Unknown%20Album/Dubble.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30698</key>
+		<dict>
+			<key>Track ID</key><integer>30698</integer>
+			<key>Name</key><string>Arcadia</string>
+			<key>Artist</key><string>Apparat</string>
+			<key>Album Artist</key><string>Apparat</string>
+			<key>Album</key><string>Walls</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4964480</integer>
+			<key>Total Time</key><integer>310204</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-29T12:51:14Z</date>
+			<key>Date Added</key><date>2008-09-03T20:27:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3316638950</integer>
+			<key>Play Date UTC</key><date>2009-02-04T23:35:50Z</date>
+			<key>Persistent ID</key><string>327DD48334594A7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Apparat/Walls/09%20Arcadia.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30736</key>
+		<dict>
+			<key>Track ID</key><integer>30736</integer>
+			<key>Name</key><string>Gamma Ray</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Album</key><string>Modern Guilt</string>
+			<key>Genre</key><string>20</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7081525</integer>
+			<key>Total Time</key><integer>176979</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-07-12T18:50:02Z</date>
+			<key>Date Added</key><date>2008-09-15T19:03:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3316635115</integer>
+			<key>Play Date UTC</key><date>2009-02-04T22:31:55Z</date>
+			<key>Persistent ID</key><string>0D9621220A1B5506</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Beck/Modern%20Guilt/02%20Gamma%20Ray.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30754</key>
+		<dict>
+			<key>Track ID</key><integer>30754</integer>
+			<key>Name</key><string>Night Court</string>
+			<key>Artist</key><string>Mux Mool</string>
+			<key>Album</key><string>Ghostly Swim</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6923960</integer>
+			<key>Total Time</key><integer>198060</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-18T09:02:00Z</date>
+			<key>Date Added</key><date>2008-09-15T19:03:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3323437380</integer>
+			<key>Play Date UTC</key><date>2009-04-24T16:03:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D9621220A1B550F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Mux%20Mool/Ghostly%20Swim/19%20Night%20Court.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32876</key>
+		<dict>
+			<key>Track ID</key><integer>32876</integer>
+			<key>Name</key><string>The Seed (2.0) Ft Cody Chesnutt</string>
+			<key>Artist</key><string>The Roots</string>
+			<key>Album Artist</key><string>The Roots</string>
+			<key>Album</key><string>Phrenology</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6444766</integer>
+			<key>Total Time</key><integer>268355</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2009-02-26T23:22:24Z</date>
+			<key>Date Added</key><date>2009-02-26T22:28:44Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3323444740</integer>
+			<key>Play Date UTC</key><date>2009-04-24T18:05:40Z</date>
+			<key>Sort Album Artist</key><string>Roots</string>
+			<key>Sort Artist</key><string>Roots</string>
+			<key>Sort Name</key><string>Seed (2.0) Ft Cody Chesnutt</string>
+			<key>Persistent ID</key><string>43A5922989F1C64A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Roots/Phrenology/08%20The%20Seed%20(2.0)%20Ft%20Cody%20Chesnutt.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>07 July</string>
+			<key>Playlist ID</key><integer>68528</integer>
+			<key>Playlist Persistent ID</key><string>327DD48334594AD1</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30654</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30634</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30698</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30678</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30636</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32876</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6798</key>
+		<dict>
+			<key>Track ID</key><integer>6798</integer>
+			<key>Name</key><string>Rebel Rebel</string>
+			<key>Artist</key><string>Seu Jorge</string>
+			<key>Composer</key><string>David Bowie</string>
+			<key>Album</key><string>The Life Aquatic With Steve Zissou</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2956889</integer>
+			<key>Total Time</key><integer>144248</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-03-24T12:45:12Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:19Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1289</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life Aquatic With Steve Zissou</string>
+			<key>Persistent ID</key><string>C77DA932BD01C0F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/The%20Life%20Aquatic%20With%20Steve%20Zissou/06%20Rebel%20Rebel.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6826</key>
+		<dict>
+			<key>Track ID</key><integer>6826</integer>
+			<key>Name</key><string>Queen Bitch</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Composer</key><string>David Bowie</string>
+			<key>Album</key><string>The Life Aquatic With Steve Zissou</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3986117</integer>
+			<key>Total Time</key><integer>195709</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-03-24T12:45:26Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:21Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3323443828</integer>
+			<key>Play Date UTC</key><date>2009-04-24T17:50:28Z</date>
+			<key>Normalization</key><integer>5627</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life Aquatic With Steve Zissou</string>
+			<key>Persistent ID</key><string>C77DA932BD01C11D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/The%20Life%20Aquatic%20With%20Steve%20Zissou/20%20Queen%20Bitch.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7614</key>
+		<dict>
+			<key>Track ID</key><integer>7614</integer>
+			<key>Name</key><string>Soul And Onward</string>
+			<key>Artist</key><string>Do Make Say Think</string>
+			<key>Album</key><string>&#38; Yet &#38; Yet</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6655616</integer>
+			<key>Total Time</key><integer>331441</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:44Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:57Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>burn</string>
+			<key>Normalization</key><integer>1593</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C570</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Do%20Make%20Say%20Think/&#38;%20Yet%20&#38;%20Yet/06%20Soul%20And%20Onward.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7692</key>
+		<dict>
+			<key>Track ID</key><integer>7692</integer>
+			<key>Name</key><string>Words (Echoboy Remix)</string>
+			<key>Artist</key><string>Doves</string>
+			<key>Composer</key><string>Jez Williams, Jimi Goodwin and Andy Williams</string>
+			<key>Album</key><string>Lost Sides</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8923592</integer>
+			<key>Total Time</key><integer>445361</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:14Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:59Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3305177000</integer>
+			<key>Play Date UTC</key><date>2008-09-25T07:43:20Z</date>
+			<key>Normalization</key><integer>9394</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C5C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Doves/Lost%20Sides/2-01%20Words%20(Echoboy%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11104</key>
+		<dict>
+			<key>Track ID</key><integer>11104</integer>
+			<key>Name</key><string>Moses? I Ain't</string>
+			<key>Artist</key><string>Mogwai</string>
+			<key>Composer</key><string>Mogwai</string>
+			<key>Album</key><string>Happy Songs For Happy People</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3637162</integer>
+			<key>Total Time</key><integer>181420</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:20Z</date>
+			<key>Date Added</key><date>2006-11-30T17:52:27Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1404</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D4A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Mogwai/Happy%20Songs%20For%20Happy%20People/02%20Moses_%20I%20Ain't.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>02 February</string>
+			<key>Playlist ID</key><integer>67947</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A79</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6826</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6798</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7692</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7614</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

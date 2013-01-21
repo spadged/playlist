@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7746</key>
+		<dict>
+			<key>Track ID</key><integer>7746</integer>
+			<key>Name</key><string>The Sulphur Man</string>
+			<key>Artist</key><string>Doves</string>
+			<key>Composer</key><string>Goodwin/Williams</string>
+			<key>Album</key><string>The Last Broadcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5572343</integer>
+			<key>Total Time</key><integer>277394</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:14Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:02Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3305126477</integer>
+			<key>Play Date UTC</key><date>2008-09-24T17:41:17Z</date>
+			<key>Normalization</key><integer>5368</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Last Broadcast</string>
+			<key>Sort Name</key><string>Sulphur Man</string>
+			<key>Persistent ID</key><string>C77DA932BD01C60F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Doves/The%20Last%20Broadcast/11%20The%20Sulphur%20Man.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8102</key>
+		<dict>
+			<key>Track ID</key><integer>8102</integer>
+			<key>Name</key><string>Waltz No. 1</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Xo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3086710</integer>
+			<key>Total Time</key><integer>180192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2005-10-03T09:16:04Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>complete</string>
+			<key>Normalization</key><integer>1798</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C785</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Elliott%20Smith/Xo/08%20Waltz%20No.%201.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8410</key>
+		<dict>
+			<key>Track ID</key><integer>8410</integer>
+			<key>Name</key><string>Hear Me out</string>
+			<key>Artist</key><string>Frou Frou</string>
+			<key>Composer</key><string>Lee Bennett, Brian Eno, Imogen Heap &#38; Guy Sigsworth</string>
+			<key>Album</key><string>Details</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5207212</integer>
+			<key>Total Time</key><integer>259369</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:46Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:32Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4099</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C906</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Frou%20Frou/Details/08%20Hear%20Me%20out.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12952</key>
+		<dict>
+			<key>Track ID</key><integer>12952</integer>
+			<key>Name</key><string>Big Ideas</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album</key><string>I Might be wrong. {special}</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3760314</integer>
+			<key>Total Time</key><integer>234135</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-10-03T09:08:06Z</date>
+			<key>Date Added</key><date>2006-11-30T17:54:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Burn?</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3323444472</integer>
+			<key>Play Date UTC</key><date>2009-04-24T18:01:12Z</date>
+			<key>Normalization</key><integer>792</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01DCAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Radiohead/I%20Might%20be%20wrong.%20%7Bspecial%7D/06%20Big%20Ideas.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16854</key>
+		<dict>
+			<key>Track ID</key><integer>16854</integer>
+			<key>Name</key><string>Maps</string>
+			<key>Artist</key><string>Yeah Yeah Yeahs</string>
+			<key>Composer</key><string>Yeah Yeah Yeahs</string>
+			<key>Album</key><string>Fever To Tell</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4629280</integer>
+			<key>Total Time</key><integer>219846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-09-20T13:55:36Z</date>
+			<key>Date Added</key><date>2006-11-30T18:06:01Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3267993318</integer>
+			<key>Play Date UTC</key><date>2007-07-22T22:55:18Z</date>
+			<key>Normalization</key><integer>8320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01ED71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Yeah%20Yeah%20Yeahs/Fever%20To%20Tell/09%20Maps.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>05 May</string>
+			<key>Playlist ID</key><integer>67802</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A70</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12952</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16854</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7746</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

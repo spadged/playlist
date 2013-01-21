@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>9.1.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/E:/</string>
+	<key>Library Persistent ID</key><string>0CB08677A2F85983</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8210</key>
+		<dict>
+			<key>Track ID</key><integer>8210</integer>
+			<key>Name</key><string>Lalibela</string>
+			<key>Artist</key><string>Caribou</string>
+			<key>Album</key><string>Swim</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3682016</integer>
+			<key>Total Time</key><integer>145893</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-17T10:55:13Z</date>
+			<key>Date Added</key><date>2010-05-24T13:22:38Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3358227435</integer>
+			<key>Play Date UTC</key><date>2010-06-01T07:57:15Z</date>
+			<key>Persistent ID</key><string>79D6C72FF59647E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Caribou/Swim/08%20Lalibela.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15256</key>
+		<dict>
+			<key>Track ID</key><integer>15256</integer>
+			<key>Name</key><string>Friends</string>
+			<key>Artist</key><string>Flight of the Conchords</string>
+			<key>Album</key><string>Season 2 Flight of the Conchords</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4372922</integer>
+			<key>Total Time</key><integer>133302</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-05-01T15:51:44Z</date>
+			<key>Date Added</key><date>2010-05-24T13:26:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3358228665</integer>
+			<key>Play Date UTC</key><date>2010-06-01T08:17:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F3B3B890F92535DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Flight%20Of%20The%20Conchords/Season%202%20Flight%20of%20the%20Conchords/06%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>20846</key>
+		<dict>
+			<key>Track ID</key><integer>20846</integer>
+			<key>Name</key><string>Home</string>
+			<key>Artist</key><string>LCD Soundsystem</string>
+			<key>Album Artist</key><string>LCD Soundsystem</string>
+			<key>Album</key><string>This Is Happening</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>20496415</integer>
+			<key>Total Time</key><integer>473290</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-04-12T18:27:12Z</date>
+			<key>Date Added</key><date>2010-05-24T13:30:25Z</date>
+			<key>Bit Rate</key><integer>315</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3358228434</integer>
+			<key>Play Date UTC</key><date>2010-06-01T08:13:54Z</date>
+			<key>Normalization</key><integer>2402</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>370192A8E199313A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/LCD%20Soundsystem/This%20Is%20Happening/09%20Home.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>31130</key>
+		<dict>
+			<key>Track ID</key><integer>31130</integer>
+			<key>Name</key><string>Tighten Up</string>
+			<key>Artist</key><string>The Black Keys</string>
+			<key>Album</key><string>Brothers</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6757277</integer>
+			<key>Total Time</key><integer>211095</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-05-17T12:53:24Z</date>
+			<key>Date Added</key><date>2010-05-24T13:36:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3358227646</integer>
+			<key>Play Date UTC</key><date>2010-06-01T08:00:46Z</date>
+			<key>Normalization</key><integer>5222</integer>
+			<key>Sort Artist</key><string>Black Keys</string>
+			<key>Persistent ID</key><string>C984C9B5EE3D9F63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/The%20Black%20Keys/Brothers/03%20Tighten%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37112</key>
+		<dict>
+			<key>Track ID</key><integer>37112</integer>
+			<key>Name</key><string>The Suburbs</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>The Suburbs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12768603</integer>
+			<key>Total Time</key><integer>315324</integer>
+			<key>Date Modified</key><date>2010-05-28T07:34:45Z</date>
+			<key>Date Added</key><date>2010-05-28T08:11:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3358227961</integer>
+			<key>Play Date UTC</key><date>2010-06-01T08:06:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Suburbs</string>
+			<key>Sort Name</key><string>Suburbs</string>
+			<key>Persistent ID</key><string>ADC4F82ACD47BF8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Arcade%20Fire/The%20Suburbs/The%20Suburbs.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>05 May </string>
+			<key>Playlist ID</key><integer>70553</integer>
+			<key>Playlist Persistent ID</key><string>F58264E7B12221EF</string>
+			<key>Parent Persistent ID</key><string>92FFF3AD1EF6377D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15256</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20846</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

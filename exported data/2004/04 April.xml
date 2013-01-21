@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6462</key>
+		<dict>
+			<key>Track ID</key><integer>6462</integer>
+			<key>Name</key><string>Too Young</string>
+			<key>Artist</key><string>Phoenix</string>
+			<key>Album</key><string>Lost in Translation</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5075470</integer>
+			<key>Total Time</key><integer>198739</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-04-30T11:52:20Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:02Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Burn?]</string>
+			<key>Normalization</key><integer>1564</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01BEDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Lost%20in%20Translation/07%20Too%20Young.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6480</key>
+		<dict>
+			<key>Track ID</key><integer>6480</integer>
+			<key>Name</key><string>More Than this</string>
+			<key>Artist</key><string>Bill Murray</string>
+			<key>Album</key><string>Lost in Translation</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2913802</integer>
+			<key>Total Time</key><integer>90435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2005-04-30T11:52:20Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Burn?]</string>
+			<key>Normalization</key><integer>584</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01BEFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Lost%20in%20Translation/16%20More%20Than%20this.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9906</key>
+		<dict>
+			<key>Track ID</key><integer>9906</integer>
+			<key>Name</key><string>Just Dropped In</string>
+			<key>Artist</key><string>Kenny Rogers</string>
+			<key>Album</key><string>The Big Lebowski</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3196525</integer>
+			<key>Total Time</key><integer>198556</integer>
+			<key>Date Modified</key><date>2004-08-12T12:08:26Z</date>
+			<key>Date Added</key><date>2006-11-30T17:51:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>796</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Lebowski</string>
+			<key>Persistent ID</key><string>C77DA932BD01CF9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Kenny%20Rogers/The%20Big%20Lebowski/Just%20Dropped%20In.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12940</key>
+		<dict>
+			<key>Track ID</key><integer>12940</integer>
+			<key>Name</key><string>After the Gold rush</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Composer</key><string>Neil young</string>
+			<key>Album</key><string>I Might be wrong. {special}</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8931324</integer>
+			<key>Total Time</key><integer>222928</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Date Modified</key><date>2005-10-03T09:08:06Z</date>
+			<key>Date Added</key><date>2006-11-30T17:54:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Burn?</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288726074</integer>
+			<key>Play Date UTC</key><date>2008-03-18T22:01:14Z</date>
+			<key>Normalization</key><integer>591</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01DC9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Radiohead/I%20Might%20be%20wrong.%20%7Bspecial%7D/01%20After%20the%20Gold%20rush.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15746</key>
+		<dict>
+			<key>Track ID</key><integer>15746</integer>
+			<key>Name</key><string>Automatic Stop</string>
+			<key>Artist</key><string>The Strokes</string>
+			<key>Album</key><string>Room On Fire</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3466678</integer>
+			<key>Total Time</key><integer>208013</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-10-03T09:15:46Z</date>
+			<key>Date Added</key><date>2006-11-30T18:04:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>burn</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288727693</integer>
+			<key>Play Date UTC</key><date>2008-03-18T22:28:13Z</date>
+			<key>Normalization</key><integer>2048</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Strokes</string>
+			<key>Persistent ID</key><string>C77DA932BD01E8A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Strokes/Room%20On%20Fire/03%20Automatic%20Stop.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>04 April</string>
+			<key>Playlist ID</key><integer>67794</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A6F</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9906</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12940</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6480</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

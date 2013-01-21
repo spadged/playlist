@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11004</key>
+		<dict>
+			<key>Track ID</key><integer>11004</integer>
+			<key>Name</key><string>Luck Shield</string>
+			<key>Artist</key><string>Minotaur Shock</string>
+			<key>Album</key><string>Maritime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8220087</integer>
+			<key>Total Time</key><integer>342413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-04-12T09:24:58Z</date>
+			<key>Date Added</key><date>2006-11-30T17:52:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304177093</integer>
+			<key>Play Date UTC</key><date>2008-09-13T17:58:13Z</date>
+			<key>Normalization</key><integer>1446</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D435</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Minotaur%20Shock/Maritime/08%20Luck%20Shield.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>20530</key>
+		<dict>
+			<key>Track ID</key><integer>20530</integer>
+			<key>Name</key><string>Mr. Mistake (Bested by the Whisper Chasm)</string>
+			<key>Artist</key><string>Busdriver</string>
+			<key>Album</key><string>Roadkillovercoat</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6542353</integer>
+			<key>Total Time</key><integer>242599</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-02-09T09:54:52Z</date>
+			<key>Date Added</key><date>2007-02-10T21:15:04Z</date>
+			<key>Bit Rate</key><integer>215</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>OWEN420</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304177734</integer>
+			<key>Play Date UTC</key><date>2008-09-13T18:08:54Z</date>
+			<key>Persistent ID</key><string>77D9E74B435C428D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Busdriver/Roadkillovercoat/11%20Mr.%20Mistake%20(Bested%20by%20the%20Whispe.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24566</key>
+		<dict>
+			<key>Track ID</key><integer>24566</integer>
+			<key>Name</key><string>Beetlebum</string>
+			<key>Artist</key><string>Blur</string>
+			<key>Album</key><string>Blur</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7324758</integer>
+			<key>Total Time</key><integer>305188</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2007-05-22T13:14:26Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3307903194</integer>
+			<key>Play Date UTC</key><date>2008-10-26T20:59:54Z</date>
+			<key>Persistent ID</key><string>DD7EAFADDB55A7C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Blur/Blur/01%20Beetlebum.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24850</key>
+		<dict>
+			<key>Track ID</key><integer>24850</integer>
+			<key>Name</key><string>Climbing Up the Walls (Fila Brazillia Mix)</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album Artist</key><string>Fila Brazillia</string>
+			<key>Album</key><string>Brazilification {Remixes 95-99}</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7554390</integer>
+			<key>Total Time</key><integer>314671</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2007-05-08T13:52:16Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3323434186</integer>
+			<key>Play Date UTC</key><date>2009-04-24T15:09:46Z</date>
+			<key>Normalization</key><integer>1435</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DD7EAFADDB55A860</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Brazilification%20%7BRemixes%2095-99%7D/1-01%20Climbing%20Up%20the%20Walls%20(Fila%20Bra.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24880</key>
+		<dict>
+			<key>Track ID</key><integer>24880</integer>
+			<key>Name</key><string>Cotton wool</string>
+			<key>Artist</key><string>Lamb</string>
+			<key>Album Artist</key><string>Fila Brazillia</string>
+			<key>Composer</key><string>Lamb</string>
+			<key>Album</key><string>Brazilification {Remixes 95-99}</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11873970</integer>
+			<key>Total Time</key><integer>494654</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2007-05-08T13:52:16Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:17Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3307905530</integer>
+			<key>Play Date UTC</key><date>2008-10-26T21:38:50Z</date>
+			<key>Normalization</key><integer>2446</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DD7EAFADDB55A86F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Brazilification%20%7BRemixes%2095-99%7D/2-07%20Cotton%20wool.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>25030</key>
+		<dict>
+			<key>Track ID</key><integer>25030</integer>
+			<key>Name</key><string>Breathe</string>
+			<key>Artist</key><string>The Cinematic Orchestra Feat. Fontella Bass</string>
+			<key>Composer</key><string>J. Swinscoe</string>
+			<key>Album</key><string>Ma Fleur</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9447734</integer>
+			<key>Total Time</key><integer>393560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T09:15:29Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:24Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3307908222</integer>
+			<key>Play Date UTC</key><date>2008-10-26T22:23:42Z</date>
+			<key>Normalization</key><integer>1584</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Artist</key><string>Cinematic Orchestra Feat. Fontella Bass</string>
+			<key>Persistent ID</key><string>DD7EAFADDB55A8CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Ma%20Fleur/09%20Breathe.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>25226</key>
+		<dict>
+			<key>Track ID</key><integer>25226</integer>
+			<key>Name</key><string>Little Yellow Spider</string>
+			<key>Artist</key><string>Devendra Banhart</string>
+			<key>Album Artist</key><string>Devendra Banhart</string>
+			<key>Album</key><string>Nino Rojo</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3749821</integer>
+			<key>Total Time</key><integer>219682</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2007-05-03T11:27:58Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2004-09-27T07:00:00Z</date>
+			<key>Normalization</key><integer>1484</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DD7EAFADDB55A97D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/itunes/Devendra%20Banhart/Nino%20Rojo/04%20Little%20Yellow%20Spider.m4p</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>25874</key>
+		<dict>
+			<key>Track ID</key><integer>25874</integer>
+			<key>Name</key><string>A.M. 180</string>
+			<key>Artist</key><string>Grandaddy</string>
+			<key>Album</key><string>Under The Western Freeway</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6346437</integer>
+			<key>Total Time</key><integer>200724</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2007-05-21T23:59:34Z</date>
+			<key>Date Added</key><date>2008-01-17T20:26:30Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3307901264</integer>
+			<key>Play Date UTC</key><date>2008-10-26T20:27:44Z</date>
+			<key>Persistent ID</key><string>42A05833CEC07105</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Grandaddy/Under%20The%20Western%20Freeway/02%20A.M.%20180.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30356</key>
+		<dict>
+			<key>Track ID</key><integer>30356</integer>
+			<key>Name</key><string>Tracier</string>
+			<key>Artist</key><string>Unkle</string>
+			<key>Composer</key><string>James Lavelle, Richard File</string>
+			<key>Album</key><string>Self Defence</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2893675</integer>
+			<key>Total Time</key><integer>120476</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2006-09-25T16:41:46Z</date>
+			<key>Date Added</key><date>2008-03-19T18:49:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2625</integer>
+			<key>Persistent ID</key><string>85642D3974C80CD1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Unkle/Self%20Defence/3-12%20Tracier.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>31080</key>
+		<dict>
+			<key>Track ID</key><integer>31080</integer>
+			<key>Name</key><string>Closer</string>
+			<key>Artist</key><string>Travis</string>
+			<key>Album Artist</key><string>Travis</string>
+			<key>Album</key><string>The Boy With No Name</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5777598</integer>
+			<key>Total Time</key><integer>240718</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-09-28T09:39:22Z</date>
+			<key>Date Added</key><date>2008-09-25T07:57:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3306586324</integer>
+			<key>Play Date UTC</key><date>2008-10-11T15:12:04Z</date>
+			<key>Sort Album</key><string>Boy With No Name</string>
+			<key>Persistent ID</key><string>617F8236820AE445</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Travis/The%20Boy%20With%20No%20Name/03%20Closer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>05 May</string>
+			<key>Playlist ID</key><integer>68339</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A9B</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>20530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25874</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25030</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31080</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

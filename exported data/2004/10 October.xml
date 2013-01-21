@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5292</key>
+		<dict>
+			<key>Track ID</key><integer>5292</integer>
+			<key>Name</key><string>Ascent (An Ending)</string>
+			<key>Artist</key><string>Brian Eno</string>
+			<key>Album</key><string>Traffic</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6513037</integer>
+			<key>Total Time</key><integer>265874</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Date Modified</key><date>2004-11-16T15:41:36Z</date>
+			<key>Date Added</key><date>2006-11-30T17:47:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288727235</integer>
+			<key>Play Date UTC</key><date>2008-03-18T22:20:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01B7D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Brian%20Eno/Traffic/18%20Ascent%20(An%20Ending).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7040</key>
+		<dict>
+			<key>Track ID</key><integer>7040</integer>
+			<key>Name</key><string>Fourth time around</string>
+			<key>Artist</key><string>Bob Dylan</string>
+			<key>Album</key><string>Vanilla Sky</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4489918</integer>
+			<key>Total Time</key><integer>275957</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Date Modified</key><date>2004-09-02T21:17:02Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:33Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3323439389</integer>
+			<key>Play Date UTC</key><date>2009-04-24T16:36:29Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C293</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Vanilla%20Sky/14%20Fourth%20time%20around.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7960</key>
+		<dict>
+			<key>Track ID</key><integer>7960</integer>
+			<key>Name</key><string>Bye</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Composer</key><string>Elliott Smith</string>
+			<key>Album</key><string>Figure 8</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1962353</integer>
+			<key>Total Time</key><integer>113214</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2005-10-03T09:15:06Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:12Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>complete</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288729144</integer>
+			<key>Play Date UTC</key><date>2008-03-18T22:52:24Z</date>
+			<key>Normalization</key><integer>308</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C6F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Elliott%20Smith/Figure%208/16%20Bye.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8768</key>
+		<dict>
+			<key>Track ID</key><integer>8768</integer>
+			<key>Name</key><string>Slow Hands</string>
+			<key>Artist</key><string>Interpol</string>
+			<key>Album</key><string>Antics</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4429041</integer>
+			<key>Total Time</key><integer>184189</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-10-25T11:37:24Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Own</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3301323554</integer>
+			<key>Play Date UTC</key><date>2008-08-11T17:19:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CA92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Interpol/Antics/05%20Slow%20Hands.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12562</key>
+		<dict>
+			<key>Track ID</key><integer>12562</integer>
+			<key>Name</key><string>Black-Eyed</string>
+			<key>Artist</key><string>Placebo</string>
+			<key>Album</key><string>Black Market Music</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4584548</integer>
+			<key>Total Time</key><integer>228179</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2005-10-03T09:13:52Z</date>
+			<key>Date Added</key><date>2006-11-30T17:53:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3301323100</integer>
+			<key>Play Date UTC</key><date>2008-08-11T17:11:40Z</date>
+			<key>Normalization</key><integer>10030</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01DAFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Placebo/Black%20Market%20Music/06%20Black-Eyed.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>10 October</string>
+			<key>Playlist ID</key><integer>67842</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A75</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7960</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12562</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5292</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

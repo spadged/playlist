@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14660</key>
+		<dict>
+			<key>Track ID</key><integer>14660</integer>
+			<key>Name</key><string>Being For The Benefit Of Mr. Kite!</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Composer</key><string>Lennon, John/Lennon-McCartney</string>
+			<key>Album</key><string>Sgt. Pepper's Lonely Hearts Club Band</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3805034</integer>
+			<key>Total Time</key><integer>157152</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2005-10-03T09:15:46Z</date>
+			<key>Date Added</key><date>2006-11-30T18:04:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3307903351</integer>
+			<key>Play Date UTC</key><date>2008-10-26T21:02:31Z</date>
+			<key>Normalization</key><integer>1581</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>C77DA932BD01E410</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Beatles/Sgt.%20Pepper's%20Lonely%20Hearts%20Club%20Band/07%20Being%20For%20The%20Benefit%20Of%20Mr.%20Kite.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24930</key>
+		<dict>
+			<key>Track ID</key><integer>24930</integer>
+			<key>Name</key><string>Sad Song</string>
+			<key>Artist</key><string>Psapp</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>David Shrigley's Worried Noodles</string>
+			<key>Genre</key><string>Unclassifiable</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4723103</integer>
+			<key>Total Time</key><integer>196702</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-11-22T09:26:04Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2502</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DD7EAFADDB55A888</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/David%20Shrigley's%20Worried%20Noodles/1-07%20Sad%20Song.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26072</key>
+		<dict>
+			<key>Track ID</key><integer>26072</integer>
+			<key>Name</key><string>Carousel</string>
+			<key>Artist</key><string>Iron &#38; Wine</string>
+			<key>Album</key><string>The Shepard's Dog</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5820817</integer>
+			<key>Total Time</key><integer>242442</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-09-25T15:33:03Z</date>
+			<key>Date Added</key><date>2008-01-17T20:28:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3330020296</integer>
+			<key>Play Date UTC</key><date>2009-07-09T20:38:16Z</date>
+			<key>Normalization</key><integer>1543</integer>
+			<key>Sort Album</key><string>Shepard's Dog</string>
+			<key>Persistent ID</key><string>42A05833CEC07176</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Iron%20&#38;%20Wine/The%20Shepard's%20Dog/04%20Carousel.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26434</key>
+		<dict>
+			<key>Track ID</key><integer>26434</integer>
+			<key>Name</key><string>All My Friends</string>
+			<key>Artist</key><string>LCD Soundsystem</string>
+			<key>Album</key><string>Sound Of Silver</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10755806</integer>
+			<key>Total Time</key><integer>457116</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-08-10T08:47:42Z</date>
+			<key>Date Added</key><date>2008-01-17T20:33:01Z</date>
+			<key>Bit Rate</key><integer>188</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3307901950</integer>
+			<key>Play Date UTC</key><date>2008-10-26T20:39:10Z</date>
+			<key>Persistent ID</key><string>42A05833CEC07258</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/LCD%20Soundsystem/Sound%20Of%20Silver/05%20All%20My%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27734</key>
+		<dict>
+			<key>Track ID</key><integer>27734</integer>
+			<key>Name</key><string>All I Need</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album Artist</key><string>Radiohead</string>
+			<key>Album</key><string>In Rainbows</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4577280</integer>
+			<key>Total Time</key><integer>228806</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-10-10T08:23:59Z</date>
+			<key>Date Added</key><date>2008-01-17T21:15:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3320351597</integer>
+			<key>Play Date UTC</key><date>2009-03-19T22:53:17Z</date>
+			<key>Persistent ID</key><string>42A05833CEC075A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Radiohead/In%20Rainbows/05%20All%20I%20Need.MP3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>12 December</string>
+			<key>Playlist ID</key><integer>68405</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A93</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>26434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26072</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14660</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

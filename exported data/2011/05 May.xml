@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>10.3.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>0CB08677A2F85983</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12092</key>
+		<dict>
+			<key>Track ID</key><integer>12092</integer>
+			<key>Name</key><string>Back from hell</string>
+			<key>Artist</key><string>Dan Le Sac vs Scroobius Pip</string>
+			<key>Album Artist</key><string>Dan Le Sac vs Scroobius Pip</string>
+			<key>Album</key><string>Angles</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5073480</integer>
+			<key>Total Time</key><integer>194142</integer>
+			<key>Date Modified</key><date>2009-05-31T17:43:58Z</date>
+			<key>Date Added</key><date>2010-06-29T09:56:50Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3391439309</integer>
+			<key>Play Date UTC</key><date>2011-06-20T17:28:29Z</date>
+			<key>Persistent ID</key><string>A3213AD01D3ECB6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Dan%20Le%20Sac%20vs%20Scroobius%20Pip/Angles/Back%20from%20hell.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>35004</key>
+		<dict>
+			<key>Track ID</key><integer>35004</integer>
+			<key>Name</key><string>Farewell To The Fairground</string>
+			<key>Artist</key><string>White Lies</string>
+			<key>Album</key><string>To Lose My Life</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6526195</integer>
+			<key>Total Time</key><integer>259448</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-02-20T14:07:08Z</date>
+			<key>Date Added</key><date>2010-06-29T10:02:22Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3391443082</integer>
+			<key>Play Date UTC</key><date>2011-06-20T18:31:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>466E9FF3EB3EE685</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/White%20Lies/To%20Lose%20My%20Life/08%20Farewell%20To%20The%20Fairground.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38052</key>
+		<dict>
+			<key>Track ID</key><integer>38052</integer>
+			<key>Name</key><string>Grown Ocean</string>
+			<key>Artist</key><string>Fleet Foxes</string>
+			<key>Composer</key><string>Robin Pecknold</string>
+			<key>Album</key><string>Helplessness Blues</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8837902</integer>
+			<key>Total Time</key><integer>276114</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-04T09:25:44Z</date>
+			<key>Date Added</key><date>2011-05-04T09:25:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3391442264</integer>
+			<key>Play Date UTC</key><date>2011-06-20T18:17:44Z</date>
+			<key>Normalization</key><integer>4287</integer>
+			<key>Persistent ID</key><string>6D2A5852BCAFF5A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Fleet%20Foxes/Helplessness%20Blues/12%20Grown%20Ocean.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38102</key>
+		<dict>
+			<key>Track ID</key><integer>38102</integer>
+			<key>Name</key><string>Attracted To Us</string>
+			<key>Artist</key><string>The Lonely Island</string>
+			<key>Album Artist</key><string>The Lonely Island</string>
+			<key>Composer</key><string>C.M. Greif-Neill</string>
+			<key>Album</key><string>Turtleneck &#38; Chain [Explicit] [+digital booklet]</string>
+			<key>Genre</key><string>Miscellaneous</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3761098</integer>
+			<key>Total Time</key><integer>112431</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-04T09:37:38Z</date>
+			<key>Date Added</key><date>2011-05-04T09:37:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 222384520</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3391443195</integer>
+			<key>Play Date UTC</key><date>2011-06-20T18:33:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Lonely Island</string>
+			<key>Sort Artist</key><string>Lonely Island</string>
+			<key>Persistent ID</key><string>0CED34ED9B8F496D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/The%20Lonely%20Island/Turtleneck%20&#38;%20Chain%20%5BExplicit%5D%20%5B+digital/05%20Attracted%20To%20Us.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38184</key>
+		<dict>
+			<key>Track ID</key><integer>38184</integer>
+			<key>Name</key><string>The River</string>
+			<key>Artist</key><string>Elbow</string>
+			<key>Composer</key><string>Craig Potter/Guy Garvey/Mark Potter/Pete Turner/Richard Jupp</string>
+			<key>Album</key><string>Build A Rocket Boys!</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5477549</integer>
+			<key>Total Time</key><integer>171102</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-05-04T09:55:55Z</date>
+			<key>Date Added</key><date>2011-05-04T09:55:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3391444608</integer>
+			<key>Play Date UTC</key><date>2011-06-20T18:56:48Z</date>
+			<key>Normalization</key><integer>1186</integer>
+			<key>Sort Name</key><string>River</string>
+			<key>Persistent ID</key><string>A834D76B72440459</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Elbow/Build%20A%20Rocket%20Boys!/08%20The%20River.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>05 May</string>
+			<key>Playlist ID</key><integer>58988</integer>
+			<key>Playlist Persistent ID</key><string>F0D4D83971C9FAEC</string>
+			<key>Parent Persistent ID</key><string>C1D74BEF6B659DB5</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>38102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12092</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

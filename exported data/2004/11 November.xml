@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6090</key>
+		<dict>
+			<key>Track ID</key><integer>6090</integer>
+			<key>Name</key><string>Hands of Time</string>
+			<key>Artist</key><string>Groove Armada</string>
+			<key>Album</key><string>Collateral</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3150428</integer>
+			<key>Total Time</key><integer>260075</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2005-04-30T11:40:14Z</date>
+			<key>Date Added</key><date>2006-11-30T17:48:43Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Burn</string>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01BC11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Collateral/03%20Hands%20of%20Time.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6116</key>
+		<dict>
+			<key>Track ID</key><integer>6116</integer>
+			<key>Name</key><string>Requiem</string>
+			<key>Artist</key><string>James Newton Howard</string>
+			<key>Album</key><string>Collateral</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1431668</integer>
+			<key>Total Time</key><integer>116845</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2005-04-30T11:40:22Z</date>
+			<key>Date Added</key><date>2006-11-30T17:48:44Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Burn</string>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01BC38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Collateral/16%20Requiem.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8992</key>
+		<dict>
+			<key>Track ID</key><integer>8992</integer>
+			<key>Name</key><string>Je N'en Connais Pas La Fin</string>
+			<key>Artist</key><string>Jeff Buckley</string>
+			<key>Composer</key><string>Jeff Buckley</string>
+			<key>Album</key><string>Live A L'Olympia</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7730717</integer>
+			<key>Total Time</key><integer>385750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-10-03T09:08:06Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>244</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CB7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Jeff%20Buckley/Live%20A%20L'Olympia/09%20Je%20N'en%20Connais%20Pas%20La%20Fin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10446</key>
+		<dict>
+			<key>Track ID</key><integer>10446</integer>
+			<key>Name</key><string>'Premacy</string>
+			<key>Artist</key><string>LFO</string>
+			<key>Composer</key><string>Mark Bell</string>
+			<key>Album</key><string>Sheath</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4062579</integer>
+			<key>Total Time</key><integer>202553</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:14Z</date>
+			<key>Date Added</key><date>2006-11-30T17:52:03Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>908</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D1E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/LFO/Sheath/11%20'Premacy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11692</key>
+		<dict>
+			<key>Track ID</key><integer>11692</integer>
+			<key>Name</key><string>Four Women</string>
+			<key>Artist</key><string>Nina Simone</string>
+			<key>Composer</key><string>N. Simone</string>
+			<key>Album</key><string>Bad Habits</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5337238</integer>
+			<key>Total Time</key><integer>266553</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2005-10-03T09:13:32Z</date>
+			<key>Date Added</key><date>2006-11-30T17:53:18Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288730352</integer>
+			<key>Play Date UTC</key><date>2008-03-18T23:12:32Z</date>
+			<key>Normalization</key><integer>1272</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D717</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Nina%20Simone/Bad%20Habits/13%20Four%20Women.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>11 November</string>
+			<key>Playlist ID</key><integer>67850</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A76</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6090</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8992</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11692</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6116</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

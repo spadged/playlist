@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5972</key>
+		<dict>
+			<key>Track ID</key><integer>5972</integer>
+			<key>Name</key><string>Rock The Casbah</string>
+			<key>Artist</key><string>The Clash</string>
+			<key>Album</key><string>Alternative Eighties</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5481270</integer>
+			<key>Total Time</key><integer>225880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2006-04-12T17:37:38Z</date>
+			<key>Date Added</key><date>2006-11-30T17:48:34Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3307991610</integer>
+			<key>Play Date UTC</key><date>2008-10-27T21:33:30Z</date>
+			<key>Normalization</key><integer>3809</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Clash</string>
+			<key>Persistent ID</key><string>C77DA932BD01BB11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Alternative%20Eighties/1-01%20Rock%20The%20Casbah.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6202</key>
+		<dict>
+			<key>Track ID</key><integer>6202</integer>
+			<key>Name</key><string>What Are They Doing In Heaven Today</string>
+			<key>Artist</key><string>Washington Phillips</string>
+			<key>Album</key><string>Elizabethtown</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3250781</integer>
+			<key>Total Time</key><integer>198112</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-04-12T18:04:26Z</date>
+			<key>Date Added</key><date>2006-11-30T17:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307995091</integer>
+			<key>Play Date UTC</key><date>2008-10-27T22:31:31Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01BCC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Elizabethtown/2-12%20What%20Are%20They%20Doing%20In%20Heaven%20T.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19344</key>
+		<dict>
+			<key>Track ID</key><integer>19344</integer>
+			<key>Name</key><string>Back In N.Y.C.</string>
+			<key>Artist</key><string>Genesis</string>
+			<key>Album Artist</key><string>Genesis</string>
+			<key>Album</key><string>The Lamb Lies Down On Broadway</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>5788445</integer>
+			<key>Total Time</key><integer>342817</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2006-05-11T17:30:24Z</date>
+			<key>Date Added</key><date>2006-12-06T18:28:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307980410</integer>
+			<key>Play Date UTC</key><date>2008-10-27T18:26:50Z</date>
+			<key>Release Date</key><date>1994-08-15T07:00:00Z</date>
+			<key>Normalization</key><integer>1496</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lamb Lies Down On Broadway</string>
+			<key>Persistent ID</key><string>9C4B031859F2EEE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/itunes/Genesis/The%20Lamb%20Lies%20Down%20On%20Broadway/1-07%20Back%20In%20N.Y.C..m4p</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24458</key>
+		<dict>
+			<key>Track ID</key><integer>24458</integer>
+			<key>Name</key><string>A Minor Incident</string>
+			<key>Artist</key><string>Badly Drawn Boy</string>
+			<key>Composer</key><string>Badly Drawn Boy</string>
+			<key>Album</key><string>About A Boy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5386984</integer>
+			<key>Total Time</key><integer>224365</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2006-05-30T08:53:45Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3323436185</integer>
+			<key>Play Date UTC</key><date>2009-04-24T15:43:05Z</date>
+			<key>Normalization</key><integer>874</integer>
+			<key>Sort Name</key><string>Minor Incident</string>
+			<key>Persistent ID</key><string>DD7EAFADDB55A78D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Badly%20Drawn%20Boy/About%20A%20Boy/14%20A%20Minor%20Incident.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26956</key>
+		<dict>
+			<key>Track ID</key><integer>26956</integer>
+			<key>Name</key><string>Supermassive Black Hole</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Album Artist</key><string>Muse</string>
+			<key>Album</key><string>Supermassive Black Hole - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3405422</integer>
+			<key>Total Time</key><integer>210789</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2006-06-01T16:54:09Z</date>
+			<key>Date Added</key><date>2008-01-17T20:33:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307992829</integer>
+			<key>Play Date UTC</key><date>2008-10-27T21:53:49Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Normalization</key><integer>5798</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42A05833CEC07367</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/itunes/Muse/Supermassive%20Black%20Hole%20-%20Single/01%20Supermassive%20Black%20Hole.m4p</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>05 May</string>
+			<key>Playlist ID</key><integer>68160</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A88</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E0</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>19344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5972</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26956</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

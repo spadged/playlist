@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>33008</key>
+		<dict>
+			<key>Track ID</key><integer>33008</integer>
+			<key>Name</key><string>River Card</string>
+			<key>Artist</key><string>Atlas Sound</string>
+			<key>Album</key><string>Pitchfork Presents: The 100 Best Tracks of 2008</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6435414</integer>
+			<key>Total Time</key><integer>200359</integer>
+			<key>Track Number</key><integer>93</integer>
+			<key>Track Count</key><integer>100</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-03-04T12:41:20Z</date>
+			<key>Date Added</key><date>2009-03-05T09:01:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3327606658</integer>
+			<key>Play Date UTC</key><date>2009-06-11T22:10:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2009-03-18T18:55:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>52432301AB5E7C4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Atlas%20Sound/Pitchfork%20Presents_%20The%20100%20Best%20Tracks/93%20River%20Card.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33100</key>
+		<dict>
+			<key>Track ID</key><integer>33100</integer>
+			<key>Name</key><string>Fools</string>
+			<key>Artist</key><string>The Dodos</string>
+			<key>Album</key><string>Pitchfork Presents: The 100 Best Tracks of 2008</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6806136</integer>
+			<key>Total Time</key><integer>282592</integer>
+			<key>Track Number</key><integer>59</integer>
+			<key>Track Count</key><integer>100</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-03-04T12:37:26Z</date>
+			<key>Date Added</key><date>2009-03-05T09:01:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3330028964</integer>
+			<key>Play Date UTC</key><date>2009-07-09T23:02:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Dodos</string>
+			<key>Persistent ID</key><string>52432301AB5E7C7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Dodos/Pitchfork%20Presents_%20The%20100%20Best%20Tracks/59%20Fools.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33188</key>
+		<dict>
+			<key>Track ID</key><integer>33188</integer>
+			<key>Name</key><string>Cold Wind</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Six Feet Under - Everything Ends (OST)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3039104</integer>
+			<key>Total Time</key><integer>189936</integer>
+			<key>Date Modified</key><date>2009-04-09T10:29:18Z</date>
+			<key>Date Added</key><date>2009-04-14T18:50:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3328551673</integer>
+			<key>Play Date UTC</key><date>2009-06-22T20:41:13Z</date>
+			<key>Persistent ID</key><string>E31C1BD102865718</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Arcade%20Fire/Six%20Feet%20Under%20-%20Everything%20Ends%20(OST)/Cold%20Wind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33218</key>
+		<dict>
+			<key>Track ID</key><integer>33218</integer>
+			<key>Name</key><string>glass</string>
+			<key>Artist</key><string>Bat for lashes</string>
+			<key>Album Artist</key><string>Bat for lashes</string>
+			<key>Album</key><string>Twin Suns</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8747136</integer>
+			<key>Total Time</key><integer>273336</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Date Modified</key><date>2009-04-20T18:45:23Z</date>
+			<key>Date Added</key><date>2009-04-20T18:39:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3330973508</integer>
+			<key>Play Date UTC</key><date>2009-07-20T21:25:08Z</date>
+			<key>Persistent ID</key><string>BE7824571209BBCC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Bat%20for%20lashes/Twin%20Suns/01%20glass.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33450</key>
+		<dict>
+			<key>Track ID</key><integer>33450</integer>
+			<key>Name</key><string>Bonkers</string>
+			<key>Artist</key><string>Dizzee Rascal and Armand Van Helden</string>
+			<key>Composer</key><string>martinastley.com</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4280952</integer>
+			<key>Total Time</key><integer>267415</integer>
+			<key>Date Modified</key><date>2009-04-24T11:02:24Z</date>
+			<key>Date Added</key><date>2009-04-24T11:02:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3327603537</integer>
+			<key>Play Date UTC</key><date>2009-06-11T21:18:57Z</date>
+			<key>Persistent ID</key><string>A319F0DAB5B76EA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Dizzee%20Rascal%20and%20Armand%20Van%20Helden/Unknown%20Album/Bonkers.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>04 April</string>
+			<key>Playlist ID</key><integer>68648</integer>
+			<key>Playlist Persistent ID</key><string>8755ABD58BBF9C4C</string>
+			<key>Parent Persistent ID</key><string>5249B8B96D04E90C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33450</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4790</key>
+		<dict>
+			<key>Track ID</key><integer>4790</integer>
+			<key>Name</key><string>Kid For Today</string>
+			<key>Artist</key><string>Boards of Canada</string>
+			<key>Composer</key><string>Michael Sandison &#38; Marcus Eoin</string>
+			<key>Album</key><string>In a beautiful place in the country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9228054</integer>
+			<key>Total Time</key><integer>383764</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2006-04-10T12:21:22Z</date>
+			<key>Date Added</key><date>2006-11-30T17:47:34Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3316631464</integer>
+			<key>Play Date UTC</key><date>2009-02-04T21:31:04Z</date>
+			<key>Normalization</key><integer>1491</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01B5B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Boards%20of%20Canada/In%20a%20beautiful%20place%20in%20the%20country/01%20Kid%20For%20Today.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10440</key>
+		<dict>
+			<key>Track ID</key><integer>10440</integer>
+			<key>Name</key><string>Freak</string>
+			<key>Artist</key><string>LFO</string>
+			<key>Composer</key><string>Mark Bell</string>
+			<key>Album</key><string>Sheath</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6083930</integer>
+			<key>Total Time</key><integer>303621</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:14Z</date>
+			<key>Date Added</key><date>2006-11-30T17:52:02Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3316635419</integer>
+			<key>Play Date UTC</key><date>2009-02-04T22:36:59Z</date>
+			<key>Normalization</key><integer>8309</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D1E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/LFO/Sheath/08%20Freak.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17242</key>
+		<dict>
+			<key>Track ID</key><integer>17242</integer>
+			<key>Name</key><string>The Horrible Fanfare/Landslide/Exoskelton</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Album</key><string>The Information</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15287620</integer>
+			<key>Total Time</key><integer>636891</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2006-10-02T13:50:24Z</date>
+			<key>Date Added</key><date>2006-12-06T18:26:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3316633555</integer>
+			<key>Play Date UTC</key><date>2009-02-04T22:05:55Z</date>
+			<key>Normalization</key><integer>2233</integer>
+			<key>Sort Album</key><string>Information</string>
+			<key>Sort Name</key><string>Horrible Fanfare/Landslide/Exoskelton</string>
+			<key>Persistent ID</key><string>9C4B031859F2D959</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Beck/The%20Information/15%20The%20Horrible%20Fanfare_Landslide_Ex.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30034</key>
+		<dict>
+			<key>Track ID</key><integer>30034</integer>
+			<key>Name</key><string>American Boy</string>
+			<key>Artist</key><string>Estelle</string>
+			<key>Album Artist</key><string>Estelle</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9481641</integer>
+			<key>Total Time</key><integer>236982</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-03-17T22:30:51Z</date>
+			<key>Date Added</key><date>2008-03-17T21:21:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3316639452</integer>
+			<key>Play Date UTC</key><date>2009-02-04T23:44:12Z</date>
+			<key>Persistent ID</key><string>7226A07FE0DC3C0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Estelle/Unknown%20Album/American%20Boy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30864</key>
+		<dict>
+			<key>Track ID</key><integer>30864</integer>
+			<key>Name</key><string>Too drunk to fuck</string>
+			<key>Artist</key><string>Nouvelle Vague</string>
+			<key>Album Artist</key><string>Nouvelle Vague</string>
+			<key>Album</key><string>Nouvelle Vague</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3276395</integer>
+			<key>Total Time</key><integer>136489</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-02-06T14:33:38Z</date>
+			<key>Date Added</key><date>2008-09-15T19:03:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>©  Peacefrog</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3306577257</integer>
+			<key>Play Date UTC</key><date>2008-10-11T12:40:57Z</date>
+			<key>Persistent ID</key><string>0D9621220A1B5546</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Nouvelle%20Vague/Nouvelle%20Vague/06%20Too%20drunk%20to%20fuck.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March</string>
+			<key>Playlist ID</key><integer>68496</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152AA2</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4790</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30864</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
