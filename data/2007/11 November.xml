@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>17184</key>
+		<dict>
+			<key>Track ID</key><integer>17184</integer>
+			<key>Name</key><string>Breakaway</string>
+			<key>Artist</key><string>Basement Jaxx</string>
+			<key>Album Artist</key><string>Basement Jaxx</string>
+			<key>Album</key><string>Rooty</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5658624</integer>
+			<key>Total Time</key><integer>202736</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2006-10-17T08:32:28Z</date>
+			<key>Date Added</key><date>2006-12-06T18:26:35Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3330028517</integer>
+			<key>Play Date UTC</key><date>2009-07-09T22:55:17Z</date>
+			<key>Persistent ID</key><string>9C4B031859F2D886</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Basement%20Jaxx/Rooty/02%20Breakaway.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21208</key>
+		<dict>
+			<key>Track ID</key><integer>21208</integer>
+			<key>Name</key><string>Oh Yoko</string>
+			<key>Artist</key><string>John Lennon</string>
+			<key>Album</key><string>Rushmore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6154230</integer>
+			<key>Total Time</key><integer>256417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2007-09-28T18:05:18Z</date>
+			<key>Date Added</key><date>2007-09-28T17:40:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.allofmp3.com</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304178449</integer>
+			<key>Play Date UTC</key><date>2008-09-13T18:20:49Z</date>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>8C1A2B21738E9EAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Rushmore/18%20Oh%20Yoko.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24928</key>
+		<dict>
+			<key>Track ID</key><integer>24928</integer>
+			<key>Name</key><string>Maybe</string>
+			<key>Artist</key><string>Scarlet's Well</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>David Shrigley's Worried Noodles</string>
+			<key>Genre</key><string>Unclassifiable</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3218456</integer>
+			<key>Total Time</key><integer>134008</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-11-22T09:25:43Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304177227</integer>
+			<key>Play Date UTC</key><date>2008-09-13T18:00:27Z</date>
+			<key>Normalization</key><integer>2338</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DD7EAFADDB55A887</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/David%20Shrigley's%20Worried%20Noodles/1-06%20Maybe.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24944</key>
+		<dict>
+			<key>Track ID</key><integer>24944</integer>
+			<key>Name</key><string>For You</string>
+			<key>Artist</key><string>David Byrne</string>
+			<key>Composer</key><string>Various</string>
+			<key>Album</key><string>David Shrigley's Worried Noodles</string>
+			<key>Genre</key><string>Unclassifiable</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4802731</integer>
+			<key>Total Time</key><integer>200019</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-11-22T09:28:11Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304173858</integer>
+			<key>Play Date UTC</key><date>2008-09-13T17:04:18Z</date>
+			<key>Normalization</key><integer>2590</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>DD7EAFADDB55A88F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/David%20Shrigley's%20Worried%20Noodles/1-14%20For%20You.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29106</key>
+		<dict>
+			<key>Track ID</key><integer>29106</integer>
+			<key>Name</key><string>For Reasons Unknown</string>
+			<key>Artist</key><string>The Killers</string>
+			<key>Album</key><string>Sam's Town</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5945361</integer>
+			<key>Total Time</key><integer>212323</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-11-06T11:05:35Z</date>
+			<key>Date Added</key><date>2008-01-17T21:30:53Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304173658</integer>
+			<key>Play Date UTC</key><date>2008-09-13T17:00:58Z</date>
+			<key>Sort Artist</key><string>Killers</string>
+			<key>Persistent ID</key><string>42A05833CEC0793D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Killers/Sam's%20Town/05%20For%20Reasons%20Unknown.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>11 November</string>
+			<key>Playlist ID</key><integer>68397</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A94</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>24928</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21208</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

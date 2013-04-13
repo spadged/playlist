@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-09T09:26:20Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>0CB08677A2F85983</string>
+	<key>Tracks</key>
+	<dict>
+		<key>19425</key>
+		<dict>
+			<key>Track ID</key><integer>19425</integer>
+			<key>Name</key><string>Zero-Sum (Stephen Morris and Gillian Gilbert)</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Album</key><string>Y34RZ3R0R3M1X3D</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13561856</integer>
+			<key>Total Time</key><integer>338991</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-12-12T11:52:34Z</date>
+			<key>Date Added</key><date>2010-06-29T10:59:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3406216552</integer>
+			<key>Play Date UTC</key><date>2011-12-08T19:15:52Z</date>
+			<key>Persistent ID</key><string>EF52DE44DA2BF732</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Nine%20Inch%20Nails/Y34RZ3R0R3M1X3D/14%20Zero-Sum%20(Stephen%20Morris%20and%20Gill.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19969</key>
+		<dict>
+			<key>Track ID</key><integer>19969</integer>
+			<key>Name</key><string>A Life In The Day Of Benjamin André (Incomplete)</string>
+			<key>Artist</key><string>Outkast</string>
+			<key>Composer</key><string>Andre Benjamin</string>
+			<key>Album</key><string>The Love Below</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6262613</integer>
+			<key>Total Time</key><integer>311457</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-10-03T10:12:46Z</date>
+			<key>Date Added</key><date>2010-06-29T10:59:13Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3407168622</integer>
+			<key>Play Date UTC</key><date>2011-12-19T19:43:42Z</date>
+			<key>Normalization</key><integer>4561</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Below</string>
+			<key>Sort Name</key><string>Life In The Day Of Benjamin André (Incomplete)</string>
+			<key>Persistent ID</key><string>336429BF234069E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Outkast/The%20Love%20Below/2-20%20A%20Life%20In%20The%20Day%20Of%20Benjamin%20A.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24179</key>
+		<dict>
+			<key>Track ID</key><integer>24179</integer>
+			<key>Name</key><string>beep street</string>
+			<key>Artist</key><string>Squarepusher</string>
+			<key>Album</key><string>Hard Normal Daddy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5314102</integer>
+			<key>Total Time</key><integer>397139</integer>
+			<key>Date Modified</key><date>2008-01-14T00:09:14Z</date>
+			<key>Date Added</key><date>2010-06-29T11:00:22Z</date>
+			<key>Bit Rate</key><integer>107</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>, AG# F245EEC8</string>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3406213443</integer>
+			<key>Play Date UTC</key><date>2011-12-08T18:24:03Z</date>
+			<key>Persistent ID</key><string>8EC35C9A69205237</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Squarepusher/Hard%20Normal%20Daddy/beep%20street.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>30027</key>
+		<dict>
+			<key>Track ID</key><integer>30027</integer>
+			<key>Name</key><string>Percussion Gun</string>
+			<key>Artist</key><string>White Rabbits</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Blalock's Indie/Rock Playlist: Best of 09</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7872135</integer>
+			<key>Total Time</key><integer>188395</integer>
+			<key>Track Number</key><integer>93</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-02-24T09:14:07Z</date>
+			<key>Date Added</key><date>2010-06-29T11:02:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.BlalocksIRP.com</string>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3407168310</integer>
+			<key>Play Date UTC</key><date>2011-12-19T19:38:30Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E308EBE8D653F4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Various%20Artists/Blalock's%20Indie_Rock%20Playlist_%20Best%20of%200/93%20Percussion%20Gun.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>34177</key>
+		<dict>
+			<key>Track ID</key><integer>34177</integer>
+			<key>Name</key><string>Fallout</string>
+			<key>Artist</key><string>Neon Indian</string>
+			<key>Album</key><string>Era Extraña</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8758824</integer>
+			<key>Total Time</key><integer>216999</integer>
+			<key>Date Modified</key><date>2011-07-27T18:54:25Z</date>
+			<key>Date Added</key><date>2011-07-27T18:56:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3408788154</integer>
+			<key>Play Date UTC</key><date>2012-01-07T13:35:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E5D4D5C0E347E7E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Neon%20Indian/Era%20Extra%C3%B1a/Fallout.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>07 July</string>
+			<key>Playlist ID</key><integer>54781</integer>
+			<key>Playlist Persistent ID</key><string>D6AF7ABB3256AF24</string>
+			<key>Parent Persistent ID</key><string>C1D74BEF6B659DB5</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>34177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30027</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

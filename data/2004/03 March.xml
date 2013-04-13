@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>10426</key>
+		<dict>
+			<key>Track ID</key><integer>10426</integer>
+			<key>Name</key><string>Blown</string>
+			<key>Artist</key><string>LFO</string>
+			<key>Composer</key><string>Mark Bell</string>
+			<key>Album</key><string>Sheath</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7262698</integer>
+			<key>Total Time</key><integer>362893</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:14Z</date>
+			<key>Date Added</key><date>2006-11-30T17:52:01Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288729031</integer>
+			<key>Play Date UTC</key><date>2008-03-18T22:50:31Z</date>
+			<key>Normalization</key><integer>3215</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D1D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/LFO/Sheath/01%20Blown.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13620</key>
+		<dict>
+			<key>Track ID</key><integer>13620</integer>
+			<key>Name</key><string>Untitled 9 A</string>
+			<key>Artist</key><string>Sigur Rós</string>
+			<key>Album</key><string>( ) Untitled #1</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5623616</integer>
+			<key>Total Time</key><integer>278099</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-09-20T13:55:26Z</date>
+			<key>Date Added</key><date>2006-11-30T18:03:42Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1351</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01DFBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Sigur%20R%C3%B3s/(%20)%20Untitled%20%231/02%20Untitled%209%20A%201.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14030</key>
+		<dict>
+			<key>Track ID</key><integer>14030</integer>
+			<key>Name</key><string>Iambic 9 Poetry</string>
+			<key>Artist</key><string>Squarepusher</string>
+			<key>Composer</key><string>Tom Jenkins</string>
+			<key>Album</key><string>Ultravisitor</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8383449</integer>
+			<key>Total Time</key><integer>415973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:18Z</date>
+			<key>Date Added</key><date>2006-11-30T18:03:56Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1763</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01E175</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Squarepusher/Ultravisitor/03%20Iambic%209%20Poetry.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15636</key>
+		<dict>
+			<key>Track ID</key><integer>15636</integer>
+			<key>Name</key><string>Asleep</string>
+			<key>Artist</key><string>The Smiths</string>
+			<key>Album</key><string>Louder than Bombs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5027441</integer>
+			<key>Total Time</key><integer>250279</integer>
+			<key>Track Number</key><integer>24</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:24Z</date>
+			<key>Date Added</key><date>2006-11-30T18:04:52Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3323438904</integer>
+			<key>Play Date UTC</key><date>2009-04-24T16:28:24Z</date>
+			<key>Normalization</key><integer>1025</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Smiths</string>
+			<key>Persistent ID</key><string>C77DA932BD01E82C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Smiths/Louder%20than%20Bombs/24%20Asleep.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27702</key>
+		<dict>
+			<key>Track ID</key><integer>27702</integer>
+			<key>Name</key><string>Gagging Order</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Composer</key><string>Radiohead</string>
+			<key>Album</key><string>Com Lag: 2+2=5 [EP]</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5183270</integer>
+			<key>Total Time</key><integer>215875</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-09-28T09:49:41Z</date>
+			<key>Date Added</key><date>2008-01-17T21:15:38Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288730843</integer>
+			<key>Play Date UTC</key><date>2008-03-18T23:20:43Z</date>
+			<key>Normalization</key><integer>1260</integer>
+			<key>Persistent ID</key><string>42A05833CEC07596</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Radiohead/Com%20Lag_%202+2=5%20%5BEP%5D/08%20Gagging%20Order.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March</string>
+			<key>Playlist ID</key><integer>67786</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A6E</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15636</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14030</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27702</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

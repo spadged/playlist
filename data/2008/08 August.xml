@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>18454</key>
+		<dict>
+			<key>Track ID</key><integer>18454</integer>
+			<key>Name</key><string>Black Swan</string>
+			<key>Artist</key><string>Thom Yorke</string>
+			<key>Composer</key><string>Thom Yorke</string>
+			<key>Album</key><string>The Eraser</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6959337</integer>
+			<key>Total Time</key><integer>289880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2006-07-11T08:42:26Z</date>
+			<key>Date Added</key><date>2006-12-06T18:28:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3316638039</integer>
+			<key>Play Date UTC</key><date>2009-02-04T23:20:39Z</date>
+			<key>Normalization</key><integer>1659</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Eraser</string>
+			<key>Persistent ID</key><string>9C4B031859F2E773</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/The%20Eraser/04%20Black%20Swan.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30390</key>
+		<dict>
+			<key>Track ID</key><integer>30390</integer>
+			<key>Name</key><string>Monkey Suite</string>
+			<key>Artist</key><string>Madvillain</string>
+			<key>Composer</key><string>Madlib &#38; MF DOOM</string>
+			<key>Album</key><string>Chrome Children</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2555963</integer>
+			<key>Total Time</key><integer>159608</integer>
+			<key>Date Modified</key><date>2008-08-12T21:28:13Z</date>
+			<key>Date Added</key><date>2008-08-13T20:14:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Downloaded from xlr8r.com</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3318280511</integer>
+			<key>Play Date UTC</key><date>2009-02-23T23:35:11Z</date>
+			<key>Normalization</key><integer>1746</integer>
+			<key>Persistent ID</key><string>3BE62E2E3F5C266D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Madvillain/Chrome%20Children/Monkey%20Suite.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30424</key>
+		<dict>
+			<key>Track ID</key><integer>30424</integer>
+			<key>Name</key><string>Abandon</string>
+			<key>Artist</key><string>French Kicks</string>
+			<key>Album Artist</key><string>French Kicks</string>
+			<key>Album</key><string>Swimming</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3784832</integer>
+			<key>Total Time</key><integer>236486</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-08-05T17:20:01Z</date>
+			<key>Date Added</key><date>2008-08-13T20:14:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3318280970</integer>
+			<key>Play Date UTC</key><date>2009-02-23T23:42:50Z</date>
+			<key>Persistent ID</key><string>3BE62E2E3F5C267E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/French%20Kicks/Swimming/01%20Abandon.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30494</key>
+		<dict>
+			<key>Track ID</key><integer>30494</integer>
+			<key>Name</key><string>Hustler</string>
+			<key>Artist</key><string>Simian Mobile Disco</string>
+			<key>Composer</key><string>James Ellis Ford, James Anthony Shaw</string>
+			<key>Album</key><string>Attack Decay Sustain Release</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7135178</integer>
+			<key>Total Time</key><integer>222902</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-08-17T09:37:44Z</date>
+			<key>Date Added</key><date>2008-08-28T22:37:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3318280733</integer>
+			<key>Play Date UTC</key><date>2009-02-23T23:38:53Z</date>
+			<key>Normalization</key><integer>5156</integer>
+			<key>Persistent ID</key><string>E2525668CD6D189D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Simian%20Mobile%20Disco/Attack%20Decay%20Sustain%20Release/04%20Hustler.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30938</key>
+		<dict>
+			<key>Track ID</key><integer>30938</integer>
+			<key>Name</key><string>Oxygen</string>
+			<key>Artist</key><string>Willy Mason</string>
+			<key>Album Artist</key><string>Willy Mason</string>
+			<key>Composer</key><string>Willy Mason</string>
+			<key>Album</key><string>Where The Humans Eat</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4816034</integer>
+			<key>Total Time</key><integer>297106</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-09-15T19:13:28Z</date>
+			<key>Date Added</key><date>2008-09-15T19:03:59Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3306576362</integer>
+			<key>Play Date UTC</key><date>2008-10-11T12:26:02Z</date>
+			<key>Normalization</key><integer>1560</integer>
+			<key>Persistent ID</key><string>0D9621220A1B556B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Willy%20Mason/Where%20The%20Humans%20Eat/11%20Oxygen.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>08 August</string>
+			<key>Playlist ID</key><integer>68541</integer>
+			<key>Playlist Persistent ID</key><string>327DD48334594AD2</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30938</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

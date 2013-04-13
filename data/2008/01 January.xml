@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5198</key>
+		<dict>
+			<key>Track ID</key><integer>5198</integer>
+			<key>Name</key><string>Dumb Day</string>
+			<key>Artist</key><string>Boom Bip</string>
+			<key>Album</key><string>Blue Eyed In The Red Room</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3822715</integer>
+			<key>Total Time</key><integer>314880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2005-11-01T11:11:38Z</date>
+			<key>Date Added</key><date>2006-11-30T17:47:53Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3316635971</integer>
+			<key>Play Date UTC</key><date>2009-02-04T22:46:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-09-12T20:30:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01B76E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Boom%20Bip/Blue%20Eyed%20In%20The%20Red%20Room/05%20Dumb%20Day.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>23884</key>
+		<dict>
+			<key>Track ID</key><integer>23884</integer>
+			<key>Name</key><string>One Pure Thought</string>
+			<key>Artist</key><string>Hot Chip</string>
+			<key>Album Artist</key><string>Hot Chip</string>
+			<key>Album</key><string>Made In The Dark</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6964495</integer>
+			<key>Total Time</key><integer>295392</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-01-05T21:28:10Z</date>
+			<key>Date Added</key><date>2008-01-05T20:35:02Z</date>
+			<key>Bit Rate</key><integer>188</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3323435219</integer>
+			<key>Play Date UTC</key><date>2009-04-24T15:26:59Z</date>
+			<key>Persistent ID</key><string>0F3BD7A59E4B5120</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Hot%20Chip/Made%20In%20The%20Dark/08%20One%20Pure%20Thought.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28580</key>
+		<dict>
+			<key>Track ID</key><integer>28580</integer>
+			<key>Name</key><string>Blackbird</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album</key><string>The White Album</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3392399</integer>
+			<key>Total Time</key><integer>138318</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2006-11-14T13:14:51Z</date>
+			<key>Date Added</key><date>2008-01-17T21:20:10Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3316637749</integer>
+			<key>Play Date UTC</key><date>2009-02-04T23:15:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-09-12T20:24:48Z</date>
+			<key>Sort Album</key><string>White Album</string>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>42A05833CEC07804</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Beatles/The%20White%20Album/1-11%20Blackbird.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29794</key>
+		<dict>
+			<key>Track ID</key><integer>29794</integer>
+			<key>Name</key><string>I Get Around (Midnight Juggernaut Mix)</string>
+			<key>Artist</key><string>Dragonette</string>
+			<key>Album Artist</key><string>Dragonette</string>
+			<key>Album</key><string>Kitsuné Maison 4</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6151470</integer>
+			<key>Total Time</key><integer>357642</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-17T23:24:09Z</date>
+			<key>Date Added</key><date>2008-01-17T22:28:23Z</date>
+			<key>Bit Rate</key><integer>135</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3327052970</integer>
+			<key>Play Date UTC</key><date>2009-06-05T12:22:50Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42A05833CEC07AFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Kitsun%C3%A9%20Maison%204/08%20I%20Get%20Around%20(Midnight%20Juggernaut.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29826</key>
+		<dict>
+			<key>Track ID</key><integer>29826</integer>
+			<key>Name</key><string>Change Channel</string>
+			<key>Artist</key><string>Lo-Fi-Fnk</string>
+			<key>Album</key><string>Kitsuné Maison</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6430489</integer>
+			<key>Total Time</key><integer>199523</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-01-17T23:20:52Z</date>
+			<key>Date Added</key><date>2008-01-17T22:28:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3323438653</integer>
+			<key>Play Date UTC</key><date>2009-04-24T16:24:13Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2008-09-12T20:30:08Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42A05833CEC07B0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Kitsun%C3%A9%20Maison/11%20Change%20Channel.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>01 January</string>
+			<key>Playlist ID</key><integer>68480</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152AA0</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>23884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29826</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5198</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

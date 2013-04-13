@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4408</key>
+		<dict>
+			<key>Track ID</key><integer>4408</integer>
+			<key>Name</key><string>Broken Drum (Boards Of Canada Remix)</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Composer</key><string>Beck Hansen</string>
+			<key>Album</key><string>Guero</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6840914</integer>
+			<key>Total Time</key><integer>339853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2005-09-20T13:52:32Z</date>
+			<key>Date Added</key><date>2006-11-30T17:47:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4722</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01B40F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Beck/Guero/18%20Broken%20Drum%20(Boards%20Of%20Canada%20Rem.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4930</key>
+		<dict>
+			<key>Track ID</key><integer>4930</integer>
+			<key>Name</key><string>Wedding Song</string>
+			<key>Artist</key><string>Bob Dylan</string>
+			<key>Composer</key><string>Bob Dylan</string>
+			<key>Album</key><string>Planet Waves</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5691019</integer>
+			<key>Total Time</key><integer>282383</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2005-10-03T09:15:44Z</date>
+			<key>Date Added</key><date>2006-11-30T17:47:41Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3911</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01B64C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Bob%20Dylan/Planet%20Waves/11%20Wedding%20Song.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9990</key>
+		<dict>
+			<key>Track ID</key><integer>9990</integer>
+			<key>Name</key><string>Pending...</string>
+			<key>Artist</key><string>Kidd</string>
+			<key>Album</key><string>Not yet. no.</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14941175</integer>
+			<key>Total Time</key><integer>745691</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:12Z</date>
+			<key>Date Added</key><date>2006-11-30T17:51:43Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Burn</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3320693451</integer>
+			<key>Play Date UTC</key><date>2009-03-23T21:50:51Z</date>
+			<key>Normalization</key><integer>1323</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CFF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Kidd/Not%20yet.%20no_/07%20Pending....mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13974</key>
+		<dict>
+			<key>Track ID</key><integer>13974</integer>
+			<key>Name</key><string>More Yellow Birds</string>
+			<key>Artist</key><string>Sparklehorse</string>
+			<key>Album</key><string>It's A Wonderfull Life</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7052972</integer>
+			<key>Total Time</key><integer>293093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-05-14T13:28:50Z</date>
+			<key>Date Added</key><date>2006-11-30T18:03:55Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>burn</string>
+			<key>Normalization</key><integer>1444</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01E13A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Sparklehorse/It's%20A%20Wonderfull%20Life/09%20More%20Yellow%20Birds.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15276</key>
+		<dict>
+			<key>Track ID</key><integer>15276</integer>
+			<key>Name</key><string>City Middle</string>
+			<key>Artist</key><string>The National</string>
+			<key>Composer</key><string>The National</string>
+			<key>Album</key><string>Alligator</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5655089</integer>
+			<key>Total Time</key><integer>267650</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2005-10-03T09:14:48Z</date>
+			<key>Date Added</key><date>2006-11-30T18:04:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3330969376</integer>
+			<key>Play Date UTC</key><date>2009-07-20T20:16:16Z</date>
+			<key>Normalization</key><integer>4145</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>National</string>
+			<key>Sort Composer</key><string>National</string>
+			<key>Persistent ID</key><string>C77DA932BD01E6AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20National/Alligator/12%20City%20Middle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>04 April</string>
+			<key>Playlist ID</key><integer>67968</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A7B</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9990</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15276</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

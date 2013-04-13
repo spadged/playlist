@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-04-11T07:41:48Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/E:/</string>
+	<key>Library Persistent ID</key><string>D607696AFC4E0948</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15542</key>
+		<dict>
+			<key>Track ID</key><integer>15542</integer>
+			<key>Name</key><string>Alley Cats</string>
+			<key>Artist</key><string>Hot Chip</string>
+			<key>Album</key><string>One Life Stand</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9841453</integer>
+			<key>Total Time</key><integer>321097</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-01-25T10:03:04Z</date>
+			<key>Date Added</key><date>2012-03-21T08:43:55Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3448370399</integer>
+			<key>Play Date UTC</key><date>2013-04-09T15:39:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-03-21T13:38:49Z</date>
+			<key>Persistent ID</key><string>AD049EAD9446FA8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Hot%20Chip/One%20Life%20Stand/07%20Alley%20Cats.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>21504</key>
+		<dict>
+			<key>Track ID</key><integer>21504</integer>
+			<key>Name</key><string>Listening Wind</string>
+			<key>Artist</key><string>Peter Gabriel</string>
+			<key>Album</key><string>Scratch My Back</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10586991</integer>
+			<key>Total Time</key><integer>264620</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-03-02T11:40:29Z</date>
+			<key>Date Added</key><date>2012-03-21T08:44:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3448083794</integer>
+			<key>Play Date UTC</key><date>2013-04-06T08:03:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-11-21T15:01:22Z</date>
+			<key>Persistent ID</key><string>426C8A0A9F931111</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Peter%20Gabriel/Scratch%20My%20Back/05%20Listening%20Wind.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>33004</key>
+		<dict>
+			<key>Track ID</key><integer>33004</integer>
+			<key>Name</key><string>Retrograde</string>
+			<key>Artist</key><string>James Blake</string>
+			<key>Album Artist</key><string>James Blake</string>
+			<key>Composer</key><string>James Blake</string>
+			<key>Album</key><string>Retrograde - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7886769</integer>
+			<key>Total Time</key><integer>223596</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-02-23T10:58:39Z</date>
+			<key>Date Added</key><date>2013-02-23T10:58:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3448370933</integer>
+			<key>Play Date UTC</key><date>2013-04-09T15:48:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-02-23T10:59:42Z</date>
+			<key>Release Date</key><date>2013-02-11T08:00:00Z</date>
+			<key>Normalization</key><integer>1602</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Retrograde - Single</string>
+			<key>Sort Artist</key><string>James Blake</string>
+			<key>Sort Name</key><string>Retrograde</string>
+			<key>Persistent ID</key><string>BB8348FE43D10BB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/James%20Blake/Retrograde%20-%20Single/01%20Retrograde.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>33006</key>
+		<dict>
+			<key>Track ID</key><integer>33006</integer>
+			<key>Name</key><string>Yolo (feat. Adam Levine &#38; Kendrick Lamar)</string>
+			<key>Artist</key><string>The Lonely Island</string>
+			<key>Album Artist</key><string>The Lonely Island</string>
+			<key>Composer</key><string>Andrew Samberg, Akiva Schaffer, Jorma Taccone, Rhiannon Bryan, Rhydian Dafydd Davies &#38; Khari Cain</string>
+			<key>Album</key><string>Yolo (feat. Adam Levine &#38; Kendrick Lamar) - Single</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6696107</integer>
+			<key>Total Time</key><integer>188786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-02-24T07:51:32Z</date>
+			<key>Date Added</key><date>2013-02-24T07:51:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3448371122</integer>
+			<key>Play Date UTC</key><date>2013-04-09T15:52:02Z</date>
+			<key>Release Date</key><date>2013-01-25T08:00:00Z</date>
+			<key>Normalization</key><integer>7513</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Yolo (feat. Adam Levine &#38; Kendrick Lamar) - Single</string>
+			<key>Sort Album Artist</key><string>Lonely Island</string>
+			<key>Sort Artist</key><string>Lonely Island</string>
+			<key>Sort Name</key><string>Yolo (feat. Adam Levine &#38; Kendrick Lamar)</string>
+			<key>Persistent ID</key><string>08543BB4554A050D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/The%20Lonely%20Island/Yolo%20(feat.%20Adam%20Levine%20&#38;%20Kendrick%20Lamar/01%20Yolo%20(feat.%20Adam%20Levine%20&#38;%20Kendric.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>33012</key>
+		<dict>
+			<key>Track ID</key><integer>33012</integer>
+			<key>Name</key><string>Ingenue</string>
+			<key>Artist</key><string>Atoms For Peace</string>
+			<key>Composer</key><string>Michael Balzary/Joey Waronker/Mauro Refosco</string>
+			<key>Album</key><string>Amok</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8670731</integer>
+			<key>Total Time</key><integer>270889</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-02-25T12:49:42Z</date>
+			<key>Date Added</key><date>2013-02-25T12:49:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3448368906</integer>
+			<key>Play Date UTC</key><date>2013-04-09T15:15:06Z</date>
+			<key>Normalization</key><integer>1821</integer>
+			<key>Persistent ID</key><string>F368777895755384</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Atoms%20For%20Peace/Amok/03%20Ingenue.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March</string>
+			<key>Playlist ID</key><integer>65058</integer>
+			<key>Playlist Persistent ID</key><string>0E26FEFB2A8D537A</string>
+			<key>Parent Persistent ID</key><string>6A9751294AC8EC97</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21504</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15542</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

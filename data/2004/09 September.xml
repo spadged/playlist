@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3902</key>
+		<dict>
+			<key>Track ID</key><integer>3902</integer>
+			<key>Name</key><string>Caramel Prisoner</string>
+			<key>Artist</key><string>Air</string>
+			<key>Album Artist</key><string>Air</string>
+			<key>Album</key><string>10,000Hz Legend</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8333825</integer>
+			<key>Total Time</key><integer>296724</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-10-03T09:10:10Z</date>
+			<key>Date Added</key><date>2006-11-30T17:46:54Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>burn?</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288729441</integer>
+			<key>Play Date UTC</key><date>2008-03-18T22:57:21Z</date>
+			<key>Normalization</key><integer>1250</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01B1F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Air/10,000Hz%20Legend/11%20Caramel%20Prisoner.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5920</key>
+		<dict>
+			<key>Track ID</key><integer>5920</integer>
+			<key>Name</key><string>Forgetful Lucy</string>
+			<key>Artist</key><string>Adam Sandler</string>
+			<key>Album</key><string>50 first dates</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1809610</integer>
+			<key>Total Time</key><integer>111595</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-04-03T11:21:32Z</date>
+			<key>Date Added</key><date>2006-11-30T17:48:29Z</date>
+			<key>Bit Rate</key><integer>127</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3323433871</integer>
+			<key>Play Date UTC</key><date>2009-04-24T15:04:31Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01BA91</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/50%20first%20dates/13%20Forgetful%20Lucy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8958</key>
+		<dict>
+			<key>Track ID</key><integer>8958</integer>
+			<key>Name</key><string>Mama, You Been On My Mind</string>
+			<key>Artist</key><string>Jeff Buckley</string>
+			<key>Composer</key><string>Bob Dylan</string>
+			<key>Album</key><string>Grace</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4153757</integer>
+			<key>Total Time</key><integer>206497</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-10-03T09:15:20Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1271</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CB57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Jeff%20Buckley/Grace/2-05%20Mama,%20You%20Been%20On%20My%20Mind.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11782</key>
+		<dict>
+			<key>Track ID</key><integer>11782</integer>
+			<key>Name</key><string>Leaving Hope</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Album</key><string>Still</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8625440</integer>
+			<key>Total Time</key><integer>357564</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Date Modified</key><date>2006-03-29T16:43:36Z</date>
+			<key>Date Added</key><date>2006-11-30T17:53:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01D78C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Nine%20Inch%20Nails/Still/09%20Leaving%20Hope.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15282</key>
+		<dict>
+			<key>Track ID</key><integer>15282</integer>
+			<key>Name</key><string>All The Wine</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album</key><string>Cherry Tree</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4072056</integer>
+			<key>Total Time</key><integer>200202</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-09-20T13:55:06Z</date>
+			<key>Date Added</key><date>2006-11-30T18:04:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Own</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3288726970</integer>
+			<key>Play Date UTC</key><date>2008-03-18T22:16:10Z</date>
+			<key>Normalization</key><integer>8124</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>National</string>
+			<key>Persistent ID</key><string>C77DA932BD01E6B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20National/Cherry%20Tree/02%20All%20The%20Wine.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>09 September</string>
+			<key>Playlist ID</key><integer>67834</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A74</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8958</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3902</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5920</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11782</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

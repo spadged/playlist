@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-04-11T07:41:58Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/E:/</string>
+	<key>Library Persistent ID</key><string>D607696AFC4E0948</string>
+	<key>Tracks</key>
+	<dict>
+		<key>27110</key>
+		<dict>
+			<key>Track ID</key><integer>27110</integer>
+			<key>Name</key><string>Home</string>
+			<key>Artist</key><string>The Durutti Column</string>
+			<key>Composer</key><string>Vini Reilly</string>
+			<key>Album</key><string>The Best Of</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6877413</integer>
+			<key>Total Time</key><integer>338468</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:58Z</date>
+			<key>Date Added</key><date>2012-03-21T08:44:33Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3448369989</integer>
+			<key>Play Date UTC</key><date>2013-04-09T15:33:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1613</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best Of</string>
+			<key>Sort Artist</key><string>Durutti Column</string>
+			<key>Persistent ID</key><string>4E7BBF833B62F9A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/The%20Durutti%20Column/The%20Best%20Of/2-04%20Home.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32688</key>
+		<dict>
+			<key>Track ID</key><integer>32688</integer>
+			<key>Name</key><string>Shadow From Tartarus</string>
+			<key>Artist</key><string>Actress</string>
+			<key>Album Artist</key><string>Actress</string>
+			<key>Album</key><string>R.I.P.</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13077098</integer>
+			<key>Total Time</key><integer>326217</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-07T10:54:00Z</date>
+			<key>Date Added</key><date>2013-01-07T10:54:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3448368171</integer>
+			<key>Play Date UTC</key><date>2013-04-09T15:02:51Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-02-28T15:50:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE2825A3AB08A5F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Actress/R.I.P_/1-08%20Shadow%20From%20Tartarus.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32880</key>
+		<dict>
+			<key>Track ID</key><integer>32880</integer>
+			<key>Name</key><string>Such a Square</string>
+			<key>Artist</key><string>Flying Lotus</string>
+			<key>Album Artist</key><string>Flying Lotus</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1781099</integer>
+			<key>Total Time</key><integer>88946</integer>
+			<key>Date Modified</key><date>2013-02-01T19:52:31Z</date>
+			<key>Date Added</key><date>2013-01-29T17:49:20Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3448370078</integer>
+			<key>Play Date UTC</key><date>2013-04-09T15:34:38Z</date>
+			<key>Normalization</key><integer>4605</integer>
+			<key>Persistent ID</key><string>53FE66B2D643E7C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Flying%20Lotus/Unknown%20Album/Such%20a%20Square.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32904</key>
+		<dict>
+			<key>Track ID</key><integer>32904</integer>
+			<key>Name</key><string>Amplified Ease</string>
+			<key>Artist</key><string>Darkstar</string>
+			<key>Album</key><string>News From Nowhere</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9214035</integer>
+			<key>Total Time</key><integer>287869</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-02-05T13:46:01Z</date>
+			<key>Date Added</key><date>2013-02-05T13:45:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3448435087</integer>
+			<key>Play Date UTC</key><date>2013-04-10T09:38:07Z</date>
+			<key>Normalization</key><integer>1210</integer>
+			<key>Persistent ID</key><string>C2DF814DA66530C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Darkstar/News%20From%20Nowhere/07%20Amplified%20Ease.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32916</key>
+		<dict>
+			<key>Track ID</key><integer>32916</integer>
+			<key>Name</key><string>A New Error</string>
+			<key>Artist</key><string>Moderat</string>
+			<key>Composer</key><string>G. Bronsert, S. Szary &#38; S. Ring</string>
+			<key>Album</key><string>Moderat (Deluxe Version)</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11757784</integer>
+			<key>Total Time</key><integer>367360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-02-07T08:25:42Z</date>
+			<key>Date Added</key><date>2013-02-07T08:25:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3448371489</integer>
+			<key>Play Date UTC</key><date>2013-04-09T15:58:09Z</date>
+			<key>Normalization</key><integer>1305</integer>
+			<key>Sort Name</key><string>New Error</string>
+			<key>Persistent ID</key><string>3AE56F7353A3A08E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Moderat/Moderat%20(Deluxe%20Version)/01%20A%20New%20Error.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>02 February</string>
+			<key>Playlist ID</key><integer>65050</integer>
+			<key>Playlist Persistent ID</key><string>F4F65B478B141723</string>
+			<key>Parent Persistent ID</key><string>6A9751294AC8EC97</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>32880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32916</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32904</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32688</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

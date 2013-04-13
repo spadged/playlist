@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>19104</key>
+		<dict>
+			<key>Track ID</key><integer>19104</integer>
+			<key>Name</key><string>Mr Milk</string>
+			<key>Artist</key><string>Errors</string>
+			<key>Album</key><string>How Clean Is Your Acid House</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4292725</integer>
+			<key>Total Time</key><integer>263962</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Date Modified</key><date>2006-11-27T15:46:26Z</date>
+			<key>Date Added</key><date>2006-12-06T18:28:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3304177491</integer>
+			<key>Play Date UTC</key><date>2008-09-13T18:04:51Z</date>
+			<key>Normalization</key><integer>2634</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C4B031859F2ED48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Errors/How%20Clean%20Is%20Your%20Acid%20House/01%20Mr%20Milk.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19554</key>
+		<dict>
+			<key>Track ID</key><integer>19554</integer>
+			<key>Name</key><string>Remember</string>
+			<key>Artist</key><string>Groove Armada</string>
+			<key>Composer</key><string>Denny/Findlay</string>
+			<key>Album</key><string>Love Box</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7951170</integer>
+			<key>Total Time</key><integer>331206</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2006-11-15T09:50:52Z</date>
+			<key>Date Added</key><date>2006-12-06T18:28:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2008</integer>
+			<key>Persistent ID</key><string>9C4B031859F2EFE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Groove%20Armada/Love%20Box/03%20Remember.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>20248</key>
+		<dict>
+			<key>Track ID</key><integer>20248</integer>
+			<key>Name</key><string>La Ritournelle</string>
+			<key>Artist</key><string>Sébastien Tellier</string>
+			<key>Composer</key><string>Sebastien Tellier</string>
+			<key>Album</key><string>Politics</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10911589</integer>
+			<key>Total Time</key><integer>454556</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2007-01-02T20:41:51Z</date>
+			<key>Date Added</key><date>2007-01-02T19:41:18Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3304176566</integer>
+			<key>Play Date UTC</key><date>2008-09-13T17:49:26Z</date>
+			<key>Normalization</key><integer>1572</integer>
+			<key>Persistent ID</key><string>BE84F0074F2F4014</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/S%C3%A9bastien%20Tellier/Politics/05%20La%20Ritournelle.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>20392</key>
+		<dict>
+			<key>Track ID</key><integer>20392</integer>
+			<key>Name</key><string>This Time (I'm Gonna Try It My Way)</string>
+			<key>Artist</key><string>DJ Shadow</string>
+			<key>Composer</key><string>Unknown/J.Davis</string>
+			<key>Album</key><string>The Outsider</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4447266</integer>
+			<key>Total Time</key><integer>185208</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-01-02T21:52:38Z</date>
+			<key>Date Added</key><date>2007-01-02T20:52:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3254066015</integer>
+			<key>Play Date UTC</key><date>2007-02-11T18:13:35Z</date>
+			<key>Normalization</key><integer>4113</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Outsider</string>
+			<key>Persistent ID</key><string>BE84F0074F2F424E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/The%20Outsider/02%20This%20Time%20(I'm%20Gonna%20Try%20It%20My%20Wa.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>20450</key>
+		<dict>
+			<key>Track ID</key><integer>20450</integer>
+			<key>Name</key><string>Oh Mandy</string>
+			<key>Artist</key><string>The Spinto Band</string>
+			<key>Album Artist</key><string>The Spinto Band</string>
+			<key>Album</key><string>Nice and Nicely Done</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3448120</integer>
+			<key>Total Time</key><integer>215353</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2007-01-22T16:14:33Z</date>
+			<key>Date Added</key><date>2007-01-22T15:09:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304178193</integer>
+			<key>Play Date UTC</key><date>2008-09-13T18:16:33Z</date>
+			<key>Sort Album Artist</key><string>Spinto Band</string>
+			<key>Sort Artist</key><string>Spinto Band</string>
+			<key>Persistent ID</key><string>F38496A304F5042B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Spinto%20Band/Nice%20and%20Nicely%20Done/03%20Oh%20Mandy.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>20488</key>
+		<dict>
+			<key>Track ID</key><integer>20488</integer>
+			<key>Name</key><string>the prayer</string>
+			<key>Artist</key><string>Bloc Party</string>
+			<key>Album</key><string>A Weekend in The City</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6712184</integer>
+			<key>Total Time</key><integer>225097</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-02-07T18:21:56Z</date>
+			<key>Date Added</key><date>2007-02-10T21:14:58Z</date>
+			<key>Bit Rate</key><integer>238</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>---</string>
+			<key>Sort Album</key><string>Weekend in The City</string>
+			<key>Sort Name</key><string>prayer</string>
+			<key>Persistent ID</key><string>77D9E74B435C4262</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Bloc%20Party/A%20Weekend%20in%20The%20City/04%20the%20prayer.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24754</key>
+		<dict>
+			<key>Track ID</key><integer>24754</integer>
+			<key>Name</key><string>Patins</string>
+			<key>Artist</key><string>Cansei De Ser Sexy</string>
+			<key>Composer</key><string>Cansei De Ser Sexy</string>
+			<key>Album</key><string>Cansei De Ser Sexy</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3338199</integer>
+			<key>Total Time</key><integer>138997</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-01-02T11:20:17Z</date>
+			<key>Date Added</key><date>2008-01-16T22:55:12Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304179585</integer>
+			<key>Play Date UTC</key><date>2008-09-13T18:39:45Z</date>
+			<key>Normalization</key><integer>8551</integer>
+			<key>Persistent ID</key><string>DD7EAFADDB55A82F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Cansei%20De%20Ser%20Sexy/Cansei%20De%20Ser%20Sexy/02%20Patins.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28606</key>
+		<dict>
+			<key>Track ID</key><integer>28606</integer>
+			<key>Name</key><string>Long, Long, Long</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album</key><string>The White Album</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4549365</integer>
+			<key>Total Time</key><integer>184398</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2006-11-14T13:15:08Z</date>
+			<key>Date Added</key><date>2008-01-17T21:20:11Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3304176751</integer>
+			<key>Play Date UTC</key><date>2008-09-13T17:52:31Z</date>
+			<key>Sort Album</key><string>White Album</string>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>42A05833CEC07811</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Beatles/The%20White%20Album/2-07%20Long,%20Long,%20Long.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30206</key>
+		<dict>
+			<key>Track ID</key><integer>30206</integer>
+			<key>Name</key><string>Rebellion (Lies)</string>
+			<key>Artist</key><string>The Arcade Fire</string>
+			<key>Composer</key><string>The Arcade Fire</string>
+			<key>Album</key><string>Funeral</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12440715</integer>
+			<key>Total Time</key><integer>310961</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-03-19T00:01:36Z</date>
+			<key>Date Added</key><date>2008-03-18T23:01:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3318274306</integer>
+			<key>Play Date UTC</key><date>2009-02-23T21:51:46Z</date>
+			<key>Normalization</key><integer>5939</integer>
+			<key>Sort Artist</key><string>Arcade Fire</string>
+			<key>Sort Composer</key><string>Arcade Fire</string>
+			<key>Persistent ID</key><string>D5319BBBE6152D4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Arcade%20Fire/Funeral/09%20Rebellion%20(Lies).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30268</key>
+		<dict>
+			<key>Track ID</key><integer>30268</integer>
+			<key>Name</key><string>Golden Skans</string>
+			<key>Artist</key><string>Klaxons</string>
+			<key>Album Artist</key><string>Klaxons</string>
+			<key>Album</key><string>Myths Of The Near Future </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6629034</integer>
+			<key>Total Time</key><integer>165668</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-01-30T13:51:46Z</date>
+			<key>Date Added</key><date>2008-03-19T18:49:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304174023</integer>
+			<key>Play Date UTC</key><date>2008-09-13T17:07:03Z</date>
+			<key>Persistent ID</key><string>85642D3974C80CA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Klaxons/Myths%20Of%20The%20Near%20Future/03%20Golden%20Skans.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>01 January</string>
+			<key>Playlist ID</key><integer>68302</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A92</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>20248</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28606</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20488</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30268</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

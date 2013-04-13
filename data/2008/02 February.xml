@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>17242</key>
+		<dict>
+			<key>Track ID</key><integer>17242</integer>
+			<key>Name</key><string>The Horrible Fanfare/Landslide/Exoskelton</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Album</key><string>The Information</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15287620</integer>
+			<key>Total Time</key><integer>636891</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2006-10-02T13:50:24Z</date>
+			<key>Date Added</key><date>2006-12-06T18:26:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3316633555</integer>
+			<key>Play Date UTC</key><date>2009-02-04T22:05:55Z</date>
+			<key>Normalization</key><integer>2233</integer>
+			<key>Sort Album</key><string>Information</string>
+			<key>Sort Name</key><string>Horrible Fanfare/Landslide/Exoskelton</string>
+			<key>Persistent ID</key><string>9C4B031859F2D959</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Beck/The%20Information/15%20The%20Horrible%20Fanfare_Landslide_Ex.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27732</key>
+		<dict>
+			<key>Track ID</key><integer>27732</integer>
+			<key>Name</key><string>Weird Fishes/Arpeggi</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album Artist</key><string>Radiohead</string>
+			<key>Album</key><string>In Rainbows</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6367232</integer>
+			<key>Total Time</key><integer>318223</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-10-10T08:23:59Z</date>
+			<key>Date Added</key><date>2008-01-17T21:15:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3320351368</integer>
+			<key>Play Date UTC</key><date>2009-03-19T22:49:28Z</date>
+			<key>Persistent ID</key><string>42A05833CEC075A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Radiohead/In%20Rainbows/04%20Weird%20Fishes_Arpeggi.MP3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28978</key>
+		<dict>
+			<key>Track ID</key><integer>28978</integer>
+			<key>Name</key><string>Haven’t Got A Clue</string>
+			<key>Artist</key><string>The Flaming Lips</string>
+			<key>Composer</key><string>Wayne Coyne, Steven Drozd, Michael Ivins, Dave Fridmann, Greg Kurstin</string>
+			<key>Album</key><string>At War With The Mystics</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4945708</integer>
+			<key>Total Time</key><integer>205975</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2006-06-26T09:30:11Z</date>
+			<key>Date Added</key><date>2008-01-17T21:20:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3316633760</integer>
+			<key>Play Date UTC</key><date>2009-02-04T22:09:20Z</date>
+			<key>Normalization</key><integer>2753</integer>
+			<key>Sort Artist</key><string>Flaming Lips</string>
+			<key>Persistent ID</key><string>42A05833CEC078CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Flaming%20Lips/At%20War%20With%20The%20Mystics/09%20Haven_t%20Got%20A%20Clue.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29798</key>
+		<dict>
+			<key>Track ID</key><integer>29798</integer>
+			<key>Name</key><string>My Moon My Man (Boys Noize Remix)</string>
+			<key>Artist</key><string>Feist</string>
+			<key>Album Artist</key><string>Feist</string>
+			<key>Album</key><string>Kitsuné Maison 4</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6770593</integer>
+			<key>Total Time</key><integer>404192</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-17T23:24:06Z</date>
+			<key>Date Added</key><date>2008-01-17T22:28:23Z</date>
+			<key>Bit Rate</key><integer>132</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3316629047</integer>
+			<key>Play Date UTC</key><date>2009-02-04T20:50:47Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42A05833CEC07B00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Kitsun%C3%A9%20Maison%204/03%20My%20Moon%20My%20Man%20(Boys%20Noize%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30290</key>
+		<dict>
+			<key>Track ID</key><integer>30290</integer>
+			<key>Name</key><string>A&#38;E</string>
+			<key>Artist</key><string>Goldfrapp</string>
+			<key>Album</key><string>Seventh Tree</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4754395</integer>
+			<key>Total Time</key><integer>198008</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-02-25T09:47:56Z</date>
+			<key>Date Added</key><date>2008-03-19T18:49:22Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3330031425</integer>
+			<key>Play Date UTC</key><date>2009-07-09T23:43:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-09-12T17:30:27Z</date>
+			<key>Normalization</key><integer>2915</integer>
+			<key>Persistent ID</key><string>85642D3974C80CAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Goldfrapp/Seventh%20Tree/07%20A&#38;E.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>02 February</string>
+			<key>Playlist ID</key><integer>68488</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152AA1</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>28978</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29798</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30290</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

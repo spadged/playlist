@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4438</key>
+		<dict>
+			<key>Track ID</key><integer>4438</integer>
+			<key>Name</key><string>Emergency Exit (Remixed by Th' Corn Gangg)</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Composer</key><string>Beck Hansen</string>
+			<key>Album</key><string>Guerolito</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3258926</integer>
+			<key>Total Time</key><integer>198227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-01-31T10:45:40Z</date>
+			<key>Date Added</key><date>2006-11-30T17:47:16Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304351308</integer>
+			<key>Play Date UTC</key><date>2008-09-15T18:21:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-10-27T19:20:20Z</date>
+			<key>Normalization</key><integer>1344</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01B42E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Beck/Guerolito/13%20Emergency%20Exit%20(Remixed%20by%20Th'%20Co.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6952</key>
+		<dict>
+			<key>Track ID</key><integer>6952</integer>
+			<key>Name</key><string>Folsom Prison Blues</string>
+			<key>Artist</key><string>Johnny Cash</string>
+			<key>Album</key><string>The Very Best Of The Sun Years</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4056635</integer>
+			<key>Total Time</key><integer>168933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2006-02-24T10:01:34Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3330972753</integer>
+			<key>Play Date UTC</key><date>2009-07-20T21:12:33Z</date>
+			<key>Normalization</key><integer>1140</integer>
+			<key>Compilation</key><true/>
+			<key>Sort Album</key><string>Very Best Of The Sun Years</string>
+			<key>Persistent ID</key><string>C77DA932BD01C1E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/The%20Very%20Best%20Of%20The%20Sun%20Years/11%20Folsom%20Prison%20Blues.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7822</key>
+		<dict>
+			<key>Track ID</key><integer>7822</integer>
+			<key>Name</key><string>Prettiest Whore</string>
+			<key>Artist</key><string>East River Pipe</string>
+			<key>Album</key><string>Mel</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5124271</integer>
+			<key>Total Time</key><integer>212897</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2005-09-09T09:55:08Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>burn</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307991004</integer>
+			<key>Play Date UTC</key><date>2008-10-27T21:23:24Z</date>
+			<key>Normalization</key><integer>2320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C65E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/East%20River%20Pipe/Mel/10%20Prettiest%20Whore.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7860</key>
+		<dict>
+			<key>Track ID</key><integer>7860</integer>
+			<key>Name</key><string>You are Fading</string>
+			<key>Artist</key><string>Editors</string>
+			<key>Album</key><string>The Back Room</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4634941</integer>
+			<key>Total Time</key><integer>270602</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Date Modified</key><date>2006-03-01T13:53:56Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:07Z</date>
+			<key>Bit Rate</key><integer>136</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3307996044</integer>
+			<key>Play Date UTC</key><date>2008-10-27T22:47:24Z</date>
+			<key>Sort Album</key><string>Back Room</string>
+			<key>Persistent ID</key><string>C77DA932BD01C687</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Editors/The%20Back%20Room/2-03%20You%20are%20Fading.MP3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9060</key>
+		<dict>
+			<key>Track ID</key><integer>9060</integer>
+			<key>Name</key><string>I Know We Could Be So Happy Baby (If We Wanted To Be)</string>
+			<key>Artist</key><string>Jeff Buckley</string>
+			<key>Composer</key><string>Jeff Buckley</string>
+			<key>Album</key><string>Sketches For My Sweetheart The Drunk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6417727</integer>
+			<key>Total Time</key><integer>267311</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2006-02-08T10:46:24Z</date>
+			<key>Date Added</key><date>2006-11-30T17:50:59Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307986676</integer>
+			<key>Play Date UTC</key><date>2008-10-27T20:11:16Z</date>
+			<key>Normalization</key><integer>2614</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CBD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Jeff%20Buckley/Sketches%20For%20My%20Sweetheart%20The%20Drunk/2-04%20I%20Know%20We%20Could%20Be%20So%20Happy%20Bab.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9674</key>
+		<dict>
+			<key>Track ID</key><integer>9674</integer>
+			<key>Name</key><string>Borrowed Time</string>
+			<key>Artist</key><string>John Lennon</string>
+			<key>Composer</key><string>John Lennon</string>
+			<key>Album</key><string>Anthology</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5746904</integer>
+			<key>Total Time</key><integer>238680</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>4</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2005-10-03T09:14:50Z</date>
+			<key>Date Added</key><date>2006-11-30T17:51:28Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3316640411</integer>
+			<key>Play Date UTC</key><date>2009-02-05T00:00:11Z</date>
+			<key>Normalization</key><integer>702</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01CE5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/John%20Lennon/Anthology/4-12%20Borrowed%20Time.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12950</key>
+		<dict>
+			<key>Track ID</key><integer>12950</integer>
+			<key>Name</key><string>Cuttooth</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album</key><string>I Might be wrong. {special}</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5217513</integer>
+			<key>Total Time</key><integer>324597</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Date Modified</key><date>2005-10-03T09:08:06Z</date>
+			<key>Date Added</key><date>2006-11-30T17:54:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Burn?</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3330025394</integer>
+			<key>Play Date UTC</key><date>2009-07-09T22:03:14Z</date>
+			<key>Normalization</key><integer>4782</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01DCAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Radiohead/I%20Might%20be%20wrong.%20%7Bspecial%7D/05%20Cuttooth.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14672</key>
+		<dict>
+			<key>Track ID</key><integer>14672</integer>
+			<key>Name</key><string>A Day In The Life</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Composer</key><string>Lennon, John/Lennon-McCartney</string>
+			<key>Album</key><string>Sgt. Pepper's Lonely Hearts Club Band</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8048767</integer>
+			<key>Total Time</key><integer>333975</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2005-10-03T09:15:46Z</date>
+			<key>Date Added</key><date>2006-11-30T18:04:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3316641814</integer>
+			<key>Play Date UTC</key><date>2009-02-05T00:23:34Z</date>
+			<key>Normalization</key><integer>683</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Sort Name</key><string>Day In The Life</string>
+			<key>Persistent ID</key><string>C77DA932BD01E41C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/The%20Beatles/Sgt.%20Pepper's%20Lonely%20Hearts%20Club%20Band/13%20A%20Day%20In%20The%20Life.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16848</key>
+		<dict>
+			<key>Track ID</key><integer>16848</integer>
+			<key>Name</key><string>Pin</string>
+			<key>Artist</key><string>Yeah Yeah Yeahs</string>
+			<key>Composer</key><string>Yeah Yeah Yeahs</string>
+			<key>Album</key><string>Fever To Tell</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2633523</integer>
+			<key>Total Time</key><integer>120058</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-09-20T13:55:36Z</date>
+			<key>Date Added</key><date>2006-11-30T18:06:01Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3307990791</integer>
+			<key>Play Date UTC</key><date>2008-10-27T21:19:51Z</date>
+			<key>Normalization</key><integer>8142</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01ED6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Yeah%20Yeah%20Yeahs/Fever%20To%20Tell/06%20Pin.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>30146</key>
+		<dict>
+			<key>Track ID</key><integer>30146</integer>
+			<key>Name</key><string>Masters Of War</string>
+			<key>Artist</key><string>Bob Dylan</string>
+			<key>Album</key><string>The Freewheelin' Bob Dylan</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11132476</integer>
+			<key>Total Time</key><integer>278256</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1963</integer>
+			<key>Date Modified</key><date>2008-03-18T23:48:53Z</date>
+			<key>Date Added</key><date>2008-03-18T22:48:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3307988156</integer>
+			<key>Play Date UTC</key><date>2008-10-27T20:35:56Z</date>
+			<key>Normalization</key><integer>2639</integer>
+			<key>Sort Album</key><string>Freewheelin' Bob Dylan</string>
+			<key>Persistent ID</key><string>D5319BBBE6152C92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Bob%20Dylan/The%20Freewheelin'%20Bob%20Dylan/03%20Masters%20Of%20War.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>02 February</string>
+			<key>Playlist ID</key><integer>68131</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A85</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382E0</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9674</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12950</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14672</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6952</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9060</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16848</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7822</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7860</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30146</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

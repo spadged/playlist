@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-01-21T13:32:29Z</date>
+	<key>Application Version</key><string>11.0.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/</string>
+	<key>Library Persistent ID</key><string>D607696AFC4E0948</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11669</key>
+		<dict>
+			<key>Track ID</key><integer>11669</integer>
+			<key>Name</key><string>Strange Overtones</string>
+			<key>Artist</key><string>David Byrne &#38; Brian Eno</string>
+			<key>Album Artist</key><string>David Byrne &#38; Brian Eno</string>
+			<key>Album</key><string>Everything That Happens Will Happen Today</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10302967</integer>
+			<key>Total Time</key><integer>257515</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-09-28T10:36:48Z</date>
+			<key>Date Added</key><date>2012-03-21T09:43:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3441447747</integer>
+			<key>Play Date UTC</key><date>2013-01-19T13:42:27Z</date>
+			<key>Persistent ID</key><string>E22F9F988595512F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/David%20Byrne%20&#38;%20Brian%20Eno/Everything%20That%20Happens%20Will%20Happen%20Toda/07%20Strange%20Overtones.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>20689</key>
+		<dict>
+			<key>Track ID</key><integer>20689</integer>
+			<key>Name</key><string>The Line Begins to Blur</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>With Teeth</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5411817</integer>
+			<key>Total Time</key><integer>224496</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2005-10-03T10:10:18Z</date>
+			<key>Date Added</key><date>2012-03-21T09:44:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3440244249</integer>
+			<key>Play Date UTC</key><date>2013-01-05T15:24:09Z</date>
+			<key>Normalization</key><integer>5116</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Line Begins to Blur</string>
+			<key>Persistent ID</key><string>F3AE5BB97784BB5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Nine%20Inch%20Nails/With%20Teeth/11%20The%20Line%20Begins%20to%20Blur.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>29865</key>
+		<dict>
+			<key>Track ID</key><integer>29865</integer>
+			<key>Name</key><string>Big Chair</string>
+			<key>Artist</key><string>Travis</string>
+			<key>Album Artist</key><string>Travis</string>
+			<key>Album</key><string>The Boy With No Name</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5946872</integer>
+			<key>Total Time</key><integer>247771</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-09-28T10:39:22Z</date>
+			<key>Date Added</key><date>2012-03-21T09:44:38Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3440236575</integer>
+			<key>Play Date UTC</key><date>2013-01-05T13:16:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Boy With No Name</string>
+			<key>Persistent ID</key><string>C5FC3A9E714AF4FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Travis/The%20Boy%20With%20No%20Name/04%20Big%20Chair.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32811</key>
+		<dict>
+			<key>Track ID</key><integer>32811</integer>
+			<key>Name</key><string>Laura</string>
+			<key>Artist</key><string>Bat For Lashes</string>
+			<key>Composer</key><string>Justin Parker</string>
+			<key>Album</key><string>The Haunted Man</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8522736</integer>
+			<key>Total Time</key><integer>266266</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-10-15T12:24:22Z</date>
+			<key>Date Added</key><date>2012-10-15T12:24:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3440243841</integer>
+			<key>Play Date UTC</key><date>2013-01-05T15:17:21Z</date>
+			<key>Normalization</key><integer>1798</integer>
+			<key>Sort Album</key><string>Haunted Man</string>
+			<key>Persistent ID</key><string>2339C8ADDAF23224</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Bat%20For%20Lashes/The%20Haunted%20Man/05%20Laura.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>33011</key>
+		<dict>
+			<key>Track ID</key><integer>33011</integer>
+			<key>Name</key><string>Circumambient</string>
+			<key>Artist</key><string>Grimes</string>
+			<key>Album Artist</key><string>Grimes</string>
+			<key>Composer</key><string>Claire Boucher</string>
+			<key>Album</key><string>Visions</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7941313</integer>
+			<key>Total Time</key><integer>223026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-02T11:41:46Z</date>
+			<key>Date Added</key><date>2013-01-02T11:41:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3440762495</integer>
+			<key>Play Date UTC</key><date>2013-01-11T15:21:35Z</date>
+			<key>Release Date</key><date>2012-03-09T08:00:00Z</date>
+			<key>Normalization</key><integer>3350</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Visions</string>
+			<key>Sort Artist</key><string>Grimes</string>
+			<key>Sort Name</key><string>Circumambient</string>
+			<key>Persistent ID</key><string>A9E1104668C1B992</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/Grimes/Visions/05%20Circumambient.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>12 December</string>
+			<key>Playlist ID</key><integer>63763</integer>
+			<key>Playlist Persistent ID</key><string>D8C6796D322C24CF</string>
+			<key>Parent Persistent ID</key><string>3D9DD568D7300D5C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>20689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32811</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

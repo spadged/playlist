@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-01-09T09:26:24Z</date>
+	<key>Application Version</key><string>10.5.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>0CB08677A2F85983</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5949</key>
+		<dict>
+			<key>Track ID</key><integer>5949</integer>
+			<key>Name</key><string>Unravel</string>
+			<key>Artist</key><string>Björk</string>
+			<key>Album</key><string>Homogenic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4060481</integer>
+			<key>Total Time</key><integer>201848</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-10-03T10:10:50Z</date>
+			<key>Date Added</key><date>2010-06-29T10:54:37Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3406211278</integer>
+			<key>Play Date UTC</key><date>2011-12-08T17:47:58Z</date>
+			<key>Normalization</key><integer>1981</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>97A36BECD46968BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Bj%C3%B6rk/Homogenic/03%20Unravel.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>34197</key>
+		<dict>
+			<key>Track ID</key><integer>34197</integer>
+			<key>Name</key><string>Teenage Kicks</string>
+			<key>Artist</key><string>The Undertones</string>
+			<key>Album Artist</key><string>The Undertones</string>
+			<key>Composer</key><string>J.J.O'Neill</string>
+			<key>Album</key><string>The Undertones</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5309848</integer>
+			<key>Total Time</key><integer>148160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2011-08-05T11:29:41Z</date>
+			<key>Date Added</key><date>2011-08-05T11:29:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3407171026</integer>
+			<key>Play Date UTC</key><date>2011-12-19T20:23:46Z</date>
+			<key>Release Date</key><date>1979-01-01T00:00:00Z</date>
+			<key>Normalization</key><integer>8653</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Undertones</string>
+			<key>Sort Album Artist</key><string>Undertones</string>
+			<key>Sort Artist</key><string>Undertones</string>
+			<key>Persistent ID</key><string>79B6BD1978F09F2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/The%20Undertones/The%20Undertones/05%20Teenage%20Kicks.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>34199</key>
+		<dict>
+			<key>Track ID</key><integer>34199</integer>
+			<key>Name</key><string>Too Drunk to F**k</string>
+			<key>Artist</key><string>Dead Kennedys</string>
+			<key>Album Artist</key><string>Dead Kennedys</string>
+			<key>Album</key><string>Give Me Convenience or Give Me Death</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5876202</integer>
+			<key>Total Time</key><integer>160624</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2011-08-05T11:30:10Z</date>
+			<key>Date Added</key><date>2011-08-05T11:30:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3407169262</integer>
+			<key>Play Date UTC</key><date>2011-12-19T19:54:22Z</date>
+			<key>Release Date</key><date>1987-01-01T00:00:00Z</date>
+			<key>Normalization</key><integer>8264</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Too Drunk to Fuck</string>
+			<key>Persistent ID</key><string>247151C8387BCF07</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/Dead%20Kennedys/Give%20Me%20Convenience%20or%20Give%20Me%20Death/02%20Too%20Drunk%20to%20F__k.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>34201</key>
+		<dict>
+			<key>Track ID</key><integer>34201</integer>
+			<key>Name</key><string>Polish Girl</string>
+			<key>Artist</key><string>Neon Indian</string>
+			<key>Album</key><string>Era Extraña</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8806484</integer>
+			<key>Total Time</key><integer>264000</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2011-10-04T11:08:38Z</date>
+			<key>Date Added</key><date>2011-08-08T11:07:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3408787937</integer>
+			<key>Play Date UTC</key><date>2012-01-07T13:32:17Z</date>
+			<key>Normalization</key><integer>7858</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8811B859C534B673</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Neon%20Indian/Era%20Extra%C3%B1a/02%20Polish%20Girl.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>34239</key>
+		<dict>
+			<key>Track ID</key><integer>34239</integer>
+			<key>Name</key><string>If I Ever Feel Better</string>
+			<key>Artist</key><string>Phoenix</string>
+			<key>Album</key><string>United</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8531091</integer>
+			<key>Total Time</key><integer>266527</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2011-08-24T06:21:14Z</date>
+			<key>Date Added</key><date>2011-08-24T06:21:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3408896517</integer>
+			<key>Play Date UTC</key><date>2012-01-08T19:41:57Z</date>
+			<key>Normalization</key><integer>1921</integer>
+			<key>Persistent ID</key><string>F50871EE7D0E38FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Phoenix/United/04%20If%20I%20Ever%20Feel%20Better.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>08 August</string>
+			<key>Playlist ID</key><integer>54789</integer>
+			<key>Playlist Persistent ID</key><string>A422830D7FE52B4F</string>
+			<key>Parent Persistent ID</key><string>C1D74BEF6B659DB5</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34199</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-03-12T10:24:24Z</date>
+	<key>Application Version</key><string>10.6</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>627827E98632DD88</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3801</key>
+		<dict>
+			<key>Track ID</key><integer>3801</integer>
+			<key>Name</key><string>Speaking In Tongues</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>The Suburbs [Deluxe Edition]</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7581588</integer>
+			<key>Total Time</key><integer>232320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-07-06T09:53:01Z</date>
+			<key>Date Added</key><date>2012-03-11T13:28:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2968</integer>
+			<key>Sort Album</key><string>Suburbs [Deluxe Edition]</string>
+			<key>Persistent ID</key><string>1E4900D47526CA5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Arcade%20Fire/The%20Suburbs%20%5BDeluxe%20Edition%5D/18%20Speaking%20In%20Tongues.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6387</key>
+		<dict>
+			<key>Track ID</key><integer>6387</integer>
+			<key>Name</key><string>My Oldest Memory</string>
+			<key>Artist</key><string>Bowerbirds</string>
+			<key>Album</key><string>Hymns for a Dark Horse (2007, Burly Time)</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10874379</integer>
+			<key>Total Time</key><integer>271490</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2010-10-06T13:02:19Z</date>
+			<key>Date Added</key><date>2012-03-11T13:28:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3414391909</integer>
+			<key>Play Date UTC</key><date>2012-03-12T10:11:49Z</date>
+			<key>Normalization</key><integer>2389</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B378D6A1916E18F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Bowerbirds/Hymns%20for%20a%20Dark%20Horse%20(2007,%20Burly%20Time/06%20My%20Oldest%20Memory.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19795</key>
+		<dict>
+			<key>Track ID</key><integer>19795</integer>
+			<key>Name</key><string>Suns Irrupt</string>
+			<key>Artist</key><string>Neon Indian</string>
+			<key>Album</key><string>Era Extraña</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11257900</integer>
+			<key>Total Time</key><integer>328880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-04T11:10:03Z</date>
+			<key>Date Added</key><date>2012-03-11T13:31:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3414392238</integer>
+			<key>Play Date UTC</key><date>2012-03-12T10:17:18Z</date>
+			<key>Normalization</key><integer>6454</integer>
+			<key>Persistent ID</key><string>4A9D64C2F87A5BAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Neon%20Indian/Era%20Extra%C3%B1a/10%20Suns%20Irrupt.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>21055</key>
+		<dict>
+			<key>Track ID</key><integer>21055</integer>
+			<key>Name</key><string>Graceland</string>
+			<key>Artist</key><string>Paul Simon</string>
+			<key>Composer</key><string>Simon, Paul</string>
+			<key>Album</key><string>Graceland</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6993401</integer>
+			<key>Total Time</key><integer>290925</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2005-10-03T10:15:20Z</date>
+			<key>Date Added</key><date>2012-03-11T13:31:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3414392529</integer>
+			<key>Play Date UTC</key><date>2012-03-12T10:22:09Z</date>
+			<key>Normalization</key><integer>993</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>14F0F15CB2A8142B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Paul%20Simon/Graceland/02%20Graceland.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>25295</key>
+		<dict>
+			<key>Track ID</key><integer>25295</integer>
+			<key>Name</key><string>This Must Be The Place (Naive Melody)</string>
+			<key>Artist</key><string>Talking Heads</string>
+			<key>Composer</key><string>Chris Frantz/David Byrne/Jerry Hrrison/Tina Weymouth</string>
+			<key>Album</key><string>Stop Making Sense</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7264591</integer>
+			<key>Total Time</key><integer>297299</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2006-05-18T12:31:37Z</date>
+			<key>Date Added</key><date>2012-03-11T13:32:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3414390327</integer>
+			<key>Play Date UTC</key><date>2012-03-12T09:45:27Z</date>
+			<key>Normalization</key><integer>1577</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C31FC3760F0878F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Talking%20Heads/Stop%20Making%20Sense/11%20This%20Must%20Be%20The%20Place%20(Naive%20Mel.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>02 February</string>
+			<key>Playlist ID</key><integer>59390</integer>
+			<key>Playlist Persistent ID</key><string>81D078BBE1B760F4</string>
+			<key>Parent Persistent ID</key><string>7180450771F6D43A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25295</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/itunes/</string>
+	<key>Library Persistent ID</key><string>C77DA932BD01AA2E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4740</key>
+		<dict>
+			<key>Track ID</key><integer>4740</integer>
+			<key>Name</key><string>Foxtrot Uniform Charlie Kilo</string>
+			<key>Artist</key><string>Bloodhound Gang</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4985894</integer>
+			<key>Total Time</key><integer>171781</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2006-04-03T16:02:52Z</date>
+			<key>Date Added</key><date>2006-11-30T17:47:32Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3323444000</integer>
+			<key>Play Date UTC</key><date>2009-04-24T17:53:20Z</date>
+			<key>Persistent ID</key><string>C77DA932BD01B580</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Bloodhound%20Gang/Unknown%20Album/01%20Foxtrot%20Uniform%20Charlie%20Kilo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5822</key>
+		<dict>
+			<key>Track ID</key><integer>5822</integer>
+			<key>Name</key><string>Til Kingdom Come (Bonus Track)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5464687</integer>
+			<key>Total Time</key><integer>250279</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:12Z</date>
+			<key>Date Added</key><date>2006-11-30T17:48:25Z</date>
+			<key>Bit Rate</key><integer>174</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01B9FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Coldplay/X&#38;Y/13%20Til%20Kingdom%20Come%20(Bonus%20Track).mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6994</key>
+		<dict>
+			<key>Track ID</key><integer>6994</integer>
+			<key>Name</key><string>Deep Blue Day</string>
+			<key>Artist</key><string>Brian Eno</string>
+			<key>Composer</key><string>Brian Eno, Daniel Lanois, Roger Eno</string>
+			<key>Album</key><string>Trainspotting</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5704474</integer>
+			<key>Total Time</key><integer>236564</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2005-09-09T10:12:54Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:30Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>808</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C225</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Compilations/Trainspotting/02%20Deep%20Blue%20Day.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7234</key>
+		<dict>
+			<key>Track ID</key><integer>7234</integer>
+			<key>Name</key><string>We're Going Wrong</string>
+			<key>Artist</key><string>Cream</string>
+			<key>Composer</key><string>Jack Bruce</string>
+			<key>Album</key><string>Disraeli Gears</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5008264</integer>
+			<key>Total Time</key><integer>207177</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2005-11-01T11:14:18Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>804</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C3BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Cream/Disraeli%20Gears/08%20We're%20Going%20Wrong.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7674</key>
+		<dict>
+			<key>Track ID</key><integer>7674</integer>
+			<key>Name</key><string>Meet Me At The Pier</string>
+			<key>Artist</key><string>Doves</string>
+			<key>Composer</key><string>Jez Williams, Jimi Goodwin and Andy Williams</string>
+			<key>Album</key><string>Lost Sides</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3672979</integer>
+			<key>Total Time</key><integer>182831</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-09-20T13:54:14Z</date>
+			<key>Date Added</key><date>2006-11-30T17:49:59Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3305127677</integer>
+			<key>Play Date UTC</key><date>2008-09-24T18:01:17Z</date>
+			<key>Normalization</key><integer>7430</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C77DA932BD01C5B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/itunes/Doves/Lost%20Sides/04%20Meet%20Me%20At%20The%20Pier.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>08 August</string>
+			<key>Playlist ID</key><integer>68005</integer>
+			<key>Playlist Persistent ID</key><string>D5319BBBE6152A7F</string>
+			<key>Parent Persistent ID</key><string>3152A26BB9C382DF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7674</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5822</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

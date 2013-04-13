@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>10.3.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>0CB08677A2F85983</string>
+	<key>Tracks</key>
+	<dict>
+		<key>31572</key>
+		<dict>
+			<key>Track ID</key><integer>31572</integer>
+			<key>Name</key><string>Conversation 16</string>
+			<key>Artist</key><string>The National</string>
+			<key>Album Artist</key><string>The National</string>
+			<key>Album</key><string>High Violet</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10796916</integer>
+			<key>Total Time</key><integer>259004</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-05-10T09:37:20Z</date>
+			<key>Date Added</key><date>2010-06-29T10:01:19Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3391445164</integer>
+			<key>Play Date UTC</key><date>2011-06-20T19:06:04Z</date>
+			<key>Normalization</key><integer>4993</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High Violet</string>
+			<key>Sort Album Artist</key><string>National</string>
+			<key>Sort Artist</key><string>National</string>
+			<key>Persistent ID</key><string>4DEA4E2B2DBF3C40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/The%20National/High%20Violet/09%20Conversation%2016.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37580</key>
+		<dict>
+			<key>Track ID</key><integer>37580</integer>
+			<key>Name</key><string>U Should Know Better</string>
+			<key>Artist</key><string>Robyn</string>
+			<key>Album Artist</key><string>Robyn</string>
+			<key>Album</key><string>Body Talk</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8092038</integer>
+			<key>Total Time</key><integer>241319</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-02-08T14:57:52Z</date>
+			<key>Date Added</key><date>2011-02-08T14:59:52Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3391439115</integer>
+			<key>Play Date UTC</key><date>2011-06-20T17:25:15Z</date>
+			<key>Persistent ID</key><string>08A2D71A9FC0E722</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Robyn/Body%20Talk/11%20U%20Should%20Know%20Better.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37740</key>
+		<dict>
+			<key>Track ID</key><integer>37740</integer>
+			<key>Name</key><string>Codex</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album Artist</key><string>Radiohead</string>
+			<key>Album</key><string>The King Of Limbs</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11643008</integer>
+			<key>Total Time</key><integer>286928</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-02-16T16:08:16Z</date>
+			<key>Date Added</key><date>2011-02-18T15:23:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3391445450</integer>
+			<key>Play Date UTC</key><date>2011-06-20T19:10:50Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>King Of Limbs</string>
+			<key>Persistent ID</key><string>A5CE4928C26AC6B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Radiohead/The%20King%20Of%20Limbs/06%20Codex.MP3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37760</key>
+		<dict>
+			<key>Track ID</key><integer>37760</integer>
+			<key>Name</key><string>Rabbit Will Run</string>
+			<key>Artist</key><string>Iron &#38; Wine</string>
+			<key>Composer</key><string>Sam Beam</string>
+			<key>Album</key><string>Kiss Each Other Clean</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10619238</integer>
+			<key>Total Time</key><integer>331781</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-02-28T11:19:01Z</date>
+			<key>Date Added</key><date>2011-02-28T11:18:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>64</integer>
+			<key>Play Date</key><integer>3391442596</integer>
+			<key>Play Date UTC</key><date>2011-06-20T18:23:16Z</date>
+			<key>Normalization</key><integer>1633</integer>
+			<key>Persistent ID</key><string>B7C50B7B17BAA96D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Iron%20&#38;%20Wine/Kiss%20Each%20Other%20Clean/06%20Rabbit%20Will%20Run.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37776</key>
+		<dict>
+			<key>Track ID</key><integer>37776</integer>
+			<key>Name</key><string>Raincoats</string>
+			<key>Artist</key><string>Efterklang</string>
+			<key>Composer</key><string>Casper Clausen/Efterklang/Mads Brauer</string>
+			<key>Album</key><string>Magic Chairs</string>
+			<key>Genre</key><string>New Age</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8352240</integer>
+			<key>Total Time</key><integer>260937</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-02-28T11:23:11Z</date>
+			<key>Date Added</key><date>2011-02-28T11:23:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3391444437</integer>
+			<key>Play Date UTC</key><date>2011-06-20T18:53:57Z</date>
+			<key>Normalization</key><integer>1105</integer>
+			<key>Persistent ID</key><string>B9735E3C2993B101</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Efterklang/Magic%20Chairs/04%20Raincoats.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March</string>
+			<key>Playlist ID</key><integer>58967</integer>
+			<key>Playlist Persistent ID</key><string>07B1535B5CD500E2</string>
+			<key>Parent Persistent ID</key><string>C1D74BEF6B659DB5</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>37740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37776</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37760</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
