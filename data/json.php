@@ -15,16 +15,23 @@
 		
 		foreach($months as $month)
 		{
-			$playlist = get_playlist($year . "/" . $month);	
+			$month_file = $year . "/" . $month;
 			
-			$month = str_replace(".xml", "", $month);
-			$month = str_replace(" ", "", $month);
-			$month = str_replace("-", "", $month);
-			$month = preg_replace('/[^\\/\-a-z\s]/i', '', $month);
+			$month_parts = str_replace(".xml", "", $month);
+			$month_parts = preg_replace('/\?/', "", $month_parts);
+			$month_parts = str_replace("-", "", $month_parts);
+			$month_parts = str_replace("(", "", $month_parts);
+			$month_parts = str_replace(")", "", $month_parts);
+			$month_parts = explode(" ", $month_parts);
+			
+			$month_name = $month_parts[1];
+			$month_number = $month_parts[0];
+			
+			$playlist = get_playlist($month_file, $year, $month_number);	
 	
 			$month_data[] = array(
-				"month" => $month,
-				"songs" => $playlist
+				"month" => 	$month_name,
+				"songs" => 	$playlist
 			);
 		}
 		
@@ -36,10 +43,12 @@
 	
 	echo json_encode($data);
 	
-	function get_playlist($playlist_file)
+	function get_playlist($playlist_file, $year, $month)
 	{
 		// get songs from the xml file
 		$songs = iTunesXmlParser($playlist_file);
+		
+		$path_root = "music/" . $year . "/" . $month . "/";
 		
 		if ($songs)
 		{	
@@ -47,10 +56,15 @@
 			
 			foreach ($songs as $song)
 			{
+				$file_name = strtolower($song['Name']);
+				$file_name = str_replace(" ","-",$file_name);
+				$file_name = $file_name . ".mp3";
+				
 				$output[] = array(
 					"name" => 	$song["Name"],
 					"artist" => @$song["Artist"],
-					"album" => 	@$song["Album"]
+					"album" => 	@$song["Album"],
+					"path" =>	$path_root . $file_name
 				);
 			}
 
