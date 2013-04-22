@@ -74,7 +74,7 @@
 		<key>30271</key>
 		<dict>
 			<key>Track ID</key><integer>30271</integer>
-			<key>Name</key><string>Straight To Hell (Edited Version)</string>
+			<key>Name</key><string>Straight To Hell</string>
 			<key>Artist</key><string>The Clash</string>
 			<key>Composer</key><string>The Clash</string>
 			<key>Album</key><string>The Singles</string>
@@ -134,8 +134,8 @@
 		<key>35465</key>
 		<dict>
 			<key>Track ID</key><integer>35465</integer>
-			<key>Name</key><string>Cash in My Pocket (featuring Daniel Merriweather)</string>
-			<key>Artist</key><string>Wiley</string>
+			<key>Name</key><string>Cash in My Pocket</string>
+			<key>Artist</key><string>Wiley featuring Daniel Merriweather</string>
 			<key>Album Artist</key><string>Wiley</string>
 			<key>Album</key><string>See Clear Now</string>
 			<key>Genre</key><string>Grime</string>

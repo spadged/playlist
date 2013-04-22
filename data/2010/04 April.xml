@@ -14,8 +14,8 @@
 		<key>37541</key>
 		<dict>
 			<key>Track ID</key><integer>37541</integer>
-			<key>Name</key><string>Empire Ants Ft. Little Dragon</string>
-			<key>Artist</key><string>Gorillaz</string>
+			<key>Name</key><string>Empire Ants</string>
+			<key>Artist</key><string>Gorillaz featuring Little Dragon</string>
 			<key>Album</key><string>Plastic Beach</string>
 			<key>Genre</key><string>Alternative</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -112,8 +112,8 @@
 		<key>76586</key>
 		<dict>
 			<key>Track ID</key><integer>76586</integer>
-			<key>Name</key><string>...And The World Laughs With You (Ft. Thom Yorke)</string>
-			<key>Artist</key><string>Flying Lotus</string>
+			<key>Name</key><string>...And The World Laughs With You</string>
+			<key>Artist</key><string>Flying Lotus featuring Thom Yorke</string>
 			<key>Album Artist</key><string>Flying Lotus</string>
 			<key>Composer</key><string>Flying Lotus</string>
 			<key>Album</key><string>Cosmogramma</string>

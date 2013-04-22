@@ -6,37 +6,39 @@
 		<link type="text/css" href="lib/css/application.css" rel="stylesheet"/>
 	</head>
 	<body>
+		<section class="jumbotron">
+			<h1>10 Years</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
+			incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+			exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		</section>
+		
 		<section id="player-box">
 			
 			<div id="jquery_jplayer"></div>
 	
 			<div id="jp_container" class="demo-container">
 				<p>
+					<a class="jp-play" href="#">Play</a>
+						<a class="jp-pause" href="#">Pause</a>
+					|
 					<span class="play-state"></span> :
 					<span class="track-name">nothing</span>
 					at <span class="extra-play-info"></span>
 					of <span class="jp-duration"></span>, which is
 					<span class="jp-current-time"></span>
+					
+					&bull;
+					
+					<span id="date-info"></span>
+					
+					|
+					<a href="#" id="btn-prev">Previous</a>
+					<a href="#" id="btn-next">Next</a>
+					
 				</p>
-				<ul>
-					<li>
-						<a class="jp-play" href="#">Play</a>
-						<a class="jp-pause" href="#">Pause</a>
-					</li>
-					<li><a class="jp-stop" href="#">Stop</a></li>
-				</ul>
-				
-				<ul>
-					<li>
-						<a href="#">Next</a>
-					</li>
-					<li>
-						<a href="#">Previous</a>
-					</li>
-				</ul>
-				
 			</div>
-		</div>
+		
 
 		</section>
 		

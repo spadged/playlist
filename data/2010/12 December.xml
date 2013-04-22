@@ -13,7 +13,7 @@
 		<key>11656</key>
 		<dict>
 			<key>Track ID</key><integer>11656</integer>
-			<key>Name</key><string>In A Beautiful Place Out In The Country (Original By Boards Of Canada)</string>
+			<key>Name</key><string>In A Beautiful Place Out In The Country</string>
 			<key>Artist</key><string>Mira Calix with Oliver Coates</string>
 			<key>Album</key><string>Warp20: Recreated</string>
 			<key>Genre</key><string>Electronica/Dance</string>
@@ -121,7 +121,7 @@
 			<key>Track ID</key><integer>37548</integer>
 			<key>Name</key><string>Derezzed</string>
 			<key>Artist</key><string>Daft Punk</string>
-			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Album</key><string>Tron Legacy</string>
 			<key>Genre</key><string>Soundtrack</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>3078402</integer>

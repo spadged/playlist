@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-04-22T16:35:19Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/E:/</string>
+	<key>Library Persistent ID</key><string>D607696AFC4E0948</string>
+	<key>Tracks</key>
+	<dict>
+		<key>19343</key>
+		<dict>
+			<key>Track ID</key><integer>19343</integer>
+			<key>Name</key><string>God Bless Us All</string>
+			<key>Artist</key><string>N.E.R.D.</string>
+			<key>Album Artist</key><string>N.E.R.D.</string>
+			<key>Album</key><string>Nothing</string>
+			<key>Genre</key><string>Hip-Hop, Rock, funk, </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8425600</integer>
+			<key>Total Time</key><integer>209664</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-07T13:13:35Z</date>
+			<key>Date Added</key><date>2012-03-21T08:44:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3449487088</integer>
+			<key>Play Date UTC</key><date>2013-04-22T13:51:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F95A84F16882102C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/N.E.R.D_/Nothing/1-07%20God%20Bless%20Us%20All.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>29967</key>
+		<dict>
+			<key>Track ID</key><integer>29967</integer>
+			<key>Name</key><string>Letter #1</string>
+			<key>Artist</key><string>Willy Mason</string>
+			<key>Album Artist</key><string>Willy Mason</string>
+			<key>Composer</key><string>Willy Mason</string>
+			<key>Album</key><string>Where The Humans Eat</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1937622</integer>
+			<key>Total Time</key><integer>117773</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2008-09-15T19:13:30Z</date>
+			<key>Date Added</key><date>2012-03-21T08:44:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3449486879</integer>
+			<key>Play Date UTC</key><date>2013-04-22T13:47:59Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Persistent ID</key><string>CCCB2477DA22C1BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Willy%20Mason/Where%20The%20Humans%20Eat/07%20Letter%20%231.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32193</key>
+		<dict>
+			<key>Track ID</key><integer>32193</integer>
+			<key>Name</key><string>Odd Look</string>
+			<key>Artist</key><string>Kavinsky</string>
+			<key>Composer</key><string>Kavinsky</string>
+			<key>Album</key><string>OutRun</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9276735</integer>
+			<key>Total Time</key><integer>289828</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-04-10T14:09:34Z</date>
+			<key>Date Added</key><date>2013-04-10T14:09:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3449487378</integer>
+			<key>Play Date UTC</key><date>2013-04-22T13:56:18Z</date>
+			<key>Normalization</key><integer>14786</integer>
+			<key>Persistent ID</key><string>43CA3DB1439AEF17</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Kavinsky/OutRun/04%20Odd%20Look.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>64722</key>
+		<dict>
+			<key>Track ID</key><integer>64722</integer>
+			<key>Name</key><string>Mosquito</string>
+			<key>Artist</key><string>Yeah Yeah Yeahs</string>
+			<key>Album Artist</key><string>Yeah Yeah Yeahs</string>
+			<key>Composer</key><string>Karen O, Nick Zinner, Brian Chase</string>
+			<key>Album</key><string>Mosquito</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5753395</integer>
+			<key>Total Time</key><integer>179722</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-04-22T07:51:01Z</date>
+			<key>Date Added</key><date>2013-04-22T07:50:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3449489585</integer>
+			<key>Play Date UTC</key><date>2013-04-22T14:33:05Z</date>
+			<key>Normalization</key><integer>9604</integer>
+			<key>Persistent ID</key><string>E4ADBA83B5758B31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/Yeah%20Yeah%20Yeahs/Mosquito/03%20Mosquito.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>72659</key>
+		<dict>
+			<key>Track ID</key><integer>72659</integer>
+			<key>Name</key><string>Get Lucky</string>
+			<key>Artist</key><string>Daft Punk feat. Pharrell Williams</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Pharrell Williams, Thomas Bangalter, Guy-Manuel de Homem-Christo &#38; Nile Rodgers</string>
+			<key>Album</key><string>Get Lucky - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8793253</integer>
+			<key>Total Time</key><integer>247632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-04-22T08:44:51Z</date>
+			<key>Date Added</key><date>2013-04-22T08:43:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3449490890</integer>
+			<key>Play Date UTC</key><date>2013-04-22T14:54:50Z</date>
+			<key>Release Date</key><date>2013-04-19T07:00:00Z</date>
+			<key>Normalization</key><integer>1691</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Get Lucky (Radio Edit) [feat. Pharrell Williams] - Single</string>
+			<key>Sort Artist</key><string>Daft Punk</string>
+			<key>Sort Name</key><string>Get Lucky (Radio Edit) [feat. Pharrell Williams]</string>
+			<key>Persistent ID</key><string>4EE72597775EFF40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/Daft%20Punk/Get%20Lucky%20-%20Single/01%20Get%20Lucky.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>04 April</string>
+			<key>Playlist ID</key><integer>63376</integer>
+			<key>Playlist Persistent ID</key><string>7A2BA37057A9E5CC</string>
+			<key>Parent Persistent ID</key><string>6A9751294AC8EC97</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>29967</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>64722</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>72659</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

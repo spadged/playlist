@@ -43,7 +43,7 @@
 			<key>Track ID</key><integer>37432</integer>
 			<key>Name</key><string>Disc Wars</string>
 			<key>Artist</key><string>Daft Punk</string>
-			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Album</key><string>Tron Legacy</string>
 			<key>Genre</key><string>Soundtrack</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>6114018</integer>
@@ -98,8 +98,8 @@
 		<key>37642</key>
 		<dict>
 			<key>Track ID</key><integer>37642</integer>
-			<key>Name</key><string>Lost In The World (feat. Bon Iver)</string>
-			<key>Artist</key><string>Kanye West</string>
+			<key>Name</key><string>Lost In The World</string>
+			<key>Artist</key><string>Kanye West featuring Bon Iver</string>
 			<key>Album</key><string>My Beautiful Dark Twisted Fantasy</string>
 			<key>Genre</key><string>Hip-Hop</string>
 			<key>Kind</key><string>MPEG audio file</string>

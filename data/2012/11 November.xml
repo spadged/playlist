@@ -115,7 +115,7 @@
 		<key>32853</key>
 		<dict>
 			<key>Track ID</key><integer>32853</integer>
-			<key>Name</key><string>The Romance of the Telescope (feat. Andrew Cedermark)</string>
+			<key>Name</key><string>The Romance of the Telescope</string>
 			<key>Artist</key><string>Lushlife &#38; Andrew Cedermark</string>
 			<key>Album Artist</key><string>Lushlife</string>
 			<key>Album</key><string>Plateau Vision</string>
@@ -149,8 +149,8 @@
 		<key>32895</key>
 		<dict>
 			<key>Track ID</key><integer>32895</integer>
-			<key>Name</key><string>Eclipse / Blue (feat. Kazu Makino)</string>
-			<key>Artist</key><string>Nosaj Thing</string>
+			<key>Name</key><string>Eclipse / Blue </string>
+			<key>Artist</key><string>Nosaj Thing featuring Kazu Makino</string>
 			<key>Album Artist</key><string>Nosaj Thing</string>
 			<key>Album</key><string>Eclipse / Blue (feat. Kazu Makino) - Single</string>
 			<key>Genre</key><string>Electronic</string>
