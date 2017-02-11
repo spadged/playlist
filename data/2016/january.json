@@ -1,0 +1,32 @@
+[
+	{
+		"album": "Blackstar",
+		"name": "I Can't Give Everything Away",
+		"artist": "David Bowie",
+		"image": "https://i.scdn.co/image/de1c3166528adc912b746cac1f28ccd501801218"
+	},
+	{
+		"album": "Move Systems",
+		"name": "Move Systems",
+		"artist": "Georgia",
+		"image": "https://i.scdn.co/image/aea5630726910963ed16adc5c65db6f333096d82"
+	},
+	{
+		"album": "Persephone Dreams",
+		"name": "Persephone Dreams",
+		"artist": "NZCA LINES",
+		"image": "https://i.scdn.co/image/1159f295addfe365ec3ed9b9189e11dc9fce76e8"
+	},
+	{
+		"album": "Trick",
+		"name": "First Impressions",
+		"artist": "Kele",
+		"image": "https://i.scdn.co/image/c0cf66b57374145e85c8ea184e09e871c405282e"
+	},
+	{
+		"album": "Lost in the Dream",
+		"name": "Under The Pressure",
+		"artist": "The War On Drugs",
+		"image": "https://i.scdn.co/image/bb2baeb4e627df0aeff6e863ff713693803fc57d"
+	}
+]

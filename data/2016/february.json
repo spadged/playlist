@@ -1,0 +1,32 @@
+[
+	{
+		"album": "Reminder",
+		"name": "Reminder",
+		"artist": "Moderat",
+		"image": "https://i.scdn.co/image/b117e7c08253bcaa280a8f78abb3951dd38fa900"
+	},
+	{
+		"album": "A Retelling",
+		"name": "A Retelling",
+		"artist": "Kindness",
+		"image": "https://i.scdn.co/image/c3f72521aa6cdca7d30eeba86370792fd759056f"
+	},
+	{
+		"album": "Big Black Coat",
+		"name": "Over It",
+		"artist": "Junior Boys",
+		"image": "https://i.scdn.co/image/3bdaf435163262bb1260f8144a791a4f2af91ac2"
+	},
+	{
+		"album": "Water",
+		"name": "Water",
+		"artist": "Ra Ra Riot",
+		"image": "https://i.scdn.co/image/9e81ec87b18ab262a52a3e73e2577c122a1b831c"
+	},
+	{
+		"album": "I Love You, Honeybear",
+		"name": "True Affection",
+		"artist": "Father John Misty",
+		"image": "https://i.scdn.co/image/a6fa9772b2ac5aca79013afa96c05101f6d24b59"
+	}
+]

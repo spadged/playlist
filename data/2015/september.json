@@ -1,0 +1,32 @@
+[
+	{
+		"album": "Singles",
+		"name": "Seasons (Waiting On You)",
+		"artist": "Future Islands",
+		"image": "https://i.scdn.co/image/166d6c384231563865ae733ef162d493a1775b89"
+	},
+	{
+		"album": "Viet Cong",
+		"name": "Continental Shelf",
+		"artist": "Viet Cong",
+		"image": "https://i.scdn.co/image/5cedad9b9f465eecd979094d163ce04c114e9464"
+	},
+	{
+		"album": "Sparks",
+		"name": "Sparks",
+		"artist": "Beach House",
+		"image": "https://i.scdn.co/image/53a426779cd300cf51418a981196289451fcb6d5"
+	},
+	{
+		"album": "Happiness Is Happening",
+		"name": "Wilkie",
+		"artist": "Roman Flügel",
+		"image": "https://i.scdn.co/image/3d968a0845898bff80d0b405fcf8bc1d888dec3f"
+	},
+	{
+		"album": "White Men Are Black Men Too",
+		"name": "Nest",
+		"artist": "Young Fathers",
+		"image": "https://i.scdn.co/image/1c8a96a2c89648bb8b88a83aa0afb92fb8f33555"
+	}
+]

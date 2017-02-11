@@ -1,0 +1,32 @@
+[
+	{
+		"album": "Currents",
+		"name": "Yes I'm Changing",
+		"artist": "Tame Impala",
+		"image": "https://i.scdn.co/image/baf2307038b91139d25efafe175e2a66369efeb8"
+	},
+	{
+		"album": "Born In The Echoes",
+		"name": "Wide Open",
+		"artist": "The Chemical Brothers",
+		"image": "https://i.scdn.co/image/5fa791f48d2bc2d664a6bff1ef2781e42d14938f"
+	},
+	{
+		"album": "The Best Of DMX",
+		"name": "X Gon' Give It To Ya",
+		"artist": "DMX",
+		"image": "https://i.scdn.co/image/a103ec4668f4e62387d7a19ade57a283aaf73527"
+	},
+	{
+		"album": "Ceremony",
+		"name": "Mountains Crave",
+		"artist": "Anna von Hausswolff",
+		"image": "https://i.scdn.co/image/ff179eaffa1c868563f0b1f0b97af020547d8220"
+	},
+	{
+		"album": "Inherent Vice (Original Motion Picture Soundtrack)",
+		"name": "Amethyst",
+		"artist": "Jonny Greenwood",
+		"image": "https://i.scdn.co/image/f0d318466e21f4718970bc1603821e2ffda1c865"
+	}
+]

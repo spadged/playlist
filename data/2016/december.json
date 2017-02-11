@@ -1,0 +1,32 @@
+[
+	{
+		"album": "Shadow",
+		"name": "Shadow - Radio",
+		"artist": "Chromatics",
+		"image": "https://i.scdn.co/image/0b818eb30affb344ce9914f211e85f41172868f7"
+	},
+	{
+		"album": "Harry Patch (In Memory Of)",
+		"name": "Harry Patch (In Memory Of)",
+		"artist": "Radiohead",
+		"image": "https://i.scdn.co/image/0c683e9b6d1de017b73490994ada347d3858c291"
+	},
+	{
+		"album": "Magnificent (She Says)",
+		"name": "Magnificent (She Says)",
+		"artist": "Elbow",
+		"image": "https://i.scdn.co/image/18a9ce893a507f10c0bd0671919908d2c6c556b2"
+	},
+	{
+		"album": "Actor",
+		"name": "The Strangers",
+		"artist": "St. Vincent",
+		"image": "https://i.scdn.co/image/3879faade0bfec9b0403e8ba60ab121eeb9fc90d"
+	},
+	{
+		"album": "Mind the Gap",
+		"name": "Unicron Loev",
+		"artist": "Raleigh Ritchie",
+		"image": "https://i.scdn.co/image/934d613513591a4730d9539ec0c04352e1465e8e"
+	}
+]

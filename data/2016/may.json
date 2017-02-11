@@ -1,0 +1,32 @@
+[
+	{
+		"album": "Burn the Witch",
+		"name": "Burn the Witch",
+		"artist": "Radiohead",
+		"image": "https://i.scdn.co/image/fc67258a36d4631239593313bdd55a16be3885f6"
+	},
+	{
+		"album": "In Conflict",
+		"name": "In Conflict",
+		"artist": "Owen Pallett",
+		"image": "https://i.scdn.co/image/d38dec985f9fde03937a398257b855ec237e1bb0"
+	},
+	{
+		"album": "Currents",
+		"name": "The Less I Know The Better",
+		"artist": "Tame Impala",
+		"image": "https://i.scdn.co/image/baf2307038b91139d25efafe175e2a66369efeb8"
+	},
+	{
+		"album": "VEGA INTL. Night School",
+		"name": "Techno Clique",
+		"artist": "Neon Indian",
+		"image": "https://i.scdn.co/image/18ee38f742d042fe372d1f571e6669d380889f57"
+	},
+	{
+		"album": "White Men Are Black Men Too",
+		"name": "Sirens",
+		"artist": "Young Fathers",
+		"image": "https://i.scdn.co/image/1c8a96a2c89648bb8b88a83aa0afb92fb8f33555"
+	}
+]

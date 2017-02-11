@@ -1,0 +1,32 @@
+[
+	{
+		"album": "Every Open Eye",
+		"name": "Leave A Trace",
+		"artist": "CHVRCHES",
+		"image": "https://i.scdn.co/image/0dec7f4f954040c6605d3cec1aae5c54ad4dffea"
+	},
+	{
+		"album": "Second Summer",
+		"name": "Second Summer - RAC Remix",
+		"artist": "YACHT",
+		"image": "https://i.scdn.co/image/3c74cb58541d448e175457799a9c98862b755420"
+	},
+	{
+		"album": "Painting With",
+		"name": "Vertical",
+		"artist": "Animal Collective",
+		"image": "https://i.scdn.co/image/bca121db78a731d97218e2ce1da30faa8ecdd8ed"
+	},
+	{
+		"album": "A Different Kind Of Fix",
+		"name": "Shuffle",
+		"artist": "Bombay Bicycle Club",
+		"image": "https://i.scdn.co/image/f528d63f8374236afdf61763d372c4a90fc37154"
+	},
+	{
+		"album": "Big Black Coat",
+		"name": "What You Won't Do For Love",
+		"artist": "Junior Boys",
+		"image": "https://i.scdn.co/image/3bdaf435163262bb1260f8144a791a4f2af91ac2"
+	}
+]

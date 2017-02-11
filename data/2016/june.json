@@ -1,0 +1,32 @@
+[
+	{
+		"album": "A Moon Shaped Pool",
+		"name": "Present Tense",
+		"artist": "Radiohead",
+		"image": "https://i.scdn.co/image/0d1460c036897175f4631e8480ea4a2217bf5447"
+	},
+	{
+		"album": "Going Somewhere",
+		"name": "Maggie",
+		"artist": "Colin Hay",
+		"image": "https://i.scdn.co/image/4fa4949210be8c8b8f8a0ac736f28b79c8146fd1"
+	},
+	{
+		"album": "Chaleur Humaine",
+		"name": "Tilted",
+		"artist": "Christine and the Queens",
+		"image": "https://i.scdn.co/image/3657a97c489a906310915e64586d7bb30754661a"
+	},
+	{
+		"album": "Tango In The Night",
+		"name": "Everywhere",
+		"artist": "Fleetwood Mac",
+		"image": "https://i.scdn.co/image/6b0c9a134a02a54a1c330dd0043aad286ec16857"
+	},
+	{
+		"album": "The Bride",
+		"name": "Joe's Dream",
+		"artist": "Bat For Lashes",
+		"image": "https://i.scdn.co/image/7a628de9b3bb2bc949b4d34b4bbe63bfba4c4150"
+	}
+]

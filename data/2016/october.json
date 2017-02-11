@@ -1,0 +1,32 @@
+[
+	{
+		"album": "American VI: Ain't No Grave",
+		"name": "Ain't No Grave",
+		"artist": "Johnny Cash",
+		"image": "https://i.scdn.co/image/51c72726686a7e0bad28ca9c94e3749b485583ba"
+	},
+	{
+		"album": "Ritual De Lo Habitual (Amended Artwork)",
+		"name": "Been Caught Stealing",
+		"artist": "Jane's Addiction",
+		"image": "https://i.scdn.co/image/ead5bc0077c3412c8e97dd14e51efb03a4893b7a"
+	},
+	{
+		"album": "Sweet Dreams (Are Made Of This)",
+		"name": "Sweet Dreams (Are Made of This) - Remastered",
+		"artist": "Eurythmics",
+		"image": "https://i.scdn.co/image/18ea6d20b0d127f24bda175eb5533806caa884b8"
+	},
+	{
+		"album": "Beggars Banquet",
+		"name": "Sympathy For The Devil",
+		"artist": "The Rolling Stones",
+		"image": "https://i.scdn.co/image/3cfeec4d1eb0ffbed34781e4fb3ee57c07cde70a"
+	},
+	{
+		"album": "Cosmos",
+		"name": "Le sable",
+		"artist": "Sunrom",
+		"image": "https://i.scdn.co/image/6be3fd4696a2ac6fd6303518424f9580b3ab2b39"
+	}
+]
