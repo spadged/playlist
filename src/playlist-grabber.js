@@ -65,18 +65,15 @@ function getPlaylist(userId)
 				var name = playlist.name.toLowerCase();
 
 				if (name.indexOf('top 5') != -1) {
-					//console.log(playlist);
 					var parts = name.split(" top 5 ");
 					var month = parts[0];
 					var year = parts[1];
 
-					//console.log(playlist);
+					/* this is really naughty - should use Q */
 
 					getPlaylistContent(userId, playlist, year, month);
 				}
 			}
-
-			//getPlaylistContent(userId, playlists[1]);
 		},
 		function (err)
 		{
@@ -87,8 +84,6 @@ function getPlaylist(userId)
 
 function getPlaylistContent(user, playlist, year, month)
 {
-	//console.log(playlist.id, user);
-	
 	spotifyApi.getPlaylistTracks(user, playlist.id)
   	.then(function(data)
 	  {
