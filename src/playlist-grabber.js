@@ -82,32 +82,77 @@ function getPlaylist(userId)
 	);
 }
 
+var lookup = {};
+
 function getPlaylistContent(user, playlist, year, month)
 {
 	spotifyApi.getPlaylistTracks(user, playlist.id)
   	.then(function(data)
 	  {
-    	console.log('The playlist contains these tracks', data.body);
-
 		var items = data.body.items;
 
 		var path = "../data/" + year + "/" + month + ".json";
 		
-		data = [];
+		var data = {
+			name: playlist.name,
+			month: month,
+			year:year,
+			id: playlist.id,
+			tracks: []
+		};
 
 		for(var i = 0; i < items.length; i++)
 		{
-			var item = items[i].track;
+			var item = items[i].track;			
 
-			data.push({
-				"album": item.album.name,
+			var track = {
+				"album":{
+					"name": item.album.name,
+					"image": item.album.images[0].url,
+					"year": "",
+					"id": item.album.id
+				},
+				"artist":[],
 				"name": item.name,
-				"artist": item.artists[0].name,
-				"image": item.album.images[0].url
-			});
+				"id": item.id,
+				"length": item.duration_ms
+			};
+
+			for(var z = 0; z < item.artists.length; z++)
+			{
+				var name = item.artists[z].name;
+				var id = item.artists[z].id;
+				
+				track.artist.push({
+					"name": name,
+					"id": id
+				});
+
+				if(lookup[name] == undefined)
+				{
+					lookup[name] = {
+						id: id,
+						albums: {}
+					}
+				}
+
+				lookup[name].albums[item.album.name] = item.album.id;
+			}
+
+			data.tracks.push(track);
 		}
 
 		fs.writeFileSync(path, JSON.stringify(data, null, '\t'));
+
+		try{
+			fs.writeFileSync("../data/lookup.json", JSON.stringify(lookup, null, '\t'));
+		}
+		catch(err)
+		{
+			console.log(err);
+		}
+
+		
 
   	}, function(err)
 	  {
