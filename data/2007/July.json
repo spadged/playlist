@@ -1,0 +1,93 @@
+{
+	"name": "July",
+	"month": "07",
+	"year": "2007",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "The Warning",
+				"image": "",
+				"year": 2006,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Hot Chip",
+					"id": ""
+				}
+			],
+			"name": "Boys From School",
+			"id": "",
+			"length": 319712
+		},
+		{
+			"album": {
+				"name": "Discovery",
+				"image": "",
+				"year": 2001,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Daft Punk",
+					"id": ""
+				}
+			],
+			"name": "Harder, Better, Faster, Stronger",
+			"id": "",
+			"length": 224339
+		},
+		{
+			"album": {
+				"name": "Cross",
+				"image": "",
+				"year": 2007,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Justice",
+					"id": ""
+				}
+			],
+			"name": "D.A.N.C.E",
+			"id": "",
+			"length": 242311
+		},
+		{
+			"album": {
+				"name": "We Are The Night",
+				"image": "",
+				"year": 2007,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "The Chemical Brothers",
+					"id": "1GhPHrq36VKCY3ucVaZCfo"
+				}
+			],
+			"name": "The Salmon Dance",
+			"id": "",
+			"length": 220290
+		},
+		{
+			"album": {
+				"name": "Crystal Castles",
+				"image": "",
+				"year": 2008,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Crystal Castles",
+					"id": ""
+				}
+			],
+			"name": "Love and caring",
+			"id": "",
+			"length": 140486
+		}
+	]
+}

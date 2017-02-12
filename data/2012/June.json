@@ -1,0 +1,92 @@
+{
+	"name": "June",
+	"month": "06",
+	"year": "2012",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "To Lose My Life",
+				"image": "",
+				"year": 2009,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "White Lies",
+					"id": ""
+				}
+			],
+			"name": "Fifty On Our Foreheads",
+			"id": "",
+			"length": 261720
+		},
+		{
+			"album": {
+				"name": "World, You Need A Change Of Mind",
+				"image": "",
+				"year": 2012,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Kindness",
+					"id": "6SYIsHAQ1sPokVxmzpaDBU"
+				}
+			],
+			"name": "Swingin Party",
+			"id": "",
+			"length": 237923
+		},
+		{
+			"album": {
+				"name": "In Our Heads",
+				"image": "",
+				"year": 2012,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Hot Chip",
+					"id": ""
+				}
+			],
+			"name": "Ends Of The Earth",
+			"id": "",
+			"length": 340924
+		},
+		{
+			"album": {
+				"name": "Mixed Emotions",
+				"image": "",
+				"year": 2012,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Tanlines",
+					"id": ""
+				}
+			],
+			"name": "Brothers",
+			"id": "",
+			"length": 248424
+		},
+		{
+			"album": {
+				"name": "Nightlife",
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Phantogram",
+					"id": ""
+				}
+			],
+			"name": "Don't Move",
+			"id": "",
+			"length": 257750
+		}
+	]
+}

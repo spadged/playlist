@@ -1,0 +1,92 @@
+{
+	"name": "August",
+	"month": "08",
+	"year": "2012",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Cerulean",
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Baths",
+					"id": ""
+				}
+			],
+			"name": "Rafting Starlit Everglades",
+			"id": "",
+			"length": 237662
+		},
+		{
+			"album": {
+				"name": "Mind Bokeh",
+				"image": "",
+				"year": 2010,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Bibio",
+					"id": ""
+				}
+			],
+			"name": "Feminine Eye",
+			"id": "",
+			"length": 110628
+		},
+		{
+			"album": {
+				"name": "Player Piano",
+				"image": "",
+				"year": 2011,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Memory Tapes",
+					"id": ""
+				}
+			],
+			"name": "Humming",
+			"id": "",
+			"length": 166920
+		},
+		{
+			"album": {
+				"name": "World, You Need A Change Of Mind",
+				"image": "",
+				"year": 2012,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Kindness",
+					"id": "6SYIsHAQ1sPokVxmzpaDBU"
+				}
+			],
+			"name": "Seod",
+			"id": "",
+			"length": 390582
+		},
+		{
+			"album": {
+				"name": "Fragrant World",
+				"image": "",
+				"year": 2012,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Yeasayer",
+					"id": ""
+				}
+			],
+			"name": "Fingers Never Bleed",
+			"id": "",
+			"length": 269871
+		}
+	]
+}

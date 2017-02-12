@@ -1,0 +1,93 @@
+{
+	"name": "June",
+	"month": "06",
+	"year": "2004",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Clinic",
+				"image": "",
+				"year": 2001,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Clinic",
+					"id": ""
+				}
+			],
+			"name": "Porno",
+			"id": "",
+			"length": 231862
+		},
+		{
+			"album": {
+				"name": "Kill Bill Volume 2",
+				"image": "",
+				"year": 2004,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Ennio Morricone",
+					"id": ""
+				}
+			],
+			"name": "L Arena",
+			"id": "",
+			"length": 286066
+		},
+		{
+			"album": {
+				"name": "Either/Or",
+				"image": "",
+				"year": 1998,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Elliott Smith",
+					"id": ""
+				}
+			],
+			"name": "Between the Bars",
+			"id": "",
+			"length": 141217
+		},
+		{
+			"album": {
+				"name": "Hello",
+				"image": "",
+				"year": 2001,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Half Japanese",
+					"id": ""
+				}
+			],
+			"name": "Red Sun",
+			"id": "",
+			"length": 127268
+		},
+		{
+			"album": {
+				"name": "Fever To Tell",
+				"image": "",
+				"year": 2003,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Yeah Yeah Yeahs",
+					"id": "3TNt4aUIxgfy9aoaft5Jj2"
+				}
+			],
+			"name": "Y Control",
+			"id": "",
+			"length": 240692
+		}
+	]
+}

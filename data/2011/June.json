@@ -1,0 +1,93 @@
+{
+	"name": "June",
+	"month": "06",
+	"year": "2011",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Mind Bokeh",
+				"image": "",
+				"year": 2010,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Bibio",
+					"id": ""
+				}
+			],
+			"name": "Excuses",
+			"id": "",
+			"length": 358713
+		},
+		{
+			"album": {
+				"name": "From The Basement",
+				"image": "",
+				"year": 2011,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Radiohead",
+					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+				}
+			],
+			"name": "Staircase",
+			"id": "",
+			"length": 275513
+		},
+		{
+			"album": {
+				"name": "SBTRKT",
+				"image": "",
+				"year": 2011,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "SBTRKT",
+					"id": ""
+				}
+			],
+			"name": "Trials Of The Past",
+			"id": "",
+			"length": 264150
+		},
+		{
+			"album": {
+				"name": "We're New Here",
+				"image": "",
+				"year": 2011,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Gil Scott-Heron & Jamie xx",
+					"id": ""
+				}
+			],
+			"name": "The Crutch",
+			"id": "",
+			"length": 189910
+		},
+		{
+			"album": {
+				"name": "Kittenz And Thee Glitz",
+				"image": "",
+				"year": 2001,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Felix Da Housecat",
+					"id": ""
+				}
+			],
+			"name": "Madame Hollywood",
+			"id": "",
+			"length": 171807
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"name": "July",
+	"month": "07",
+	"year": "2006",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Country Falls",
+				"image": "",
+				"year": 2004,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Husky Rescue",
+					"id": ""
+				}
+			],
+			"name": "My World",
+			"id": "",
+			"length": 290951
+		},
+		{
+			"album": {
+				"name": "sutemos net compilation",
+				"image": "",
+				"year": 2000,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Ulrich Schnauss",
+					"id": ""
+				}
+			],
+			"name": "us suddenly",
+			"id": "",
+			"length": 382066
+		},
+		{
+			"album": {
+				"name": "The Audiences' Listening",
+				"image": "",
+				"year": 2006,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Cut Chemist",
+					"id": ""
+				}
+			],
+			"name": "The Garden",
+			"id": "",
+			"length": 376450
+		},
+		{
+			"album": {
+				"name": "6-30-00 LA, CA @ The Palace",
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "DVDA",
+					"id": ""
+				}
+			],
+			"name": "I AM Chewbacca",
+			"id": "",
+			"length": 214700
+		},
+		{
+			"album": {
+				"name": "Anthology",
+				"image": "",
+				"year": 1973,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Ray Charles",
+					"id": ""
+				}
+			],
+			"name": "I Can't Stop Loving You",
+			"id": "",
+			"length": 254876
+		}
+	]
+}
