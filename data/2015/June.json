@@ -1,0 +1,93 @@
+{
+	"name": "June",
+	"month": "06",
+	"year": "2015",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Ambivalence Avenue",
+				"image": "",
+				"year": 2009,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Bibio",
+					"id": ""
+				}
+			],
+			"name": "cry! baby!",
+			"id": "",
+			"length": 238027
+		},
+		{
+			"album": {
+				"name": "Why Make Sense?",
+				"image": "",
+				"year": 2015,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Hot Chip",
+					"id": ""
+				}
+			],
+			"name": "Need You Now",
+			"id": "",
+			"length": 285596
+		},
+		{
+			"album": {
+				"name": "In Colour",
+				"image": "",
+				"year": 2015,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Jamie xx",
+					"id": ""
+				}
+			],
+			"name": "SeeSaw",
+			"id": "",
+			"length": 268852
+		},
+		{
+			"album": {
+				"name": "Peace Is the Mission",
+				"image": "",
+				"year": 2015,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Major Lazer",
+					"id": ""
+				}
+			],
+			"name": "Be Together",
+			"id": "",
+			"length": 233038
+		},
+		{
+			"album": {
+				"name": "Ego Death",
+				"image": "",
+				"year": 2015,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "The Internet",
+					"id": ""
+				}
+			],
+			"name": "Get Away",
+			"id": "",
+			"length": 150282
+		}
+	]
+}
