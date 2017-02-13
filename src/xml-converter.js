@@ -65,7 +65,7 @@ function processFile(base, folder, name)
 		var year = rawTrack['Year'];
 		var artistId = "";
 		var albumId = "";
-
+		
 		if(lookup[artist] != undefined)
 		{
 			artistId = lookup[artist].id;
