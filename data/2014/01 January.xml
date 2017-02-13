@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-01-17T12:02:39Z</date>
+	<key>Application Version</key><string>11.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>AFBA4C05DB952878</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12516</key>
+		<dict>
+			<key>Track ID</key><integer>12516</integer>
+			<key>Name</key><string>Harlot (Intro)</string>
+			<key>Artist</key><string>Felix Da Housecat</string>
+			<key>Album</key><string>Kittenz And Thee Glitz</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6105087</integer>
+			<key>Total Time</key><integer>190720</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2011-07-04T13:00:38Z</date>
+			<key>Date Added</key><date>2013-11-17T16:15:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 1</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3472654459</integer>
+			<key>Play Date UTC</key><date>2014-01-15T18:14:19Z</date>
+			<key>Persistent ID</key><string>8F5FD37DC4387DFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Felix%20Da%20Housecat/Kittenz%20And%20Thee%20Glitz/01%20Harlot%20(Intro).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>30994</key>
+		<dict>
+			<key>Track ID</key><integer>30994</integer>
+			<key>Name</key><string>Record Collection</string>
+			<key>Artist</key><string>Mark Ronson &#38; The Business Intl</string>
+			<key>Composer</key><string>Richard Cowie/Nick Hodgson/Alex Greenwald/Mark Ronson</string>
+			<key>Album</key><string>Record Collection</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7357554</integer>
+			<key>Total Time</key><integer>229851</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-04-14T08:55:22Z</date>
+			<key>Date Added</key><date>2013-11-17T16:20:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3472654688</integer>
+			<key>Play Date UTC</key><date>2014-01-15T18:18:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-11-14T12:56:15Z</date>
+			<key>Normalization</key><integer>5823</integer>
+			<key>Persistent ID</key><string>3F5C443548CCEABF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Mark%20Ronson%20&#38;%20The%20Business%20Intl/Record%20Collection/10%20Record%20Collection.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32246</key>
+		<dict>
+			<key>Track ID</key><integer>32246</integer>
+			<key>Name</key><string>Made To Stray</string>
+			<key>Artist</key><string>Mount Kimbie</string>
+			<key>Album Artist</key><string>Mount Kimbie</string>
+			<key>Album</key><string>Cold Spring Fault Less Youth</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10527826</integer>
+			<key>Total Time</key><integer>286798</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-01-14T10:49:37Z</date>
+			<key>Date Added</key><date>2014-01-14T10:50:16Z</date>
+			<key>Bit Rate</key><integer>291</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 238098403</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3472655184</integer>
+			<key>Play Date UTC</key><date>2014-01-15T18:26:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF7A825E47FD95C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Mount%20Kimbie/Cold%20Spring%20Fault%20Less%20Youth/05%20Made%20To%20Stray.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32274</key>
+		<dict>
+			<key>Track ID</key><integer>32274</integer>
+			<key>Name</key><string>Garbage</string>
+			<key>Artist</key><string>Tyler, The Creator</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>The Music of Grand Theft Auto V</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7251392</integer>
+			<key>Total Time</key><integer>208586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-01-14T15:09:14Z</date>
+			<key>Date Added</key><date>2014-01-14T15:08:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3472654897</integer>
+			<key>Play Date UTC</key><date>2014-01-15T18:21:37Z</date>
+			<key>Release Date</key><date>2013-09-24T07:00:00Z</date>
+			<key>Normalization</key><integer>1226</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Music of Grand Theft Auto V</string>
+			<key>Sort Artist</key><string>Tyler, The Creator</string>
+			<key>Sort Name</key><string>Garbage</string>
+			<key>Persistent ID</key><string>D297EA432C55A42A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/Compilations/The%20Music%20of%20Grand%20Theft%20Auto%20V/1-10%20Garbage.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32278</key>
+		<dict>
+			<key>Track ID</key><integer>32278</integer>
+			<key>Name</key><string>Tenfold</string>
+			<key>Artist</key><string>Thundercat</string>
+			<key>Album Artist</key><string>Thundercat</string>
+			<key>Composer</key><string>S. Bruner</string>
+			<key>Album</key><string>Apocalypse</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6181485</integer>
+			<key>Total Time</key><integer>184528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2014-01-15T10:21:12Z</date>
+			<key>Date Added</key><date>2014-01-15T10:21:13Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 237815453</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3472803736</integer>
+			<key>Play Date UTC</key><date>2014-01-17T11:42:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E0039F0BCA093FC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Thundercat/Apocalypse/01%20Tenfold.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>01 January</string>
+			<key>Playlist ID</key><integer>66055</integer>
+			<key>Playlist Persistent ID</key><string>4383CAE9CC4EE131</string>
+			<key>Parent Persistent ID</key><string>E693B566BA87C0A1</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32278</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

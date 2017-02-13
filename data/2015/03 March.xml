@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-05-31T07:04:47Z</date>
+	<key>Application Version</key><string>12.4.0.119</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>AFBA4C05DB952878</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5352</key>
+		<dict>
+			<key>Track ID</key><integer>5352</integer>
+			<key>Name</key><string>Anticipation</string>
+			<key>Artist</key><string>Blonde Redhead</string>
+			<key>Composer</key><string>Amedeo Pace/Kazu Makino/Simone Pace</string>
+			<key>Album</key><string>Misery Is A Butterfly</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5872885</integer>
+			<key>Total Time</key><integer>244610</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2006-04-11T08:34:36Z</date>
+			<key>Date Added</key><date>2013-11-17T16:13:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3516346841</integer>
+			<key>Play Date UTC</key><date>2015-06-05T10:00:41Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-04-29T16:40:30Z</date>
+			<key>Normalization</key><integer>3855</integer>
+			<key>Persistent ID</key><string>1B092971665E8273</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Blonde%20Redhead/Misery%20Is%20A%20Butterfly/07%20Anticipation.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16492</key>
+		<dict>
+			<key>Track ID</key><integer>16492</integer>
+			<key>Name</key><string>Paranoid Ft. Mr. Hudson</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Album</key><string>808's And Heartbreaks</string>
+			<key>Genre</key><string>hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6391808</integer>
+			<key>Total Time</key><integer>277968</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-02-19T23:17:07Z</date>
+			<key>Date Added</key><date>2013-11-17T16:16:55Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3516347341</integer>
+			<key>Play Date UTC</key><date>2015-06-05T10:09:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-05-18T16:00:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F06901BBF76CD9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Kanye%20West/808's%20And%20Heartbreaks/06%20Paranoid%20Ft.%20Mr.%20Hudson.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>30652</key>
+		<dict>
+			<key>Track ID</key><integer>30652</integer>
+			<key>Name</key><string>Raspberries</string>
+			<key>Artist</key><string>Big Boi</string>
+			<key>Album Artist</key><string>Big Boi</string>
+			<key>Composer</key><string>Terrence Smith</string>
+			<key>Album</key><string>Vicious Lies and Dangerous Rumors</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6547717</integer>
+			<key>Total Time</key><integer>221962</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-11T08:27:29Z</date>
+			<key>Date Added</key><date>2013-11-17T16:20:23Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 233673526</string>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3519656457</integer>
+			<key>Play Date UTC</key><date>2015-07-13T17:20:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B18AF25774642EFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Big%20Boi/Vicious%20Lies%20and%20Dangerous%20Rumors/12%20Raspberries.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37952</key>
+		<dict>
+			<key>Track ID</key><integer>37952</integer>
+			<key>Name</key><string>The Perfect Drug (Original Version)</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Album Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Perfect Drug</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10106865</integer>
+			<key>Total Time</key><integer>315768</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-01-19T10:48:17Z</date>
+			<key>Date Added</key><date>2015-01-19T10:48:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3516346303</integer>
+			<key>Play Date UTC</key><date>2015-06-05T09:51:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-04-10T17:29:48Z</date>
+			<key>Normalization</key><integer>2846</integer>
+			<key>Sort Album</key><string>Perfect Drug</string>
+			<key>Sort Name</key><string>Perfect Drug (Original Version)</string>
+			<key>Persistent ID</key><string>6984816C8EBF5D5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Nine%20Inch%20Nails/The%20Perfect%20Drug/06%20The%20Perfect%20Drug%20(Original%20Versio.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38196</key>
+		<dict>
+			<key>Track ID</key><integer>38196</integer>
+			<key>Name</key><string>Feel the Lightning</string>
+			<key>Artist</key><string>Dan Deacon</string>
+			<key>Album Artist</key><string>Dan Deacon</string>
+			<key>Album</key><string>Gliss Riffer</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9620688</integer>
+			<key>Total Time</key><integer>293459</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-03-16T18:25:40Z</date>
+			<key>Date Added</key><date>2015-03-16T18:25:43Z</date>
+			<key>Bit Rate</key><integer>258</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 253880301</string>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3518163087</integer>
+			<key>Play Date UTC</key><date>2015-06-26T10:31:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>380F95566B68F2EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Dan%20Deacon/Gliss%20Riffer/01%20Feel%20the%20Lightning.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>76427</integer>
+			<key>Playlist Persistent ID</key><string>F844B89D2204A52B</string>
+			<key>Parent Persistent ID</key><string>DEE978956935EC5F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>37952</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30652</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16492</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

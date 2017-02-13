@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-05-31T07:03:33Z</date>
+	<key>Application Version</key><string>12.4.0.119</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>AFBA4C05DB952878</string>
+	<key>Tracks</key>
+	<dict>
+		<key>32524</key>
+		<dict>
+			<key>Track ID</key><integer>32524</integer>
+			<key>Name</key><string>Drive</string>
+			<key>Artist</key><string>Warpaint</string>
+			<key>Album Artist</key><string>Warpaint</string>
+			<key>Composer</key><string>Jenny Lee Lindberg</string>
+			<key>Album</key><string>Warpaint</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9759973</integer>
+			<key>Total Time</key><integer>311536</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-24T06:10:26Z</date>
+			<key>Date Added</key><date>2014-08-24T06:14:38Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 244099917</string>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3519654537</integer>
+			<key>Play Date UTC</key><date>2015-07-13T16:48:57Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-17T16:42:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C013D5D74F83D764</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Warpaint/Warpaint/11%20Drive.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37660</key>
+		<dict>
+			<key>Track ID</key><integer>37660</integer>
+			<key>Name</key><string>Why Don't You Love Me Featuring Devonté Hynes &#38; Tawiah</string>
+			<key>Artist</key><string>Kindness feat. Devonte´ Hynes &#38; Tawiah</string>
+			<key>Album Artist</key><string>Kindness</string>
+			<key>Album</key><string>Otherness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7847494</integer>
+			<key>Total Time</key><integer>245159</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-12-02T12:04:58Z</date>
+			<key>Date Added</key><date>2014-12-02T12:04:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3519654225</integer>
+			<key>Play Date UTC</key><date>2015-07-13T16:43:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-01-16T11:15:09Z</date>
+			<key>Normalization</key><integer>1554</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>F4095E4F44B0212D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Compilations/Otherness/09%20Why%20Don't%20You%20Love%20Me%20Featuring%20D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37858</key>
+		<dict>
+			<key>Track ID</key><integer>37858</integer>
+			<key>Name</key><string>Butcher Baker Candlestick Maker</string>
+			<key>Artist</key><string>Panda Bear</string>
+			<key>Album Artist</key><string>Panda Bear</string>
+			<key>Album</key><string>Panda Bear Meets The Grim Reaper</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6844341</integer>
+			<key>Total Time</key><integer>187715</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-01-12T09:38:43Z</date>
+			<key>Date Added</key><date>2015-01-12T09:40:01Z</date>
+			<key>Bit Rate</key><integer>289</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 253734664</string>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3518166406</integer>
+			<key>Play Date UTC</key><date>2015-06-26T11:26:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6AD513ACAEEF9E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Panda%20Bear/Panda%20Bear%20Meets%20The%20Grim%20Reaper/05%20Butcher%20Baker%20Candlestick%20Maker.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>37980</key>
+		<dict>
+			<key>Track ID</key><integer>37980</integer>
+			<key>Name</key><string>Electrolite</string>
+			<key>Artist</key><string>R.E.M.</string>
+			<key>Album Artist</key><string>R.E.M.</string>
+			<key>Album</key><string>New Adventures In Hi-Fi</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7852340</integer>
+			<key>Total Time</key><integer>245315</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2015-01-19T10:52:10Z</date>
+			<key>Date Added</key><date>2015-01-19T10:52:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3515583461</integer>
+			<key>Play Date UTC</key><date>2015-05-27T13:57:41Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-02-03T08:53:32Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3754</integer>
+			<key>Persistent ID</key><string>1E607BA3BA2463DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/R.E.M_/New%20Adventures%20In%20Hi-Fi/14%20Electrolite.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38060</key>
+		<dict>
+			<key>Track ID</key><integer>38060</integer>
+			<key>Name</key><string>Lights</string>
+			<key>Artist</key><string>Sohn</string>
+			<key>Album Artist</key><string>Sohn</string>
+			<key>Composer</key><string>Christopher Taylor</string>
+			<key>Album</key><string>Tremors</string>
+			<key>Genre</key><string>Dance &#38; DJ</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9324044</integer>
+			<key>Total Time</key><integer>269662</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-01-21T14:18:56Z</date>
+			<key>Date Added</key><date>2015-01-21T14:18:58Z</date>
+			<key>Bit Rate</key><integer>269</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 246530789</string>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3515583216</integer>
+			<key>Play Date UTC</key><date>2015-05-27T13:53:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-02-03T08:52:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29D6BA755A47B5DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Sohn/Tremors/08%20Lights.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>01 January</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>76411</integer>
+			<key>Playlist Persistent ID</key><string>16EEF937571D98E7</string>
+			<key>Parent Persistent ID</key><string>DEE978956935EC5F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>37660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38060</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37858</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37980</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32524</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

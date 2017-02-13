@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-01-05T09:52:22Z</date>
+	<key>Application Version</key><string>11.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>AFBA4C05DB952878</string>
+	<key>Tracks</key>
+	<dict>
+		<key>18296</key>
+		<dict>
+			<key>Track ID</key><integer>18296</integer>
+			<key>Name</key><string>War Cry</string>
+			<key>Artist</key><string>Modeselektor</string>
+			<key>Album</key><string>Monkeytown</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9943688</integer>
+			<key>Total Time</key><integer>296693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-10-04T11:15:21Z</date>
+			<key>Date Added</key><date>2013-11-17T16:17:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3469025314</integer>
+			<key>Play Date UTC</key><date>2013-12-04T18:08:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-12-04T17:57:44Z</date>
+			<key>Normalization</key><integer>1257</integer>
+			<key>Persistent ID</key><string>CFC0FD8E0BFC0C60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Modeselektor/Monkeytown/11%20War%20Cry.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>31872</key>
+		<dict>
+			<key>Track ID</key><integer>31872</integer>
+			<key>Name</key><string>Afterlife</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Reflektor</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14256785</integer>
+			<key>Total Time</key><integer>352809</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Date Modified</key><date>2013-10-28T07:35:30Z</date>
+			<key>Date Added</key><date>2013-11-17T16:20:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3469179353</integer>
+			<key>Play Date UTC</key><date>2013-12-06T12:55:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-12-04T18:23:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C04CAC80B84E8AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Arcade%20Fire/Reflektor/2-05%20Afterlife.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>31880</key>
+		<dict>
+			<key>Track ID</key><integer>31880</integer>
+			<key>Name</key><string>Blurred Lines</string>
+			<key>Artist</key><string>Robin Thicke</string>
+			<key>Album Artist</key><string>Robin Thicke</string>
+			<key>Composer</key><string>Robin Thicke &#38; Pharrell Williams</string>
+			<key>Album</key><string>Blurred Lines (feat. T.I. &#38; Pharrell) - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9308641</integer>
+			<key>Total Time</key><integer>262651</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-26T17:19:36Z</date>
+			<key>Date Added</key><date>2013-11-17T16:20:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3469183792</integer>
+			<key>Play Date UTC</key><date>2013-12-06T14:09:52Z</date>
+			<key>Release Date</key><date>2013-05-26T07:00:00Z</date>
+			<key>Normalization</key><integer>1582</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blurred Lines (feat. T.I. &#38; Pharrell) - Single</string>
+			<key>Sort Artist</key><string>Robin Thicke</string>
+			<key>Sort Name</key><string>Blurred Lines (feat. T.I. &#38; Pharrell)</string>
+			<key>Persistent ID</key><string>8213A8A70D5BF2B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/Robin%20Thicke/Blurred%20Lines%20(feat.%20T.I.%20&#38;%20Pharrell)%20-/01%20Blurred%20Lines.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32192</key>
+		<dict>
+			<key>Track ID</key><integer>32192</integer>
+			<key>Name</key><string>Thank You</string>
+			<key>Artist</key><string>Busta Rhymes</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4799267</integer>
+			<key>Total Time</key><integer>239438</integer>
+			<key>Date Modified</key><date>2013-11-22T12:04:34Z</date>
+			<key>Date Added</key><date>2013-11-22T12:04:55Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3469183529</integer>
+			<key>Play Date UTC</key><date>2013-12-06T14:05:29Z</date>
+			<key>Persistent ID</key><string>119EE5423BD0CE66</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Busta%20Rhymes/Unknown%20Album/Thank%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32194</key>
+		<dict>
+			<key>Track ID</key><integer>32194</integer>
+			<key>Name</key><string>Happy</string>
+			<key>Artist</key><string>Pharrell Williams</string>
+			<key>Album Artist</key><string>Pharrell Williams</string>
+			<key>Album</key><string>Despicable Me 2</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8301025</integer>
+			<key>Total Time</key><integer>233305</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-26T17:19:54Z</date>
+			<key>Date Added</key><date>2013-11-22T12:37:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3469193013</integer>
+			<key>Play Date UTC</key><date>2013-12-06T16:43:33Z</date>
+			<key>Release Date</key><date>2013-11-21T08:00:00Z</date>
+			<key>Normalization</key><integer>3258</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Happy (Despicable Me 2 - Original Motion Picture Soundtrack) - Single</string>
+			<key>Sort Artist</key><string>Pharrell Williams</string>
+			<key>Sort Name</key><string>Happy</string>
+			<key>Persistent ID</key><string>2F2F27D4C4864FC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/H:/Pharrell%20Williams/Despicable%20Me%202/01%20Happy.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>11 November</string>
+			<key>Playlist ID</key><integer>65803</integer>
+			<key>Playlist Persistent ID</key><string>B0B06B76ED171CDC</string>
+			<key>Parent Persistent ID</key><string>1BCE58A81F455F29</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>31872</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31880</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

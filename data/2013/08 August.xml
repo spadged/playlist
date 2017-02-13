@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-11-17T16:27:10Z</date>
+	<key>Application Version</key><string>11.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>AFBA4C05DB952878</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15623</key>
+		<dict>
+			<key>Track ID</key><integer>15623</integer>
+			<key>Name</key><string>You Were There With Me</string>
+			<key>Artist</key><string>Four Tet</string>
+			<key>Composer</key><string>Kieran Hebden</string>
+			<key>Album</key><string>Everything Ecstatic</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5686339</integer>
+			<key>Total Time</key><integer>352523</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-01-31T10:40:06Z</date>
+			<key>Date Added</key><date>2013-11-17T16:15:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3467027454</integer>
+			<key>Play Date UTC</key><date>2013-11-11T15:10:54Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD718E20CF1BE1BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Four%20Tet/Everything%20Ecstatic/10%20You%20Were%20There%20With%20Me.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38913</key>
+		<dict>
+			<key>Track ID</key><integer>38913</integer>
+			<key>Name</key><string>Moon In Water</string>
+			<key>Artist</key><string>Underworld</string>
+			<key>Album</key><string>Barking</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10000094</integer>
+			<key>Total Time</key><integer>342230</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-09-13T10:28:52Z</date>
+			<key>Date Added</key><date>2013-11-17T16:19:58Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3466592048</integer>
+			<key>Play Date UTC</key><date>2013-11-06T14:14:08Z</date>
+			<key>Persistent ID</key><string>41D393B1FDA0DCEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Underworld/Barking/08%20Moon%20In%20Water.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>41396</key>
+		<dict>
+			<key>Track ID</key><integer>41396</integer>
+			<key>Name</key><string>Nothing That Has Happened So Far Has Been Anything We Could Control</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>Lonerism</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11566384</integer>
+			<key>Total Time</key><integer>361377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-10-08T16:09:35Z</date>
+			<key>Date Added</key><date>2013-11-17T16:20:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3466596068</integer>
+			<key>Play Date UTC</key><date>2013-11-06T15:21:08Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-10-03T11:36:20Z</date>
+			<key>Normalization</key><integer>14299</integer>
+			<key>Persistent ID</key><string>442F9BA7F5805644</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Tame%20Impala/Lonerism/11%20Nothing%20That%20Has%20Happened%20So%20Far.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>41609</key>
+		<dict>
+			<key>Track ID</key><integer>41609</integer>
+			<key>Name</key><string>Let Me Be</string>
+			<key>Artist</key><string>Memory Tapes</string>
+			<key>Album</key><string>Grace/Confusion</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9250818</integer>
+			<key>Total Time</key><integer>289018</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-05T12:25:26Z</date>
+			<key>Date Added</key><date>2013-11-17T16:20:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3466581630</integer>
+			<key>Play Date UTC</key><date>2013-11-06T11:20:30Z</date>
+			<key>Normalization</key><integer>2288</integer>
+			<key>Persistent ID</key><string>73F2FDF6764B5512</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Memory%20Tapes/Grace_Confusion/04%20Let%20Me%20Be.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>43507</key>
+		<dict>
+			<key>Track ID</key><integer>43507</integer>
+			<key>Name</key><string>Get Free</string>
+			<key>Artist</key><string>Major Lazer Feat. Amber Coffman</string>
+			<key>Album Artist</key><string>Major Lazer</string>
+			<key>Composer</key><string>Y. Shahmir</string>
+			<key>Album</key><string>Free The Universe</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9283466</integer>
+			<key>Total Time</key><integer>290037</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-09-06T15:37:56Z</date>
+			<key>Date Added</key><date>2013-11-17T16:20:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3466599874</integer>
+			<key>Play Date UTC</key><date>2013-11-06T16:24:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-09-30T11:56:24Z</date>
+			<key>Normalization</key><integer>3619</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>4C4CB8ED2E5956DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Compilations/Free%20The%20Universe/03%20Get%20Free.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>08 August</string>
+			<key>Playlist ID</key><integer>47453</integer>
+			<key>Playlist Persistent ID</key><string>D02A4752BE48B9D4</string>
+			<key>Parent Persistent ID</key><string>1BCE58A81F455F29</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>41396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>41609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43507</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-05-31T07:03:47Z</date>
+	<key>Application Version</key><string>12.4.0.119</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>AFBA4C05DB952878</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16104</key>
+		<dict>
+			<key>Track ID</key><integer>16104</integer>
+			<key>Name</key><string>God's Gonna Cut You Down</string>
+			<key>Artist</key><string>Johnny Cash</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>American V: A Hundred Highways</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3811527</integer>
+			<key>Total Time</key><integer>158720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2007-01-02T20:45:47Z</date>
+			<key>Date Added</key><date>2013-11-17T16:16:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3515584642</integer>
+			<key>Play Date UTC</key><date>2015-05-27T14:17:22Z</date>
+			<key>Normalization</key><integer>2755</integer>
+			<key>Persistent ID</key><string>9952BE80293C5CD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Johnny%20Cash/American%20V_%20A%20Hundred%20Highways/02%20God's%20Gonna%20Cut%20You%20Down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38018</key>
+		<dict>
+			<key>Track ID</key><integer>38018</integer>
+			<key>Name</key><string>Star Me Kitten</string>
+			<key>Artist</key><string>R.E.M.</string>
+			<key>Album Artist</key><string>R.E.M.</string>
+			<key>Composer</key><string>REM</string>
+			<key>Album</key><string>Automatic For The People</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6282499</integer>
+			<key>Total Time</key><integer>196257</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2015-01-19T11:11:10Z</date>
+			<key>Date Added</key><date>2015-01-19T11:11:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3525355195</integer>
+			<key>Play Date UTC</key><date>2015-09-17T16:19:55Z</date>
+			<key>Normalization</key><integer>1100</integer>
+			<key>Persistent ID</key><string>8B4BE8CD9E032F1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/R.E.M_/Automatic%20For%20The%20People/09%20Star%20Me%20Kitten.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38126</key>
+		<dict>
+			<key>Track ID</key><integer>38126</integer>
+			<key>Name</key><string>Miniskirt</string>
+			<key>Artist</key><string>Braids</string>
+			<key>Album Artist</key><string>Braids</string>
+			<key>Album</key><string>Deep In the Iris</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10041499</integer>
+			<key>Total Time</key><integer>294321</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-02-16T17:06:05Z</date>
+			<key>Date Added</key><date>2015-02-16T17:06:07Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 255402351</string>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3519655258</integer>
+			<key>Play Date UTC</key><date>2015-07-13T17:00:58Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-17T16:42:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>15A75663D66C672D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Braids/Deep%20In%20the%20Iris/05%20Miniskirt.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38128</key>
+		<dict>
+			<key>Track ID</key><integer>38128</integer>
+			<key>Name</key><string>Grown Up</string>
+			<key>Artist</key><string>Emilie Nicolas</string>
+			<key>Album Artist</key><string>Emilie Nicolas</string>
+			<key>Composer</key><string>Emilie Nicolas</string>
+			<key>Album</key><string>Like I'm a Warrior</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7150489</integer>
+			<key>Total Time</key><integer>213133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-02-18T13:50:48Z</date>
+			<key>Date Added</key><date>2015-02-18T13:50:50Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 255020186</string>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3525355781</integer>
+			<key>Play Date UTC</key><date>2015-09-17T16:29:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-05-01T11:59:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF580D34E2E1BB29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Emilie%20Nicolas/Like%20I'm%20a%20Warrior/03%20Grown%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>38136</key>
+		<dict>
+			<key>Track ID</key><integer>38136</integer>
+			<key>Name</key><string>Sober</string>
+			<key>Artist</key><string>Childish Gambino</string>
+			<key>Album Artist</key><string>Childish Gambino</string>
+			<key>Composer</key><string>Ludwig Goransson</string>
+			<key>Album</key><string>Kauai</string>
+			<key>Genre</key><string>Rap &#38; Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7918080</integer>
+			<key>Total Time</key><integer>251376</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-02-25T09:59:34Z</date>
+			<key>Date Added</key><date>2015-02-25T09:59:09Z</date>
+			<key>Bit Rate</key><integer>251</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 251680842</string>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3517398618</integer>
+			<key>Play Date UTC</key><date>2015-06-17T14:10:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-05-18T16:09:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8FA873552E412705</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Childish%20Gambino/Kauai/1-01%20Sober.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>02 February</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>76419</integer>
+			<key>Playlist Persistent ID</key><string>82292CCB0DAB3223</string>
+			<key>Parent Persistent ID</key><string>DEE978956935EC5F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38018</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

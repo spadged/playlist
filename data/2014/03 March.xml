@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2014-11-28T08:56:24Z</date>
+	<key>Application Version</key><string>12.0.1.26</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/H:/</string>
+	<key>Library Persistent ID</key><string>AFBA4C05DB952878</string>
+	<key>Tracks</key>
+	<dict>
+		<key>32278</key>
+		<dict>
+			<key>Track ID</key><integer>32278</integer>
+			<key>Name</key><string>Phase</string>
+			<key>Artist</key><string>Beck</string>
+			<key>Album Artist</key><string>Beck</string>
+			<key>Composer</key><string>Beck Hansen</string>
+			<key>Album</key><string>Morning Phase</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2319088</integer>
+			<key>Total Time</key><integer>67108</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Date Modified</key><date>2014-02-28T09:50:55Z</date>
+			<key>Date Added</key><date>2014-02-28T09:50:55Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 245039829</string>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3496310396</integer>
+			<key>Play Date UTC</key><date>2014-10-16T13:19:56Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2014-05-28T18:34:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>729DDC526840BEA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Beck/Morning%20Phase/10%20Phase.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32300</key>
+		<dict>
+			<key>Track ID</key><integer>32300</integer>
+			<key>Name</key><string>Fly Boy Blue / Lunette</string>
+			<key>Artist</key><string>Elbow</string>
+			<key>Album Artist</key><string>Elbow</string>
+			<key>Composer</key><string>Richard Jupp</string>
+			<key>Album</key><string>The Take Off And Landing Of Everything</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13044523</integer>
+			<key>Total Time</key><integer>383346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Date Modified</key><date>2014-03-11T10:31:04Z</date>
+			<key>Date Added</key><date>2014-03-11T10:31:05Z</date>
+			<key>Bit Rate</key><integer>267</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 245667309</string>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3497442560</integer>
+			<key>Play Date UTC</key><date>2014-10-29T15:49:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-11-13T17:31:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Take Off And Landing Of Everything</string>
+			<key>Persistent ID</key><string>EF41A0B6957E804C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Elbow/The%20Take%20Off%20And%20Landing%20Of%20Everything/03%20Fly%20Boy%20Blue%20_%20Lunette.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32318</key>
+		<dict>
+			<key>Track ID</key><integer>32318</integer>
+			<key>Name</key><string>Sprawl II</string>
+			<key>Artist</key><string>Soul Wax</string>
+			<key>Album Artist</key><string>Arcade Fire</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6571424</integer>
+			<key>Total Time</key><integer>410070</integer>
+			<key>Date Modified</key><date>2014-03-13T14:42:58Z</date>
+			<key>Date Added</key><date>2014-03-13T14:42:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3498133720</integer>
+			<key>Play Date UTC</key><date>2014-11-06T15:48:40Z</date>
+			<key>Persistent ID</key><string>8CCCA95635E900EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Arcade%20Fire/Unknown%20Album/Sprawl%20II.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32320</key>
+		<dict>
+			<key>Track ID</key><integer>32320</integer>
+			<key>Name</key><string>Long to Live</string>
+			<key>Artist</key><string>Howard Shore &#38; Metric</string>
+			<key>Album Artist</key><string>Howard Shore &#38; Metric</string>
+			<key>Album</key><string>Cosmopolis (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtracks</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8784910</integer>
+			<key>Total Time</key><integer>266736</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-03-26T10:01:46Z</date>
+			<key>Date Added</key><date>2014-03-26T10:01:47Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 229705693</string>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3497440345</integer>
+			<key>Play Date UTC</key><date>2014-10-29T15:12:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2014-09-05T17:01:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C2A833E744B2551</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Howard%20Shore%20&#38;%20Metric/Cosmopolis%20(Original%20Motion%20Picture%20Soun/02%20Long%20to%20Live.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>32322</key>
+		<dict>
+			<key>Track ID</key><integer>32322</integer>
+			<key>Name</key><string>After You</string>
+			<key>Artist</key><string>Pulp VS Soulwax </string>
+			<key>Album Artist</key><string>Pulp</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17281280</integer>
+			<key>Total Time</key><integer>431151</integer>
+			<key>Date Modified</key><date>2014-04-04T09:21:53Z</date>
+			<key>Date Added</key><date>2014-04-04T09:21:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3498144476</integer>
+			<key>Play Date UTC</key><date>2014-11-06T18:47:56Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2014-10-22T14:22:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>063E93408FB43704</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/H:/Pulp/Unknown%20Album/After%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>03 March</string>
+			<key>Playlist ID</key><integer>73721</integer>
+			<key>Playlist Persistent ID</key><string>A02E8226E9EA1081</string>
+			<key>Parent Persistent ID</key><string>E693B566BA87C0A1</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>32278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32320</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32322</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
