@@ -1,0 +1,93 @@
+{
+	"name": "August",
+	"month": "08",
+	"year": "2013",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Everything Ecstatic",
+				"image": "",
+				"year": 2005,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Four Tet",
+					"id": ""
+				}
+			],
+			"name": "You Were There With Me",
+			"id": "",
+			"length": 352523
+		},
+		{
+			"album": {
+				"name": "Barking",
+				"image": "",
+				"year": 2010,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Underworld",
+					"id": ""
+				}
+			],
+			"name": "Moon In Water",
+			"id": "",
+			"length": 342230
+		},
+		{
+			"album": {
+				"name": "Lonerism",
+				"image": "",
+				"year": 2012,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Tame Impala",
+					"id": "5INjqkS1o8h1imAzPqGZBb"
+				}
+			],
+			"name": "Nothing That Has Happened So Far Has Been Anything We Could Control",
+			"id": "",
+			"length": 361377
+		},
+		{
+			"album": {
+				"name": "Grace/Confusion",
+				"image": "",
+				"year": 2012,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Memory Tapes",
+					"id": ""
+				}
+			],
+			"name": "Let Me Be",
+			"id": "",
+			"length": 289018
+		},
+		{
+			"album": {
+				"name": "Free The Universe",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Major Lazer",
+					"id": ""
+				}
+			],
+			"name": "Get Free",
+			"id": "",
+			"length": 290037
+		}
+	]
+}

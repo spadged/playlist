@@ -1,0 +1,93 @@
+{
+	"name": "June",
+	"month": "06",
+	"year": "2014",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "There Is Love In You",
+				"image": "",
+				"year": 2010,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Four Tet",
+					"id": ""
+				}
+			],
+			"name": "She Just Likes To Fight",
+			"id": "",
+			"length": 274155
+		},
+		{
+			"album": {
+				"name": "Graceland",
+				"image": "",
+				"year": 1986,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Paul Simon",
+					"id": ""
+				}
+			],
+			"name": "Gumboots",
+			"id": "",
+			"length": 165172
+		},
+		{
+			"album": {
+				"name": "Glow",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Jackson And His Computerband",
+					"id": ""
+				}
+			],
+			"name": "G.I. Jane (Fill Me Up)",
+			"id": "",
+			"length": 327079
+		},
+		{
+			"album": {
+				"name": "Our Love",
+				"image": "",
+				"year": 2014,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Caribou",
+					"id": ""
+				}
+			],
+			"name": "Can't Do Without You",
+			"id": "",
+			"length": 236040
+		},
+		{
+			"album": {
+				"name": "El Pintor",
+				"image": "",
+				"year": 2014,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Interpol",
+					"id": ""
+				}
+			],
+			"name": "All the Rage Back Home",
+			"id": "",
+			"length": 262426
+		}
+	]
+}

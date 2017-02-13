@@ -1,0 +1,92 @@
+{
+	"name": "July",
+	"month": "07",
+	"year": "2013",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "The Fall",
+				"image": "",
+				"year": 2011,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Gorillaz",
+					"id": ""
+				}
+			],
+			"name": "Amarillo",
+			"id": "",
+			"length": 204538
+		},
+		{
+			"album": {
+				"name": "Manhattan Research, Inc. (disc 1)",
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Raymond Scott",
+					"id": ""
+				}
+			],
+			"name": "Nescafe",
+			"id": "",
+			"length": 66455
+		},
+		{
+			"album": {
+				"name": "Young Lairs EP",
+				"image": "",
+				"year": 2003,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "TV on the Radio",
+					"id": ""
+				}
+			],
+			"name": "Blind",
+			"id": "",
+			"length": 435617
+		},
+		{
+			"album": {
+				"name": "Dive",
+				"image": "",
+				"year": 2011,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Tycho",
+					"id": ""
+				}
+			],
+			"name": "Dive",
+			"id": "",
+			"length": 499853
+		},
+		{
+			"album": {
+				"name": "Bad Kingdom",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Moderat",
+					"id": "2exkZbmNqMKnT8LRWuxWgy"
+				}
+			],
+			"name": "Bad Kingdom",
+			"id": "",
+			"length": 262870
+		}
+	]
+}

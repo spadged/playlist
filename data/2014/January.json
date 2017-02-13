@@ -1,0 +1,92 @@
+{
+	"name": "January",
+	"month": "01",
+	"year": "2014",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Kittenz And Thee Glitz",
+				"image": "",
+				"year": 2001,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Felix Da Housecat",
+					"id": ""
+				}
+			],
+			"name": "Harlot (Intro)",
+			"id": "",
+			"length": 190720
+		},
+		{
+			"album": {
+				"name": "Record Collection",
+				"image": "",
+				"year": 2010,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Mark Ronson & The Business Intl",
+					"id": ""
+				}
+			],
+			"name": "Record Collection",
+			"id": "",
+			"length": 229851
+		},
+		{
+			"album": {
+				"name": "Cold Spring Fault Less Youth",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Mount Kimbie",
+					"id": ""
+				}
+			],
+			"name": "Made To Stray",
+			"id": "",
+			"length": 286798
+		},
+		{
+			"album": {
+				"name": "The Music of Grand Theft Auto V",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Various Artists",
+					"id": ""
+				}
+			],
+			"name": "Garbage",
+			"id": "",
+			"length": 208586
+		},
+		{
+			"album": {
+				"name": "Apocalypse",
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Thundercat",
+					"id": ""
+				}
+			],
+			"name": "Tenfold",
+			"id": "",
+			"length": 184528
+		}
+	]
+}

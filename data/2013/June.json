@@ -1,0 +1,93 @@
+{
+	"name": "June",
+	"month": "06",
+	"year": "2013",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Random Access Memories",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Daft Punk",
+					"id": ""
+				}
+			],
+			"name": "Lose yourself to dance",
+			"id": "",
+			"length": 350066
+		},
+		{
+			"album": {
+				"name": "...Like Clockwork",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Queens Of The Stone Age",
+					"id": ""
+				}
+			],
+			"name": "Kalopsia",
+			"id": "",
+			"length": 278177
+		},
+		{
+			"album": {
+				"name": "Reach For The Dead",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Boards of Canada",
+					"id": ""
+				}
+			],
+			"name": "Reach For The Dead",
+			"id": "",
+			"length": 287477
+		},
+		{
+			"album": {
+				"name": "Hesitation Marks",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Nine Inch Nails",
+					"id": ""
+				}
+			],
+			"name": "Came Back Haunted",
+			"id": "",
+			"length": 317309
+		},
+		{
+			"album": {
+				"name": "Kveikur",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Sigur Rós",
+					"id": ""
+				}
+			],
+			"name": "Brennisteinn",
+			"id": "",
+			"length": 464744
+		}
+	]
+}

@@ -1,0 +1,93 @@
+{
+	"name": "September",
+	"month": "09",
+	"year": "2014",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Seeds",
+				"image": "",
+				"year": 2014,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "TV On The Radio",
+					"id": ""
+				}
+			],
+			"name": "Happy Idiot",
+			"id": "",
+			"length": 182909
+		},
+		{
+			"album": {
+				"name": "You're Dead",
+				"image": "",
+				"year": 2014,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Flying Lotus",
+					"id": ""
+				}
+			],
+			"name": "Never Catch Me (feat. Kendrick Lamar)",
+			"id": "",
+			"length": 234553
+		},
+		{
+			"album": {
+				"name": "Syro",
+				"image": "",
+				"year": 2014,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Aphex Twin",
+					"id": "6kBDZFXuLrZgHnvmPu9NsG"
+				}
+			],
+			"name": "minipops 67 [120.2][source field mix]",
+			"id": "",
+			"length": 287660
+		},
+		{
+			"album": {
+				"name": "El Pintor",
+				"image": "",
+				"year": 2014,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Interpol",
+					"id": ""
+				}
+			],
+			"name": "Ancient Ways",
+			"id": "",
+			"length": 180906
+		},
+		{
+			"album": {
+				"name": "Jungle",
+				"image": "",
+				"year": 2014,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Jungle",
+					"id": ""
+				}
+			],
+			"name": "The Heat",
+			"id": "",
+			"length": 196101
+		}
+	]
+}

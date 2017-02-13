@@ -1,0 +1,90 @@
+{
+	"name": "November",
+	"month": "11",
+	"year": "2013",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Monkeytown",
+				"image": "",
+				"year": 2011,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Modeselektor",
+					"id": ""
+				}
+			],
+			"name": "War Cry",
+			"id": "",
+			"length": 296693
+		},
+		{
+			"album": {
+				"name": "Reflektor",
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Arcade Fire",
+					"id": ""
+				}
+			],
+			"name": "Afterlife",
+			"id": "",
+			"length": 352809
+		},
+		{
+			"album": {
+				"name": "Blurred Lines (feat. T.I. & Pharrell) - Single",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Robin Thicke",
+					"id": ""
+				}
+			],
+			"name": "Blurred Lines",
+			"id": "",
+			"length": 262651
+		},
+		{
+			"album": {
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Busta Rhymes",
+					"id": ""
+				}
+			],
+			"name": "Thank You",
+			"id": "",
+			"length": 239438
+		},
+		{
+			"album": {
+				"name": "Despicable Me 2",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Pharrell Williams",
+					"id": ""
+				}
+			],
+			"name": "Happy",
+			"id": "",
+			"length": 233305
+		}
+	]
+}

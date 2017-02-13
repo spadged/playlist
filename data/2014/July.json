@@ -1,0 +1,90 @@
+{
+	"name": "July",
+	"month": "07",
+	"year": "2014",
+	"id": "",
+	"tracks": [
+		{
+			"album": {
+				"name": "Remain In Light",
+				"image": "",
+				"year": 1980,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Talking Heads",
+					"id": ""
+				}
+			],
+			"name": "Seen and Not Seen",
+			"id": "",
+			"length": 204564
+		},
+		{
+			"album": {
+				"name": "Glow",
+				"image": "",
+				"year": 2013,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Jackson And His Computerband",
+					"id": ""
+				}
+			],
+			"name": "Arp #1",
+			"id": "",
+			"length": 308088
+		},
+		{
+			"album": {
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Soulwax",
+					"id": ""
+				}
+			],
+			"name": "Synrise",
+			"id": "",
+			"length": 222354
+		},
+		{
+			"album": {
+				"name": "Trouble In Paradise",
+				"image": "",
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "La Roux",
+					"id": ""
+				}
+			],
+			"name": "Sexotheque",
+			"id": "",
+			"length": 257462
+		},
+		{
+			"album": {
+				"name": "Voices",
+				"image": "",
+				"year": 2014,
+				"id": ""
+			},
+			"artist": [
+				{
+					"name": "Phantogram",
+					"id": ""
+				}
+			],
+			"name": "Nothing But Trouble",
+			"id": "",
+			"length": 245760
+		}
+	]
+}
