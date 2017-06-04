@@ -6,88 +6,128 @@
 	"tracks": [
 		{
 			"album": {
-				"name": "Lost River (Original Motion Picture Soundtrack) [Deluxe Edition]",
-				"image": "https://i.scdn.co/image/c22c12837c5fa31f8046e0d6537d60a0ca1c4554",
+				"name": "Lost River",
 				"year": "",
-				"id": "0TfWE9a9CF7HffMQJceXMy"
+				"id": "",
+				"externalId": {
+					"spotify": "0TfWE9a9CF7HffMQJceXMy"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Chromatics",
-					"id": "4tOVIRjlWWfR1RrAxyRqTE"
+					"id": "",
+					"externalId": {
+						"spotify": "4tOVIRjlWWfR1RrAxyRqTE"
+					}
 				}
 			],
 			"name": "Yes (Love Theme From Lost River)",
-			"id": "2e8cM1MIE8wBqfT8DxGyXn",
-			"length": 204929
+			"id": "",
+			"length": 204929,
+			"externalId": {
+				"spotify": "2e8cM1MIE8wBqfT8DxGyXn"
+			}
 		},
 		{
 			"album": {
-				"name": "Where Does This Disco? - EP",
-				"image": "https://i.scdn.co/image/f0c8d6a5376598f0649fef28f5fa409e8d5a6bda",
+				"name": "Where Does This Disco?",
 				"year": "",
-				"id": "2u2x1FQkK2MODVnd9y1aZo"
+				"id": "",
+				"externalId": {
+					"spotify": "2u2x1FQkK2MODVnd9y1aZo"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "YACHT",
-					"id": "57anmI1X2hXWPrNagFdzZr"
+					"id": "",
+					"externalId": {
+						"spotify": "57anmI1X2hXWPrNagFdzZr"
+					}
 				}
 			],
 			"name": "Where Does This Disco?",
-			"id": "4mDwthm6IwAT6zljZ16uKC",
-			"length": 222026
+			"id": "",
+			"length": 222026,
+			"externalId": {
+				"spotify": "4mDwthm6IwAT6zljZ16uKC"
+			}
 		},
 		{
 			"album": {
 				"name": "Ride with You",
-				"image": "https://i.scdn.co/image/0e6eaafd590ed69652a774057bee3a705cc468f6",
 				"year": "",
-				"id": "6BSYe6No02Pa0qfNlQqQEa"
+				"id": "",
+				"externalId": {
+					"spotify": "6BSYe6No02Pa0qfNlQqQEa"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The White Lamp",
-					"id": "7LFAiz5tf9LJGgkgaqcmU2"
+					"id": "",
+					"externalId": {
+						"spotify": "7LFAiz5tf9LJGgkgaqcmU2"
+					}
 				}
 			],
 			"name": "Ride with You",
-			"id": "0lNTM46HUY1whYMrRT1W5A",
-			"length": 409778
+			"id": "",
+			"length": 409778,
+			"externalId": {
+				"spotify": "0lNTM46HUY1whYMrRT1W5A"
+			}
 		},
 		{
 			"album": {
 				"name": "Simple Days",
-				"image": "https://i.scdn.co/image/4aa866866c7aad73f9e152d463bacc4f0bf59ee6",
 				"year": "",
-				"id": "2SvlSQVYP3e6knJ3J8OzmJ"
+				"id": "",
+				"externalId": {
+					"spotify": "2SvlSQVYP3e6knJ3J8OzmJ"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Button Eyes",
-					"id": "1rUkuuAl5d1TyJfaV2lTRf"
+					"id": "",
+					"externalId": {
+						"spotify": "1rUkuuAl5d1TyJfaV2lTRf"
+					}
 				}
 			],
 			"name": "Simple Days",
-			"id": "7f095GbYggxICYMYeJezW8",
-			"length": 210973
+			"id": "",
+			"length": 210973,
+			"externalId": {
+				"spotify": "7f095GbYggxICYMYeJezW8"
+			}
 		},
 		{
 			"album": {
 				"name": "Courting The Squall",
-				"image": "https://i.scdn.co/image/f3f757dc85e60b78b0efa26ffd7fd874a07a0e1b",
 				"year": "",
-				"id": "1JqlXUT71FJmOO46l8I7fc"
+				"id": "",
+				"externalId": {
+					"spotify": "1JqlXUT71FJmOO46l8I7fc"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Guy Garvey",
-					"id": "2j3K3e7Jnnmd2KwlFgCC5u"
+					"id": "",
+					"externalId": {
+						"spotify": "2j3K3e7Jnnmd2KwlFgCC5u"
+					}
 				}
 			],
 			"name": "Courting The Squall",
-			"id": "6UsORESAorb76oZ5LvM3VV",
-			"length": 270706
+			"id": "",
+			"length": 270706,
+			"externalId": {
+				"spotify": "6UsORESAorb76oZ5LvM3VV"
+			}
 		}
 	]
 }

@@ -2,90 +2,93 @@
 	"name": "September",
 	"month": "09",
 	"year": "2006",
-	"id": "",
+	"id": "a2e6afef-57f4-4408-9b55-2ac2f227bbcc",
 	"tracks": [
 		{
 			"album": {
 				"name": "Heart And Soul",
-				"image": "",
 				"year": 1979,
-				"id": ""
+				"id": "d0f324ec-a010-43b0-a1cb-54b49ceef7ed"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Joy Division",
-					"id": ""
+					"id": "f2645e16-2587-4afb-bbab-29197d6656ca"
 				}
 			],
 			"name": "Disorder",
-			"id": "",
+			"id": "dfb4f9d3-4bb0-408b-acac-4d094d75a3c4",
 			"length": 211565
 		},
 		{
 			"album": {
 				"name": "Eternal Sunshine fo the Spotless Mind",
-				"image": "",
-				"id": ""
+				"id": "6cfaaa92-155a-46fa-b151-22d0d6bcabd5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jon Brion",
-					"id": ""
+					"id": "487e6f85-82ca-4367-8447-307473f2b7c5"
 				}
 			],
 			"name": "Eternal Sunshine Of The Spotless Mind Theme",
-			"id": "",
+			"id": "8fb9dc46-8515-4b05-8cd7-e2af6cac4791",
 			"length": 144039
 		},
 		{
 			"album": {
 				"name": "Idlewild",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "c6fd98e4-1bf0-40cf-8bd7-c59aeb797f44"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Outkast",
-					"id": ""
+					"id": "07c6114b-f316-40da-9c67-fdaaaad69663"
+				},
+				{
+					"name": "Sleepy Brown",
+					"id": "07c6114b-f316-40da-9c67-fdaaaad69663"
+				},
+				{
+					"name": "Scar",
+					"id": "07c6114b-f316-40da-9c67-fdaaaad69663"
 				}
 			],
-			"name": "Morris Brown f/ Sleepy Brown & Scar",
-			"id": "",
+			"name": "Morris Brown",
+			"id": "928e31fb-889f-4b5b-a0c4-1adb1f124410",
 			"length": 264646
 		},
 		{
 			"album": {
 				"name": "Oh, Inverted World",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "4d7475f0-2d44-41a3-be1f-510a9ac18e03"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Shins",
-					"id": ""
+					"id": "434d6fb8-25fb-40cf-8faf-940043bf72b5"
 				}
 			],
 			"name": "New Slang",
-			"id": "",
+			"id": "a36c072a-e51c-427c-a56e-5603fefeba70",
 			"length": 231235
 		},
 		{
 			"album": {
-				"name": "London Lounge : Day 12.00P.M",
-				"image": "",
+				"name": "Big World Small World",
 				"year": 2000,
-				"id": ""
+				"id": "63678c86-7d53-416a-ad2b-156b31658f84"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Smith & Mighty",
-					"id": ""
+					"id": "ed02efb3-6e72-4003-ac9b-22b3f1e0e677"
 				}
 			],
 			"name": "Same",
-			"id": "",
+			"id": "7cbf9803-0051-475a-9d74-f3bee52263e7",
 			"length": 234710
 		}
 	]

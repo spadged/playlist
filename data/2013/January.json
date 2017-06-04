@@ -1,92 +1,133 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2013",
+	"month": "january",
 	"year": "2013",
-	"id": "",
+	"id": "7soZ6NUnqHTGrM8IO2Eiq1",
 	"tracks": [
 		{
 			"album": {
-				"name": "Down Colorful Hill",
-				"image": "",
-				"year": 1992,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Red House Painters",
-					"id": ""
-				}
-			],
-			"name": "Lord Kill The Pain",
-			"id": "",
-			"length": 363467
-		},
-		{
-			"album": {
-				"name": "Pop Music / False B-Sides",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Baths",
-					"id": ""
-				}
-			],
-			"name": "Pop Song",
-			"id": "",
-			"length": 208400
-		},
-		{
-			"album": {
 				"name": "R.I.P.",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Actress",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "N.E.W.",
 			"id": "",
-			"length": 328228
+			"length": 328000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"image": "",
-				"year": 1993,
-				"id": ""
+				"name": "Down Colorful Hill",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "James",
-					"id": ""
+					"name": "Red House Painters",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Sometimes",
+			"name": "Lord Kill The Pain",
 			"id": "",
-			"length": 310573
+			"length": 363000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "The Next Day (Deluxe)",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"name": "Pop Music / False B-Sides",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Baths",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Pop Song",
+			"id": "",
+			"length": 208000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Next Day",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "David Bowie",
-					"id": "0oSGxfWSnnOXhD2fKuz2Gy"
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Where Are We Now?",
 			"id": "",
-			"length": 248253
+			"length": 249000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Laid",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "James",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Sometimes",
+			"id": "",
+			"length": 310000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

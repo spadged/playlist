@@ -1,92 +1,140 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2010",
+	"month": "august",
 	"year": "2010",
-	"id": "",
+	"id": "5AXcgcfqctt53ZJ2arvRQZ",
 	"tracks": [
 		{
 			"album": {
-				"name": "Stop Making Sense",
-				"image": "",
-				"year": 1999,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Talking Heads",
-					"id": ""
-				}
-			],
-			"name": "Heaven",
-			"id": "",
-			"length": 221074
-		},
-		{
-			"album": {
 				"name": "The Suburbs",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Wasted Hours",
 			"id": "",
-			"length": 200777
+			"length": 200000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Cut The Crap Playlist May 2010",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"name": "Machine Dreams",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Little Dragon",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "My Step",
 			"id": "",
-			"length": 207255
+			"length": 207000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Cut The Crap Playlist Summer Jams 2010",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"name": "4th Of July (Fireworks)",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Kelis",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Calvin Harris",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "4th Of July (Fireworks) (Calvin Harris Remix)",
 			"id": "",
-			"length": 338599
+			"length": 338000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"name": "Stop Making Sense",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Talking Heads",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Heaven",
+			"id": "",
+			"length": 221000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "My Beautiful Dark Twisted Fantasy",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "Kanye West",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Power",
 			"id": "",
-			"length": 293668
+			"length": 292000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

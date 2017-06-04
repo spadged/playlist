@@ -2,88 +2,83 @@
 	"name": "October",
 	"month": "10",
 	"year": "2005",
-	"id": "",
+	"id": "83119d58-29b9-4343-a20c-509de42b0a99",
 	"tracks": [
 		{
 			"album": {
 				"name": "Live, Rare, B-sides and Others",
-				"image": "",
-				"id": ""
+				"id": "792f6725-0e3b-4809-a919-b0d9e602c49a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ben Folds",
-					"id": ""
+					"id": "f8b5d192-9771-45e9-9fe0-1b3d05a75c6f"
 				}
 			],
 			"name": "Bitches Ain't Shit",
-			"id": "",
+			"id": "f026d64e-5fee-44ac-a3e0-31c84b069c1e",
 			"length": 234528
 		},
 		{
 			"album": {
 				"name": "Unkle Mixes",
-				"image": "",
-				"id": ""
+				"id": "efc60039-867d-46ae-ac20-4a9651ab7766"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Stina Nordenstam",
-					"id": ""
+					"id": "c004b1f6-0c92-43bb-957f-603356834482"
 				}
 			],
 			"name": "People are Strange",
-			"id": "",
+			"id": "81fdc98b-5501-4829-8296-1372edecf6e0",
 			"length": 339487
 		},
 		{
 			"album": {
 				"name": "Sgt. Pepper's Lonely Hearts Club Band",
-				"image": "",
 				"year": 1967,
-				"id": ""
+				"id": "0a4bdf5d-48f8-4058-b66f-9a1a355a5be2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Beatles",
-					"id": ""
+					"id": "7b6056f0-45b2-4b89-8db6-a92088ebeef1"
 				}
 			],
 			"name": "Sgt. Pepper's Lonely Hearts Club Band",
-			"id": "",
+			"id": "477b6430-90ad-48c2-9620-10f14a11099b",
 			"length": 122488
 		},
 		{
 			"album": {
 				"name": "We Have Sound",
-				"image": "",
-				"id": ""
+				"id": "9a09110b-f9b4-4165-8139-30e4513ca456"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tom Vek",
-					"id": ""
+					"id": "a5e1ffb8-428e-42dc-9fe7-24b50f0682a2"
 				}
 			],
 			"name": "Nothing But Green Lights",
-			"id": "",
+			"id": "658a5f65-ca78-4041-aa71-71158296767a",
 			"length": 257275
 		},
 		{
 			"album": {
 				"name": "Point",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "b86f59ea-cb5f-48b3-901b-4436b86c78a2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Cornelius",
-					"id": ""
+					"id": "3ece2b3f-7f7d-4c5c-9cb3-bb38757f8cd2"
 				}
 			],
 			"name": "Drop",
-			"id": "",
+			"id": "3f72f67b-8751-4622-9ce9-c910e22be232",
 			"length": 293150
 		}
 	]

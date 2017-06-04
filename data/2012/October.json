@@ -1,93 +1,140 @@
 {
-	"name": "October",
-	"month": "10",
+	"name": "October Top 5 2012",
+	"month": "october",
 	"year": "2012",
-	"id": "",
+	"id": "2U9zVP6fb5ZlpYyMagYs47",
 	"tracks": [
 		{
 			"album": {
-				"name": "Build A Rocket Boys!",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Elbow",
-					"id": "0TJB3EE2efClsYIDQ8V2Jk"
-				}
-			],
-			"name": "The Birds (Reprise)",
-			"id": "",
-			"length": 91977
-		},
-		{
-			"album": {
 				"name": "Soundboy rock",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Groove Armada",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "What's Your Version? (Reprise)",
 			"id": "",
-			"length": 129567
-		},
-		{
-			"album": {
-				"name": "Era Extraña",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Neon Indian",
-					"id": "0KydPQPUUoTNhmiHKOg5Er"
-				}
-			],
-			"name": "Heart: Decay",
-			"id": "",
-			"length": 104933
-		},
-		{
-			"album": {
-				"name": "Politics",
-				"image": "",
-				"year": 2004,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Sébastien Tellier",
-					"id": ""
-				}
-			],
-			"name": "Slow Lynch",
-			"id": "",
-			"length": 80352
+			"length": 129000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Until The Quiet Comes",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Niki Randa",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Getting There",
 			"id": "",
-			"length": 109296
+			"length": 109000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Politics",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Sébastien Tellier",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Slow Lynch",
+			"id": "",
+			"length": 80000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Build A Rocket Boys!",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Elbow",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "The Birds (Reprise)",
+			"id": "",
+			"length": 91000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Era Extraña",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Neon Indian",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Heart: Decay",
+			"id": "",
+			"length": 104000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -7,87 +7,134 @@
 		{
 			"album": {
 				"name": "Every Open Eye",
-				"image": "https://i.scdn.co/image/0dec7f4f954040c6605d3cec1aae5c54ad4dffea",
 				"year": "",
-				"id": "6TEN694l8ifhIRfknsG8DX"
+				"id": "",
+				"externalId": {
+					"spotify": "6TEN694l8ifhIRfknsG8DX"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "CHVRCHES",
-					"id": "3CjlHNtplJyTf9npxaPl5w"
+					"id": "",
+					"externalId": {
+						"spotify": "3CjlHNtplJyTf9npxaPl5w"
+					}
 				}
 			],
 			"name": "Leave A Trace",
-			"id": "5gPvJIm1lXEKiefB0pFmxs",
-			"length": 237481
+			"id": "",
+			"length": 237481,
+			"externalId": {
+				"spotify": "5gPvJIm1lXEKiefB0pFmxs"
+			}
 		},
 		{
 			"album": {
 				"name": "Second Summer",
-				"image": "https://i.scdn.co/image/3c74cb58541d448e175457799a9c98862b755420",
 				"year": "",
-				"id": "1v4SCbxCYArXQNlbsIW4pX"
+				"id": "",
+				"externalId": {
+					"spotify": "1v4SCbxCYArXQNlbsIW4pX"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "YACHT",
-					"id": "57anmI1X2hXWPrNagFdzZr"
+					"id": "",
+					"externalId": {
+						"spotify": "57anmI1X2hXWPrNagFdzZr"
+					}
+				},
+				{
+					"name": "RAC",
+					"id": "",
+					"externalId": {
+						"spotify": "4AGwPDdh1y8hochNzHy5HC"
+					}
 				}
 			],
 			"name": "Second Summer - RAC Remix",
-			"id": "5TuUUmKQNHPmiEzN9EGY4U",
-			"length": 274672
+			"id": "",
+			"length": 274672,
+			"externalId": {
+				"spotify": "5TuUUmKQNHPmiEzN9EGY4U"
+			}
 		},
 		{
 			"album": {
 				"name": "Painting With",
-				"image": "https://i.scdn.co/image/bca121db78a731d97218e2ce1da30faa8ecdd8ed",
 				"year": "",
-				"id": "04EajKw866bzJn3EW8HOdQ"
+				"id": "",
+				"externalId": {
+					"spotify": "04EajKw866bzJn3EW8HOdQ"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Animal Collective",
-					"id": "4kwxTgCKMipBKhSnEstNKj"
+					"id": "",
+					"externalId": {
+						"spotify": "4kwxTgCKMipBKhSnEstNKj"
+					}
 				}
 			],
 			"name": "Vertical",
-			"id": "7uVXl0HtdXwicAHgZAP5WO",
-			"length": 254706
+			"id": "",
+			"length": 254706,
+			"externalId": {
+				"spotify": "7uVXl0HtdXwicAHgZAP5WO"
+			}
 		},
 		{
 			"album": {
 				"name": "A Different Kind Of Fix",
-				"image": "https://i.scdn.co/image/f528d63f8374236afdf61763d372c4a90fc37154",
 				"year": "",
-				"id": "1tdkgJofTb9Q8NNC8Gfuxh"
+				"id": "",
+				"externalId": {
+					"spotify": "1tdkgJofTb9Q8NNC8Gfuxh"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bombay Bicycle Club",
-					"id": "3pTE9iaJTkWns3mxpNQlJV"
+					"id": "",
+					"externalId": {
+						"spotify": "3pTE9iaJTkWns3mxpNQlJV"
+					}
 				}
 			],
 			"name": "Shuffle",
-			"id": "2liSlNexNAwuix9JhmF8KZ",
-			"length": 235293
+			"id": "",
+			"length": 235293,
+			"externalId": {
+				"spotify": "2liSlNexNAwuix9JhmF8KZ"
+			}
 		},
 		{
 			"album": {
 				"name": "Big Black Coat",
-				"image": "https://i.scdn.co/image/3bdaf435163262bb1260f8144a791a4f2af91ac2",
 				"year": "",
-				"id": "5pdm3GVR8dE7f0O7foPKbq"
+				"id": "",
+				"externalId": {
+					"spotify": "5pdm3GVR8dE7f0O7foPKbq"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Junior Boys",
-					"id": "39x9e2QDpAxK8xTuJDwRqR"
+					"id": "",
+					"externalId": {
+						"spotify": "39x9e2QDpAxK8xTuJDwRqR"
+					}
 				}
 			],
 			"name": "What You Won't Do For Love",
-			"id": "7GLJgR0sNTbHQ7o4OQOHkw",
-			"length": 300987
+			"id": "",
+			"length": 300987,
+			"externalId": {
+				"spotify": "7GLJgR0sNTbHQ7o4OQOHkw"
+			}
 		}
 	]
 }

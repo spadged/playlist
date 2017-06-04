@@ -7,87 +7,127 @@
 		{
 			"album": {
 				"name": "Dawn",
-				"image": "https://i.scdn.co/image/df4dd74119df85d052c0a3423cadca459a8331c1",
 				"year": "",
-				"id": "0ht6cjokjU8Xhwj6uABgfO"
+				"id": "",
+				"externalId": {
+					"spotify": "0ht6cjokjU8Xhwj6uABgfO"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "RY X",
-					"id": "2KjAo6wVc9d2WcxdxSArpV"
+					"id": "",
+					"externalId": {
+						"spotify": "2KjAo6wVc9d2WcxdxSArpV"
+					}
 				}
 			],
 			"name": "Dawn",
-			"id": "3YF74YQR50MhfN1g5JZJ6k",
-			"length": 116862
+			"id": "",
+			"length": 116862,
+			"externalId": {
+				"spotify": "3YF74YQR50MhfN1g5JZJ6k"
+			}
 		},
 		{
 			"album": {
-				"name": "My Love Is Cool (Deluxe)",
-				"image": "https://i.scdn.co/image/2d9beb2c07895845ff44c09379f530ff962d1a5a",
+				"name": "My Love Is Cool",
 				"year": "",
-				"id": "0XyVo3op33rKdS44fviU3X"
+				"id": "",
+				"externalId": {
+					"spotify": "0XyVo3op33rKdS44fviU3X"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Wolf Alice",
-					"id": "3btzEQD6sugImIHPMRgkwV"
+					"id": "",
+					"externalId": {
+						"spotify": "3btzEQD6sugImIHPMRgkwV"
+					}
 				}
 			],
 			"name": "Silk",
-			"id": "066zBDcIBXPPkuydTbVYo1",
-			"length": 243986
+			"id": "",
+			"length": 243986,
+			"externalId": {
+				"spotify": "066zBDcIBXPPkuydTbVYo1"
+			}
 		},
 		{
 			"album": {
 				"name": "Forgiveness Rock Record",
-				"image": "https://i.scdn.co/image/55741665bb1a697fa89224476e4295c8c2e5d6d1",
 				"year": "",
-				"id": "3BvdKIt9XMjG9lq3Kh4r18"
+				"id": "",
+				"externalId": {
+					"spotify": "3BvdKIt9XMjG9lq3Kh4r18"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Broken Social Scene",
-					"id": "7lOJ7WXyopaxri0dbOiZkd"
+					"id": "",
+					"externalId": {
+						"spotify": "7lOJ7WXyopaxri0dbOiZkd"
+					}
 				}
 			],
 			"name": "Sweetest Kill",
-			"id": "69HBEwG8ZZ395axJcDXfcS",
-			"length": 309306
+			"id": "",
+			"length": 309306,
+			"externalId": {
+				"spotify": "69HBEwG8ZZ395axJcDXfcS"
+			}
 		},
 		{
 			"album": {
 				"name": "I See You",
-				"image": "https://i.scdn.co/image/328d3fb5348a28e14d17e2a9d28223c349b1bea0",
 				"year": "",
-				"id": "2PXy9USZAoTSdtrxfkPBnl"
+				"id": "",
+				"externalId": {
+					"spotify": "2PXy9USZAoTSdtrxfkPBnl"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The xx",
-					"id": "3iOvXCl6edW5Um0fXEBRXy"
+					"id": "",
+					"externalId": {
+						"spotify": "3iOvXCl6edW5Um0fXEBRXy"
+					}
 				}
 			],
 			"name": "Say Something Loving",
-			"id": "728zbo72kOoYdGR3AhNsyF",
-			"length": 238373
+			"id": "",
+			"length": 238373,
+			"externalId": {
+				"spotify": "728zbo72kOoYdGR3AhNsyF"
+			}
 		},
 		{
 			"album": {
 				"name": "Love & Hate",
-				"image": "https://i.scdn.co/image/7f9a3d2b9ce4bd9d08f9f2942d37123c7bbf01da",
 				"year": "",
-				"id": "3NRQk1Ax6VJOmOeP0fy9Tl"
+				"id": "",
+				"externalId": {
+					"spotify": "3NRQk1Ax6VJOmOeP0fy9Tl"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Michael Kiwanuka",
-					"id": "0bzfPKdbXL5ezYW2z3UGQj"
+					"id": "",
+					"externalId": {
+						"spotify": "0bzfPKdbXL5ezYW2z3UGQj"
+					}
 				}
 			],
 			"name": "Love & Hate",
-			"id": "4hDwb5DvuKq3UMSVMnjXVk",
-			"length": 426602
+			"id": "",
+			"length": 426602,
+			"externalId": {
+				"spotify": "4hDwb5DvuKq3UMSVMnjXVk"
+			}
 		}
 	]
 }

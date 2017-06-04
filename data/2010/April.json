@@ -1,93 +1,147 @@
 {
-	"name": "April",
-	"month": "04",
+	"name": "April Top 5 2010",
+	"month": "april",
 	"year": "2010",
-	"id": "",
+	"id": "7HycaAaxEZxD1GuURrCMzd",
 	"tracks": [
 		{
 			"album": {
 				"name": "Plastic Beach",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Gorillaz featuring Little Dragon",
-					"id": ""
+					"name": "Gorillaz",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Gorillaz",
+					"id": "Little Dragon",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Empire Ants",
 			"id": "",
-			"length": 281182
-		},
-		{
-			"album": {
-				"name": "The E.N.D.[Deluxe] [CD1]",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Black Eyed Peas",
-					"id": ""
-				}
-			],
-			"name": "Rock That Body",
-			"id": "",
-			"length": 269008
-		},
-		{
-			"album": {
-				"name": "Swim",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Caribou",
-					"id": ""
-				}
-			],
-			"name": "Found Out",
-			"id": "",
-			"length": 198922
+			"length": 281000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Celestica",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Crystal Castles",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Celestica (Album Mix)",
+			"name": "Celestica",
 			"id": "",
-			"length": 230138
+			"length": 230000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Swim",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Caribou",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Found Out",
+			"id": "",
+			"length": 198000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Cosmogramma",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Thom Yorke",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "...And The World Laughs With You",
 			"id": "",
-			"length": 327209
+			"length": 327000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The E.N.D.",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Black Eyed Peas",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Rock That Body",
+			"id": "",
+			"length": 269000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

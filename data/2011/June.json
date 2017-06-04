@@ -1,93 +1,140 @@
 {
-	"name": "June",
-	"month": "06",
+	"name": "June Top 5 2011",
+	"month": "june",
 	"year": "2011",
-	"id": "",
+	"id": "11RDiwY81yGrZo5uug7EjD",
 	"tracks": [
 		{
 			"album": {
-				"name": "Mind Bokeh",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Bibio",
-					"id": ""
-				}
-			],
-			"name": "Excuses",
-			"id": "",
-			"length": 358713
-		},
-		{
-			"album": {
-				"name": "From The Basement",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
-				}
-			],
-			"name": "Staircase",
-			"id": "",
-			"length": 275513
-		},
-		{
-			"album": {
 				"name": "SBTRKT",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "SBTRKT",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Trials Of The Past",
 			"id": "",
-			"length": 264150
-		},
-		{
-			"album": {
-				"name": "We're New Here",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Gil Scott-Heron & Jamie xx",
-					"id": ""
-				}
-			],
-			"name": "The Crutch",
-			"id": "",
-			"length": 189910
+			"length": 264000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Kittenz And Thee Glitz",
-				"image": "",
-				"year": 2001,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Felix Da Housecat",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Madame Hollywood",
 			"id": "",
-			"length": 171807
+			"length": 171000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Mind Bokeh",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Bibio",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Excuses",
+			"id": "",
+			"length": 358000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "We're New Here",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Jamie xx",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Gil Scott-Heron",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "The Crutch",
+			"id": "",
+			"length": 189000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Daily Mail / Staircase",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Radiohead",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Staircase",
+			"id": "",
+			"length": 271000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

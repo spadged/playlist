@@ -1,93 +1,140 @@
 {
-	"name": "September",
-	"month": "09",
+	"name": "September Top 5 2009",
+	"month": "september",
 	"year": "2009",
-	"id": "",
+	"id": "1uBSHQXtGjIhsSFHh71E3W",
 	"tracks": [
 		{
 			"album": {
-				"name": "Lungs",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Florence And The Machine",
-					"id": ""
-				}
-			],
-			"name": "Dog Days Are Over",
-			"id": "",
-			"length": 255869
-		},
-		{
-			"album": {
 				"name": "Ready For The Weekend",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Calvin Harris",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Flashback",
 			"id": "",
-			"length": 229250
+			"length": 229000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Amnesiac [Disc 2]",
-				"image": "",
-				"year": 2001,
-				"id": ""
+				"name": "Amnesiac",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Amazing Sounds Of Orgy",
 			"id": "",
-			"length": 218566
+			"length": 218000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Kings & Queens",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jamie T",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Man's Machine",
 			"id": "",
-			"length": 290142
+			"length": 290000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Lungs",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Florence And The Machine",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Dog Days Are Over",
+			"id": "",
+			"length": 255000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "See Clear Now",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Wiley",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "featuring Hot Chip",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Step by Step",
 			"id": "",
-			"length": 228858
+			"length": 228000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

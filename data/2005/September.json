@@ -2,88 +2,83 @@
 	"name": "September",
 	"month": "09",
 	"year": "2005",
-	"id": "",
+	"id": "7dd02e21-38f2-426e-b28c-931fa5d50781",
 	"tracks": [
 		{
 			"album": {
 				"name": "Help: A Day In the Life",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "03e59416-4bd8-4253-b9a9-74b738bd0233"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Radiohead",
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "I Want None of This",
-			"id": "",
+			"id": "94e840f1-0b62-4b61-b588-b2e66887508f",
 			"length": 195812
 		},
 		{
 			"album": {
 				"name": "Wipe Out 2097",
-				"image": "",
 				"year": 1996,
-				"id": ""
+				"id": "12a1c1f1-e697-4e07-8d1f-84d1969c92bf"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Underworld",
-					"id": ""
+					"id": "ab46a56a-68f0-40a2-ad96-bd895365b011"
 				}
 			],
 			"name": "Tin There",
-			"id": "",
+			"id": "0bfd95b0-3884-4b2c-a44a-62adceb80336",
 			"length": 368378
 		},
 		{
 			"album": {
 				"name": "Demon Days",
-				"image": "",
-				"id": ""
+				"id": "aff3ebe3-e430-42de-be16-5e75550ffc08"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Gorillaz",
-					"id": ""
+					"id": "cd2e60f9-2b24-45a9-8697-5c134a7c801e"
 				}
 			],
 			"name": "DARE",
-			"id": "",
+			"id": "ab12fdec-9b87-4e20-a035-e168c885f584",
 			"length": 244480
 		},
 		{
 			"album": {
 				"name": "Curtains",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "fa3452df-373c-4a75-9d74-8f54181163b2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "John Frusciante",
-					"id": ""
+					"id": "df0c13fb-b903-4cd7-a65e-68dfbee6f892"
 				}
 			],
 			"name": "The Real",
-			"id": "",
+			"id": "a7a206be-ed82-4078-aacd-db2ad8958ac5",
 			"length": 187036
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"id": "4fbf60ea-ba95-4ca6-9991-2eefc2f8fa54"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Joanna Newsom",
-					"id": ""
+					"id": "e814461f-d23d-4634-bb69-2dabbae2da22"
 				}
 			],
 			"name": "This Side of the Blue",
-			"id": "",
+			"id": "0c6fe569-55ac-4754-b835-c01c95628816",
 			"length": 323552
 		}
 	]

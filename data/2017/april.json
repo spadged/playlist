@@ -1,0 +1,147 @@
+{
+	"name": "April Top 5 2017",
+	"month": "april",
+	"year": "2017",
+	"id": "0mfjwCbHDee9et4eDxKBGu",
+	"tracks": [
+		{
+			"album": {
+				"name": "Suol Mates : Till von Sein",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "5AIynrCr3PcFQzFgceLsAx"
+				}
+			},
+			"artists": [
+				{
+					"name": "Blood Orange",
+					"id": "",
+					"externalId": {
+						"spotify": "6LEeAFiJF8OuPx747e1wxR"
+					}
+				}
+			],
+			"name": "Champagne Coast",
+			"id": "",
+			"length": 292373,
+			"externalId": {
+				"spotify": "2B1xYWXUccOhYqXIfn0zvz"
+			}
+		},
+		{
+			"album": {
+				"name": "Silver Eye",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "68qdWFsPKFIjMHb3VTDIrd"
+				}
+			},
+			"artists": [
+				{
+					"name": "Goldfrapp",
+					"id": "",
+					"externalId": {
+						"spotify": "5BKsn7SCN2XmbF7apdCpRS"
+					}
+				}
+			],
+			"name": "Moon In Your Mouth",
+			"id": "",
+			"length": 243296,
+			"externalId": {
+				"spotify": "6G1bzI3sWJWGfD8f0CH5gP"
+			}
+		},
+		{
+			"album": {
+				"name": "Multi-Love",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "587Clxxo1i5flgjvS52bEC"
+				}
+			},
+			"artists": [
+				{
+					"name": "Unknown Mortal Orchestra",
+					"id": "",
+					"externalId": {
+						"spotify": "1LeVJ5GPeYDOVUjxx1y7Rp"
+					}
+				}
+			],
+			"name": "Multi-Love",
+			"id": "",
+			"length": 250800,
+			"externalId": {
+				"spotify": "0PEXp5yk0sx9dJ8JzwvjJb"
+			}
+		},
+		{
+			"album": {
+				"name": "Under The Sun",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "39OlksvQLqQOOOctXERwmK"
+				}
+			},
+			"artists": [
+				{
+					"name": "Mark Pritchard",
+					"id": "",
+					"externalId": {
+						"spotify": "7wDfZhaCORLgP3K62R3MJK"
+					}
+				},
+				{
+					"name": "Thom Yorke",
+					"id": "",
+					"externalId": {
+						"spotify": "4CvTDPKA6W06DRfBnZKrau"
+					}
+				}
+			],
+			"name": "Beautiful People",
+			"id": "",
+			"length": 362051,
+			"externalId": {
+				"spotify": "5gEzjKLS1ggO5cULx3eK87"
+			}
+		},
+		{
+			"album": {
+				"name": "The Spoils",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "6Y0Bxavb5HMH8SZww9G9SL"
+				}
+			},
+			"artists": [
+				{
+					"name": "Massive Attack",
+					"id": "",
+					"externalId": {
+						"spotify": "6FXMGgJwohJLUSr5nVlf9X"
+					}
+				},
+				{
+					"name": "Hope Sandoval",
+					"id": "",
+					"externalId": {
+						"spotify": "7zS53Xa6sVgfoh00kckgyV"
+					}
+				}
+			],
+			"name": "The Spoils",
+			"id": "",
+			"length": 345691,
+			"externalId": {
+				"spotify": "7shyK83Q7gKH8DagxwdLZf"
+			}
+		}
+	]
+}

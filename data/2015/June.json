@@ -1,93 +1,147 @@
 {
-	"name": "June",
-	"month": "06",
+	"name": "June Top 5 2015",
+	"month": "june",
 	"year": "2015",
-	"id": "",
+	"id": "5MDLLl4G9YJ3T2Fyq8dfHI",
 	"tracks": [
 		{
 			"album": {
 				"name": "Ambivalence Avenue",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bibio",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "cry! baby!",
 			"id": "",
-			"length": 238027
-		},
-		{
-			"album": {
-				"name": "Why Make Sense?",
-				"image": "",
-				"year": 2015,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Hot Chip",
-					"id": ""
-				}
-			],
-			"name": "Need You Now",
-			"id": "",
-			"length": 285596
+			"length": 238000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "In Colour",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jamie xx",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Romy",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "SeeSaw",
 			"id": "",
-			"length": 268852
+			"length": 268000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Peace Is the Mission",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Major Lazer",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Wild Belle",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Be Together",
 			"id": "",
-			"length": 233038
+			"length": 233000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Why Make Sense?",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Hot Chip",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Need You Now",
+			"id": "",
+			"length": 285000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Ego Death",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Internet",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Get Away",
 			"id": "",
-			"length": 150282
+			"length": 150000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

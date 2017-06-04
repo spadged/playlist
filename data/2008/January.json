@@ -1,92 +1,140 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2008",
+	"month": "january",
 	"year": "2008",
-	"id": "",
+	"id": "46KdvM0vEPaBzybjvM8Rkm",
 	"tracks": [
 		{
 			"album": {
-				"name": "Blue Eyed In The Red Room",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Boom Bip",
-					"id": ""
-				}
-			],
-			"name": "Dumb Day",
-			"id": "",
-			"length": 314880
-		},
-		{
-			"album": {
-				"name": "Made In The Dark",
-				"image": "",
-				"year": 2008,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Hot Chip",
-					"id": ""
-				}
-			],
-			"name": "One Pure Thought",
-			"id": "",
-			"length": 295392
-		},
-		{
-			"album": {
 				"name": "The White Album",
-				"image": "",
-				"year": 1968,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Beatles",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Blackbird",
 			"id": "",
-			"length": 138318
+			"length": 138000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Kitsuné Maison 4",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"name": "I Get Around Remixes",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Dragonette",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Midnight Juggernaut",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "I Get Around (Midnight Juggernaut Mix)",
 			"id": "",
-			"length": 357642
+			"length": 357000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Kitsuné Maison",
-				"image": "",
-				"year": 2005,
-				"id": ""
+				"name": "Boylife",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Lo-Fi-Fnk",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Change Channel",
 			"id": "",
-			"length": 199523
+			"length": 199000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Blue Eyed In The Red Room",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Boom Bip",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Dumb Day",
+			"id": "",
+			"length": 314000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Made In The Dark",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Hot Chip",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "One Pure Thought",
+			"id": "",
+			"length": 295000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

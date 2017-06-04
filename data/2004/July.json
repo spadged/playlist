@@ -2,89 +2,84 @@
 	"name": "July",
 	"month": "07",
 	"year": "2004",
-	"id": "",
+	"id": "e721fe37-38d0-4029-8cca-c7d261701f47",
 	"tracks": [
 		{
 			"album": {
 				"name": "Lovely Day",
-				"image": "",
-				"id": ""
+				"id": "02c740ce-f446-4ce3-9abe-58a44b534e11"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bill Withers",
-					"id": ""
+					"id": "02ab8524-2ae0-41d3-8882-e832acd6f33a"
 				}
 			],
 			"name": "Use Me Up",
-			"id": "",
+			"id": "39d15dfe-23fa-4601-8c2d-c65c6e3784d8",
 			"length": 229511
 		},
 		{
 			"album": {
 				"name": "Worst case scenario",
-				"image": "",
-				"id": ""
+				"id": "4b807e59-03b2-4827-b42a-d2984609d95d"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "dEUS",
-					"id": ""
+					"id": "cf541d0e-7e2e-475d-931f-35bfcbd8d685"
 				}
 			],
 			"name": "Secret hell",
-			"id": "",
+			"id": "71a31094-0e51-406b-8b07-3e34e874ffce",
 			"length": 301871
 		},
 		{
 			"album": {
 				"name": "The Love Below",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "b35d2559-c8d2-4c7b-ac25-22a66a47102c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Outkast",
-					"id": ""
+					"id": "07c6114b-f316-40da-9c67-fdaaaad69663"
 				}
 			],
 			"name": "Roses",
-			"id": "",
+			"id": "6efee0ac-899a-4125-82af-9efc78d78cfd",
 			"length": 369632
 		},
 		{
 			"album": {
 				"name": "Music For Split Sides",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "28529855-a216-4c7c-8736-2764b9bb5be0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": ""
+					"id": "eed7df49-749f-43ba-8b9a-bbcf1b4d8261"
 				}
 			],
 			"name": "Ba Ba",
-			"id": "",
+			"id": "9f92db27-b95c-4988-96b2-3ed89ad14714",
 			"length": 372062
 		},
 		{
 			"album": {
 				"name": "Desperate Youth, Blood Thirsty Babes",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "d7e57969-9989-47b1-a707-6b5b48c1a2cd"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0"
 				}
 			],
 			"name": "Staring At The Sun",
-			"id": "",
+			"id": "b2d6cd5e-79b6-40fc-8396-4b4a09c0fadd",
 			"length": 207046
 		}
 	]

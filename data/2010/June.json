@@ -1,91 +1,133 @@
 {
-	"name": "June",
-	"month": "06",
+	"name": "June Top 5 2010",
+	"month": "june",
 	"year": "2010",
-	"id": "",
+	"id": "1fUIilggSM9ruS622MW0Yk",
 	"tracks": [
 		{
 			"album": {
-				"name": "Seek Magic",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Memory Tapes",
-					"id": ""
-				}
-			],
-			"name": "Bicycle",
-			"id": "",
-			"length": 319608
-		},
-		{
-			"album": {
-				"name": "Conditions",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Temper Trap",
-					"id": ""
-				}
-			],
-			"name": "Rest",
-			"id": "",
-			"length": 222615
-		},
-		{
-			"album": {
 				"name": "The Suburbs",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Month Of May",
 			"id": "",
-			"length": 242233
+			"length": 230000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Conditions",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Temper Trap",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Rest",
+			"id": "",
+			"length": 222000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Seek Magic",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Memory Tapes",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Bicycle",
+			"id": "",
+			"length": 319000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Black Noise",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Pantha Du Prince",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Welt Am Draht",
 			"id": "",
-			"length": 430811
+			"length": 430000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Record Collection",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "BBC Radio 1",
-					"id": ""
+					"name": "Mark Ronson & The Business Intl",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Bang Bang Bang",
 			"id": "",
-			"length": 235075
+			"length": 233000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

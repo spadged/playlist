@@ -1,92 +1,133 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2014",
+	"month": "january",
 	"year": "2014",
-	"id": "",
+	"id": "0x9L6UjTSUuf9RT8h623mL",
 	"tracks": [
 		{
 			"album": {
 				"name": "Kittenz And Thee Glitz",
-				"image": "",
-				"year": 2001,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Felix Da Housecat",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Harlot (Intro)",
 			"id": "",
-			"length": 190720
+			"length": 190000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Record Collection",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Mark Ronson & The Business Intl",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Record Collection",
 			"id": "",
-			"length": 229851
-		},
-		{
-			"album": {
-				"name": "Cold Spring Fault Less Youth",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Mount Kimbie",
-					"id": ""
-				}
-			],
-			"name": "Made To Stray",
-			"id": "",
-			"length": 286798
+			"length": 229000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Music of Grand Theft Auto V",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Tyler, The Creator",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Garbage",
 			"id": "",
-			"length": 208586
+			"length": 208000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Cold Spring Fault Less Youth",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Mount Kimbie",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Made To Stray",
+			"id": "",
+			"length": 286000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Apocalypse",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Thundercat",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Tenfold",
 			"id": "",
-			"length": 184528
+			"length": 184000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,91 +1,133 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2011",
+	"month": "august",
 	"year": "2011",
-	"id": "",
+	"id": "6SShCSWDwoBp6gCyfQpG0k",
 	"tracks": [
 		{
 			"album": {
 				"name": "Homogenic",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Björk",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Unravel",
 			"id": "",
-			"length": 201848
-		},
-		{
-			"album": {
-				"name": "The Undertones",
-				"image": "",
-				"year": 1979,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Undertones",
-					"id": ""
-				}
-			],
-			"name": "Teenage Kicks",
-			"id": "",
-			"length": 148160
-		},
-		{
-			"album": {
-				"name": "Give Me Convenience or Give Me Death",
-				"image": "",
-				"year": 1987,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Dead Kennedys",
-					"id": ""
-				}
-			],
-			"name": "Too Drunk to Fuck",
-			"id": "",
-			"length": 160624
+			"length": 201000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Era Extraña",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Neon Indian",
-					"id": "0KydPQPUUoTNhmiHKOg5Er"
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Polish Girl",
 			"id": "",
-			"length": 264000
+			"length": 264000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Undertones",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Undertones",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Teenage Kicks",
+			"id": "",
+			"length": 148000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "United",
-				"image": "",
-				"year": 2000,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Phoenix",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "If I Ever Feel Better",
 			"id": "",
-			"length": 266527
+			"length": 266000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Give Me Convenience or Give Me Death",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Dead Kennedys",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Too Drunk to Fuck",
+			"id": "",
+			"length": 160000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

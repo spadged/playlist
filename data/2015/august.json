@@ -7,87 +7,127 @@
 		{
 			"album": {
 				"name": "Currents",
-				"image": "https://i.scdn.co/image/baf2307038b91139d25efafe175e2a66369efeb8",
 				"year": "",
-				"id": "0rxKf57PZvWEoU8v3m5W2q"
+				"id": "",
+				"externalId": {
+					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "5INjqkS1o8h1imAzPqGZBb"
+					"id": "",
+					"externalId": {
+						"spotify": "5INjqkS1o8h1imAzPqGZBb"
+					}
 				}
 			],
 			"name": "Yes I'm Changing",
-			"id": "10ZwvQF9EbmXA20sFf9bO3",
-			"length": 270678
+			"id": "",
+			"length": 270678,
+			"externalId": {
+				"spotify": "10ZwvQF9EbmXA20sFf9bO3"
+			}
 		},
 		{
 			"album": {
 				"name": "Born In The Echoes",
-				"image": "https://i.scdn.co/image/5fa791f48d2bc2d664a6bff1ef2781e42d14938f",
 				"year": "",
-				"id": "36E5LAM5D3AKnVx8s5dyc6"
+				"id": "",
+				"externalId": {
+					"spotify": "36E5LAM5D3AKnVx8s5dyc6"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Chemical Brothers",
-					"id": "1GhPHrq36VKCY3ucVaZCfo"
+					"id": "",
+					"externalId": {
+						"spotify": "1GhPHrq36VKCY3ucVaZCfo"
+					}
 				}
 			],
 			"name": "Wide Open",
-			"id": "702bgtK1RC080O8pozq94S",
-			"length": 354603
+			"id": "",
+			"length": 354603,
+			"externalId": {
+				"spotify": "702bgtK1RC080O8pozq94S"
+			}
 		},
 		{
 			"album": {
 				"name": "The Best Of DMX",
-				"image": "https://i.scdn.co/image/a103ec4668f4e62387d7a19ade57a283aaf73527",
 				"year": "",
-				"id": "1B6nlZKCMmawwnnijTeH3I"
+				"id": "",
+				"externalId": {
+					"spotify": "1B6nlZKCMmawwnnijTeH3I"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "DMX",
-					"id": "1HwM5zlC5qNWhJtM00yXzG"
+					"id": "",
+					"externalId": {
+						"spotify": "1HwM5zlC5qNWhJtM00yXzG"
+					}
 				}
 			],
 			"name": "X Gon' Give It To Ya",
-			"id": "2NeHnSFnwNp1Z5WYgcjJ8L",
-			"length": 219253
+			"id": "",
+			"length": 219253,
+			"externalId": {
+				"spotify": "2NeHnSFnwNp1Z5WYgcjJ8L"
+			}
 		},
 		{
 			"album": {
 				"name": "Ceremony",
-				"image": "https://i.scdn.co/image/ff179eaffa1c868563f0b1f0b97af020547d8220",
 				"year": "",
-				"id": "2qf3yzwEdaklZSu7777unx"
+				"id": "",
+				"externalId": {
+					"spotify": "2qf3yzwEdaklZSu7777unx"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Anna von Hausswolff",
-					"id": "1eiXrvua27VlWgZ9kiaIn6"
+					"id": "",
+					"externalId": {
+						"spotify": "1eiXrvua27VlWgZ9kiaIn6"
+					}
 				}
 			],
 			"name": "Mountains Crave",
-			"id": "0IZ05Z5gVwYQ4b3QFazN89",
-			"length": 215131
+			"id": "",
+			"length": 215131,
+			"externalId": {
+				"spotify": "0IZ05Z5gVwYQ4b3QFazN89"
+			}
 		},
 		{
 			"album": {
-				"name": "Inherent Vice (Original Motion Picture Soundtrack)",
-				"image": "https://i.scdn.co/image/f0d318466e21f4718970bc1603821e2ffda1c865",
+				"name": "Inherent Vice",
 				"year": "",
-				"id": "3LIMxY8oQG9c70DWKe0iHN"
+				"id": "",
+				"externalId": {
+					"spotify": "3LIMxY8oQG9c70DWKe0iHN"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jonny Greenwood",
-					"id": "0z9s3P5vCzKcUBSxgBDyLU"
+					"id": "",
+					"externalId": {
+						"spotify": "0z9s3P5vCzKcUBSxgBDyLU"
+					}
 				}
 			],
 			"name": "Amethyst",
-			"id": "2vgNEKfr2AiRJB8Hjdi9Ha",
-			"length": 123653
+			"id": "",
+			"length": 123653,
+			"externalId": {
+				"spotify": "2vgNEKfr2AiRJB8Hjdi9Ha"
+			}
 		}
 	]
 }

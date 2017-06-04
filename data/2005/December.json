@@ -2,89 +2,84 @@
 	"name": "December",
 	"month": "12",
 	"year": "2005",
-	"id": "",
+	"id": "937bda5c-7cb0-4e11-abfe-b6caf6ec6d48",
 	"tracks": [
 		{
 			"album": {
 				"name": "Bewilderness",
-				"image": "",
-				"id": ""
+				"id": "7f4764ac-ca23-44ee-9533-8b55d6e45030"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bill Bailey",
-					"id": ""
+					"id": "65c8f9a6-e600-4959-8c8d-2d4da84e9b1e"
 				}
 			],
 			"name": "Unisex Chip Shop",
-			"id": "",
+			"id": "9fe2fcc1-4715-41f4-bca7-b839d9d42807",
 			"length": 94902
 		},
 		{
 			"album": {
 				"name": "Antics",
-				"image": "",
-				"id": ""
+				"id": "25b4a472-3a94-4e38-8102-d84b8a32d3ac"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Interpol",
-					"id": ""
+					"id": "ef080f93-7b82-4e68-ae8e-60fbe627d865"
 				}
 			],
 			"name": "Boxer",
-			"id": "",
+			"id": "5fe49b61-330a-459b-87a1-f7b36e0bf805",
 			"length": 152894
 		},
 		{
 			"album": {
-				"name": "Anthology",
-				"image": "",
+				"name": "John Lennon/Plastic Ono Band",
 				"year": 1998,
-				"id": ""
+				"id": "8f34c1d4-01e6-4090-a7b8-35d797b848c1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "John Lennon",
-					"id": ""
+					"id": "5888450f-e48c-48db-96ae-b52c0c463684"
 				}
 			],
 			"name": "Look At Me",
-			"id": "",
+			"id": "eecdbee2-b059-4572-871e-c4bf37f009ef",
 			"length": 172721
 		},
 		{
 			"album": {
 				"name": "American Recordings",
-				"image": "",
 				"year": 1994,
-				"id": ""
+				"id": "74cbb390-e473-47e2-a68b-437343eb82e3"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Johnny Cash",
-					"id": "6kACVPfCOnqzgfEF5ryl0x"
+					"id": "cd5c94d9-33b2-4455-8af7-a593e4669926"
 				}
 			],
 			"name": "The Man Who Couldn't Cry",
-			"id": "",
+			"id": "a12ea8d0-3b20-40d1-a400-91947bf688f7",
 			"length": 301486
 		},
 		{
 			"album": {
 				"name": "Heart And Soul",
-				"image": "",
 				"year": 1980,
-				"id": ""
+				"id": "d0f324ec-a010-43b0-a1cb-54b49ceef7ed"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Joy Division",
-					"id": ""
+					"id": "f2645e16-2587-4afb-bbab-29197d6656ca"
 				}
 			],
 			"name": "Atmosphere",
-			"id": "",
+			"id": "9383015f-ea48-4c5f-9512-fb8133c6e88e",
 			"length": 251062
 		}
 	]

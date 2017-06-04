@@ -1,92 +1,133 @@
 {
-	"name": "May",
-	"month": "05",
+	"name": "May Top 5 2010",
+	"month": "may",
 	"year": "2010",
-	"id": "",
+	"id": "4C93YQNAxJz6fWc9hWt64j",
 	"tracks": [
 		{
 			"album": {
-				"name": "Swim",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Caribou",
-					"id": ""
+				"name": "I Told You I Was Freaky",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
 				}
-			],
-			"name": "Lalibela",
-			"id": "",
-			"length": 145893
-		},
-		{
-			"album": {
-				"name": "Season 2 Flight of the Conchords",
-				"image": "",
-				"year": 2009,
-				"id": ""
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Flight of the Conchords",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Friends",
 			"id": "",
-			"length": 133302
+			"length": 133000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "This Is Happening",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"name": "Swim",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "LCD Soundsystem",
-					"id": ""
+					"name": "Caribou",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Home",
+			"name": "Lalibela",
 			"id": "",
-			"length": 473290
+			"length": 145000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Brothers",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Black Keys",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Tighten Up",
 			"id": "",
-			"length": 211095
+			"length": 211000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Suburbs",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Suburbs",
 			"id": "",
-			"length": 315324
+			"length": 315000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "This Is Happening",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "LCD Soundsystem",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Home",
+			"id": "",
+			"length": 473000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

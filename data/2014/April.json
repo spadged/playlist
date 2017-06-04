@@ -1,92 +1,133 @@
 {
-	"name": "April",
-	"month": "04",
+	"name": "April Top 5 2014",
+	"month": "april",
 	"year": "2014",
-	"id": "",
+	"id": "5MNJYgot1IZerOqh7iyYTw",
 	"tracks": [
 		{
 			"album": {
 				"name": "Mind Bokeh",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bibio",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Wake Up!",
 			"id": "",
-			"length": 205270
-		},
-		{
-			"album": {
-				"name": "Tomorrow's Harvest",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Boards Of Canada",
-					"id": ""
-				}
-			],
-			"name": "Come to Dust",
-			"id": "",
-			"length": 247666
-		},
-		{
-			"album": {
-				"name": "An Awesome Wave",
-				"image": "",
-				"year": 2012,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "alt-J",
-					"id": ""
-				}
-			],
-			"name": "Dissolve Me",
-			"id": "",
-			"length": 239072
-		},
-		{
-			"album": {
-				"name": "Immunity",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Jon Hopkins",
-					"id": "7yxi31szvlbwvKq9dYOmFI"
-				}
-			],
-			"name": "Breathe This Air",
-			"id": "",
-			"length": 329952
+			"length": 205000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Ocean Death",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Baths",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Ocean Death",
 			"id": "",
-			"length": 330004
+			"length": 330000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Immunity",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Jon Hopkins",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Breathe This Air",
+			"id": "",
+			"length": 329000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "An Awesome Wave",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "alt-J",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Dissolve Me",
+			"id": "",
+			"length": 239000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Tomorrow's Harvest",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Boards Of Canada",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Come to Dust",
+			"id": "",
+			"length": 247000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

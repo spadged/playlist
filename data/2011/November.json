@@ -1,93 +1,140 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2011",
+	"month": "november",
 	"year": "2011",
-	"id": "",
+	"id": "1DHwEwVIHvRFKuJoX848Jx",
 	"tracks": [
 		{
 			"album": {
-				"name": "Neon Bible",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Arcade Fire",
-					"id": ""
+				"name": "Purple Naked Ladies",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
 				}
-			],
-			"name": "Neon Bible",
-			"id": "",
-			"length": 136698
-		},
-		{
-			"album": {
-				"name": "The Information",
-				"image": "",
-				"year": 2006,
-				"id": ""
 			},
-			"artist": [
-				{
-					"name": "Beck",
-					"id": ""
-				}
-			],
-			"name": "Inside Out",
-			"id": "",
-			"length": 223111
-		},
-		{
-			"album": {
-				"name": "Lost Sides",
-				"image": "",
-				"year": 2003,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Doves",
-					"id": ""
-				}
-			],
-			"name": "Far From Grace",
-			"id": "",
-			"length": 266344
-		},
-		{
-			"album": {
-				"name": "Third",
-				"image": "",
-				"year": 2008,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Portishead",
-					"id": ""
-				}
-			],
-			"name": "Magic Doors",
-			"id": "",
-			"length": 212009
-		},
-		{
-			"album": {
-				"name": "Cocaine (feat. Left Brain)",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Internet",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Left Brain",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Cocaine",
 			"id": "",
-			"length": 179106
+			"length": 179000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Lost Sides",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Doves",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Far From Grace",
+			"id": "",
+			"length": 266000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Neon Bible",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Arcade Fire",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Neon Bible",
+			"id": "",
+			"length": 136000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Third",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Portishead",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Magic Doors",
+			"id": "",
+			"length": 212000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Information",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Beck",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Inside Out",
+			"id": "",
+			"length": 223000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

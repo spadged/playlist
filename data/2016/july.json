@@ -7,87 +7,127 @@
 		{
 			"album": {
 				"name": "The Bride",
-				"image": "https://i.scdn.co/image/7a628de9b3bb2bc949b4d34b4bbe63bfba4c4150",
 				"year": "",
-				"id": "0FOJVGWk7r4QKYCP1hCCEq"
+				"id": "",
+				"externalId": {
+					"spotify": "0FOJVGWk7r4QKYCP1hCCEq"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "6l77PmL5iuEEcYjGl8K6s7"
+					"id": "",
+					"externalId": {
+						"spotify": "6l77PmL5iuEEcYjGl8K6s7"
+					}
 				}
 			],
 			"name": "Widow's Peak",
-			"id": "05AevinMY2xCmHbPhAi7mm",
-			"length": 226573
+			"id": "",
+			"length": 226573,
+			"externalId": {
+				"spotify": "05AevinMY2xCmHbPhAi7mm"
+			}
 		},
 		{
 			"album": {
-				"name": "Policy (Deluxe Version)",
-				"image": "https://i.scdn.co/image/63184ee5e7ae4353109c8142098a4cef3e2083ad",
+				"name": "Policy",
 				"year": "",
-				"id": "0vQ671QsneNp0OF7xl0c1p"
+				"id": "",
+				"externalId": {
+					"spotify": "0vQ671QsneNp0OF7xl0c1p"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Will Butler",
-					"id": "1POwuKLQ9xhMZzIYElNtWp"
+					"id": "",
+					"externalId": {
+						"spotify": "1POwuKLQ9xhMZzIYElNtWp"
+					}
 				}
 			],
 			"name": "Madonna Can't Save Me Now",
-			"id": "0OOvEkgZT1iNl7tV4vsAap",
-			"length": 203986
+			"id": "",
+			"length": 203986,
+			"externalId": {
+				"spotify": "0OOvEkgZT1iNl7tV4vsAap"
+			}
 		},
 		{
 			"album": {
 				"name": "Cheetah EP",
-				"image": "https://i.scdn.co/image/6e366b6deab31d04aabe31a920cf410f8017418b",
 				"year": "",
-				"id": "1pC7hHcaOmrDotqv1ZnuT8"
+				"id": "",
+				"externalId": {
+					"spotify": "1pC7hHcaOmrDotqv1ZnuT8"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Aphex Twin",
-					"id": "6kBDZFXuLrZgHnvmPu9NsG"
+					"id": "",
+					"externalId": {
+						"spotify": "6kBDZFXuLrZgHnvmPu9NsG"
+					}
 				}
 			],
 			"name": "CHEETAHT2 [Ld spectrum]",
-			"id": "44IECBxt9Hev9ivOFLG7W0",
-			"length": 353320
+			"id": "",
+			"length": 353320,
+			"externalId": {
+				"spotify": "44IECBxt9Hev9ivOFLG7W0"
+			}
 		},
 		{
 			"album": {
 				"name": "What Follows",
-				"image": "https://i.scdn.co/image/0bfc608ed3eb0c2cab557c49569236d1968dfd37",
 				"year": "",
-				"id": "0TZrzXFGNNAzb3EaCMlWnm"
+				"id": "",
+				"externalId": {
+					"spotify": "0TZrzXFGNNAzb3EaCMlWnm"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Shit Robot",
-					"id": "2ZvXaOrinJFZDexa3fWqMZ"
+					"id": "",
+					"externalId": {
+						"spotify": "2ZvXaOrinJFZDexa3fWqMZ"
+					}
 				}
 			],
 			"name": "End of the Trail",
-			"id": "02EhxL24z3M1ldt70S2YuF",
-			"length": 395007
+			"id": "",
+			"length": 395007,
+			"externalId": {
+				"spotify": "02EhxL24z3M1ldt70S2YuF"
+			}
 		},
 		{
 			"album": {
 				"name": "Advancement",
-				"image": "https://i.scdn.co/image/a36f90153f4c166ae78fde4edcc2ebddf183a9cd",
 				"year": "",
-				"id": "69NT51Ixs5Yjvjp6s3X3lV"
+				"id": "",
+				"externalId": {
+					"spotify": "69NT51Ixs5Yjvjp6s3X3lV"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Solar Bears",
-					"id": "5stWr4xhAG8w29JUSt8UCO"
+					"id": "",
+					"externalId": {
+						"spotify": "5stWr4xhAG8w29JUSt8UCO"
+					}
 				}
 			],
 			"name": "Wild Flowers",
-			"id": "43Yqsa0OXlCnG8611MuwPt",
-			"length": 191733
+			"id": "",
+			"length": 191733,
+			"externalId": {
+				"spotify": "43Yqsa0OXlCnG8611MuwPt"
+			}
 		}
 	]
 }

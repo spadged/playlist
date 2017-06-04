@@ -1,90 +1,140 @@
 {
-	"name": "June",
-	"month": "06",
+	"name": "June Top 5 2009",
+	"month": "june",
 	"year": "2009",
-	"id": "",
+	"id": "3tIFhHS6FFUFAUhybI8OOE",
 	"tracks": [
 		{
 			"album": {
-				"name": "Wall Of Arms",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Maccabees",
-					"id": ""
-				}
-			],
-			"name": "Can You Give It",
-			"id": "",
-			"length": 174628
-		},
-		{
-			"album": {
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Calvin Harris",
-					"id": ""
-				}
-			],
-			"name": "I'm Not Alone",
-			"id": "",
-			"length": 213342
-		},
-		{
-			"album": {
-				"name": "Dark Night Of The Soul",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Danger Mouse, Sparkle Horse, David Lynch",
-					"id": ""
-				}
-			],
-			"name": "Just War",
-			"id": "",
-			"length": 229041
-		},
-		{
-			"album": {
 				"name": "Angles",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Dan Le Sac vs Scroobius Pip",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Letter to god from man",
 			"id": "",
-			"length": 237453
+			"length": 237000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Incredibad",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": " ",
-					"id": ""
+					"name": "The Lonely Island",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "E-40",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Santana DVX (feat. E-40)",
+			"name": "Santana DVX",
 			"id": "",
-			"length": 155167
+			"length": 155000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Wall Of Arms",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Maccabees",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Can You Give It",
+			"id": "",
+			"length": 174000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Dark Night Of The Soul",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Gruff Rhys",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Just War",
+			"id": "",
+			"length": 229000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Ready For The Weekend",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Calvin Harris",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "I'm Not Alone",
+			"id": "",
+			"length": 211000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

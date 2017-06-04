@@ -7,91 +7,134 @@
 		{
 			"album": {
 				"name": "I.",
-				"image": "https://i.scdn.co/image/1e2b79159df4ea01b0b478dc8b6a485efe14c755",
 				"year": "",
-				"id": "5GvLhLPpP03FuLvxgdEnpj"
+				"id": "",
+				"externalId": {
+					"spotify": "5GvLhLPpP03FuLvxgdEnpj"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Cigarettes After Sex",
-					"id": "1QAJqy2dA3ihHBFIHRphZj"
+					"id": "",
+					"externalId": {
+						"spotify": "1QAJqy2dA3ihHBFIHRphZj"
+					}
 				}
 			],
 			"name": "Nothing's Gonna Hurt You Baby",
-			"id": "5RROFztQ7ua0p9ttJ0U8nv",
-			"length": 286293
+			"id": "",
+			"length": 286293,
+			"externalId": {
+				"spotify": "5RROFztQ7ua0p9ttJ0U8nv"
+			}
 		},
 		{
 			"album": {
-				"name": "You're a Man Now, Boy (Deluxe)",
-				"image": "https://i.scdn.co/image/d5dc4a5539aa27d2e4ebf15443e9c585f64aaaa0",
+				"name": "You're a Man Now, Boy",
 				"year": "",
-				"id": "50EXi4hlRIPF7fLQcWCXyp"
+				"id": "",
+				"externalId": {
+					"spotify": "50EXi4hlRIPF7fLQcWCXyp"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Raleigh Ritchie",
-					"id": "0IB0VjX9NSrGX6PjCXGVcq"
+					"id": "",
+					"externalId": {
+						"spotify": "0IB0VjX9NSrGX6PjCXGVcq"
+					}
 				}
 			],
 			"name": "The Last Romance",
-			"id": "421lWmPkOiHJhTIMDLxKjP",
-			"length": 199586
+			"id": "",
+			"length": 199586,
+			"externalId": {
+				"spotify": "421lWmPkOiHJhTIMDLxKjP"
+			}
 		},
 		{
 			"album": {
 				"name": "Lantern",
-				"image": "https://i.scdn.co/image/5fb8b3912b4af0300d0c08c56e58fa195adbbb7b",
 				"year": "",
-				"id": "77ssrzSiIdGl7zaKn3oFx0"
+				"id": "",
+				"externalId": {
+					"spotify": "77ssrzSiIdGl7zaKn3oFx0"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hudson Mohawke",
-					"id": "6olWbKW2VLhFCHfOi0iEDb"
+					"id": "",
+					"externalId": {
+						"spotify": "6olWbKW2VLhFCHfOi0iEDb"
+					}
 				},
 				{
 					"name": "Antony",
-					"id": "3koJmQqTa9Eh7oy4y1XaZU"
+					"id": "",
+					"externalId": {
+						"spotify": "3koJmQqTa9Eh7oy4y1XaZU"
+					}
 				}
 			],
 			"name": "Indian Steps",
-			"id": "4gqW3WQrkOs6MlFHX9shUR",
-			"length": 276066
+			"id": "",
+			"length": 276066,
+			"externalId": {
+				"spotify": "4gqW3WQrkOs6MlFHX9shUR"
+			}
 		},
 		{
 			"album": {
 				"name": "The Diet",
-				"image": "https://i.scdn.co/image/917218fab350fbc325468acacb5f917e0cfb8908",
 				"year": "",
-				"id": "1aDGGp3yd6loVBLTt24byA"
+				"id": "",
+				"externalId": {
+					"spotify": "1aDGGp3yd6loVBLTt24byA"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "HeCTA",
-					"id": "5hokuav35Jh2qn4RKDDBkL"
+					"id": "",
+					"externalId": {
+						"spotify": "5hokuav35Jh2qn4RKDDBkL"
+					}
 				}
 			],
 			"name": "Sympathy For The Auto Industry",
-			"id": "3MdwbFYCFqpuR7YToEMRji",
-			"length": 331253
+			"id": "",
+			"length": 331253,
+			"externalId": {
+				"spotify": "3MdwbFYCFqpuR7YToEMRji"
+			}
 		},
 		{
 			"album": {
 				"name": "Dumb Flesh",
-				"image": "https://i.scdn.co/image/322dfeba3a0963585a590f341e35c77256a11d5a",
 				"year": "",
-				"id": "1KZFsO5kth2c0xMPyL7rSx"
+				"id": "",
+				"externalId": {
+					"spotify": "1KZFsO5kth2c0xMPyL7rSx"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Blanck Mass",
-					"id": "73LvjicByRK5LazcQYZMAY"
+					"id": "",
+					"externalId": {
+						"spotify": "73LvjicByRK5LazcQYZMAY"
+					}
 				}
 			],
 			"name": "Atrophies",
-			"id": "4hwucfOrP2d62YYIFN3HMn",
-			"length": 306733
+			"id": "",
+			"length": 306733,
+			"externalId": {
+				"spotify": "4hwucfOrP2d62YYIFN3HMn"
+			}
 		}
 	]
 }

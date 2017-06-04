@@ -2,89 +2,88 @@
 	"name": "December",
 	"month": "12",
 	"year": "2014",
-	"id": "",
+	"id": "5f6277fe-e43c-4c6f-bb7e-ad4f15a7c45c",
 	"tracks": [
 		{
 			"album": {
 				"name": "This Is All Yours",
-				"image": "",
 				"year": 2014,
-				"id": ""
+				"id": "c260555e-92ce-4f54-b696-31b479903bcc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "alt-J",
-					"id": ""
+					"id": "1f4a68d6-876e-4152-91f2-3542ee5dd503"
 				}
 			],
 			"name": "Nara",
-			"id": "",
+			"id": "7f774f1b-ecb6-4d1d-8918-fc8e78369241",
 			"length": 296097
 		},
 		{
 			"album": {
 				"name": "Twin Peaks: Season Two Music And More",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "34e332be-8ea9-43e3-898a-9e24923e160b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Angelo Badalamenti",
-					"id": ""
+					"id": "15aff125-b62c-4a4e-b141-b7ac04bace91"
 				}
 			],
 			"name": "Half Heart",
-			"id": "",
+			"id": "71e819eb-d11c-4bc3-b75d-f05361ff2892",
 			"length": 331311
 		},
 		{
 			"album": {
 				"name": "Clark",
-				"image": "",
 				"year": 2014,
-				"id": ""
+				"id": "aed3c0a3-1f2d-4a7f-8653-c40172dfc443"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Clark",
-					"id": ""
+					"id": "91e7202c-ae12-4533-8728-212a8dd25fdb"
 				}
 			],
 			"name": "There’s A Distance In You",
-			"id": "",
+			"id": "dcf3d993-edb9-4e6b-ad6c-926950970f13",
 			"length": 426814
 		},
 		{
 			"album": {
 				"name": "Otherness",
-				"image": "",
 				"year": 2014,
-				"id": ""
+				"id": "08f3bddd-e3ce-4bed-8bbc-7ee369d6bb05"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kindness",
-					"id": "6SYIsHAQ1sPokVxmzpaDBU"
+					"id": "1d53c3b6-8929-4244-8095-f3dac1853da0"
+				},
+				{
+					"name": "Robyn",
+					"id": "1d53c3b6-8929-4244-8095-f3dac1853da0"
 				}
 			],
-			"name": "Who Do You Love? Featuring Robyn",
-			"id": "",
+			"name": "Who Do You Love?",
+			"id": "130862d3-2510-44fd-a4a8-12371fcc18fb",
 			"length": 291082
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"id": "0c29daa5-3455-4fb6-ad1e-7b1e776b89d5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kate Bush",
-					"id": ""
+					"id": "4b6665f5-7683-449d-8681-113dca228a7e"
 				}
 			],
 			"name": "December Will Be Magic Again",
-			"id": "",
+			"id": "6e2ce0bd-5cc4-4e3d-a42a-39a13e152ac3",
 			"length": 236486
 		}
 	]

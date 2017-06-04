@@ -1,93 +1,140 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2009",
+	"month": "august",
 	"year": "2009",
-	"id": "",
+	"id": "0TPCWHIGFRkI0BamHjWwqQ",
 	"tracks": [
 		{
 			"album": {
-				"name": "Young Lairs EP",
-				"image": "",
-				"year": 2003,
-				"id": ""
+				"name": "Young Lairs",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV on the Radio",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Satellite",
 			"id": "",
-			"length": 273711
-		},
-		{
-			"album": {
-				"name": "Temporary Pleasure",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Simian Mobile Disco",
-					"id": ""
-				}
-			],
-			"name": "Audacity Of Huge",
-			"id": "",
-			"length": 228022
-		},
-		{
-			"album": {
-				"name": "Humbug",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Humbug",
-					"id": ""
-				}
-			],
-			"name": "Cornerstone ",
-			"id": "",
-			"length": 198034
+			"length": 273000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Viva La Vida",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Coldplay",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Strawberry Swing",
 			"id": "",
-			"length": 249835
+			"length": 249000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Temporary Pleasure",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Simian Mobile Disco",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Chris Keating",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Audacity Of Huge",
+			"id": "",
+			"length": 228000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Conditions",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Temper Trap",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Love Lost",
 			"id": "",
-			"length": 216137
+			"length": 216000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Humbug",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Arctic Monkeys",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Cornerstone ",
+			"id": "",
+			"length": 198000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

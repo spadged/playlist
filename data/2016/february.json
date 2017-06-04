@@ -7,91 +7,134 @@
 		{
 			"album": {
 				"name": "Reminder",
-				"image": "https://i.scdn.co/image/b117e7c08253bcaa280a8f78abb3951dd38fa900",
 				"year": "",
-				"id": "34leSDkpEeoIPkyhzSIDYg"
+				"id": "",
+				"externalId": {
+					"spotify": "34leSDkpEeoIPkyhzSIDYg"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Moderat",
-					"id": "2exkZbmNqMKnT8LRWuxWgy"
+					"id": "",
+					"externalId": {
+						"spotify": "2exkZbmNqMKnT8LRWuxWgy"
+					}
 				}
 			],
 			"name": "Reminder",
-			"id": "2y3VAO6G4RZZY8IU07tBwW",
-			"length": 234080
+			"id": "",
+			"length": 234080,
+			"externalId": {
+				"spotify": "2y3VAO6G4RZZY8IU07tBwW"
+			}
 		},
 		{
 			"album": {
 				"name": "A Retelling",
-				"image": "https://i.scdn.co/image/c3f72521aa6cdca7d30eeba86370792fd759056f",
 				"year": "",
-				"id": "6u3V2lOfrxUpLWHL8rjllE"
+				"id": "",
+				"externalId": {
+					"spotify": "6u3V2lOfrxUpLWHL8rjllE"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kindness",
-					"id": "6SYIsHAQ1sPokVxmzpaDBU"
+					"id": "",
+					"externalId": {
+						"spotify": "6SYIsHAQ1sPokVxmzpaDBU"
+					}
 				}
 			],
 			"name": "A Retelling",
-			"id": "4VXvw5t6OdQ7EEuMrNAjDS",
-			"length": 324085
+			"id": "",
+			"length": 324085,
+			"externalId": {
+				"spotify": "4VXvw5t6OdQ7EEuMrNAjDS"
+			}
 		},
 		{
 			"album": {
 				"name": "Big Black Coat",
-				"image": "https://i.scdn.co/image/3bdaf435163262bb1260f8144a791a4f2af91ac2",
 				"year": "",
-				"id": "5pdm3GVR8dE7f0O7foPKbq"
+				"id": "",
+				"externalId": {
+					"spotify": "5pdm3GVR8dE7f0O7foPKbq"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Junior Boys",
-					"id": "39x9e2QDpAxK8xTuJDwRqR"
+					"id": "",
+					"externalId": {
+						"spotify": "39x9e2QDpAxK8xTuJDwRqR"
+					}
 				}
 			],
 			"name": "Over It",
-			"id": "4Y8XqpL3XaYmnvfi1R1sd7",
-			"length": 224801
+			"id": "",
+			"length": 224801,
+			"externalId": {
+				"spotify": "4Y8XqpL3XaYmnvfi1R1sd7"
+			}
 		},
 		{
 			"album": {
 				"name": "Water",
-				"image": "https://i.scdn.co/image/9e81ec87b18ab262a52a3e73e2577c122a1b831c",
 				"year": "",
-				"id": "35Cbis4EC9WCCSrmIwGNkJ"
+				"id": "",
+				"externalId": {
+					"spotify": "35Cbis4EC9WCCSrmIwGNkJ"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ra Ra Riot",
-					"id": "6FIrstf3kHEg3zBOyLpvxD"
+					"id": "",
+					"externalId": {
+						"spotify": "6FIrstf3kHEg3zBOyLpvxD"
+					}
 				},
 				{
 					"name": "Rostam",
-					"id": "04XggbrM51GcFPTxBYtRXT"
+					"id": "",
+					"externalId": {
+						"spotify": "04XggbrM51GcFPTxBYtRXT"
+					}
 				}
 			],
 			"name": "Water",
-			"id": "7vAb6xya02LhN4YQh8X42w",
-			"length": 280333
+			"id": "",
+			"length": 280333,
+			"externalId": {
+				"spotify": "7vAb6xya02LhN4YQh8X42w"
+			}
 		},
 		{
 			"album": {
 				"name": "I Love You, Honeybear",
-				"image": "https://i.scdn.co/image/a6fa9772b2ac5aca79013afa96c05101f6d24b59",
 				"year": "",
-				"id": "2A8IKX257C4hJaYUHMhLP7"
+				"id": "",
+				"externalId": {
+					"spotify": "2A8IKX257C4hJaYUHMhLP7"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Father John Misty",
-					"id": "2kGBy2WHvF0VdZyqiVCkDT"
+					"id": "",
+					"externalId": {
+						"spotify": "2kGBy2WHvF0VdZyqiVCkDT"
+					}
 				}
 			],
 			"name": "True Affection",
-			"id": "4qG7NaN5VGPE2HPFKFHKCs",
-			"length": 236573
+			"id": "",
+			"length": 236573,
+			"externalId": {
+				"spotify": "4qG7NaN5VGPE2HPFKFHKCs"
+			}
 		}
 	]
 }

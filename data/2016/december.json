@@ -7,87 +7,127 @@
 		{
 			"album": {
 				"name": "Shadow",
-				"image": "https://i.scdn.co/image/0b818eb30affb344ce9914f211e85f41172868f7",
 				"year": "",
-				"id": "4gy94KSgNMaxdSNQPPMKxO"
+				"id": "",
+				"externalId": {
+					"spotify": "4gy94KSgNMaxdSNQPPMKxO"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Chromatics",
-					"id": "4tOVIRjlWWfR1RrAxyRqTE"
+					"id": "",
+					"externalId": {
+						"spotify": "4tOVIRjlWWfR1RrAxyRqTE"
+					}
 				}
 			],
 			"name": "Shadow - Radio",
-			"id": "7HB9ilX2MtVzvgdrarihMk",
-			"length": 225464
+			"id": "",
+			"length": 225464,
+			"externalId": {
+				"spotify": "7HB9ilX2MtVzvgdrarihMk"
+			}
 		},
 		{
 			"album": {
 				"name": "Harry Patch (In Memory Of)",
-				"image": "https://i.scdn.co/image/0c683e9b6d1de017b73490994ada347d3858c291",
 				"year": "",
-				"id": "4SRrKj3jOP6SA5Jr2dFeNz"
+				"id": "",
+				"externalId": {
+					"spotify": "4SRrKj3jOP6SA5Jr2dFeNz"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "",
+					"externalId": {
+						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
+					}
 				}
 			],
 			"name": "Harry Patch (In Memory Of)",
-			"id": "7yMPuOVQEqpl7h1AQq4f2i",
-			"length": 332840
+			"id": "",
+			"length": 332840,
+			"externalId": {
+				"spotify": "7yMPuOVQEqpl7h1AQq4f2i"
+			}
 		},
 		{
 			"album": {
 				"name": "Magnificent (She Says)",
-				"image": "https://i.scdn.co/image/18a9ce893a507f10c0bd0671919908d2c6c556b2",
 				"year": "",
-				"id": "6khwkBgfvELrHOi2dmvXwC"
+				"id": "",
+				"externalId": {
+					"spotify": "6khwkBgfvELrHOi2dmvXwC"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elbow",
-					"id": "0TJB3EE2efClsYIDQ8V2Jk"
+					"id": "",
+					"externalId": {
+						"spotify": "0TJB3EE2efClsYIDQ8V2Jk"
+					}
 				}
 			],
 			"name": "Magnificent (She Says)",
-			"id": "1SX2KJP48vW2wyyk7WLhrq",
-			"length": 265745
+			"id": "",
+			"length": 265745,
+			"externalId": {
+				"spotify": "1SX2KJP48vW2wyyk7WLhrq"
+			}
 		},
 		{
 			"album": {
 				"name": "Actor",
-				"image": "https://i.scdn.co/image/3879faade0bfec9b0403e8ba60ab121eeb9fc90d",
 				"year": "",
-				"id": "0nARXdbUQGhn3PCyv8p2NT"
+				"id": "",
+				"externalId": {
+					"spotify": "0nARXdbUQGhn3PCyv8p2NT"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "St. Vincent",
-					"id": "7bcbShaqKdcyjnmv4Ix8j6"
+					"id": "",
+					"externalId": {
+						"spotify": "7bcbShaqKdcyjnmv4Ix8j6"
+					}
 				}
 			],
 			"name": "The Strangers",
-			"id": "3LWkeQ4hhHdlz4ZOyt6xHK",
-			"length": 244840
+			"id": "",
+			"length": 244840,
+			"externalId": {
+				"spotify": "3LWkeQ4hhHdlz4ZOyt6xHK"
+			}
 		},
 		{
 			"album": {
 				"name": "Mind the Gap",
-				"image": "https://i.scdn.co/image/934d613513591a4730d9539ec0c04352e1465e8e",
 				"year": "",
-				"id": "2bPHTJhbuH6UCJ5qkWznyL"
+				"id": "",
+				"externalId": {
+					"spotify": "2bPHTJhbuH6UCJ5qkWznyL"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Raleigh Ritchie",
-					"id": "0IB0VjX9NSrGX6PjCXGVcq"
+					"id": "",
+					"externalId": {
+						"spotify": "0IB0VjX9NSrGX6PjCXGVcq"
+					}
 				}
 			],
 			"name": "Unicron Loev",
-			"id": "3cQf4qfc9YGgYP9WScRjtV",
-			"length": 224323
+			"id": "",
+			"length": 224323,
+			"externalId": {
+				"spotify": "3cQf4qfc9YGgYP9WScRjtV"
+			}
 		}
 	]
 }

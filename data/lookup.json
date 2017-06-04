@@ -1,546 +1,2717 @@
 {
-	"Future Islands": {
-		"id": "1WvvwcQx0tj6NdDhZZ2zZz",
-		"albums": {
-			"Singles": "1dKh4z5Aayt8FFDWjO5FDh"
+	"Cliff Martinez": {
+		"id": "1cb5d45a-1ff0-4603-ab08-48e1db074573",
+		"album": {
+			"Solaris": "0e76ccd8-33c7-4a16-8abb-4a1dfb8ffc42"
 		}
 	},
-	"Viet Cong": {
-		"id": "3ngYPt2kwxWpF5cr5tGYf0",
-		"albums": {
-			"Viet Cong": "55o2mmwmXmaHm53Q6XwiPb"
+	"Hilmar Örn Hilmarsson & Sigur Rós": {
+		"id": "c5efe2b2-5889-4ce9-a250-3dbb03828caa",
+		"album": {
+			"Angels of the Universe": "02a11107-baa5-4468-b97c-e9068daa23dc"
 		}
 	},
-	"Beach House": {
-		"id": "56ZTgzPBDge0OvCGgMO3OY",
-		"albums": {
-			"Sparks": "2vOGDvaWjNceuRTvZdd1tY"
+	"Jeff Buckley": {
+		"id": "487fa324-d6df-415e-aeed-e9cd0d38a714",
+		"album": {
+			"Mystery White Boy ": "a349ecae-f50a-452c-8790-508a01c569d2",
+			"Sketches For My Sweetheart The Drunk": "c562b185-fd6d-42e4-ba5c-0e722c16381c",
+			"Mystery White Boy": "e49ee749-8f98-45f6-b03a-b8f9ddccf47b",
+			"Grace": "547212ab-19bd-4fc5-a384-66db0e808704",
+			"Live A L'Olympia": "e0ec6a53-1054-44b4-aafc-a99e5c91dc9d"
 		}
 	},
-	"Roman Flügel": {
-		"id": "2GvwZbDjH1DbQpodGKENDw",
-		"albums": {
-			"Happiness Is Happening": "1o749fQxB6OKWsieznl9R9"
+	"Kings Of Leon": {
+		"id": "2cb195f0-91e2-42ae-90e4-f7366c3db293",
+		"album": {
+			"Youth & Young Manhood": "6b513370-b7e1-4d43-93b5-b3df653fc573",
+			"Aha Shake Heartbreak": "27e81095-67bf-4356-a899-06665000ea5c",
+			"Because Of The Times": "62e1340d-8443-4381-98c2-53563a22e952",
+			"Only By The Night": "f204055f-a338-4818-b1db-5fe76252f681"
 		}
 	},
-	"Young Fathers": {
-		"id": "5mZC7ndY6oGMxJentRwsuV",
-		"albums": {
-			"White Men Are Black Men Too": "3xtwcBeltPMO0I4PnDfV0k",
-			"Only God Knows": "1wiO5677V7Ar51vKSrjLxM",
-			"DEAD": "4PishS8bjccWUr4CVrosmb"
+	"Plaid": {
+		"id": "4739518a-bf89-4958-a82d-9c8b933620bd",
+		"album": {
+			"Spokes": "654d6ff5-dd0e-4714-8cdb-1f1ccfc6e444",
+			"Double Figure": "11f5da04-f970-453c-9f10-28b4c38b6da4"
 		}
 	},
-	"Yeah Yeah Yeahs": {
-		"id": "3TNt4aUIxgfy9aoaft5Jj2",
-		"albums": {
-			"Down Boy": "5uhti5qBvfcn3GjJ4rujMR"
+	"Peter Gabriel": {
+		"id": "5834a8d4-9c98-4976-8668-65366c9a6417",
+		"album": {
+			"Vanilla Sky": "8159f697-8ec9-43ee-8237-6e8a8886dda3",
+			"Scratch My Back": "2890b2fe-4d5a-4de1-b4c5-7198c133c47d"
 		}
 	},
-	"Julie Byrne": {
-		"id": "10duXbKJkvdGK5RgktEnxV",
-		"albums": {
-			"Natural Blue": "0QhK165FAvAQ1wuUCG5bay"
+	"Red House Painters": {
+		"id": "ae5e2173-20ec-4118-becd-14764a7ddace",
+		"album": {
+			"Vanilla Sky": "9130ed60-b27d-4b18-9c8d-34a0bd9bc7ce",
+			"Down Colorful Hill": "a002e370-99b8-416f-88a6-5e972780193d"
 		}
 	},
-	"Leith Congregational Choir": {
-		"id": "1c1jJnGGqsDx9YlorUbhix",
-		"albums": {
-			"Only God Knows": "1wiO5677V7Ar51vKSrjLxM"
+	"Nancy Wilson": {
+		"id": "820ba096-717e-43cd-b218-8755b70ca0c4",
+		"album": {
+			"Vanilla Sky": "68ec0ffc-745e-4afa-a6bc-ea6dd45a4b86"
 		}
 	},
-	"Mariah": {
-		"id": "0yMkwfeRG8lviQY0mZ1BBI",
-		"albums": {
-			"Utakata No Hibi": "19BBMeNLwsJc3tA72c6Klh"
+	"Led Zeppelin": {
+		"id": "b7078b8d-8383-48dc-830c-27dc2ee2a1df",
+		"album": {
+			"Led Zeppelin Three": "dbc03edc-4325-48b9-b6e7-9f9d6a09271b",
+			"Houses Of The Holy": "f5cba359-c185-4fd0-a61f-d53d843963e5"
 		}
 	},
-	"Cocteau Twins": {
-		"id": "5Wabl1lPdNOeIn0SQ5A1mp",
-		"albums": {
-			"Heaven Or Las Vegas (Remastered)": "37hHXJ7xas2Nb7Jbi8ip4E"
+	"Hilmar Örn Hilmarsson": {
+		"id": "2cee8c9e-046d-4151-8bdd-ccd8781707d9",
+		"album": {
+			"Angels of the Universe": "73eb1ee9-5043-4016-8bcf-2b750b1489f3"
 		}
 	},
-	"Hiatus": {
-		"id": "421vyBBkhgRAOz4cYPvrZJ",
-		"albums": {
-			"Parklands": "1NhIMd6O3u6F9Opm7skw9N"
+	"Simon & Garfunkel": {
+		"id": "147b4a3e-86f1-4fc7-a185-e3f08b7a2764",
+		"album": {
+			"Bridge Over Troubled Water": "76c2c946-932e-44de-bca3-8e4eded2f4d1"
 		}
 	},
-	"Equateur": {
-		"id": "0U1HS8p8djJ7F4qNGejemo",
-		"albums": {
-			"The Lava - EP": "2VR0eAvJRcxpfH2sWIcsXP"
-		}
-	},
-	"Outfit": {
-		"id": "1izAFKIapgqtHzOr4Nk73u",
-		"albums": {
-			"Another Night's Dreams Reach Earth Again": "1JQx3Aeof7tkoYj6V1odFs"
-		}
-	},
-	"She-Devils": {
-		"id": "3u7brx0K0jy0FFN5ekSuBh",
-		"albums": {
-			"She-Devils - EP": "70LRZU0wf6kpAQoW67ODj6"
-		}
-	},
-	"ANOHNI": {
-		"id": "6VJZYivuYJGCrPuOAnI7Qo",
-		"albums": {
-			"HOPELESSNESS": "1S3OY2V2ZwFh4xU7gQG6IZ"
-		}
-	},
-	"Bloc Party": {
-		"id": "3MM8mtgFzaEJsqbjZBSsHJ",
-		"albums": {
-			"HYMNS": "6AeBPtepkxtQOXc4gCVzKP"
-		}
-	},
-	"The xx": {
-		"id": "3iOvXCl6edW5Um0fXEBRXy",
-		"albums": {
-			"On Hold": "0xhcc6Lp1uTV4mokv50GXf",
-			"I See You": "2PXy9USZAoTSdtrxfkPBnl"
-		}
-	},
-	"A Tribe Called Quest": {
-		"id": "09hVIj6vWgoCDtT03h8ZCa",
-		"albums": {
-			"Beats, Rhymes & Life": "0EguP4tsJurU5I8ocCxdyb"
-		}
-	},
-	"Faith Evans": {
-		"id": "5NDMothbpdpq2xHqSjrrWn",
-		"albums": {
-			"Beats, Rhymes & Life": "0EguP4tsJurU5I8ocCxdyb"
-		}
-	},
-	"Johnny Cash": {
-		"id": "6kACVPfCOnqzgfEF5ryl0x",
-		"albums": {
-			"American VI: Ain't No Grave": "5wIQHyTGeB0oNxQuf6BbZP"
-		}
-	},
-	"Jane's Addiction": {
-		"id": "02NfyD6AlLA12crYzw5YcR",
-		"albums": {
-			"Ritual De Lo Habitual (Amended Artwork)": "7acrrQejzV4ybWWTM8TmPf"
-		}
-	},
-	"Eurythmics": {
-		"id": "0NKDgy9j66h3DLnN8qu1bB",
-		"albums": {
-			"Sweet Dreams (Are Made Of This)": "5jNDWA19BJbE24x1UUJGRY"
-		}
-	},
-	"The Rolling Stones": {
-		"id": "22bE4uQ6baNwSHPVcDxLCe",
-		"albums": {
-			"Beggars Banquet": "5WZFtmADuJUZPtt0NER0Qi"
-		}
-	},
-	"Sunrom": {
-		"id": "3mk2YrusSVsTZSKStJ7nyP",
-		"albums": {
-			"Cosmos": "0OtddRB6KMCPrKdFoWYEGs"
-		}
-	},
-	"Seven Davis Jr.": {
-		"id": "0j4Q5USZhEJ3OUfyRyW2xj",
-		"albums": {
-			"Wild Hearts": "75P1rOfezaYmDk2Sc2pzXN"
-		}
-	},
-	"M.I.A.": {
-		"id": "0QJIPDAEDILuo8AIq3pMuU",
-		"albums": {
-			"Matangi": "28GeLpi0VnbGYwLzZzfFUb"
-		}
-	},
-	"Golden Rules": {
-		"id": "0LvSG8k9YJF0fSevrndsR9",
-		"albums": {
-			"Golden Ticket": "36mGzBHHjZCHXapneNNuad"
-		}
-	},
-	"Rozi Plain": {
-		"id": "2plHc7V92yXf40BD8lQl2x",
-		"albums": {
-			"See My Boat (Remixes)": "1Mwxl3JARDicxqGbWw1nIa"
+	"?": {
+		"id": "98fa8101-4c40-4922-8ced-8020e0c7b051",
+		"album": {
+			"?": "25227102-6da3-4a8b-84d9-f6aaaaaf98e5"
 		}
 	},
 	"Radiohead": {
-		"id": "4Z8W4fKeB5YxbusRsdQVPb",
-		"albums": {
-			"Burn the Witch": "2DCzgO12HyMeGxoQlbtvQV",
-			"Harry Patch (In Memory Of)": "4SRrKj3jOP6SA5Jr2dFeNz",
-			"A Moon Shaped Pool": "6vuykQgDLUCiZ7YggIpLM9"
+		"id": "09613218-6862-4c46-b384-01228005827c",
+		"album": {
+			"Com Lag: 2+2=5 [EP]": "c4d00ba9-8790-4ffd-86ac-c428858b5e25",
+			"I Might be wrong. {special}": "87bf8054-0e63-41bf-8e8f-1c1cd76290bc",
+			"Running From Demons": "c9794341-6ea1-45d9-bcf1-6c28d37def18",
+			"Help: A Day In the Life": "03e59416-4bd8-4253-b9a9-74b738bd0233",
+			"In Rainbows": "87cd507d-9844-4c0b-9165-2e74e2a334f0",
+			"Brazilification {Remixes 95-99}": "196061ca-d283-47cf-bc94-b1f1603670b7",
+			"Knives Out, Pt. 3": "feeef591-0b37-43c6-b605-fc8845323b27",
+			"Amnesiac [Disc 2]": "2264cdee-ba8f-422b-b698-e53c67c79068",
+			"The King Of Limbs": "80e9342e-ee55-447e-ba07-14b6886accce",
+			"Supercollider / The Butcher": "a6b2b771-9350-4933-889a-4f2a9e57227d",
+			"From The Basement": "490bbd1d-643e-4ebc-b058-aa551625f9ac",
+			"The Daily Mail & Staircase - Single": "3bd05323-d7c2-4900-ab3a-166e300c530e"
 		}
 	},
-	"Owen Pallett": {
-		"id": "77Rj6PHmQJFb8nbSH62y68",
-		"albums": {
-			"In Conflict": "5uw6bqTj61Fjy73OpymGDC"
+	"Johnny Cash": {
+		"id": "cd5c94d9-33b2-4455-8af7-a593e4669926",
+		"album": {
+			"The Man Comes Around": "49ae8845-18dc-42ec-972e-74d5b332b062",
+			"American 4: The Man Comes Around": "ce062551-63d9-4be1-b674-c78bcb37cea6",
+			"Solitary Man": "536b1596-5d04-4019-a238-9a4b7be9e3e4",
+			"American Recordings": "74cbb390-e473-47e2-a68b-437343eb82e3",
+			"The Very Best Of The Sun Years": "17c604fa-a0ee-431e-b3a3-a254fd52730a",
+			"American V: A Hundred Highways": "655b8f23-a68b-4d7e-b935-8943aeac2e1a"
 		}
 	},
-	"Tame Impala": {
-		"id": "5INjqkS1o8h1imAzPqGZBb",
-		"albums": {
-			"Currents": "0rxKf57PZvWEoU8v3m5W2q"
+	"Kidd": {
+		"id": "cd982f72-27ba-4ea9-9b29-94edaaf3d89f",
+		"album": {
+			"Then it was a bad, bad night": "5efd902b-94c7-4423-aded-628a80a33961",
+			"Not yet. no.": "35fbd15b-11d8-40ec-90d3-c1c3019a121a"
 		}
 	},
-	"Neon Indian": {
-		"id": "0KydPQPUUoTNhmiHKOg5Er",
-		"albums": {
-			"VEGA INTL. Night School": "6cAIm2AZBlMXTXpypxgcE5"
+	"Sigur Rós": {
+		"id": "eed7df49-749f-43ba-8b9a-bbcf1b4d8261",
+		"album": {
+			"Ágætis Byrjun": "7622e820-359e-435f-8567-f4068c7af349",
+			"( ) Untitled #1": "16e1eaf9-8f9b-437e-ac42-eeb94c93e175",
+			"Music For Split Sides": "28529855-a216-4c7c-8736-2764b9bb5be0",
+			"Von": "dd93e0ee-ecba-4432-b143-02c76a0e0977",
+			"Með Suð Í Eyrum Við Spilum Endalaust": "53a0486d-c909-47e2-bf55-ebd25f3918d2",
+			"Kveikur": "46628af8-4de2-4523-abac-f00ea8c7c03b"
 		}
 	},
-	"Chromatics": {
-		"id": "4tOVIRjlWWfR1RrAxyRqTE",
-		"albums": {
-			"Lost River (Original Motion Picture Soundtrack) [Deluxe Edition]": "0TfWE9a9CF7HffMQJceXMy",
-			"Shadow": "4gy94KSgNMaxdSNQPPMKxO"
+	"The Smiths": {
+		"id": "d1ba81fb-cb1c-42bb-be9c-379323e1828a",
+		"album": {
+			"Louder than Bombs": "0789f188-adb3-4013-bf88-2c88a4191b4c"
 		}
 	},
-	"YACHT": {
-		"id": "57anmI1X2hXWPrNagFdzZr",
-		"albums": {
-			"Where Does This Disco? - EP": "2u2x1FQkK2MODVnd9y1aZo",
-			"Second Summer": "1v4SCbxCYArXQNlbsIW4pX"
+	"LFO": {
+		"id": "7aa9db1a-09bc-4133-939f-2c61aa197e63",
+		"album": {
+			"Sheath": "ea8f7bcb-6832-4f24-ae43-7ebbbe6c31a5"
 		}
 	},
-	"The White Lamp": {
-		"id": "7LFAiz5tf9LJGgkgaqcmU2",
-		"albums": {
-			"Ride with You": "6BSYe6No02Pa0qfNlQqQEa"
+	"Squarepusher": {
+		"id": "8280c329-23a8-4d4b-b3bb-1de0f89797b4",
+		"album": {
+			"Ultravisitor": "07f3c1a6-aadd-462e-b13c-27a7451a0381",
+			"Hard Normal Daddy": "4a596a21-085b-41a4-b31e-cfc5890a7c7e"
 		}
 	},
-	"Button Eyes": {
-		"id": "1rUkuuAl5d1TyJfaV2lTRf",
-		"albums": {
-			"Simple Days": "2SvlSQVYP3e6knJ3J8OzmJ"
+	"Phoenix": {
+		"id": "8b3910bd-8361-4c99-bdb3-e1b231f38bda",
+		"album": {
+			"Lost in Translation": "533c08e1-0189-4679-bfe1-26bcf10556c5",
+			"United": "51352538-9292-442b-9df7-4c2e3e51adee",
+			"Bankrupt!": "70c716e5-1faa-4b42-8bef-ef083f89488c"
 		}
 	},
-	"Guy Garvey": {
-		"id": "2j3K3e7Jnnmd2KwlFgCC5u",
-		"albums": {
-			"Courting The Squall": "1JqlXUT71FJmOO46l8I7fc"
+	"Bill Murray": {
+		"id": "4c61d85c-fd0e-4e37-a504-5d71ce33aefb",
+		"album": {
+			"Lost in Translation": "91fb649c-d873-46b0-8386-daac743c9a8d"
 		}
 	},
-	"Elbow": {
-		"id": "0TJB3EE2efClsYIDQ8V2Jk",
-		"albums": {
-			"Magnificent (She Says)": "6khwkBgfvELrHOi2dmvXwC"
+	"Kenny Rogers": {
+		"id": "58730072-7c56-47de-8f18-50d0c25f577e",
+		"album": {
+			"The Big Lebowski": "74216f8c-d204-4d51-8f01-57783d409ec7"
 		}
 	},
-	"St. Vincent": {
-		"id": "7bcbShaqKdcyjnmv4Ix8j6",
-		"albums": {
-			"Actor": "0nARXdbUQGhn3PCyv8p2NT"
+	"The Strokes": {
+		"id": "57f8afe0-0222-4324-bcf1-53e0b13a9b24",
+		"album": {
+			"Room On Fire": "033deeba-2abd-45be-ada8-689e92a440a8",
+			"Is This It?": "fab96ca8-4e51-4af4-b9ae-2835d9d94434"
 		}
 	},
-	"Raleigh Ritchie": {
-		"id": "0IB0VjX9NSrGX6PjCXGVcq",
-		"albums": {
-			"Mind the Gap": "2bPHTJhbuH6UCJ5qkWznyL",
-			"Black and Blue Point Two": "2lEDwGmnDigTwgVlUoSOfj",
-			"You're a Man Now, Boy (Deluxe)": "50EXi4hlRIPF7fLQcWCXyp"
+	"Doves": {
+		"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8",
+		"album": {
+			"The Last Broadcast": "5e85e056-9cda-4da8-8180-f0b44cb64739",
+			"Lost Sides": "a9ac46bd-e178-4df3-84d5-172898940da1",
+			"Some Cities": "e650ec2d-a26b-4416-898f-2535fbe23bd8",
+			"Kingdom Of Rust": "c753ab8b-ca38-4c14-a5ef-cb213913f51a"
 		}
 	},
-	"Colin Hay": {
-		"id": "5mxB08ktCukEhGMg2YZeEv",
-		"albums": {
-			"Going Somewhere": "6UMknHv7MCdwNP8Yf2Zq6m"
+	"Elliott Smith": {
+		"id": "e6dcf363-0002-406d-ad4c-156fa6f093e1",
+		"album": {
+			"Xo": "08a8ecba-9351-4827-8e22-969d1a95ab80",
+			"Either/Or": "a2e26580-10b0-40f5-87c2-2b42c9c799f1",
+			"Live Covers": "d821322f-a2dd-4ec8-b72a-becba1325fa0",
+			"Figure 8": "a32d0ac9-083f-4066-a077-cd01aae5ca47",
+			"From A Basement On The Hill": "623c02f7-1869-4fd5-8da1-bf604b4f41f5"
 		}
 	},
-	"Christine and the Queens": {
-		"id": "04vj3iPUiVh5melWr0w3xT",
-		"albums": {
-			"Chaleur Humaine": "0dwg19QWat3Rw6GvtiZRML"
+	"Frou Frou": {
+		"id": "1a4c2fdc-f5e3-4efb-b66d-c15391593e7b",
+		"album": {
+			"Details": "d50e717a-bdb9-4412-8738-3aa47f9f5219"
 		}
 	},
-	"Fleetwood Mac": {
-		"id": "08GQAI4eElDnROBrJRGE0X",
-		"albums": {
-			"Tango In The Night": "1W5YP0TlKjFtb2UZJThLpV"
+	"Yeah Yeah Yeahs": {
+		"id": "6ed70853-8b41-45aa-b1dc-a7bfc1737a49",
+		"album": {
+			"Fever To Tell": "617e47f0-28e3-42be-97bd-dae8f3ff5027",
+			"Show Your Bones": "02e5b8b0-26a7-4f3d-ba52-4993a72b1577",
+			"It's Blitz!": "85571a16-67b4-4c9d-ac12-93af00f9bcc9",
+			"Mosquito": "6da793d8-c79c-41aa-8356-7988448c10df"
 		}
 	},
-	"Bat For Lashes": {
-		"id": "6l77PmL5iuEEcYjGl8K6s7",
-		"albums": {
-			"The Bride": "0FOJVGWk7r4QKYCP1hCCEq"
+	"Clinic": {
+		"id": "16a80505-e482-46d3-a9e5-29b328b870c1",
+		"album": {
+			"Clinic": "8f54d35b-3ea6-44fd-90eb-036ce2e05507"
 		}
 	},
-	"Foo Fighters": {
-		"id": "7jy3rLJdDQY21OgRLCZ9sD",
-		"albums": {
-			"One By One": "2TIp2qGorHvqyaiAb82Awe"
+	"Ennio Morricone": {
+		"id": "34e902cb-cf68-4d47-889b-0b22de8c8da1",
+		"album": {
+			"Kill Bill Volume 2": "9c7514d3-1b53-4f73-badd-1cbe92d7139e"
 		}
 	},
-	"Willie Nelson": {
-		"id": "5W5bDNCqJ1jbCgTxDD0Cb3",
-		"albums": {
-			"Good Times": "36pKx43hkeUF1OGxuxKkZw"
+	"Half Japanese": {
+		"id": "0902609d-e62e-4c04-838a-a344f8f058c8",
+		"album": {
+			"Hello": "d9e41ab7-e8d4-4d80-883c-23c535f3e864"
+		}
+	},
+	"Bill Withers": {
+		"id": "02ab8524-2ae0-41d3-8882-e832acd6f33a",
+		"album": {
+			"Lovely Day": "02c740ce-f446-4ce3-9abe-58a44b534e11"
+		}
+	},
+	"dEUS": {
+		"id": "cf541d0e-7e2e-475d-931f-35bfcbd8d685",
+		"album": {
+			"Worst case scenario": "4b807e59-03b2-4827-b42a-d2984609d95d"
+		}
+	},
+	"Outkast": {
+		"id": "07c6114b-f316-40da-9c67-fdaaaad69663",
+		"album": {
+			"The Love Below": "b35d2559-c8d2-4c7b-ac25-22a66a47102c",
+			"Idlewild": "c6fd98e4-1bf0-40cf-8bd7-c59aeb797f44"
+		}
+	},
+	"TV On The Radio": {
+		"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0",
+		"album": {
+			"Desperate Youth, Blood Thirsty Babes": "d7e57969-9989-47b1-a707-6b5b48c1a2cd",
+			"Return To Cookie Mountain": "1a630fae-9ba6-4600-bea9-6c56059937d1",
+			"New Health Rock": "867e17e3-ad2f-4f3f-b61e-02fbc4eedfbc",
+			"Dear Science": "835ec713-ddc2-4916-a35f-7cd03c785b94",
+			"War Child Presents Heroes": "bbd41af5-1043-4cc1-bed7-ad46b0422dca",
+			"9 Types OfLight": "ad6b78da-bda8-4559-b0ea-124a0b53f089",
+			"Nine Types Of Light": "4420b8b7-e682-467c-b3f5-1d487af72471",
+			"Seeds": "7692f2e5-ae8a-4f8c-ab7a-30f19f1f997e"
+		}
+	},
+	"Goodie Mobb": {
+		"id": "cc464ef3-a012-4f4d-ab1e-f34c804ad878",
+		"album": {
+			"Soul Food": "da4283a7-ca68-41ce-a29f-013c65b9e475"
+		}
+	},
+	"The Album Leaf": {
+		"id": "f4d7cb30-5afa-4526-bb6c-a647723ed785",
+		"album": {
+			"In A Safe Place": "36e913da-becb-4e7b-8f4a-0dcd42fe37f1"
+		}
+	},
+	"The National": {
+		"id": "9783479b-53cf-4810-8f8c-fe24b1005309",
+		"album": {
+			"Cherry Tree": "8b129fc0-30ae-4a60-bccc-c8dc6ed93627",
+			"Alligator": "3672098d-cb49-4e57-bbca-92788cae1162",
+			"The National": "dd6c3e9a-89a2-4893-ae5e-0a5373c09304",
+			"High Violet": "5c3badfe-21e4-44f0-9e66-4182c2671d55",
+			"Exile Vilify": "7fb7cd72-04b6-4633-9356-37e365c2d356"
+		}
+	},
+	"Blur": {
+		"id": "86c51e59-c04c-4efe-a5b8-286a9dc512a9",
+		"album": {
+			"Think Tank": "dd26ba5a-f1a2-4210-acf9-a3033a408c72",
+			"Blur": "5b672aac-b322-4e69-83a5-9939e1daa079"
+		}
+	},
+	"Air": {
+		"id": "aa3f7228-b34e-42ce-ac20-605e391e0936",
+		"album": {
+			"10,000Hz Legend": "6001255f-ae27-48d4-8646-1bfe44e726b0",
+			"Talkie Walkie": "dff9beb0-6ae9-4c97-a53d-231776f239fe"
+		}
+	},
+	"Adam Sandler": {
+		"id": "c6b4c890-b5c1-4d1f-a391-e7391e0d4850",
+		"album": {
+			"50 first dates": "d310c26e-e803-42ff-ba0b-bad3906f88d6"
+		}
+	},
+	"Nine Inch Nails": {
+		"id": "5245a41c-8d27-4167-ba74-267f02647f8a",
+		"album": {
+			"Still": "68b72fb4-ed2a-4992-871b-9135c2976455",
+			"With Teeth": "79d98676-2420-4428-8969-1f61cff80ba4",
+			"The Fragile": "e97fb034-a1e9-4148-9df8-3ee35be14b5a",
+			"Hesitation Marks": "262d5123-42f3-40d5-b851-54850b8a13a7",
+			"The Perfect Drug": "7795db8d-79b5-4064-8a65-549a0df64133"
+		}
+	},
+	"Brian Eno": {
+		"id": "e9f3aa14-c593-4484-b593-98153d4cc7b0",
+		"album": {
+			"Traffic": "6bd62a0c-a436-4e4a-8db6-b693b9f39cf6",
+			"Trainspotting": "ba8f8172-99c6-48ba-a11a-2ffdf364df98"
 		}
 	},
 	"Bob Dylan": {
-		"id": "74ASZWbe4lXaubB36ztrGX",
-		"albums": {
-			"Shadows in the Night": "2mVpSZrllFAWhOgCoyz8ow"
+		"id": "beca1caf-35b1-454b-a26c-3a9f733fcefc",
+		"album": {
+			"Vanilla Sky": "bb86bc23-2898-411d-9036-93baa696145c",
+			"Nashville Skyline": "8134b3a8-3989-40a4-bea0-93011a1291bc",
+			"Planet Waves": "563441ec-0f9b-4192-86bd-28bb735e04c3",
+			"The Freewheelin' Bob Dylan": "29439d3e-8db8-4d48-956a-1b6daccc3107"
 		}
 	},
-	"David Holmes": {
-		"id": "10kGEgP8MxhlfeA2tMinsL",
-		"albums": {
-			"Elsewhere Anchises (feat. Stephen Rea)": "24i8Sj6loL2qIJNsrojnGT"
+	"Interpol": {
+		"id": "ef080f93-7b82-4e68-ae8e-60fbe627d865",
+		"album": {
+			"Antics": "25b4a472-3a94-4e38-8102-d84b8a32d3ac",
+			"Our Love To Admire": "1e695ba9-6449-4da6-b327-4f59b3263747",
+			"Turn On The Bright Lights": "c0dbbb8d-651d-42b4-a734-261db289a842",
+			"El Pintor": "dbd1470f-f509-4ad2-aaf2-ca7af3f9f46b"
 		}
 	},
-	"Jon Hopkins": {
-		"id": "7yxi31szvlbwvKq9dYOmFI",
-		"albums": {
-			"Elsewhere Anchises (feat. Stephen Rea)": "24i8Sj6loL2qIJNsrojnGT"
+	"Placebo": {
+		"id": "e5c30e05-1995-4601-bd38-6bbf8cd05788",
+		"album": {
+			"Black Market Music": "83efacb8-bf57-45fa-9464-726e8fd86cea"
 		}
 	},
-	"Stephen Rea": {
-		"id": "5KIabrrmudYdwnxbEl0pOZ",
-		"albums": {
-			"Elsewhere Anchises (feat. Stephen Rea)": "24i8Sj6loL2qIJNsrojnGT"
+	"Groove Armada": {
+		"id": "88fd00f3-00c2-443e-b4dc-db173eb65bbe",
+		"album": {
+			"Collateral": "a8e45e70-ebcc-4661-b432-84b8f255cbdd",
+			"Love Box": "8803365f-2b11-4fb5-b488-78b46f7a904d",
+			"Soundboy rock": "c947f391-514c-4a2b-9557-45aae0b0b0d0"
 		}
 	},
-	"Roxy Music": {
-		"id": "3fhOTtm0LBJ3Ojn4hIljLo",
-		"albums": {
-			"Avalon": "3JXODSjT9mUz2lIb4YIErw"
+	"James Newton Howard": {
+		"id": "c21904d6-f76a-4a21-933c-ca6a0d39edf9",
+		"album": {
+			"Collateral": "bf680eb1-9514-40be-8d83-507ecfe8b712"
 		}
 	},
-	"Ben Khan": {
-		"id": "2YwPMfgNYeDjbkGI7PwZ3K",
-		"albums": {
-			"1992 EP": "6NebCuedf30wTZqRTGprn2"
+	"Nina Simone": {
+		"id": "c4541aaa-96e0-4531-b8a3-c853411148b9",
+		"album": {
+			"Bad Habits": "121852c5-6aa0-4f9d-8dd1-0ba1fe3e63c4"
 		}
 	},
-	"Youandewan": {
-		"id": "4z6FshDl8yeHQSpFWdgN32",
-		"albums": {
-			"Anjou": "7xImr4MTdxDm8eJsYnrHrS"
+	"Josh Rouse": {
+		"id": "0fb2c1d2-4e3b-4d30-823b-c652b8b4769e",
+		"album": {
+			"Vanilla Sky": "8bc28e48-51ad-469c-b63e-e5c377143f93"
 		}
 	},
-	"Raury": {
-		"id": "2PU4qFehXQF7WnlFsJpBiJ",
-		"albums": {
-			"Indigo Child": "3HVk2UGwXUfE51s1MmPzrL"
+	"Death in Vegas": {
+		"id": "aa877c5d-a343-4d75-afff-cebec0dfcfae",
+		"album": {
+			"The Contino Sessions": "164267a1-3b13-4c1a-812c-7369d3585554"
 		}
 	},
-	"CHVRCHES": {
-		"id": "3CjlHNtplJyTf9npxaPl5w",
-		"albums": {
-			"Every Open Eye": "6TEN694l8ifhIRfknsG8DX"
+	"Elysian Fields": {
+		"id": "8ca56dd1-a761-4f78-a2c7-30ccce7ed4e8",
+		"album": {
+			"Queen Of The Meadow": "1a510ee9-494a-4fc7-833a-04ab6214da4a"
 		}
 	},
-	"Animal Collective": {
-		"id": "4kwxTgCKMipBKhSnEstNKj",
-		"albums": {
-			"Painting With": "04EajKw866bzJn3EW8HOdQ"
+	"Weezer": {
+		"id": "7344ab46-0c38-48d9-bc1c-fdeb347fa25a",
+		"album": {
+			"Dusty Gems And Raw Nuggets [Bonus Disc]": "1ad3c9e5-c3eb-4ec4-9a4c-dc7e4ab7432a"
 		}
 	},
-	"Bombay Bicycle Club": {
-		"id": "3pTE9iaJTkWns3mxpNQlJV",
-		"albums": {
-			"A Different Kind Of Fix": "1tdkgJofTb9Q8NNC8Gfuxh",
-			"Feel (UNKLE Reconstruction)": "6p41KrOuZ0vfHa4A15DBYb"
-		}
-	},
-	"Junior Boys": {
-		"id": "39x9e2QDpAxK8xTuJDwRqR",
-		"albums": {
-			"Big Black Coat": "5pdm3GVR8dE7f0O7foPKbq"
-		}
-	},
-	"Moderat": {
-		"id": "2exkZbmNqMKnT8LRWuxWgy",
-		"albums": {
-			"Reminder": "34leSDkpEeoIPkyhzSIDYg"
-		}
-	},
-	"Kindness": {
-		"id": "6SYIsHAQ1sPokVxmzpaDBU",
-		"albums": {
-			"A Retelling": "6u3V2lOfrxUpLWHL8rjllE"
-		}
-	},
-	"Ra Ra Riot": {
-		"id": "6FIrstf3kHEg3zBOyLpvxD",
-		"albums": {
-			"Water": "35Cbis4EC9WCCSrmIwGNkJ"
-		}
-	},
-	"Rostam": {
-		"id": "04XggbrM51GcFPTxBYtRXT",
-		"albums": {
-			"Water": "35Cbis4EC9WCCSrmIwGNkJ"
-		}
-	},
-	"Father John Misty": {
-		"id": "2kGBy2WHvF0VdZyqiVCkDT",
-		"albums": {
-			"I Love You, Honeybear": "2A8IKX257C4hJaYUHMhLP7"
-		}
-	},
-	"RY X": {
-		"id": "2KjAo6wVc9d2WcxdxSArpV",
-		"albums": {
-			"Dawn": "0ht6cjokjU8Xhwj6uABgfO"
-		}
-	},
-	"Wolf Alice": {
-		"id": "3btzEQD6sugImIHPMRgkwV",
-		"albums": {
-			"My Love Is Cool (Deluxe)": "0XyVo3op33rKdS44fviU3X"
-		}
-	},
-	"Broken Social Scene": {
-		"id": "7lOJ7WXyopaxri0dbOiZkd",
-		"albums": {
-			"Forgiveness Rock Record": "3BvdKIt9XMjG9lq3Kh4r18"
-		}
-	},
-	"Michael Kiwanuka": {
-		"id": "0bzfPKdbXL5ezYW2z3UGQj",
-		"albums": {
-			"Love & Hate": "3NRQk1Ax6VJOmOeP0fy9Tl"
-		}
-	},
-	"Cigarettes After Sex": {
-		"id": "1QAJqy2dA3ihHBFIHRphZj",
-		"albums": {
-			"I.": "5GvLhLPpP03FuLvxgdEnpj"
-		}
-	},
-	"Hudson Mohawke": {
-		"id": "6olWbKW2VLhFCHfOi0iEDb",
-		"albums": {
-			"Lantern": "77ssrzSiIdGl7zaKn3oFx0"
-		}
-	},
-	"Antony": {
-		"id": "3koJmQqTa9Eh7oy4y1XaZU",
-		"albums": {
-			"Lantern": "77ssrzSiIdGl7zaKn3oFx0"
-		}
-	},
-	"HeCTA": {
-		"id": "5hokuav35Jh2qn4RKDDBkL",
-		"albums": {
-			"The Diet": "1aDGGp3yd6loVBLTt24byA"
-		}
-	},
-	"Blanck Mass": {
-		"id": "73LvjicByRK5LazcQYZMAY",
-		"albums": {
-			"Dumb Flesh": "1KZFsO5kth2c0xMPyL7rSx"
-		}
-	},
-	"UNKLE": {
-		"id": "2nszamLjZFgu3Yx77mKxuC",
-		"albums": {
-			"Feel (UNKLE Reconstruction)": "6p41KrOuZ0vfHa4A15DBYb"
-		}
-	},
-	"New Order": {
-		"id": "0yNLKJebCb8Aueb54LYya3",
-		"albums": {
-			"Music Complete": "0v0BEEfVsTnVAzd8Q7GZNl"
-		}
-	},
-	"Majical Cloudz": {
-		"id": "4BEYBN6NCPrFk3sOLMTby3",
-		"albums": {
-			"Are You Alone?": "18KIyhRKtEw2azZW2k9rOF"
-		}
-	},
-	"Com Truise": {
-		"id": "2wouN3QXejYa5tKetYdcVX",
-		"albums": {
-			"In Decay": "3HR1jXEtOCeikUAd3fNiWq"
+	"Seu Jorge": {
+		"id": "28dedcf3-6a28-4861-82cc-26a625fac3f7",
+		"album": {
+			"The Life Aquatic With Steve Zissou": "dbf8f187-6081-4371-990a-6415ead5adc6"
 		}
 	},
 	"David Bowie": {
-		"id": "0oSGxfWSnnOXhD2fKuz2Gy",
-		"albums": {
-			"Blackstar": "2w1YJXWMIco6EBf0CovvVN"
+		"id": "d72b8d7a-f1e9-404f-87cd-f067c357656d",
+		"album": {
+			"The Life Aquatic With Steve Zissou": "f83979bd-b6da-4454-bbc5-4321ab778aa5",
+			"The Next Day (Deluxe)": "0676a8da-eb82-4c42-a1a2-bbfa29835dc9"
 		}
 	},
-	"Georgia": {
-		"id": "06knYh538h5SI7OAEF8ek3",
-		"albums": {
-			"Move Systems": "1AGw9r5Gc8yTNDHSucPnPE"
+	"Do Make Say Think": {
+		"id": "fc096d92-7db0-496b-b72e-062423dc9d15",
+		"album": {
+			"& Yet & Yet": "35c0ba9d-47ea-4994-88e0-d48601b9405e"
 		}
 	},
-	"NZCA LINES": {
-		"id": "1pmvcZaqyRJw8o6at71MJP",
-		"albums": {
-			"Persephone Dreams": "4WlYAXQ299MIo4zoUAVX4F"
+	"Mogwai": {
+		"id": "540f6e05-6b89-4824-979c-7cc31b774044",
+		"album": {
+			"Happy Songs For Happy People": "4f221689-416d-4551-b513-922a9d6cc030",
+			"Mr. Beast": "47bec453-9cb7-47dc-bb87-157372e53a50"
 		}
 	},
-	"Kele": {
-		"id": "0LsO2x5E0KNdMxkWh0EmE0",
-		"albums": {
-			"Trick": "5lC3WbJnhVuwucuUOwpTQ0"
+	"Buddy Peace": {
+		"id": "695f1b93-cdad-4898-bcc4-f28b0ddbb0b6",
+		"album": {
+			"Watch Repeat & Play": "669efa30-94fe-4656-a8ff-50c2823b863e"
 		}
 	},
-	"The War On Drugs": {
-		"id": "6g0mn3tzAds6aVeUYRsryU",
-		"albums": {
-			"Lost in the Dream": "7ogAbzopd3XkOj3gdStnSi"
+	"Iron & Wine": {
+		"id": "c7838e6c-8d49-4060-b0af-e0631504b9f6",
+		"album": {
+			"The Creek Drank The Cradle": "73006c9d-1e01-45f6-9e38-7722928c7ae3",
+			"The Shepard's Dog": "cdb2ed20-4de7-4355-b904-eecfd9e33a5c",
+			"Kiss Each Other Clean": "ee959f7f-fe5f-4070-85df-94e090675c55"
 		}
 	},
-	"Will Butler": {
-		"id": "1POwuKLQ9xhMZzIYElNtWp",
-		"albums": {
-			"Policy (Deluxe Version)": "0vQ671QsneNp0OF7xl0c1p"
-		}
-	},
-	"Aphex Twin": {
-		"id": "6kBDZFXuLrZgHnvmPu9NsG",
-		"albums": {
-			"Cheetah EP": "1pC7hHcaOmrDotqv1ZnuT8"
-		}
-	},
-	"Shit Robot": {
-		"id": "2ZvXaOrinJFZDexa3fWqMZ",
-		"albums": {
-			"What Follows": "0TZrzXFGNNAzb3EaCMlWnm"
-		}
-	},
-	"Solar Bears": {
-		"id": "5stWr4xhAG8w29JUSt8UCO",
-		"albums": {
-			"Advancement": "69NT51Ixs5Yjvjp6s3X3lV"
+	"Queens Of The Stone Age": {
+		"id": "5fb89020-dbb5-4a6c-9fc1-469f4e20eb7f",
+		"album": {
+			"Lullabies To Paralyze": "1fba69fd-9f95-417b-8130-d7f9d8d04986",
+			"...Like Clockwork": "55c205a0-ae51-4bce-b040-7acefad63231"
 		}
 	},
 	"The Chemical Brothers": {
-		"id": "1GhPHrq36VKCY3ucVaZCfo",
-		"albums": {
-			"Born In The Echoes": "36E5LAM5D3AKnVx8s5dyc6"
+		"id": "c8401f21-bb18-47b6-b5c2-83980ed7594a",
+		"album": {
+			"Push The Button": "d74288fd-689e-4449-b65b-a4ee44c08b1c",
+			"We Are The Night": "0a4e660f-b05d-4a8c-917e-834dad804a0a"
 		}
 	},
-	"DMX": {
-		"id": "1HwM5zlC5qNWhJtM00yXzG",
-		"albums": {
-			"The Best Of DMX": "1B6nlZKCMmawwnnijTeH3I"
+	"Beck": {
+		"id": "ff9bbdef-78ff-4fa8-a16e-47c87b52c30d",
+		"album": {
+			"Guero": "d707b2cc-ec67-4f01-81fe-7342a494a48c",
+			"Guerolito": "f12ce7fa-a195-4370-b4d5-0f7ce553ee4e",
+			"The Information": "3ed2b2df-85d8-4c24-84dc-84707a44de6f",
+			"Modern Guilt": "ad3daf16-3005-4a22-bdd7-47dc993f815a",
+			"Morning Phase": "9827cddc-cf77-447c-b716-8dd9d3f5ed7b"
 		}
 	},
-	"Anna von Hausswolff": {
-		"id": "1eiXrvua27VlWgZ9kiaIn6",
-		"albums": {
-			"Ceremony": "2qf3yzwEdaklZSu7777unx"
+	"Sparklehorse": {
+		"id": "3f299d22-a8fd-427b-986f-e97f14d0ce28",
+		"album": {
+			"It's A Wonderfull Life": "80a29117-a33b-4830-8078-fd6717b34f7f",
+			"Dreamt For Light Years In The Belly Of A Mountain (Capitol Records)": "b5c47c54-c0b5-4de7-a327-4d1b4e1e9709"
 		}
 	},
-	"Jonny Greenwood": {
-		"id": "0z9s3P5vCzKcUBSxgBDyLU",
-		"albums": {
-			"Inherent Vice (Original Motion Picture Soundtrack)": "3LIMxY8oQG9c70DWKe0iHN"
+	"Dead Prez": {
+		"id": "1fb9344e-6dfa-4113-98fd-55a54663cb7c",
+		"album": {
+			"Global Underground #023 - Barcelona ": "cb4661d3-1777-4198-b53c-513caad07ff6"
+		}
+	},
+	"Gorillaz": {
+		"id": "cd2e60f9-2b24-45a9-8697-5c134a7c801e",
+		"album": {
+			"Demon Days": "aff3ebe3-e430-42de-be16-5e75550ffc08",
+			"Plastic Beach": "070c8a62-24e4-4ffd-90be-acb657300576",
+			"The Fall": "12c1cd03-dc22-44f0-9b5e-bde7458e91a4"
+		}
+	},
+	"Ian Brown": {
+		"id": "1518fc9f-dbb3-4079-b24b-dff459c65845",
+		"album": {
+			"Global Underground #023 - Barcelona ": "a837df9a-1ad8-484e-bb3d-922c05da538b"
+		}
+	},
+	"John Lennon": {
+		"id": "5888450f-e48c-48db-96ae-b52c0c463684",
+		"album": {
+			"Anthology": "8f34c1d4-01e6-4090-a7b8-35d797b848c1",
+			"Rushmore": "f59b13ae-7d10-4cff-9f51-ecc87e5f886d"
+		}
+	},
+	"Outkast Featuring Norah Jones": {
+		"id": "a5ea008d-7b3d-45a4-9566-856a0bba8368",
+		"album": {
+			"The Love Below": "e9511f72-2de4-4a07-a9f8-870371f3d531"
+		}
+	},
+	"Tom Waits": {
+		"id": "596f540c-9c90-449a-acc4-3a5e63939eb4",
+		"album": {
+			"Franks Wild Years": "ce6bf98f-1780-4be4-b9b0-732bdb9f6475"
+		}
+	},
+	"Tortoise": {
+		"id": "89c21590-9a13-4819-8edb-000a5a041a00",
+		"album": {
+			"It's All Around You": "f6a9aff1-b424-43cb-96fc-21099bce75a3"
+		}
+	},
+	"Talking Heads": {
+		"id": "1594f75a-5792-45a7-ba8a-da21487798d3",
+		"album": {
+			"Best of": "734150a4-9776-463d-b278-b88309775ab4",
+			"Stop Making Sense": "82bf1e5a-854a-4833-a28a-47c061ef4363",
+			"Remain In Light": "afcc87b4-5c4c-48db-9525-5111e759b48d"
+		}
+	},
+	"Kings of Convenience": {
+		"id": "3be5aad2-36a1-4eab-a67c-1bd400101fdc",
+		"album": {
+			"Riot on Empty street": "6e20c080-5f84-4567-8d84-4cb884b92f61"
+		}
+	},
+	"Badly Drawn Boy": {
+		"id": "5b51791e-7f2c-479e-bfcc-332602bed349",
+		"album": {
+			"The Hour Of The Bewilderbeast": "cf23b1d5-0104-4286-8ce3-4e86175b32ee",
+			"About A Boy": "fde3c467-90e1-4a8d-87b0-db515b630485"
+		}
+	},
+	"Joy Division": {
+		"id": "f2645e16-2587-4afb-bbab-29197d6656ca",
+		"album": {
+			"Heart And Soul": "d0f324ec-a010-43b0-a1cb-54b49ceef7ed"
+		}
+	},
+	"Tom Vek": {
+		"id": "a5e1ffb8-428e-42dc-9fe7-24b50f0682a2",
+		"album": {
+			"We Have Sound": "9a09110b-f9b4-4165-8139-30e4513ca456",
+			"A Chore - Single": "7891410b-e7fa-438a-ad92-a09a5143d0ae"
+		}
+	},
+	"William Shatner": {
+		"id": "366f7ca8-fd31-43af-9316-b274d39119d8",
+		"album": {
+			"Has Been": "43015dff-1bea-4bf2-adbf-d2289cb60de1"
+		}
+	},
+	"Bloodhound Gang": {
+		"id": "61eaa6dc-9964-446b-8766-29fc61a7f00c",
+		"album": {
+			"undefined": "8a75acae-9105-41d6-8f4e-eee6257546ba"
+		}
+	},
+	"Coldplay": {
+		"id": "ec94e866-4d08-4130-a26f-783fce97bd5c",
+		"album": {
+			"X&Y": "4ae313ec-e061-4c2f-ae04-7bd5bb2497b2",
+			"Viva La Vida": "4d8471b3-5a57-4899-9e99-bb16415abf87"
+		}
+	},
+	"Cream": {
+		"id": "1e33f118-8f66-49dc-b58c-7df5bfb1f587",
+		"album": {
+			"Disraeli Gears": "b0e0c947-c15c-4fca-bdf4-6409b42e25ca"
+		}
+	},
+	"Underworld": {
+		"id": "ab46a56a-68f0-40a2-ad96-bd895365b011",
+		"album": {
+			"Wipe Out 2097": "12a1c1f1-e697-4e07-8d1f-84d1969c92bf",
+			"The Beach": "6bc62689-ce6c-4719-b499-9b54ce956f6d",
+			"Oblivion With Bells": "ef0a4282-7fee-4866-9b63-36dcf052e72e",
+			"Barking": "85ad45a6-f429-4f14-9678-41196301268e"
+		}
+	},
+	"John Frusciante": {
+		"id": "df0c13fb-b903-4cd7-a65e-68dfbee6f892",
+		"album": {
+			"Curtains": "fa3452df-373c-4a75-9d74-8f54181163b2"
+		}
+	},
+	"Joanna Newsom": {
+		"id": "e814461f-d23d-4634-bb69-2dabbae2da22",
+		"album": {
+			"undefined": "4fbf60ea-ba95-4ca6-9991-2eefc2f8fa54"
+		}
+	},
+	"Ben Folds": {
+		"id": "f8b5d192-9771-45e9-9fe0-1b3d05a75c6f",
+		"album": {
+			"Live, Rare, B-sides and Others": "792f6725-0e3b-4809-a919-b0d9e602c49a"
+		}
+	},
+	"Stina Nordenstam": {
+		"id": "c004b1f6-0c92-43bb-957f-603356834482",
+		"album": {
+			"Unkle Mixes": "efc60039-867d-46ae-ac20-4a9651ab7766"
+		}
+	},
+	"The Beatles": {
+		"id": "7b6056f0-45b2-4b89-8db6-a92088ebeef1",
+		"album": {
+			"Sgt. Pepper's Lonely Hearts Club Band": "0a4bdf5d-48f8-4058-b66f-9a1a355a5be2",
+			"The White Album": "d747f6a9-aaba-43a9-80d4-58f7b7cc4aef",
+			"Revolver": "1cfad1d2-422c-4049-97cd-07239738680e",
+			"Let It Be": "c6c6fa62-c8f2-4153-8c60-8777b9e56604"
+		}
+	},
+	"Cornelius": {
+		"id": "3ece2b3f-7f7d-4c5c-9cb3-bb38757f8cd2",
+		"album": {
+			"Point": "b86f59ea-cb5f-48b3-901b-4436b86c78a2"
+		}
+	},
+	"Boom Bip": {
+		"id": "d79703aa-89b3-4666-9152-6576f5d484af",
+		"album": {
+			"Blue Eyed In The Red Room": "1d4c908d-93d6-48ba-b35b-58fcb3013d18"
+		}
+	},
+	"Jackson & His Computer Band": {
+		"id": "bc3725a0-a517-4261-94d5-406fa46bbcab",
+		"album": {
+			"Smash": "3d1c1fc1-2150-4900-bf3c-8208f52bf534"
+		}
+	},
+	"John Frusciante & Josh Klinghoffer": {
+		"id": "e236c492-b209-4971-832b-d8ae9fcc025e",
+		"album": {
+			"A Sphere In The Heart Of Silence": "be03e2d7-1c18-4058-b8ad-37325c44fde7"
+		}
+	},
+	"Kanye West": {
+		"id": "e9d8f262-f214-4b0c-9f3e-b2bc03b8c5f2",
+		"album": {
+			"undefined": "a05b6d2b-f8fd-4aa2-9301-1ed7aae8598b",
+			"Jarhead Soundtrack": "e7a3db5a-902b-4a3c-95bc-2a19c2d14d4c",
+			"Late Registration": "51ae9cd5-a22d-4924-afb2-f1c578316629",
+			"808's And Heartbreaks": "537e2bb3-cbd5-451e-b552-eccec7125303"
+		}
+	},
+	"Sia": {
+		"id": "9440666f-23bc-47cc-b6d7-4c7adf67aa28",
+		"album": {
+			"Breathe Me E.p.": "5f16ef12-5f3c-473a-982e-b77ef613151c"
+		}
+	},
+	"Bill Bailey": {
+		"id": "65c8f9a6-e600-4959-8c8d-2d4da84e9b1e",
+		"album": {
+			"Bewilderness": "7f4764ac-ca23-44ee-9533-8b55d6e45030"
+		}
+	},
+	"Amerie": {
+		"id": "685dfbce-6ce4-4b42-a633-5893bda9483d",
+		"album": {
+			"Hitch Soundtrack": "7c73f9b4-797d-4e99-8866-bd044046dd8a"
+		}
+	},
+	"Beyonce Ft Slim Thug": {
+		"id": "55a4d983-76b9-4a3d-a91f-e172af765a8f",
+		"album": {
+			"undefined": "b4982243-1e3d-43f5-8e4c-4cefcc7ab63f"
+		}
+	},
+	"Black Eyed Peas": {
+		"id": "26a5ec13-4ac4-4741-8372-68a535c70b87",
+		"album": {
+			"Monkey Business": "89cbbd55-e6f2-46b6-8230-4f7633b90caa",
+			"The E.N.D.[Deluxe] [CD1]": "085dcef9-19a8-48da-8fae-7f56fbf8684e"
+		}
+	},
+	"Roger Eno": {
+		"id": "aaf479b6-db6a-4db3-b90a-3b410b722801",
+		"album": {
+			"Music For Films III": "35cbc80c-0db0-4538-9d0e-c57d7a4cb35f"
+		}
+	},
+	"Télépopmusic": {
+		"id": "eb44e04e-6bb9-4d4e-88f0-1c8a65a42016",
+		"album": {
+			"undefined": "6dd8bb09-56b4-4c0e-9644-c38d99af20b4"
+		}
+	},
+	"Jose González": {
+		"id": "5363396a-01bf-4a47-9d4c-a56511bd9173",
+		"album": {
+			"Veneer": "e9408b7d-9b2a-46aa-8477-ffc7410a4437"
+		}
+	},
+	"The Postal Service": {
+		"id": "34cce48a-d057-4659-ab49-18c781e3430a",
+		"album": {
+			"Give Up": "6641f2cc-20a1-4395-9e21-284ee7579a75"
+		}
+	},
+	"East River Pipe": {
+		"id": "15720797-95d3-4fe7-b2b9-496d9598c70f",
+		"album": {
+			"Mel": "7c15f3c1-e06f-4f9e-89b1-ac063db24e2e"
+		}
+	},
+	"Editors": {
+		"id": "03d04a30-68fa-4e17-9c3f-9d3dbb67f5b8",
+		"album": {
+			"The Back Room": "0bf45935-ab6c-4ec0-89fc-2d5b14077587",
+			"In This Light And On This Evening [Deluxe Edition]": "2f145631-b284-4683-9eef-ac9b2390a720"
+		}
+	},
+	"Heaven 17": {
+		"id": "710f2f3f-b7e0-4cbc-a7f2-93dc83bf9868",
+		"album": {
+			"Greatest Hits of the 80s ": "46a113e7-df84-46a2-8cf5-eec4dfcf617a"
+		}
+	},
+	"Massive Attack": {
+		"id": "c2cb1dce-7eff-4d3f-a9b0-fcbcec8de444",
+		"album": {
+			"Live With Me - Single": "721785a2-5a57-46ef-82fb-bc2b58f80182",
+			"Splitting The Atom": "99dc41c1-9785-447c-9bbb-41a93a68b6b3",
+			"Heligoland": "14957b0f-1f73-4f8a-afa2-9bb792d21260"
+		}
+	},
+	"Smashing Pumpkins": {
+		"id": "a5aaa335-5e61-4b43-893c-0f5334f1f52f",
+		"album": {
+			"Siamese Dream": "39816928-8b87-443e-b3a2-115d96a7167d"
+		}
+	},
+	"Thin Lizzy": {
+		"id": "15295d97-d943-42c8-9aaf-563780d0499a",
+		"album": {
+			"Jailbreak": "3c712345-853c-49c8-ad44-276c5cab3a31"
+		}
+	},
+	"My Morning Jacket": {
+		"id": "d65d8fe6-e432-4a7e-b8fd-3d2cf4e18051",
+		"album": {
+			"Elizabethtown": "edfa1bc6-c5b1-4405-9b8f-f7dc757f05cf"
+		}
+	},
+	"Wheat": {
+		"id": "0b141fd7-164e-42be-9331-a6e75cf54ce1",
+		"album": {
+			"Elizabethtown": "ce943575-ad8e-4832-97d6-67fd44016e72"
+		}
+	},
+	"Minotaur Shock": {
+		"id": "4a23fa5d-1133-4394-86ec-1cce2ef9de42",
+		"album": {
+			"Maritime": "423ff1f3-361e-42ea-a0f0-ac0969ec609a"
+		}
+	},
+	"Ulrich Schnauss": {
+		"id": "26bfeef5-7055-46e8-be69-37b2aee6a287",
+		"album": {
+			"Elizabethtown": "94ece240-0c66-4d24-83e1-07f2e93f68e8",
+			"sutemos net compilation": "b8e6a4b3-64d6-4a1d-ab56-8f9140cd62b2"
+		}
+	},
+	"The Clash": {
+		"id": "458b0728-1d3a-4cdd-81ea-82f5a4d83d10",
+		"album": {
+			"Alternative Eighties": "6d745be5-7cf4-45c2-8bf5-568e4d66d3f2",
+			"The Singles": "0eef3926-6c43-4691-8fb2-9d76507d947f"
+		}
+	},
+	"Washington Phillips": {
+		"id": "dbf159ac-b4da-4480-917a-b92688100e24",
+		"album": {
+			"Elizabethtown": "514c3693-4c05-44ab-899a-533992c810b6"
+		}
+	},
+	"Genesis": {
+		"id": "98210252-5daa-48b9-b130-3b987c105a4f",
+		"album": {
+			"The Lamb Lies Down On Broadway": "f5fb56e2-61f1-437e-ad72-c893888decf8"
+		}
+	},
+	"Muse": {
+		"id": "2c40e198-4922-4378-9391-bce3e4103210",
+		"album": {
+			"Supermassive Black Hole - Single": "2e7747e2-e179-4802-a703-9860ee271e57"
+		}
+	},
+	"Todd Hannigan": {
+		"id": "cd99b03c-8d59-44b7-8177-b8899490e5b2",
+		"album": {
+			"Thicker Than Water": "b98ecfc3-a53a-4208-8fe6-2d6146190cc4"
+		}
+	},
+	"Harpers Bizarre": {
+		"id": "1239fa68-361d-45b1-b814-a77e8a5774ee",
+		"album": {
+			"Thicker Than Water": "50e0e84c-8465-487d-84d0-0c2f851e5648"
+		}
+	},
+	"Jack Johnson": {
+		"id": "d95232a3-5252-475a-9568-d12edfcd0e24",
+		"album": {
+			"On and On": "081c66ed-1e3f-4142-a14c-240c5ef891ac"
+		}
+	},
+	"Ryan Adams": {
+		"id": "06aaf4f3-540e-4976-a3aa-59b7cb9c3522",
+		"album": {
+			"29": "f5898510-bb4b-4784-b77a-b1e961b66bae",
+			"Heartbreaker": "1b666706-db61-411f-896f-824b51bb7cfc"
+		}
+	},
+	"Thom Yorke": {
+		"id": "db6f6263-27dc-4b15-8c38-52bfedca9610",
+		"album": {
+			"The Eraser": "a8370110-2de2-4e62-9571-9e776199addf",
+			"Blalock's Indie/Rock Playlist: Best of 09": "3c57a7f0-e663-4089-b43b-5413cc89100e",
+			"Tomorrow's Modern Boxes": "908b9add-63f1-4728-8a81-57e53f6d2e78"
+		}
+	},
+	"Husky Rescue": {
+		"id": "b4c723fb-c035-43a1-a8d4-aa1c45cced12",
+		"album": {
+			"Country Falls": "a15756c3-4842-4878-be93-21c61541b0fd"
+		}
+	},
+	"Cut Chemist": {
+		"id": "466b7bc9-3950-43eb-a60d-0b2d5f7b0a95",
+		"album": {
+			"The Audiences' Listening": "621dcb3e-cba7-4fcd-8780-be8ba6510899"
+		}
+	},
+	"DVDA": {
+		"id": "956a229c-c0c3-408c-b918-c8bf25f22afc",
+		"album": {
+			"6-30-00 LA, CA @ The Palace": "719f0871-6a8c-4285-b6ea-5d6ae5263a59"
+		}
+	},
+	"Ray Charles": {
+		"id": "d58c8dc4-7749-46da-a657-1ac80c8d1118",
+		"album": {
+			"Anthology": "e6218cb8-683d-4f2e-a0d4-42355b1c1c4a"
+		}
+	},
+	"Nick Drake": {
+		"id": "2d8256af-2e6b-4937-89ae-b72f0c099dac",
+		"album": {
+			"Bryter Layter": "59f82c03-dd0f-4ca1-86b0-14fe23cd2d0e"
+		}
+	},
+	"Oasis": {
+		"id": "2e2b203b-2300-4730-a5ff-c9ceae997da2",
+		"album": {
+			"Unkle Mixes": "3cedba98-19f7-4224-b82b-3e7f0b8094c3",
+			"Stop The Clocks": "39788d2c-a969-4fb9-bf1f-8411051e90c2"
+		}
+	},
+	"Grizzly Bear": {
+		"id": "e5a900b8-f067-4126-a6c2-32f78c095ea6",
+		"album": {
+			"Yellow House": "b191a317-20f7-476b-957e-38c943812174"
+		}
+	},
+	"Jon Brion": {
+		"id": "487e6f85-82ca-4367-8447-307473f2b7c5",
+		"album": {
+			"Eternal Sunshine fo the Spotless Mind": "6cfaaa92-155a-46fa-b151-22d0d6bcabd5"
+		}
+	},
+	"The Shins": {
+		"id": "434d6fb8-25fb-40cf-8faf-940043bf72b5",
+		"album": {
+			"Oh, Inverted World": "4d7475f0-2d44-41a3-be1f-510a9ac18e03"
+		}
+	},
+	"Smith & Mighty": {
+		"id": "ed02efb3-6e72-4003-ac9b-22b3f1e0e677",
+		"album": {
+			"London Lounge : Day 12.00P.M": "63678c86-7d53-416a-ad2b-156b31658f84"
+		}
+	},
+	"The Beta Band": {
+		"id": "f2770c8d-b22b-40e6-a05e-9ff6e6ead801",
+		"album": {
+			"The Three E.P.'s": "8250f0b0-1075-4ba3-897e-92c8744a1a2f"
+		}
+	},
+	"Madvillain": {
+		"id": "69e1c678-33a8-49b2-a589-3bb02602498a",
+		"album": {
+			"Remixes": "eecbdc99-d680-40ef-adf1-2dd2501d19a3",
+			"Chrome Children": "eef90222-ab60-4a27-8da8-ed4a3dde03d9"
+		}
+	},
+	"Hot Chip": {
+		"id": "928f7df9-7183-48d4-937a-b1712b547e84",
+		"album": {
+			"The Warning": "1f3b3b86-4a72-4180-9bdb-7c61e3ef4a2e",
+			"Made In The Dark": "1dcf62ad-8aa0-402e-9a6e-b65f00980e3c",
+			"One Life Stand": "6b5e8b26-4172-449b-b903-e07693627cc9",
+			"In Our Heads": "f0d56920-96ea-486d-a6c8-5d1fa155576a",
+			"Why Make Sense?": "878b1cf1-0521-40f7-8e10-113404706eaa"
+		}
+	},
+	"Bloc Party": {
+		"id": "d79c1013-2b36-42ef-b5cb-5a3e63ea1f06",
+		"album": {
+			"Silent Alarm [Japan Bonus Tracks]": "d784db0b-b923-450c-bc6a-27abd67817b5",
+			"A Weekend in The City": "475e748a-ed32-4e0b-9174-861261832ca0",
+			"Intimacy": "11af5774-7548-41e2-9331-c4690652ca5d",
+			"Four (Deluxe Edition)": "e88a3044-a289-472c-8e8d-b6c57a73d13b"
+		}
+	},
+	"Jay-Z + DJ Danger Mouse": {
+		"id": "e6e8e6ff-f615-4629-a7d3-e95039e705c1",
+		"album": {
+			"The Grey Album": "419614c5-9e51-40cd-99a3-6667bf375b99"
+		}
+	},
+	"The Arcade Fire": {
+		"id": "b4b6852f-d95b-4cfc-ab6f-c0b25952209e",
+		"album": {
+			"Funeral": "a4f465b3-61a8-471e-b665-f9a27f37d32a"
+		}
+	},
+	"Aluminium": {
+		"id": "e13a198e-a3e7-4b45-9590-adb6619cb141",
+		"album": {
+			"Aluminium": "abae0ea0-dde7-43fc-aafd-ed25a783c740"
+		}
+	},
+	"Clint Mansell": {
+		"id": "9935d03a-d991-4155-ba60-ccace78d1b9c",
+		"album": {
+			"The Fountain": "0934b3b7-8b08-46cc-8a9e-efeaae5d7ae9"
+		}
+	},
+	"Outkast featuring Lil' Wayne & Snoop Dogg": {
+		"id": "b257e585-0292-4eea-ae68-b89d414420d5",
+		"album": {
+			"Idlewild": "8ff33881-aeed-412e-9c52-cee8aa55b9fb"
+		}
+	},
+	"Errors": {
+		"id": "af10d2af-83af-4a0a-bd5d-e11828ade6a6",
+		"album": {
+			"How Clean Is Your Acid House": "1e23edfa-509e-4a54-9595-edbf010a468b"
+		}
+	},
+	"Sébastien Tellier": {
+		"id": "13f041a8-518c-4380-8e38-ae205aa5a69d",
+		"album": {
+			"Politics": "28f779fc-3eaa-4d45-9a49-6c481813ad05"
+		}
+	},
+	"DJ Shadow": {
+		"id": "f4351c9a-cbe6-4a28-8afc-2cd972911caa",
+		"album": {
+			"The Outsider": "e94e9368-6c73-46e4-b93f-3f8621d58bc8"
+		}
+	},
+	"The Spinto Band": {
+		"id": "b804eb8c-8c85-4249-9e44-bf88065f7f06",
+		"album": {
+			"Nice and Nicely Done": "d7c18cd3-29a7-449a-8fcb-61de4aec76ba"
+		}
+	},
+	"Cansei De Ser Sexy": {
+		"id": "e74f084f-5928-470c-bc87-45ba0d670beb",
+		"album": {
+			"Cansei De Ser Sexy": "ab84d945-f739-40cd-bbe1-81d71d967e1e"
+		}
+	},
+	"Klaxons": {
+		"id": "90e1c38b-f106-4fdb-a3e5-543ae8278595",
+		"album": {
+			"Myths Of The Near Future ": "334bfd17-97d5-4ab4-916d-c676b2ad8f02",
+			"Surfing The Void": "39d6a8c7-c6e5-4255-8f06-925a37ceea8f"
+		}
+	},
+	"Boards of Canada": {
+		"id": "26feeabc-9a21-4e69-9749-64dfcc5a2018",
+		"album": {
+			"The Campfire Headphase": "d6d0266c-d6b5-4be2-8cd6-66efd14a3058",
+			"In a beautiful place in the country": "bd7f10d4-197a-401c-88a3-cb5c9afa5c57",
+			"Reach For The Dead": "7d4053ef-f2c9-4c60-821b-181502550cd6"
+		}
+	},
+	"Busdriver": {
+		"id": "7bc8511e-7552-4bf5-b2e8-e334c82c1400",
+		"album": {
+			"Roadkillovercoat": "6d84b975-1611-4fee-a907-64652dd00d33"
+		}
+	},
+	"Arcade Fire": {
+		"id": "1f6dcd59-19dc-4bfc-8ca6-de0290628f62",
+		"album": {
+			"Neon Bible": "3d0a46db-6f33-411d-8051-95fb67ad247c",
+			"Rare stuff": "fa04aed2-7b03-4dac-af87-5cc48f511655",
+			"Six Feet Under - Everything Ends (OST)": "02195eae-4788-4519-8263-34ac8f9622fe",
+			"The Suburbs": "94ae6556-dead-4099-86b0-d6f1b293f71e",
+			"The Suburbs [Deluxe Edition]": "cd32afe4-2f32-4d12-a030-2ddd5dedfe66",
+			"Reflektor": "19234258-45ba-459e-a217-b0d873918184"
+		}
+	},
+	"Peter, Bjorn and John featuring Victoria Bergsman": {
+		"id": "d5fb5706-dc14-4c3b-90a8-fab8f5853111",
+		"album": {
+			"Young Folks - Single": "38ff7974-1931-4650-b753-9bd096fe8ea6"
+		}
+	},
+	"Faithless": {
+		"id": "b31a0840-6831-43b8-b13e-ab6a621e5c0e",
+		"album": {
+			"The Beach": "30a4908f-389e-43f7-96ea-4fb8663fe395"
+		}
+	},
+	"Orbital & Angelo Badalamenti": {
+		"id": "b883c1ca-2542-408b-9732-a5de70a66be4",
+		"album": {
+			"The Beach": "249b263d-2de7-458e-99bd-714aaf18cc7d"
+		}
+	},
+	"Razorlight": {
+		"id": "5bff55df-93f6-46b7-8399-0dfdea5816c7",
+		"album": {
+			"Razorlight": "57df94e3-611b-4ef7-8b44-02a9c7ade8ff"
+		}
+	},
+	"Red Hot Chili Peppers": {
+		"id": "be90962d-43f5-4ea2-a624-f80e464cb540",
+		"album": {
+			"Stadium Arcadium: Jupiter (Disc 1)": "22f3468a-8792-4865-b49b-23c58981d2dd"
+		}
+	},
+	"Snow Patrol": {
+		"id": "8cf59142-25f8-41b6-928b-58998b1daed2",
+		"album": {
+			"Eyes Open": "e7915567-6fb6-4c9e-b206-bb788b910c53"
+		}
+	},
+	"Lamb": {
+		"id": "3e87b8f7-9b70-461e-a420-65c6f58539dc",
+		"album": {
+			"Brazilification {Remixes 95-99}": "2bd1cf71-4474-4887-b0af-6813b77ce009"
+		}
+	},
+	"The Cinematic Orchestra Feat. Fontella Bass": {
+		"id": "d8d7da1b-1aeb-4c86-920b-8f5aad48cda3",
+		"album": {
+			"Ma Fleur": "249ea0b1-4a90-4a3c-b304-98cca299bb33"
+		}
+	},
+	"Devendra Banhart": {
+		"id": "c3a93ecf-cb9a-465b-9f22-e61a46f5c4b1",
+		"album": {
+			"Nino Rojo": "611327d2-6f9e-4d10-b65d-1692c9c47391"
+		}
+	},
+	"Grandaddy": {
+		"id": "fedcbf76-56df-4571-8525-0fd492063434",
+		"album": {
+			"Under The Western Freeway": "1d75e75f-d109-4cad-b372-2c8cf3ddc042"
+		}
+	},
+	"Unkle": {
+		"id": "bd7918cc-8985-4bd2-af6c-c445d8e6f9cb",
+		"album": {
+			"Self Defence": "4fbe0cf8-35df-407d-afd7-d0efffa6ce2c"
+		}
+	},
+	"Travis": {
+		"id": "9268bced-09fa-43d2-81de-d2c7d9561fad",
+		"album": {
+			"The Boy With No Name": "a44c84b5-1ca5-41a3-afc7-e2cddc71eb50"
+		}
+	},
+	"Arctic Monkeys": {
+		"id": "468b13ed-cfed-4b2f-ae55-a32dcf8575bb",
+		"album": {
+			"Favourite Worst Nightmare": "17123b91-12ac-416e-91ce-5a0e04df75a1",
+			"Humbug": "7c1094e7-b258-46a5-ad41-0bd79c31aed8"
+		}
+	},
+	"The Cinematic Orchestra Feat. Patrick Watson": {
+		"id": "89b0c7e4-d530-40e6-91c5-4a5d258b666c",
+		"album": {
+			"Ma Fleur": "aa32a1bf-3290-44f4-9796-8e5e75831dc8"
+		}
+	},
+	"Jesu": {
+		"id": "984fab75-47d8-4991-9aff-4b7b959b8fa9",
+		"album": {
+			"Warm & Scratchy": "f92835d6-7573-45d8-bdab-3dc884066a3b"
+		}
+	},
+	"Daft Punk": {
+		"id": "f3465668-ddb5-4494-a9af-60a6c73debfa",
+		"album": {
+			"Human After All ": "50024795-f2e0-4b0a-93e0-6dfe5e25ba84",
+			"Discovery": "73a91a1e-e682-4ad6-9c3e-33c827934e19",
+			"Tron Legacy": "354a0d6a-a5d1-4474-9360-608b8a5ad55e"
+		}
+	},
+	"Just Jack": {
+		"id": "d3e4ea09-af98-4ed3-afac-2ef78ae4292b",
+		"album": {
+			"Overtones": "cce1bfa2-3eac-4f1b-8066-061346d6ffcf"
+		}
+	},
+	"MIA": {
+		"id": "bfc76b87-a2ea-4506-810b-5b8100f84a78",
+		"album": {
+			"undefined": "33aac9e4-f674-491b-a364-7020e0105d8c"
+		}
+	},
+	"Queens of the Stone Age": {
+		"id": "073b9ca7-2b8f-4ce5-b07d-5807e00363c6",
+		"album": {
+			"Era Vulgaris": "5f39fbbf-2cf7-4507-b25b-6203c46861aa"
+		}
+	},
+	"UNKLE featuring Autolux": {
+		"id": "113ba741-ca81-4ba1-8395-ef8354bc47ef",
+		"album": {
+			"War Stories": "72ec7bf1-a2d6-4816-a054-c7c2ff7bc566"
+		}
+	},
+	"Justice": {
+		"id": "8f655e85-6344-48b0-83ca-8860cf37eb4f",
+		"album": {
+			"Cross": "998e75ee-8a81-4710-ab19-72e48de8e77c"
+		}
+	},
+	"Crystal Castles": {
+		"id": "d523bbc0-9ee3-4b21-b07a-ceddf961b15f",
+		"album": {
+			"Crystal Castles": "f7c0f748-ae03-4fa8-bcba-c6c1232683e8",
+			"Celestica": "a979a2ee-1478-43ea-a949-9f27373505ae"
+		}
+	},
+	"The Inkspots": {
+		"id": "69a88f5b-feed-4ee1-a318-a6fc4412ae6f",
+		"album": {
+			"The Shawshank Redemption": "bc88dcb3-e825-4b9b-9893-2827a370cc89"
+		}
+	},
+	"LCD Soundsystem": {
+		"id": "418edab8-9540-48e6-8b99-e4e76dc17368",
+		"album": {
+			"Sound Of Silver": "8b7dd715-b532-4920-98c5-56d7f5235296",
+			"LCD Soundsystem": "5d198655-3712-494b-8e62-2e0fbae52599",
+			"This Is Happening": "89e0e409-d05b-4865-ac41-4e0466218ab9"
+		}
+	},
+	"M.I.A.": {
+		"id": "df12cf9b-c9d6-4dc7-a4fa-44248d91d7b5",
+		"album": {
+			"Kala": "778f9477-1869-41e4-a232-4c249fff2ab3"
+		}
+	},
+	"Angelo Badalamenti": {
+		"id": "15aff125-b62c-4a4e-b141-b7ac04bace91",
+		"album": {
+			"Twin Peaks: Fire Walk With Me (Soundtrack from the Motion Picture)": "7146ff68-26e1-4906-a665-3e429d97de02",
+			"Twin Peaks": "2192828f-5f31-49f7-a31d-455bc2b7e74e",
+			"Twin Peaks: Season Two Music And More": "34e332be-8ea9-43e3-898a-9e24923e160b"
+		}
+	},
+	"Digitalism": {
+		"id": "4d66a17b-8940-4b86-be92-76dbca8dc53e",
+		"album": {
+			"Idealism": "2b33b5e7-8405-4e49-905f-0cc4d09d2257"
+		}
+	},
+	"El-P": {
+		"id": "e7aa6b74-fbd3-4a80-8ad7-e804941ab6d5",
+		"album": {
+			"I'll Sleep When You're Dead": "de17e9a2-6436-4ecd-86c3-dcc082698544"
+		}
+	},
+	"Modeselektor Featuring Thom Yorke": {
+		"id": "17017095-6110-4d88-878a-f6d356b81cfc",
+		"album": {
+			"Happy Birthday!": "7f592731-bafe-495b-ba0b-ae64ec13cb9c"
+		}
+	},
+	"Unkle/Moby": {
+		"id": "e505e79c-6cba-4369-92a0-c8ed58ee4699",
+		"album": {
+			"Self Defence": "87c45c75-6f1f-40e1-987b-49b00753b0eb"
+		}
+	},
+	"Common, Lily Allen": {
+		"id": "f1c32055-a172-4899-899c-6994614fa351",
+		"album": {
+			"Finding Forever": "82bd5ec5-7523-4e19-b315-ac3f1d16ef67"
+		}
+	},
+	"Feist": {
+		"id": "7d9f0827-2d7a-4ade-b879-070ce4d397c8",
+		"album": {
+			"The Reminder": "311ec542-ebc1-4fa6-8d53-f70f097c908f",
+			"Kitsuné Maison 4": "16a0df26-6f91-4bdb-8806-f10d325343b0"
+		}
+	},
+	"Basement Jaxx": {
+		"id": "fb34fe5c-070a-43fc-8f9f-025ebcba9592",
+		"album": {
+			"Rooty": "307e81f1-2e44-495c-99df-7a58f916e3b9"
+		}
+	},
+	"Scarlet's Well": {
+		"id": "47679292-b868-4f78-ba67-9061d2c8fb5d",
+		"album": {
+			"David Shrigley's Worried Noodles": "7b254909-9f28-4e75-b349-15d28b44566a"
+		}
+	},
+	"David Byrne": {
+		"id": "ea78b3e5-1258-4a60-8284-01b36c751e90",
+		"album": {
+			"David Shrigley's Worried Noodles": "4ff942a9-8169-4bb6-85ab-bfca6703ed9e"
+		}
+	},
+	"The Killers": {
+		"id": "d49250e2-8c88-4922-a259-58afee0ad19d",
+		"album": {
+			"Sam's Town": "603476c8-30b0-4f72-bd72-39ba9e502b8c",
+			"Day & Age": "39ff5109-ea4f-4f44-8851-b8083e3ee507"
+		}
+	},
+	"Psapp": {
+		"id": "b18bd219-1b74-4de1-86b8-13ea3f1ba4c4",
+		"album": {
+			"David Shrigley's Worried Noodles": "3a35a41b-ceaf-48ea-babb-6b1a512c8d07"
+		}
+	},
+	"Dragonette": {
+		"id": "cd9870ae-8256-49fa-89bf-30c7accfa5ac",
+		"album": {
+			"Kitsuné Maison 4": "14d00ff3-5f60-4e59-a801-c77a955bc9a1"
+		}
+	},
+	"Lo-Fi-Fnk": {
+		"id": "d8977af1-cce8-4cb0-9c51-62f4a951c8c9",
+		"album": {
+			"Kitsuné Maison": "a032a812-067e-4cd6-be7d-92560312eca1"
+		}
+	},
+	"The Flaming Lips": {
+		"id": "0cd85c96-15d4-4c53-8703-8f2c8b889fc6",
+		"album": {
+			"At War With The Mystics": "00c3bc85-fa90-443d-a949-605a0e754e1a"
+		}
+	},
+	"Goldfrapp": {
+		"id": "8fe4ad33-8fce-485f-aa8d-4c7120bc2dfd",
+		"album": {
+			"Seventh Tree": "5a61788a-da35-41fc-8668-6bcf4cab9fbf"
+		}
+	},
+	"Estelle": {
+		"id": "b2796425-8ea3-4cdf-8b42-4e201f03b5f8",
+		"album": {
+			"undefined": "5a803ce9-3427-4209-925d-85cdbdbed089"
+		}
+	},
+	"Nouvelle Vague": {
+		"id": "56956dfc-7bce-4504-9a5f-33daef0664fc",
+		"album": {
+			"Nouvelle Vague": "7c9f2f0a-3fce-41d3-bd88-98f58894942d"
+		}
+	},
+	"Kronos Quartet and Enrique Gonzalez Muller": {
+		"id": "be83eeb8-dc11-4cbb-b1f9-efe8c877a0f4",
+		"album": {
+			"Y34RZ3R0R3M1X3D": "eb4dfd16-29af-4862-9f1a-722f0ac34a2e"
+		}
+	},
+	"Modest Mouse": {
+		"id": "cfda9e52-8d04-474d-8569-1d48eabfab76",
+		"album": {
+			"We Were Dead Before The Ship Even Sank": "5f17be89-9918-4640-a17a-531eb93f328f"
+		}
+	},
+	"The Faces": {
+		"id": "449c1e27-2b1b-4570-9501-c5d7ce3d9de3",
+		"album": {
+			"Rushmore": "65b7a732-6c90-4dc8-a6f1-2bf098cb00ee"
+		}
+	},
+	"Kanye West featuring Dwele": {
+		"id": "2e612c64-5b15-4ebd-a190-59f83d6ec91c",
+		"album": {
+			"Graduation": "7e8db57b-842d-49db-8977-0d86eb7d4235"
+		}
+	},
+	"The Cinematic Orchestra": {
+		"id": "231e54fb-4324-4c74-bd5c-a3ff939c2dd4",
+		"album": {
+			"Ma Fleur": "a8fe7d41-a3dc-449e-9b40-f2a6800720d5"
+		}
+	},
+	"Death From Above 1979": {
+		"id": "131aee61-a512-4d5a-b5d3-30fe20fdaada",
+		"album": {
+			"You're A Woman, I'm A Machine [Bonus Disc]": "e5cfaf9c-3d53-435b-9ff5-f7ead0d96d64",
+			"The Physical World": "c1a34c55-139e-4b8f-80ef-82febfbe5d34"
+		}
+	},
+	"Max Richter": {
+		"id": "aab3ea16-c534-4ce9-bca0-f5d42aeaebcb",
+		"album": {
+			"Songs From Before": "14c11ed1-a8a4-4431-a311-fdcee701730a"
+		}
+	},
+	"The Raconteurs": {
+		"id": "d4d6007a-4646-47ef-90b9-88b0438a2ef4",
+		"album": {
+			"Consolers Of The Lonely": "6b9867f4-5587-4e4a-a64c-67f93babfea0"
+		}
+	},
+	"Engineers": {
+		"id": "51d28ad1-4beb-4192-bfd0-e466c72b85a0",
+		"album": {
+			"Engineers": "5964d309-550a-477a-a094-3f9b7c725f66"
+		}
+	},
+	"Closer Musik": {
+		"id": "2555bb0d-ec7e-48a9-a54b-44fa250b9ca5",
+		"album": {
+			"Kompakt": "0f0d4e7a-a710-494e-bc51-613db04b6913"
+		}
+	},
+	"Cold War Kids": {
+		"id": "afb6bb62-e8a0-4468-9a03-8c8216ce8f91",
+		"album": {
+			"Robbers & Cowards": "7f1ca53a-fb8a-40af-9c2c-2f1f3ee8af55"
+		}
+	},
+	"The Reflecting Skin": {
+		"id": "ffaa561b-25ac-40c1-8645-ca373843d18b",
+		"album": {
+			"The Synchronicity Suite": "8afc97b4-95ed-4823-96ff-f7c16489f74f"
+		}
+	},
+	"Funki Porcini": {
+		"id": "377f23bd-4943-49d2-9026-e3edc00f66c6",
+		"album": {
+			"undefined": "f0bb341c-7491-4b22-a124-8b53e2aebdf5"
+		}
+	},
+	"Apparat": {
+		"id": "de3b5d1e-75dc-4881-91e4-23025a360757",
+		"album": {
+			"Walls": "9bb993dd-2f95-46ed-ac86-e989abf279e0"
+		}
+	},
+	"Mux Mool": {
+		"id": "0828df85-8ef3-469f-8b6c-7087a28446b7",
+		"album": {
+			"Ghostly Swim": "c261d23b-8a02-4e2a-abad-d9e9d9e34480"
+		}
+	},
+	"The Roots featuring Cody Chesnutt": {
+		"id": "aa7f92f2-0167-4aa5-9fe5-536e184c095e",
+		"album": {
+			"Phrenology": "a0a5950a-cd3c-43b5-b6a1-57464998ba70"
+		}
+	},
+	"French Kicks": {
+		"id": "d973a02c-54cd-46c9-8a70-6462144d0802",
+		"album": {
+			"Swimming": "e8e7c0c7-384a-408d-a3ab-0d25d08ca61f"
+		}
+	},
+	"Simian Mobile Disco": {
+		"id": "c86bd76b-25ea-430d-9b06-87078a73e040",
+		"album": {
+			"Attack Decay Sustain Release": "ffafab6b-57c7-4595-8a7b-48a43f8c2364",
+			"Whorl": "673dbfc4-a41b-453b-9884-5ccd6bb132aa"
+		}
+	},
+	"Willy Mason": {
+		"id": "b9738962-3b38-480b-a657-681e102f1708",
+		"album": {
+			"Where The Humans Eat": "e47b5df4-0adb-4720-8d8e-fabd6f413b3b"
+		}
+	},
+	"Colleen": {
+		"id": "f777db1b-0ce0-43e8-bef2-f26495e47ce5",
+		"album": {
+			"Everyone Alive Wants Answers": "6d069281-f4e1-43c1-bc1e-90365db5e549"
+		}
+	},
+	"Roy Orbison": {
+		"id": "4bc77c77-1fb1-412d-a3e3-767377a03533",
+		"album": {
+			"Blue Velvet": "aca8b8e6-14f2-4279-84bd-7c0efa1c56dc"
+		}
+	},
+	"Chairlift": {
+		"id": "3dee7062-91dd-4f59-9443-c08f583e0a0a",
+		"album": {
+			"Does You Inspire You": "5325bd4d-e925-4ec6-a8cd-008b8b9e9b02"
+		}
+	},
+	"Katy Perry": {
+		"id": "85abb407-450a-4c4f-a8c0-8d03bd00c7eb",
+		"album": {
+			"One Of The Boys": "cf937e8c-8a97-4c54-b356-87d03c9ee9cd"
+		}
+	},
+	"Prefuse 73": {
+		"id": "7934e8e7-75a2-4374-851d-4a2a034bc56f",
+		"album": {
+			"One Word Extinguisher": "74370028-433b-4d7f-9f50-58fcc4b55fd6"
+		}
+	},
+	"Philip Glass": {
+		"id": "8dcce4b8-d506-4eb9-8581-9dde54005ef4",
+		"album": {
+			"Oeuvres Majeures": "42704ff3-75a3-4dea-b015-0596d1cbcc69",
+			"Koyaanisqatsi": "abd53e6f-03ee-49a2-9555-d0f66c6e3d41"
+		}
+	},
+	"Elbow": {
+		"id": "a8779a63-b59f-4c6c-98fb-e3389c789023",
+		"album": {
+			"Cast Of Thousands": "9a94f6bb-37b0-49d5-b465-c2e6beb8b919",
+			"Leaders Of The Free World": "42e18e8b-59c3-4056-bf7f-9d3bc3507dea",
+			"Build A Rocket Boys!": "7d79245a-cda1-43a9-8221-6b406d80ac07",
+			"The Take Off And Landing Of Everything": "f9d4edca-1282-4993-ab19-ac9caa48dec4"
+		}
+	},
+	"Beastie Boys": {
+		"id": "74f2ca82-40f0-45a6-a251-9feb6676d16c",
+		"album": {
+			"The Sounds Of Science [Disc 1]": "73f52b6f-ff6b-430f-a114-d3f078e8bbd2"
+		}
+	},
+	"The Stooges": {
+		"id": "f4db4a49-9332-4105-906e-17ba6f35e03f",
+		"album": {
+			"Raw Power": "48b5ed63-0876-4b23-b136-e54748b3975e"
+		}
+	},
+	"David Holmes": {
+		"id": "a478d740-4200-4f7d-a887-10473217d0f7",
+		"album": {
+			"The Holy Pictures": "5b6fcce9-24a9-48a5-ba2a-d53dccca80b2"
+		}
+	},
+	"Animal Collective": {
+		"id": "1ce76d5f-f2fd-4079-bdf6-3f33bec75703",
+		"album": {
+			"Merriweather Post Pavilion": "95f3f576-cb91-4fcf-aed6-556882c2fe49",
+			"Fall Be Kind (Ep)": "ac055863-259b-4525-98bc-5cf763c8f4aa"
+		}
+	},
+	"Portishead": {
+		"id": "04241b73-0587-4777-9d7f-54c0a40059a9",
+		"album": {
+			"Third": "fbc4e7c7-1ca0-4c8a-bf9b-02a11a9a2536"
+		}
+	},
+	"Belle & Sebastian": {
+		"id": "c2818ccb-00cf-42de-a047-d3085da87e7f",
+		"album": {
+			"Tigermilk": "0bc8412a-15e5-4d10-8641-ccd7ebe419eb"
+		}
+	},
+	"Empire Of The Sun": {
+		"id": "58109426-deaf-4e12-880e-6868d391e6e3",
+		"album": {
+			"Walking On A Dream": "88d0e1f5-8cbc-4fb1-ba0e-19a1531b36a4"
+		}
+	},
+	"Knack": {
+		"id": "30f8e3cb-d737-45f2-9645-bca4ec3f4805",
+		"album": {
+			"New Wave Hits Of The 80's Volume 01": "6a8231f1-649e-4461-9d33-42e97acb4288"
+		}
+	},
+	"The Prodigy": {
+		"id": "c6413d38-f090-4293-a05e-ff0e62293872",
+		"album": {
+			"Invaders Must Die (Ltd. Deluxe Edition)": "7e17378d-d29f-4781-9b21-5647698b0af6"
+		}
+	},
+	"Scissor Sisters": {
+		"id": "021259a8-f797-4ebe-ab90-8fb3f0f7d26c",
+		"album": {
+			"War Child Presents Heroes": "3eaf1dc1-5e4a-4d8f-896c-f0837f522085",
+			"Night Work": "eb4d7cfc-6ed8-4d90-9fd5-07429197fec3"
+		}
+	},
+	"Neil Young Greatest Hits": {
+		"id": "7fa097c1-9283-4e97-9a0e-921cb1951e1f",
+		"album": {
+			"(12 March 1970) Neil Young": "94661f2e-0546-49a3-87e3-6f9eeec59693"
+		}
+	},
+	"Friendly Fires": {
+		"id": "66562d4a-4898-44aa-9578-43494ee79f00",
+		"album": {
+			"Friendly Fires": "525b75f1-8306-4dbf-9314-6514d74b93f7"
+		}
+	},
+	"DEPECHE MODE": {
+		"id": "ecd2a81b-f346-48ac-af93-ce183499dd7a",
+		"album": {
+			"Sounds Of The Universe": "317eba43-65da-4cdd-8a7f-7496913c434c"
+		}
+	},
+	"Riceboy Sleeps": {
+		"id": "5904f1d5-8c87-4d95-ba50-f57ba421dd1c",
+		"album": {
+			"Dark Was The Night": "11639bb9-1420-4e00-97b3-b13ab39e5ca3"
+		}
+	},
+	"Atlas Sound": {
+		"id": "121f0e5a-1fd8-417a-a1ed-055b7d83be60",
+		"album": {
+			"Pitchfork Presents: The 100 Best Tracks of 2008": "5114c086-7814-4071-b809-bea3f6c85bc9"
+		}
+	},
+	"The Dodos": {
+		"id": "f918a9c3-5cff-4381-8449-cdae00c0f414",
+		"album": {
+			"Pitchfork Presents: The 100 Best Tracks of 2008": "3560119c-513b-4ed5-95ed-8c0e2b833725"
+		}
+	},
+	"Bat for lashes": {
+		"id": "fc7eccbb-3d26-490c-9f42-93486cf899d5",
+		"album": {
+			"Twin Suns": "ecd00ee9-eb6d-411d-87b9-82ef532bb69f"
+		}
+	},
+	"Dizzee Rascal and Armand Van Helden": {
+		"id": "500398e1-f6ca-4c7d-b711-3e1e6b42a72d",
+		"album": {
+			"undefined": "f35e041a-8e65-4181-8a48-bd4abda9d97a"
+		}
+	},
+	"The Horrors": {
+		"id": "7db614e6-eb78-430b-b5c4-07786a2f3a6c",
+		"album": {
+			"Primary Colours": "02c21d0f-c922-4c74-ac03-25c8a6771513"
+		}
+	},
+	"Air France": {
+		"id": "d0264f3d-43ae-4329-bde6-fea5024d21b0",
+		"album": {
+			"No Way Down": "1af97414-c233-4b82-8ce3-360d85b749f8"
+		}
+	},
+	"David Lynch": {
+		"id": "6dff8127-ae1e-4412-8a12-e7290dc338d4",
+		"album": {
+			"Dark Night Of The Soul": "e870a97a-2c26-424d-8678-555f69a1cd85"
+		}
+	},
+	"The Maccabees": {
+		"id": "9b49fc42-623b-4e21-89b6-54cd5f24e3e2",
+		"album": {
+			"Wall Of Arms": "12793b7f-4db6-4e29-8c26-4a413bab604f"
+		}
+	},
+	"Calvin Harris": {
+		"id": "719e7cb6-d6ba-41b8-b82f-0878733f0362",
+		"album": {
+			"undefined": "2fc4c2fb-ac93-4fdf-b2c1-4ca53cfab1d7",
+			"Ready For The Weekend": "f7b29083-5c5d-4962-a422-6c9bf212362a"
+		}
+	},
+	"Gruff Rhys": {
+		"id": "30c51ed0-a3ba-4662-892b-7480b4420e3d",
+		"album": {
+			"Dark Night Of The Soul": "7ede362d-47a3-401c-ab97-f75063aa4052"
+		}
+	},
+	"Dan Le Sac vs Scroobius Pip": {
+		"id": "5c8294c9-3690-4a4d-b1a1-eda338a0fab8",
+		"album": {
+			"Angles": "a94f69c0-2eca-45a3-8fff-54be3f65a9c2",
+			"Repent Replenish Repeat": "7c6260aa-76c9-4f8b-b41c-448870db3571"
+		}
+	},
+	"The Lonely Island": {
+		"id": "df190132-d030-48ea-943b-8fabd3d6edc4",
+		"album": {
+			"Incredibad": "f1e1eb48-8001-4792-bb2e-8823fc646efe",
+			"Turtleneck & Chain [Explicit] [+digital booklet]": "eec0b9b9-bee7-4f94-b390-5743831c913a",
+			"Yolo - Single": "8f855dd6-7e94-4d55-ab65-5cc845b4850e"
+		}
+	},
+	"Royksopp": {
+		"id": "0fc413c1-e7ac-4072-837a-a4107f2f3e7d",
+		"album": {
+			"Junior": "45ca8353-08e1-4dfb-afe7-4dea820a4398"
+		}
+	},
+	"Jack Penate": {
+		"id": "dc8e679b-e412-4546-8dcf-068a9a0c0633",
+		"album": {
+			"Everything is New": "2ba9731d-49a2-4029-a130-ab475cae1412"
+		}
+	},
+	"La Roux": {
+		"id": "e24ff9f1-0a3d-4dc8-ae81-6b1be14d4d67",
+		"album": {
+			"La Roux": "d1a5ee21-9a19-4573-b8e1-bd023b2837f0",
+			"Trouble In Paradise": "745a47e0-ef48-4c25-975c-0c91f5d208ad"
+		}
+	},
+	"Passion Pit": {
+		"id": "7125c1de-9fd0-4506-b7d1-26a9091b039c",
+		"album": {
+			"Manners": "e460bdaa-f831-465b-a3fa-1da8b7c7b68e",
+			"Chunk of Change [EP]": "6db7a243-24a3-462b-a1d1-59847a8a6116"
+		}
+	},
+	"TV on the Radio": {
+		"id": "cd1c21bc-a8ca-4ee4-98ce-f9cfd3c7d061",
+		"album": {
+			"Young Lairs EP": "1303da1b-8e89-42ff-8568-5948a9026889"
+		}
+	},
+	"Simian Mobile Disco featuring Chris Keating": {
+		"id": "3d04fa33-47ac-48cd-b180-d7bc155d33eb",
+		"album": {
+			"Temporary Pleasure": "c5bddde7-eb68-4081-a158-34aa905c7c67"
+		}
+	},
+	"The Temper Trap": {
+		"id": "4ef2d0cb-753a-4195-8500-a8d1c376e6b2",
+		"album": {
+			"Conditions": "0c310e83-f401-4bb5-992a-6d692ef274dc"
+		}
+	},
+	"Florence And The Machine": {
+		"id": "a064d29e-3c4c-45d4-9e61-63e470b862ea",
+		"album": {
+			"Lungs": "426e62fe-153e-4f59-a33e-1f14507ad764"
+		}
+	},
+	"Jamie T": {
+		"id": "620b2d1d-3119-4043-a164-878c92ed9580",
+		"album": {
+			"Kings & Queens": "541a9e8e-1c88-4ecd-9263-5b3fbea71c0f",
+			"Carry On The Grudge": "26fe995f-26d2-4621-a8a3-c61f03a8cf4c"
+		}
+	},
+	"Wiley featuring Hot Chip": {
+		"id": "9eda4350-0f08-4b82-a9fd-bd675906b18d",
+		"album": {
+			"See Clear Now": "fb71e97a-041e-4202-87c6-0be7d8882f28"
+		}
+	},
+	"Julian Fane": {
+		"id": "a1a15901-c365-48ee-a9aa-59d1dfe76aa0",
+		"album": {
+			"Special Forces": "a7754ad9-73c2-485a-82f4-5d5e7832c4b8"
+		}
+	},
+	"Wiley featuring Daniel Merriweather": {
+		"id": "723d9c55-4b26-40cd-ad65-6a618ee1b5c8",
+		"album": {
+			"See Clear Now": "042f5489-f143-47b6-8a76-5435b7ce2c0c"
+		}
+	},
+	"FORCE OF NATURE, Nujabes, fat": {
+		"id": "b8173e4d-cc41-4fce-9b1c-7e6f50974ff1",
+		"album": {
+			"Samurai Champloo OST - Impression": "28c08cca-a37b-4d8a-b9ae-8af12d1ce42e"
+		}
+	},
+	"Basement Jaxx feat. Lightspeed Champion": {
+		"id": "fc20c87e-abb9-460e-aac5-94bff49e2724",
+		"album": {
+			"Scars": "48215b3d-112b-4829-a534-629e0b074f8f"
+		}
+	},
+	"Raymond Scott": {
+		"id": "dff27d90-77bd-42c3-a083-67a5d1da8094",
+		"album": {
+			"Manhattan Research, Inc. (disc 2)": "d31d2757-94c4-44ba-b74b-f53f2c1d6518",
+			"Manhattan Research, Inc. (disc 1)": "33d55c00-66a0-4bdc-9d9b-1bab547ca5ac"
+		}
+	},
+	"Wiley": {
+		"id": "778c39ad-a67e-4724-b22c-e01fbf620780",
+		"album": {
+			"See Clear Now": "229760d9-6641-4501-8d2d-9b8d9ca108df"
+		}
+	},
+	"Miike Snow": {
+		"id": "e3eb13ce-5734-49e1-8ef0-d16fa2904846",
+		"album": {
+			"Miike Snow": "6ac982c6-62ca-4f14-bcf9-b9256b25b7ee"
+		}
+	},
+	"Eagles Of Death Metal": {
+		"id": "7cf8e9c7-2cbb-4490-a30e-ba150922d236",
+		"album": {
+			"Heart On": "868897a0-350a-4211-a8e6-eef7e443b96c"
+		}
+	},
+	"Crookers featuring Kid Cudi": {
+		"id": "b2ca2cb3-02fa-4682-89d9-f542e40dc3a0",
+		"album": {
+			"One Love [Sound Machine 2009] [Sweat It Out!]": "daadd4f8-c7ea-4b8c-9bf0-3e0fc909a735"
+		}
+	},
+	"Bot'Ox": {
+		"id": "a7f789cf-0b24-412b-812e-db11981aa8c5",
+		"album": {
+			"Cut The Crap Playlist December 2009": "b74a46e6-3fb6-40a7-9eee-92fcc00dd7d5"
+		}
+	},
+	"Volcano Choir": {
+		"id": "27ff8770-9e3d-46f6-adbb-2fce6acc863b",
+		"album": {
+			"Unmap": "4e751b38-8984-4116-9230-3cec25ad08a8"
+		}
+	},
+	"Lisa Mitchell": {
+		"id": "46c23bd0-2ce3-45fe-bb70-e398e67c14d6",
+		"album": {
+			"Cut The Crap Playlist November 2009": "810018fb-56fc-49af-9039-703aad45f9e0"
+		}
+	},
+	"Beach House": {
+		"id": "758c6ddf-7818-416b-b73e-713292bd57e2",
+		"album": {
+			"Cut The Crap Playlist November 2009": "9a59c36b-63dc-43f6-8058-e866025fe974",
+			"Devotion": "40bb6d49-791c-4b31-98f1-f0c14a7d9257"
+		}
+	},
+	"Ben Harper/Relentless7": {
+		"id": "83380798-3d0c-4e15-b2ba-8edc83b031a6",
+		"album": {
+			"White Lies for Dark Times": "144e6db0-9c53-4ed5-acfc-97b126780967"
+		}
+	},
+	"Phantogram": {
+		"id": "2cb31a4c-b715-48be-bc7b-387ca1c49e8c",
+		"album": {
+			"Blalock's Indie/Rock Playlist: Best of 09": "62d8166c-6481-4d1e-b8d2-fd121905d7ee",
+			"Nightlife": "a8ba4659-d378-45a2-994d-b10be567cd30",
+			"Eyelid Movies": "6cf303b9-a977-4b5a-b0ad-e761e3e9a32d",
+			"Voices": "6ec69d4b-23f1-47c4-aee4-2bc7aaf0e3b4"
+		}
+	},
+	"Marina and the Diamonds": {
+		"id": "dacc6804-b6b0-464d-b8d3-3e17a1752377",
+		"album": {
+			"The Family Jewels": "02516993-b6d9-47b1-9086-96fa1d80b832"
+		}
+	},
+	"Flying Lotus": {
+		"id": "113f96b0-7839-4224-a060-49a8edb163b5",
+		"album": {
+			"Los Angeles": "4965c5d9-663b-4a66-a122-2fcc7cb82988",
+			"undefined": "cb25b0b9-1bf9-4155-9c63-742af8fdd2a8",
+			"You're Dead": "bf74e544-1ae9-4fef-b484-8c287c6e7966"
+		}
+	},
+	"Yeasayer": {
+		"id": "2e71bd90-5e30-4487-a60b-2ff96eac419e",
+		"album": {
+			"Odd Blood": "598aff03-fa0a-4d21-9423-cd3e0e497c27",
+			"Fragrant World": "d01cc075-a1ae-4aa9-8685-edbcde1149ff"
+		}
+	},
+	"Jamaica": {
+		"id": "6877b1b0-5d25-4ca5-a01d-3cca8d2abd14",
+		"album": {
+			"undefined": "42d624f2-a699-481d-bee6-f9e6555a1abd"
+		}
+	},
+	"Gorillaz featuring Little Dragon": {
+		"id": "87fe656a-30df-4904-a6a1-03fd1cc411b6",
+		"album": {
+			"Plastic Beach": "dace567a-6e15-4b3b-9001-a6e225e6ed0e"
+		}
+	},
+	"Caribou": {
+		"id": "0051bbcf-72ad-4f5f-b1b1-6193e1b3502e",
+		"album": {
+			"Swim": "1148ea0b-27e2-45b4-bdae-414c33cd739e",
+			"Our Love": "3bdcd52f-b00e-4be7-a819-b85c20c7800c"
+		}
+	},
+	"Flying Lotus featuring Thom Yorke": {
+		"id": "6d8b9927-024f-424a-b06a-c208ce449e78",
+		"album": {
+			"Cosmogramma": "b0c8d66f-f39b-44ab-9fe8-873242e3f57b"
+		}
+	},
+	"Flight of the Conchords": {
+		"id": "278e6f23-03d5-41c9-8b90-e8691d6c14c4",
+		"album": {
+			"Season 2 Flight of the Conchords": "d1252d5f-7921-41e9-8233-97454aefe2ff"
+		}
+	},
+	"The Black Keys": {
+		"id": "6a53e99e-b11d-4e8e-965a-2ebf6398946e",
+		"album": {
+			"Brothers": "ee477a6d-e5fe-43a6-ab22-fa7f5cea5a63"
+		}
+	},
+	"Memory Tapes": {
+		"id": "518a81dd-a18e-4c3c-80f8-fc8a6af98f49",
+		"album": {
+			"Seek Magic": "355426ee-a800-4518-b0e0-8770f177f761",
+			"Player Piano": "e158d8e4-378a-4ec3-bb7b-4671cd1f28a1",
+			"Grace/Confusion": "b3197815-cedc-4390-a4bc-01609f55babf"
+		}
+	},
+	"Pantha Du Prince": {
+		"id": "26fd136d-c667-4adc-912a-cf9a22e81140",
+		"album": {
+			"Black Noise": "7e40f513-42d6-43f3-a3f1-d0333339a661"
+		}
+	},
+	"Mark Ronson Featuring Q-Tip": {
+		"id": "6af67f65-bd93-4007-9ede-490afa58c91d",
+		"album": {
+			"Record Collection": "8490c820-166e-4097-a787-20d5b7d9c978"
+		}
+	},
+	"Born Ruffians": {
+		"id": "7e0e7ca4-7844-4074-9f36-a500530a0597",
+		"album": {
+			"Say It": "cc54bccd-4df9-4c83-8444-887af5ac0391"
+		}
+	},
+	"Pantha du Prince": {
+		"id": "00d17fe0-563f-4501-abdf-adce762a73aa",
+		"album": {
+			"This Bliss": "2a57a84f-e578-4faf-8135-cb4844023ec4"
+		}
+	},
+	"Little Dragon": {
+		"id": "30f645b6-4eb4-4965-8c21-b91ff8068fdb",
+		"album": {
+			"Cut The Crap Playlist May 2010": "8a3cfc32-a3f1-47a5-8528-23234c213a38",
+			"Machine Dreams": "437b1adc-b8d9-462e-894c-30ca7d9763a2"
+		}
+	},
+	"Kelis": {
+		"id": "e104ec4d-58c8-44b1-a6fe-9728b4078b7c",
+		"album": {
+			"Cut The Crap Playlist Summer Jams 2010": "dac1b420-de67-4565-af30-ebaa42c0b279"
+		}
+	},
+	"Baths": {
+		"id": "38a5c910-732e-4d11-a234-d46cf44ebca4",
+		"album": {
+			"Cerulean": "1555fed1-759c-45bd-8a48-8d5291e94656",
+			"Pop Music / False B-Sides": "f7c3b5f7-db93-45cc-8ba1-7080a49171d0",
+			"Ocean Death": "3e50d4c5-ae3f-46df-9595-8fe3bd679f64"
+		}
+	},
+	"Nigel Godrich": {
+		"id": "7b983e89-78a1-4f49-979c-bc557e278eec",
+		"album": {
+			"Scott Pilgrim vs. the World (Original Score Composed By Nigel Godrich)": "748e0f0b-816f-436c-9bde-ca85e6650849",
+			"Scott Pilgrim vs. The World (Original Score Composed By Nigel Godrich)": "a5dfec4a-993b-4705-a57f-0f3c8307d55f"
+		}
+	},
+	"Bowerbids": {
+		"id": "ea5cae56-14c6-4203-acb6-2113e6852a08",
+		"album": {
+			"Upper Air": "0d3d1d5d-67d3-4eea-b4ed-47d81c989da6"
+		}
+	},
+	"Dan Le Sac vs. Scroobius Pip": {
+		"id": "65850e49-08a9-4dc1-a07e-eb33702b8b37",
+		"album": {
+			"Logic of Chance": "e9d5f6e8-b5cf-46b8-aae7-fbc05cbe887a"
+		}
+	},
+	"Maximum Balloon / Katrina Ford": {
+		"id": "b08f189a-358b-41ae-83fc-655487d29180",
+		"album": {
+			"Maximum Balloon": "876e0d30-2840-46ca-a78d-6d261d2d6d8c"
+		}
+	},
+	"Lorn": {
+		"id": "e263830c-8b07-4a6f-bed6-0f2ca20d9ae6",
+		"album": {
+			"Nothing Else": "44d9d4eb-ba35-48bc-92b2-3be584bf29ac"
+		}
+	},
+	"Maximum Balloon / Theophilus London": {
+		"id": "2056d1a3-7fab-4ced-92de-05cd7d4ad851",
+		"album": {
+			"Maximum Balloon": "935fea8c-0492-46bb-b12f-0fb97e689ab3"
+		}
+	},
+	"N.E.R.D.": {
+		"id": "003edcdc-8957-4cdb-a091-8f551d07e1f3",
+		"album": {
+			"Nothing": "16746293-9788-4c62-a04a-1576c85dd7c8"
+		}
+	},
+	"Mira Calix with Oliver Coates": {
+		"id": "161425e4-32b8-4e78-a3b1-f02325569314",
+		"album": {
+			"Warp20: Recreated": "ca2995a1-f99f-4ad4-a948-4712b7f72fcf"
+		}
+	},
+	"undefined": {
+		"id": "eb3f6a30-6249-4178-8410-2ec7c2046d4a",
+		"album": {
+			"undefined": "6bcc86d7-2264-41f7-ba6d-10a85d40ac04"
+		}
+	},
+	"Peter Bjorn And John": {
+		"id": "e5f06cef-3d30-4ecf-a3f3-d68f78a59c1e",
+		"album": {
+			"Writer's Block ": "ca402ae8-ac28-4360-8a36-222dab505e8c",
+			"Young Folks ": "55ab1923-1ad8-4df4-9572-7de41e1ca12f"
+		}
+	},
+	"Kanye West featuring Bon Iver": {
+		"id": "121a1202-5ecc-462c-a673-281e6f1c3926",
+		"album": {
+			"My Beautiful Dark Twisted Fantasy": "beafee8a-bcff-4e2c-9430-212999790964"
+		}
+	},
+	"Beans": {
+		"id": "72cf1898-8413-4fb2-952b-495910f815fb",
+		"album": {
+			"End It All (master mp3s)": "6162bc2a-5f6b-438e-ad29-8f2e3cf9ca03"
+		}
+	},
+	"Trent Reznor & Atticus Ross": {
+		"id": "f95b5faa-a617-4fc5-9e26-907e6a4d984a",
+		"album": {
+			"The Social Network": "14f4f630-d014-4f2f-95be-85782190ed67"
+		}
+	},
+	"Bat for Lashes": {
+		"id": "afda4163-f79c-438a-a063-287fbf8a0210",
+		"album": {
+			"Gucci Guilty": "5e281169-99e6-412b-92bb-46aa68779b1c"
+		}
+	},
+	"Robyn": {
+		"id": "693fb189-70bb-47df-85b2-26ec62398b37",
+		"album": {
+			"Body Talk": "c8afdc3a-931e-44fc-8f4b-1b1588382df9"
+		}
+	},
+	"Efterklang": {
+		"id": "288d146a-8d66-45c6-9a3d-a58795b2d39b",
+		"album": {
+			"Magic Chairs": "ccb1d198-cdd4-44e9-a52a-180303ce6dc3"
+		}
+	},
+	"Final Fantasy": {
+		"id": "d836a808-3cd7-4359-afed-959ffb7ffa66",
+		"album": {
+			"Pitchfork Presents: The 100 Best Tracks of 2008": "c3d3abfa-ce4d-4a4e-adb2-71399bc43a90"
+		}
+	},
+	"Essie Jain": {
+		"id": "80289d0a-e652-4390-9c07-aa6bf61fb4c1",
+		"album": {
+			"The Inbetween": "de368ed4-4f6d-42ae-a58c-a42537c9e9e0"
+		}
+	},
+	"Mogi Grumbles": {
+		"id": "d4dfae45-391f-4457-b1c3-976152d00869",
+		"album": {
+			"End of Line": "7729ddc8-4937-4238-85f2-3d421e9e5ec6"
+		}
+	},
+	"White Lies": {
+		"id": "021a5d12-5559-44d1-a077-4564da17b7ba",
+		"album": {
+			"To Lose My Life": "c1b49069-3f36-42b1-815e-50de7d7dcf7c"
+		}
+	},
+	"Fleet Foxes": {
+		"id": "faa0f7c0-1fd9-4bf8-a7cd-f384b4146188",
+		"album": {
+			"Helplessness Blues": "1eb21b9e-bdd4-402b-81dd-7b7c0d6cc6ff"
+		}
+	},
+	"Bibio": {
+		"id": "7b6ce71c-d269-4a2b-99e0-cced6a852403",
+		"album": {
+			"Mind Bokeh": "abee51b3-d544-46e7-bc74-2b161232be3a",
+			"Silver Wilkinson": "dd0faa48-11a0-4966-9e46-4901e9948482",
+			"Ambivalence Avenue": "746eaff0-3f2d-4d91-8ef0-6deae4c80110"
+		}
+	},
+	"SBTRKT": {
+		"id": "5377c6eb-a7d2-43eb-b2b3-35e6eae28e05",
+		"album": {
+			"SBTRKT": "9ef140ad-63eb-407d-b77a-1acdd4a0e764"
+		}
+	},
+	"Gil Scott-Heron & Jamie xx": {
+		"id": "9f215d90-bab3-4498-bcb8-d62b978c12f9",
+		"album": {
+			"We're New Here": "82626fd2-7d27-487f-af67-e909fe5d42b7"
+		}
+	},
+	"Felix Da Housecat": {
+		"id": "84ee3e1a-bf6f-40f9-82c8-2fb9a17ffbe0",
+		"album": {
+			"Kittenz And Thee Glitz": "1a468928-9e47-4190-9883-d31aff086315"
+		}
+	},
+	"Stephen Morris and Gillian Gilbert": {
+		"id": "59b41ea7-3965-4a8e-8a28-277fb912c5a8",
+		"album": {
+			"Y34RZ3R0R3M1X3D": "23d7ad06-e896-4d87-a685-8fb285213b38"
+		}
+	},
+	"White Rabbits": {
+		"id": "f474ff81-d7ef-44b8-9337-0029e350b880",
+		"album": {
+			"Blalock's Indie/Rock Playlist: Best of 09": "f641925c-433d-4863-bc6e-1c6ab7956dbb"
+		}
+	},
+	"Neon Indian": {
+		"id": "412a0c83-a600-4339-9e63-a19a948177ef",
+		"album": {
+			"Era Extraña": "36fb9407-f05b-4c2f-a348-885cd4987ca8",
+			"The Music of Grand Theft Auto V": "191537c1-2832-41c5-81e9-7d05f17090fc"
+		}
+	},
+	"Björk": {
+		"id": "b17099ae-a29f-43f6-a357-9529e53967e3",
+		"album": {
+			"Homogenic": "1f10f829-e9af-4036-8418-8cb9bd95f740"
+		}
+	},
+	"The Undertones": {
+		"id": "3c4a0679-efa9-4a20-932f-a34bb398be96",
+		"album": {
+			"The Undertones": "2a6bf5a7-fa8a-49aa-b273-7ef334b004d3"
+		}
+	},
+	"Dead Kennedys": {
+		"id": "385eabec-2a0a-49c0-b21f-7718382e054c",
+		"album": {
+			"Give Me Convenience or Give Me Death": "62cf01ec-997d-4c8c-97f3-06ac9130e0cc"
+		}
+	},
+	"Wavves": {
+		"id": "8ed6bc00-7b13-44ff-a0e2-23155f1217cf",
+		"album": {
+			"King Of The Beach": "1177b701-e9a8-426b-8758-837a48923aca"
+		}
+	},
+	"Keepaway": {
+		"id": "757e90e3-f472-4b89-8a9f-7ff98221e3e2",
+		"album": {
+			"Cut The Crap Playlist - April 2011": "007acb5f-2f2e-4709-9613-cd952d178a8e"
+		}
+	},
+	"Austra": {
+		"id": "03a7b792-c9ea-4d8f-9675-bd69fe8ea613",
+		"album": {
+			"Feel It Break": "699a6d13-d9de-4ae4-9732-85116eec2f72"
+		}
+	},
+	"Pete And The Pirates": {
+		"id": "cb5869b5-c780-472d-9527-df37f31ccba0",
+		"album": {
+			"One Thousand Pictures": "ae4b35a3-e420-44cf-998c-204da216954c"
+		}
+	},
+	"Peter Bjorn and John": {
+		"id": "dcf7eeaa-5c20-4133-9658-3e4075ccd75f",
+		"album": {
+			"Gimmie Some": "10df7f3b-e616-4424-b740-60943edca09d"
+		}
+	},
+	"M83": {
+		"id": "eccb28e1-b1db-4a43-b9ba-cea13bcc48a9",
+		"album": {
+			"Cut The Crap Playlist - Summer Jams 2011": "511174fe-deda-4e66-b690-482fffce9f41"
+		}
+	},
+	"Kavinsky & Lovefoxxx": {
+		"id": "311630f6-38ad-4559-a0b4-3835c0606ef6",
+		"album": {
+			"Drive (Original Motion Picture Soundtrack)": "c51adb3e-4ec3-44c9-962d-2b24441903b5"
+		}
+	},
+	"Desire": {
+		"id": "20d41623-4951-46e5-84ee-2a818b5a398c",
+		"album": {
+			"Drive (Original Motion Picture Soundtrack)": "6452f9ea-7f42-48e0-95a5-134a6e6d5dbd"
+		}
+	},
+	"The Knife": {
+		"id": "255c145b-4fc8-4dc8-941a-d56a2a94916c",
+		"album": {
+			"Deep Cuts": "4250367c-bd7d-48e0-9dc1-462ac3f97e01"
+		}
+	},
+	"Crystal Castles Featuring Robert Smith": {
+		"id": "8001b58e-b10d-4072-8603-8bf4bae85d0f",
+		"album": {
+			"Not In Love (Feat. Robert Smith)": "46c1e396-fe94-40f4-860f-b365df20fe85"
+		}
+	},
+	"The Internet featuring Left Brain": {
+		"id": "be266c3d-9bff-47b4-a996-6424896a7243",
+		"album": {
+			"Cocaine (feat. Left Brain)": "c9a9e067-3617-453e-ab4b-7aff47cc3b7c"
+		}
+	},
+	"The Field": {
+		"id": "8900073c-043e-4fff-a3a0-639d2bc47c0e",
+		"album": {
+			"From Here We Go To Sublime": "327f2ccb-c898-495c-a6fd-456c63ef223a"
+		}
+	},
+	"Jim Guthrie": {
+		"id": "ae490466-9e82-4f68-aa45-e6fd7e8b39cf",
+		"album": {
+			"Sword & Sworcery LP - The Ballad of the Space Babies": "32548e32-11c4-4c02-8705-226645d05cfc"
+		}
+	},
+	"BRONZE": {
+		"id": "b26b7939-eef7-4122-b524-e1cb11cae9da",
+		"album": {
+			"BRONZE": "45e0c731-3166-447d-818f-9b4743106079"
+		}
+	},
+	"Depeche Mode": {
+		"id": "ce477bb9-5806-48f5-9710-55478974889a",
+		"album": {
+			"The Singles 86 > 98": "1e99565d-6c9d-40ea-8cff-c14cdde30b34"
+		}
+	},
+	"Midlake": {
+		"id": "e604ab77-1e10-42cb-aa6a-3041344fcc90",
+		"album": {
+			"Bamnan and Slivercork": "81300214-8fb9-44fe-8d7b-2980ff49d69b"
+		}
+	},
+	"The Cure": {
+		"id": "f212e449-f5be-452c-8c17-f81a9ce4dfaf",
+		"album": {
+			"The Head On The Door": "b9f3f3eb-e78d-419f-a23a-b5d024227733"
+		}
+	},
+	"The King Blues": {
+		"id": "bf727a7a-b9ec-4aef-affa-dd6cd1b3f1f7",
+		"album": {
+			"Save the World, Get the Girl (Radio Edit) - EP": "bb6dacf4-2136-4e31-b16b-5b5bd21e2ce8"
+		}
+	},
+	"Bowerbirds": {
+		"id": "66c53e63-769c-4747-8639-b3d80e3fbfd7",
+		"album": {
+			"Hymns for a Dark Horse (2007, Burly Time)": "b8d60e18-e68b-4f2f-a36b-e6a6c4a183b7"
+		}
+	},
+	"Paul Simon": {
+		"id": "ed55b87d-b4fe-4da9-b556-1ea25933bc55",
+		"album": {
+			"Graceland": "e86e4d83-8d95-47f2-af59-d841e1f5dae6"
+		}
+	},
+	"Christopher Willits": {
+		"id": "194942c9-8dfd-42d6-beef-ddee46abbd50",
+		"album": {
+			"Surf Boundaries": "e376b8ea-4c57-44f3-a2f3-139f372dfe18"
+		}
+	},
+	"Accelera Deck": {
+		"id": "4e5b05dd-4027-4538-beba-f42ed3b44124",
+		"album": {
+			"Narcoticbeats": "b02d738b-32d9-42de-a9d0-8207e4ff1b98"
+		}
+	},
+	"Will Hanson": {
+		"id": "9677f527-6989-46b4-96a0-dbccf70dd2c3",
+		"album": {
+			"Moving a Body": "0786614d-3ded-4d0f-a48e-f2c2b432142f"
+		}
+	},
+	"Orbital": {
+		"id": "7f49e341-b5bc-4a02-9fac-61d46fcb6fee",
+		"album": {
+			"Wonky": "84ab1230-12c7-4b88-bf3a-53968307d63f"
+		}
+	},
+	"Datassette": {
+		"id": "7a882e06-a173-4abf-aa06-a13af1d6ecc8",
+		"album": {
+			"People Without Mouths EP": "c009997b-5e9c-4563-b6d8-f9de35acf0f2"
+		}
+	},
+	"Santigold": {
+		"id": "03b99520-32de-4844-ba17-6cb05079a90a",
+		"album": {
+			"Master Of My Make-Believe": "d6d6a733-b722-4bd3-98a9-ff53e53b2683"
+		}
+	},
+	"Kindness": {
+		"id": "bd906953-22b1-4de5-896d-496e31213d85",
+		"album": {
+			"World, You Need A Change Of Mind": "c1eee0fb-f8cd-439b-8919-3fbe159e0681"
+		}
+	},
+	"Tanlines": {
+		"id": "205ee83e-51a6-4f6f-8b21-2c4ec6efd871",
+		"album": {
+			"Mixed Emotions": "ed43ede1-3d32-429a-942b-97bd7c367c2c"
+		}
+	},
+	"Jai Paul": {
+		"id": "fb67a55c-c878-4d3f-8543-2fb1afe490bd",
+		"album": {
+			"undefined": "bc13f4df-216c-431b-a5ef-d4aeb106e216"
+		}
+	},
+	"The Drums": {
+		"id": "9e3a55e4-2cdf-4cc3-93d1-32c34725d543",
+		"album": {
+			"undefined": "7b60a2cc-dec2-4e43-888a-4a0a8734449e"
+		}
+	},
+	"Matthew Dear": {
+		"id": "aa3d07eb-09c8-4b82-9518-2bbda6ff2063",
+		"album": {
+			"Headcage": "1642998a-1f7e-4341-9bc5-d7c7ccc53ce9"
+		}
+	},
+	"Underworld featuring Dockhead Choir, Dame Evelyn Glennie, Only Men Aloud, Elizabeth Roberts, Alex Trimble": {
+		"id": "0a6ab406-5271-4cb7-ba76-ede7f55f73f0",
+		"album": {
+			"Isles of Wonder: Music For the Opening Ceremony of the London 2012 Olympic Games": "ada89ae9-4de9-40eb-830c-e9938ada1b58"
+		}
+	},
+	"Public Enemy": {
+		"id": "5499632e-8089-44ab-9539-57484a37283f",
+		"album": {
+			"How You Sell Soul to a Soulless People Who Sold Their Soul? (Audio Version)": "73224e94-19ed-474b-91f2-4704c9d15340"
+		}
+	},
+	"Bob Marley & The Wailers": {
+		"id": "a8943101-9498-4979-b777-b6d9aa31e107",
+		"album": {
+			"One Love": "2818490f-eff3-43ac-825a-b36290b58442"
+		}
+	},
+	"Queen": {
+		"id": "62ae6528-873f-446c-8dfc-220058f6ecdf",
+		"album": {
+			"Queen: Greatest Hits (2011 Remaster)": "19df0024-4b73-4b3c-be6f-ea6f080ae4b5",
+			"Queen: Greatest Hits II (2011 Remaster)": "3eafb060-c4a9-4a36-9f8c-08123ea50fc5"
+		}
+	},
+	"Dan Deacon": {
+		"id": "07bc98e5-4214-45f2-a419-9e8cc442b658",
+		"album": {
+			"America": "190907a6-bfb5-47b9-acdc-c2186ebce3c3",
+			"Gliss Riffer": "a26b1eb1-ed1e-4629-80ba-efa9f14b1cb7"
+		}
+	},
+	"Nick Helm & The Helmettes": {
+		"id": "367ee449-cfc4-42d5-a0d2-2e4bf7fa23e3",
+		"album": {
+			"undefined": "e94357e0-637f-4dc3-864c-dd42e39ea450"
+		}
+	},
+	"Flying Lotus Feat. Niki Randa": {
+		"id": "426ec201-c5b3-4070-921b-293bef4042fd",
+		"album": {
+			"Until The Quiet Comes": "9f786619-5678-42d4-b470-8099c09b38df"
+		}
+	},
+	"Bat For Lashes": {
+		"id": "e19c8ebe-32f5-47df-ac96-80d5e415d0af",
+		"album": {
+			"The Haunted Man": "09937076-dddb-4d1b-8ecc-dba91f038c36"
+		}
+	},
+	"S O H N": {
+		"id": "d0e3e2eb-0b6a-49da-a01e-22bbcc6626c5",
+		"album": {
+			"The Wheel - EP": "5b30a67a-7e14-486d-86ef-9185fd3f4742"
+		}
+	},
+	"The Peach Kings": {
+		"id": "f0afc464-a9d3-4b09-a8de-8bd05315ebe5",
+		"album": {
+			"Handsome Moves - EP": "70a8511c-5d1a-4ce3-a2bf-f491010e7cb4"
+		}
+	},
+	"Lushlife & Andrew Cedermark": {
+		"id": "4fa5f1ff-4cd4-4003-ad9c-302d8594ca36",
+		"album": {
+			"Plateau Vision": "4d124f55-e474-42b6-9a5a-022d12d4ddd6"
+		}
+	},
+	"Nosaj Thing featuring Kazu Makino": {
+		"id": "11a728e1-6d37-4bc6-998f-1e4aa4748d72",
+		"album": {
+			"Eclipse / Blue (feat. Kazu Makino) - Single": "a991f7ca-a8e0-46d7-bd13-3edeabc263a4"
+		}
+	},
+	"David Byrne & Brian Eno": {
+		"id": "52b66aad-d64e-4d49-9682-23e00b3f0e11",
+		"album": {
+			"Everything That Happens Will Happen Today": "5790a13d-54a4-462e-ae88-864557b0f754"
+		}
+	},
+	"Grimes": {
+		"id": "cb8b8910-dad5-4d5d-a454-e83ecdd2af6d",
+		"album": {
+			"Visions": "5910c186-8a55-41f6-9c6f-d9d7f31004bc",
+			"undefined": "61c30b89-d4ee-4c1c-9097-d73e131158ef"
+		}
+	},
+	"Actress": {
+		"id": "89ae50a3-0b11-41ca-94c0-1be920e19145",
+		"album": {
+			"R.I.P.": "666f2f31-6af9-4a28-a970-06fc458df41b"
+		}
+	},
+	"James": {
+		"id": "285ed70e-f8a1-4524-94ca-ccd5edc49436",
+		"album": {
+			"undefined": "f248ec54-8166-4858-8acd-9b0e6e878ff9"
+		}
+	},
+	"The Durutti Column": {
+		"id": "56fe1172-a9e5-4aea-8c5a-58922fde4565",
+		"album": {
+			"The Best Of": "1eb55185-32fc-48d4-a801-3cd47e9511ac"
+		}
+	},
+	"Darkstar": {
+		"id": "616ee13d-6769-4f65-8d39-eaa1e19914d8",
+		"album": {
+			"News From Nowhere": "4fbcedfc-372d-481d-adcd-0e0724206069"
+		}
+	},
+	"Moderat": {
+		"id": "ceb13057-f127-43fe-a27a-a2fa0c74095e",
+		"album": {
+			"Moderat (Deluxe Version)": "fce971be-7124-4050-8c1b-f449daaa4020",
+			"Bad Kingdom": "ea1878de-9007-4a38-b80c-a2d5a771159d"
+		}
+	},
+	"James Blake": {
+		"id": "54fb19f3-1428-4764-a721-5368cf16a641",
+		"album": {
+			"Retrograde - Single": "51f639b7-0c86-4d88-929c-b446d312a09a"
+		}
+	},
+	"Atoms For Peace": {
+		"id": "a7010826-4722-4557-b17c-88ec7c33d351",
+		"album": {
+			"Amok": "0b59813e-334d-459e-b66e-de2aba55ac62"
+		}
+	},
+	"Kavinsky": {
+		"id": "8f301e7d-c3a4-4883-84f9-6c84f2d75912",
+		"album": {
+			"OutRun": "bb4e6d0e-0325-4ca6-ad58-98a6cbb187dd"
+		}
+	},
+	"Daft Punk feat. Pharrell Williams": {
+		"id": "a6e6b703-e317-4a3c-bad8-f5e68f111ffa",
+		"album": {
+			"Get Lucky - Single": "e1800b26-b068-4e55-adce-61f030fc0d3b",
+			"Random Access Memories": "d7df411e-0ff5-4560-a999-beabc47b3fe7"
+		}
+	},
+	"Daft Punk feat. Panda Bear": {
+		"id": "8a2d0d87-1aea-4a1f-a1c7-123b6dfdfa7c",
+		"album": {
+			"Random Access Memories": "7834c40d-0542-48a5-bbd4-59242f3a13be"
+		}
+	},
+	"Tycho": {
+		"id": "93c80032-8cb1-419a-a04d-46f946b4f5db",
+		"album": {
+			"Dive": "747f60cd-6c4e-4d99-8622-31f0cd4f1ad5"
+		}
+	},
+	"Four Tet": {
+		"id": "0cb80e12-983f-41fc-a5b1-2d41313edd21",
+		"album": {
+			"Everything Ecstatic": "ad2cb68c-f0f0-48cb-931d-b786aca8fcc9",
+			"There Is Love In You": "41652772-c1ee-4915-9599-7166a2888827"
+		}
+	},
+	"Tame Impala": {
+		"id": "e116c765-502d-4285-9b6d-d32a7cfc1165",
+		"album": {
+			"Lonerism": "ddedc87e-b54d-4853-a37b-f64953056483"
+		}
+	},
+	"Major Lazer Feat. Amber Coffman": {
+		"id": "dc53913a-5516-4f8c-9704-33ed46f9b94b",
+		"album": {
+			"Free The Universe": "302e6f05-f34d-4bbe-bff7-0259949cf15b"
+		}
+	},
+	"TV On the Radio": {
+		"id": "6c9c2553-0773-4369-869a-29f741b07aa2",
+		"album": {
+			"Million Miles - Single": "71de2e1f-1ce8-4d11-bb29-afb184bc6906",
+			"Mercy - Single": "9ec177a8-3d4e-40ed-810c-1ee1e5364c04"
+		}
+	},
+	"HEALTH": {
+		"id": "841f0a79-2b7b-4f89-b100-c60b9eb35f8b",
+		"album": {
+			"The Music of Grand Theft Auto V": "a38e6ff9-c8a2-46a3-9638-fa22154e60e2"
+		}
+	},
+	"Nite Jewel": {
+		"id": "443edd84-6f0d-44df-a255-1b07e9a61d7e",
+		"album": {
+			"The Music of Grand Theft Auto V": "01444cb4-b7b6-427a-910f-bc428e1722ee"
+		}
+	},
+	"Age of Consent": {
+		"id": "0c07a8db-0ff4-44da-ba45-3b90e23838cb",
+		"album": {
+			"The Music of Grand Theft Auto V": "9dbf531b-9caa-4102-8e71-691d7fc67bca"
+		}
+	},
+	"The Chain Gang of 1974": {
+		"id": "73bab78d-56dc-44d1-b5a9-dbd3771e9229",
+		"album": {
+			"The Music of Grand Theft Auto V": "7ed73415-73b9-45d1-b337-a355359d5aec"
+		}
+	},
+	"Dan Croll": {
+		"id": "e7fd5f49-6e7e-4a93-92f7-6ab055d43644",
+		"album": {
+			"From Nowhere (Remixes) - EP": "33e0b7a7-3adf-4e11-8147-0eae4fc0a6f8"
+		}
+	},
+	"Morgan Geist": {
+		"id": "537b6a0c-40ac-41e9-b15f-e374e68ae3ce",
+		"album": {
+			"DJ-Kicks": "c6eb0fbc-781e-4389-8a0f-d554ad868449"
+		}
+	},
+	"Modeselektor": {
+		"id": "cb8f9bbc-4b5b-4373-8eb3-48a49ab42f0f",
+		"album": {
+			"Monkeytown": "10187152-363f-4560-b941-fce1715d1a58"
+		}
+	},
+	"Robin Thicke": {
+		"id": "e05e762a-a568-43fe-95d1-7b692aafb1ba",
+		"album": {
+			"Blurred Lines (feat. T.I. & Pharrell) - Single": "09532a7b-23b2-46db-b127-071f38be3436"
+		}
+	},
+	"Busta Rhymes": {
+		"id": "a0ae54bf-2109-44d7-b2d8-c4d6b4601f19",
+		"album": {
+			"undefined": "bd9dcd70-e464-45f2-a07c-693abff13a0a"
+		}
+	},
+	"Pharrell Williams": {
+		"id": "9c2596fe-2dad-479c-aa4a-f8a748617f27",
+		"album": {
+			"Despicable Me 2": "e48e3daf-2f5e-4246-9e34-17c04fba6022"
+		}
+	},
+	"Aphex Twin": {
+		"id": "f38b7be8-0d39-4ce8-a3ea-751318408505",
+		"album": {
+			"Richard D. James Album": "fe0d63eb-3543-4e55-acd9-7765e0459fd7",
+			"Syro": "bb5e7806-79b0-4d86-a57d-008aff6b5f57"
+		}
+	},
+	"Mark Ronson & The Business Intl": {
+		"id": "2b8c54af-30b6-40bb-a8ef-9408a8ed1cb9",
+		"album": {
+			"Record Collection": "ef438dd1-170f-4efd-a591-735ca6653de0"
+		}
+	},
+	"Mount Kimbie": {
+		"id": "2ec459a3-305a-4d85-8e4f-28fce15a6ad5",
+		"album": {
+			"Cold Spring Fault Less Youth": "ab48bedb-7f82-4d11-aa93-ffe3baec1eb4"
+		}
+	},
+	"Tyler, The Creator": {
+		"id": "5553198d-dd13-4344-bc55-ee38501e90dd",
+		"album": {
+			"The Music of Grand Theft Auto V": "1c99f0a1-0a34-4a4a-8ddc-e79bc3d7c5bb"
+		}
+	},
+	"Thundercat": {
+		"id": "e2fd4ce5-f405-4f31-83c0-67b6ea2e433f",
+		"album": {
+			"Apocalypse": "a1b90d2f-16f4-4f2c-976d-32f345f59b52"
+		}
+	},
+	"Boards Of Canada": {
+		"id": "58c2cd47-5eb3-48fc-9336-e03bde1c82d7",
+		"album": {
+			"Trans Canada Highway": "d162910a-36a0-44ae-bd4d-a2967319aa01",
+			"Tomorrow's Harvest": "9bdd2e7c-c95f-4d68-aa09-1413d373561f"
+		}
+	},
+	"Lushlife": {
+		"id": "251aa792-3b92-44c0-8d11-75e4b3d104f4",
+		"album": {
+			"Plateau Vision": "598a5799-7918-451d-bc69-78de3e7aa7e2"
+		}
+	},
+	"Soul Wax": {
+		"id": "6361a405-f3f2-4d3f-bbe2-0880f0c52c79",
+		"album": {
+			"undefined": "f2cfa956-32f9-4139-9972-1e1eacca0ee8"
+		}
+	},
+	"Howard Shore & Metric": {
+		"id": "c51f23b6-f0cd-4268-b354-4ef0edfbe993",
+		"album": {
+			"Cosmopolis (Original Motion Picture Soundtrack)": "92cc590a-2cf8-41ee-bde4-997bfe90df09"
+		}
+	},
+	"Pulp VS Soulwax": {
+		"id": "9a7b2aeb-25e3-43ae-8d71-c9a9368bf133",
+		"album": {
+			"undefined": "36926036-bf71-4809-ac78-1af6508b9876"
+		}
+	},
+	"alt-J": {
+		"id": "1f4a68d6-876e-4152-91f2-3542ee5dd503",
+		"album": {
+			"An Awesome Wave": "61985b94-9e63-44ce-b842-2bd5d1a9cf9e",
+			"This Is All Yours": "c260555e-92ce-4f54-b696-31b479903bcc"
+		}
+	},
+	"Jon Hopkins": {
+		"id": "f89692eb-08b7-4750-ab45-2f114afdc66c",
+		"album": {
+			"Immunity": "36a9d62c-9014-4e7c-89af-823990f04085"
+		}
+	},
+	"Jackson And His Computerband": {
+		"id": "80666ae8-c245-4beb-b083-f503f78dab4a",
+		"album": {
+			"Glow": "1d814b12-2a7b-4664-8f68-c176785375e0"
+		}
+	},
+	"Goose": {
+		"id": "f68d5a64-dc43-4f99-817c-a8de4f08c6e3",
+		"album": {
+			"undefined": "ec65c6a7-459b-429b-b51e-2b86d6ad6195"
+		}
+	},
+	"Talk Talk": {
+		"id": "acf467fe-1544-4535-9054-a8c5b15aae0d",
+		"album": {
+			"Laughing Stock": "d693e151-5271-46d2-8b1b-3866cb7dea42"
+		}
+	},
+	"Warpaint": {
+		"id": "0c890e93-f9ff-4b1c-bc64-5a3f89a21b00",
+		"album": {
+			"Warpaint": "68e0aebb-4e2c-43ea-afd3-47d318d54df7"
+		}
+	},
+	"FKA twigs": {
+		"id": "07f3684a-5e1d-46f4-b1a2-c89cf2517511",
+		"album": {
+			"EP2": "f06c0d93-9276-41c9-8717-ac3f44c9ae01"
+		}
+	},
+	"Jungle": {
+		"id": "e14c5c7c-0ccf-44a0-ae2f-b37f1dc4e2c0",
+		"album": {
+			"Jungle": "0497c870-cbaf-4fbb-8ec0-7ac289694280"
+		}
+	},
+	"\"Weird Al\" Yankovic": {
+		"id": "def6be3c-046b-430b-a398-09073fe33d08",
+		"album": {
+			"Transformers The Movie": "6c93b6a8-d8e7-420f-8793-75a983c6ede4"
+		}
+	},
+	"Clark": {
+		"id": "91e7202c-ae12-4533-8728-212a8dd25fdb",
+		"album": {
+			"Clark": "aed3c0a3-1f2d-4a7f-8653-c40172dfc443"
+		}
+	},
+	"Kindness feat. Robyn": {
+		"id": "1d53c3b6-8929-4244-8095-f3dac1853da0",
+		"album": {
+			"Otherness": "08f3bddd-e3ce-4bed-8bbc-7ee369d6bb05"
+		}
+	},
+	"Kate Bush": {
+		"id": "4b6665f5-7683-449d-8681-113dca228a7e",
+		"album": {
+			"undefined": "0c29daa5-3455-4fb6-ad1e-7b1e776b89d5"
+		}
+	},
+	"Kindness feat. Devonte´ Hynes & Tawiah": {
+		"id": "1341e9d3-4442-44b5-9d7b-52372cc191bb",
+		"album": {
+			"Otherness": "24478501-e261-4f57-983c-d802a761bec5"
+		}
+	},
+	"Panda Bear": {
+		"id": "ff0e11d0-a9f5-4091-8efe-45a660158d0f",
+		"album": {
+			"Panda Bear Meets The Grim Reaper": "a972e328-8f1f-483f-8408-c2850d67d702"
+		}
+	},
+	"R.E.M.": {
+		"id": "f4cf0f09-fb53-4f56-92d7-0a1a15c6e503",
+		"album": {
+			"New Adventures In Hi-Fi": "be0582ea-9051-47ba-9792-c18d2bdc0930",
+			"Automatic For The People": "908a983e-d0ad-4939-9333-93765daa1772"
+		}
+	},
+	"Sohn": {
+		"id": "23ef0052-16ea-4b54-a2a6-28b6e4d70d43",
+		"album": {
+			"Tremors": "e7e8047a-8163-4339-aed6-0bbe65e74ac3"
+		}
+	},
+	"Braids": {
+		"id": "c4d37d22-8399-44c3-93d4-de08c79337d1",
+		"album": {
+			"Deep In the Iris": "c23b7686-886f-484b-ae5d-143a4d4ebb16"
+		}
+	},
+	"Emilie Nicolas": {
+		"id": "c6e46c92-4aff-4b54-bde4-40d867261d2f",
+		"album": {
+			"Like I'm a Warrior": "d9a1ee27-d47f-4785-82ce-7caa29700e4b"
+		}
+	},
+	"Childish Gambino": {
+		"id": "ff93bfa9-0b8e-4999-88d2-a4a0cfda196f",
+		"album": {
+			"Kauai": "ba494509-82e4-4818-a47f-71f29a53b641"
+		}
+	},
+	"Blonde Redhead": {
+		"id": "c0304601-bdef-4c20-8405-9ee208ffd980",
+		"album": {
+			"Misery Is A Butterfly": "6c390c41-20cb-40c1-96f5-1347bf11a8e2"
+		}
+	},
+	"Big Boi": {
+		"id": "ae2546fc-6a0d-4321-9533-6fbf8429a3ca",
+		"album": {
+			"Vicious Lies and Dangerous Rumors": "feb3bec2-2dde-4835-a7af-182996b5151d"
+		}
+	},
+	"Gold Panda": {
+		"id": "d8d09570-3176-42be-8442-8c4a1ed32021",
+		"album": {
+			"Lucky Shiner": "3dc06127-66b3-4286-9a99-56bd576e80df"
+		}
+	},
+	"Leftfield": {
+		"id": "af49e789-9d4e-4dfc-80d7-8c1d8bc2e270",
+		"album": {
+			"Universal Everything": "efbec5cc-703d-4231-81ff-4f47b36c4a89"
+		}
+	},
+	"Patrick Watson": {
+		"id": "d9584d6a-9003-4adc-8bf5-b94a825444ea",
+		"album": {
+			"Adventures In Your Own Backyard": "c7662df0-358d-4eca-a182-bd1bc1bc76cf"
+		}
+	},
+	"Jamie xx / Romy": {
+		"id": "3f387377-c24a-4b86-9403-0b18817a708f",
+		"album": {
+			"In Colour": "f304df7a-2565-489f-a082-754d63d25f67"
+		}
+	},
+	"Wale": {
+		"id": "93717827-f7a4-4143-a748-692385491b41",
+		"album": {
+			"The Album About Nothing": "76aadddc-1b33-438f-8c16-beded0d6488f"
+		}
+	},
+	"Nosaj Thing": {
+		"id": "f777b2da-6dfe-42ae-90c7-013fa7fe6590",
+		"album": {
+			"Fated": "10d0d0c3-5b0d-4a6a-8190-4f2ab582fe66"
+		}
+	},
+	"Major Lazer / Wild Belle": {
+		"id": "658fc9fe-5a48-490e-8979-51ff699b5642",
+		"album": {
+			"Peace Is the Mission": "72e254a0-b8c0-4ac3-9ebd-18415f2d742c"
+		}
+	},
+	"The Internet": {
+		"id": "337a0f55-475b-43e5-b0ae-b437578a49ff",
+		"album": {
+			"Ego Death": "dec8b58d-259d-4d63-b553-5a0c8a2d7ba2"
 		}
 	}
 }

@@ -2,89 +2,85 @@
 	"name": "August",
 	"month": "08",
 	"year": "2005",
-	"id": "",
+	"id": "d6d6643a-5573-41de-9db3-e6e8a37c7fb4",
 	"tracks": [
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"name": "Hefty Fine",
+				"id": "8a75acae-9105-41d6-8f4e-eee6257546ba"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bloodhound Gang",
-					"id": ""
+					"id": "61eaa6dc-9964-446b-8766-29fc61a7f00c"
 				}
 			],
 			"name": "Foxtrot Uniform Charlie Kilo",
-			"id": "",
+			"id": "06ef2d28-6234-4aa1-b98f-4e95d0a54e8e",
 			"length": 171781
 		},
 		{
 			"album": {
 				"name": "X&Y",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "4ae313ec-e061-4c2f-ae04-7bd5bb2497b2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Coldplay",
-					"id": ""
+					"id": "ec94e866-4d08-4130-a26f-783fce97bd5c"
 				}
 			],
 			"name": "Til Kingdom Come",
-			"id": "",
+			"id": "58efff94-8c8f-474b-bb9e-7774db4090bb",
 			"length": 250279
 		},
 		{
 			"album": {
-				"name": "Trainspotting",
-				"image": "",
+				"name": "Apollo: Atmospheres and Soundtracks",
 				"year": 1983,
-				"id": ""
+				"id": "ba8f8172-99c6-48ba-a11a-2ffdf364df98"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Brian Eno",
-					"id": ""
+					"id": "e9f3aa14-c593-4484-b593-98153d4cc7b0"
 				}
 			],
 			"name": "Deep Blue Day",
-			"id": "",
+			"id": "c51200ab-4222-46cc-b808-2166e0c00981",
 			"length": 236564
 		},
 		{
 			"album": {
 				"name": "Disraeli Gears",
-				"image": "",
 				"year": 1967,
-				"id": ""
+				"id": "b0e0c947-c15c-4fca-bdf4-6409b42e25ca"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Cream",
-					"id": ""
+					"id": "1e33f118-8f66-49dc-b58c-7df5bfb1f587"
 				}
 			],
 			"name": "We're Going Wrong",
-			"id": "",
+			"id": "479ae29e-c390-4675-b73b-df852290d372",
 			"length": 207177
 		},
 		{
 			"album": {
 				"name": "Lost Sides",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "a9ac46bd-e178-4df3-84d5-172898940da1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Doves",
-					"id": ""
+					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
 				}
 			],
 			"name": "Meet Me At The Pier",
-			"id": "",
+			"id": "5fa13615-fba7-496a-b09e-6784437f6325",
 			"length": 182831
 		}
 	]

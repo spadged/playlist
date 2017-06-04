@@ -2,91 +2,90 @@
 	"name": "October",
 	"month": "10",
 	"year": "2006",
-	"id": "",
+	"id": "80cb5447-8176-4d6c-8446-6d42faa69e3a",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Three E.P.'s",
-				"image": "",
 				"year": 1997,
-				"id": ""
+				"id": "8250f0b0-1075-4ba3-897e-92c8744a1a2f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Beta Band",
-					"id": ""
+					"id": "f2770c8d-b22b-40e6-a05e-9ff6e6ead801"
 				}
 			],
 			"name": "Dry The Rain",
-			"id": "",
+			"id": "ea2f14a6-ec04-477b-8012-42b229c8cebb",
 			"length": 365191
 		},
 		{
 			"album": {
 				"name": "The Information",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "3ed2b2df-85d8-4c24-84dc-84707a44de6f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beck",
-					"id": ""
+					"id": "ff9bbdef-78ff-4fa8-a16e-47c87b52c30d"
 				}
 			],
 			"name": "New Round",
-			"id": "",
+			"id": "57eac28a-f271-4170-9f56-0ea894b72448",
 			"length": 205662
 		},
 		{
 			"album": {
 				"name": "Remixes",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "eecbdc99-d680-40ef-adf1-2dd2501d19a3"
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Four Tet",
+					"id": "69e1c678-33a8-49b2-a589-3bb02602498a"
+				},
 				{
 					"name": "Madvillain",
-					"id": ""
+					"id": "69e1c678-33a8-49b2-a589-3bb02602498a"
 				}
 			],
 			"name": "Great Day (Four Tet Remix)",
-			"id": "",
+			"id": "8a141d31-2250-478c-a6ed-5b58c65970fd",
 			"length": 165041
 		},
 		{
 			"album": {
 				"name": "The Warning",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "1f3b3b86-4a72-4180-9bdb-7c61e3ef4a2e"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": ""
+					"id": "928f7df9-7183-48d4-937a-b1712b547e84"
 				}
 			],
 			"name": "Over And Over",
-			"id": "",
+			"id": "cc996985-f015-4c3f-a99c-04bb8c4f016c",
 			"length": 347924
 		},
 		{
 			"album": {
 				"name": "Return To Cookie Mountain",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "1a630fae-9ba6-4600-bea9-6c56059937d1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0"
 				}
 			],
 			"name": "I Was A Lover",
-			"id": "",
+			"id": "089cd3cc-a111-49a2-8251-96094d3e344f",
 			"length": 261067
 		}
 	]

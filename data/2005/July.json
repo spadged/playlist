@@ -2,90 +2,85 @@
 	"name": "July",
 	"month": "07",
 	"year": "2005",
-	"id": "",
+	"id": "76c21283-aebd-4b15-ad1d-df67ffe04ccd",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Hour Of The Bewilderbeast",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "cf23b1d5-0104-4286-8ce3-4e86175b32ee"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Badly Drawn Boy",
-					"id": ""
+					"id": "5b51791e-7f2c-479e-bfcc-332602bed349"
 				}
 			],
 			"name": "Magic In The Air",
-			"id": "",
+			"id": "9d0df63e-200a-4885-bca1-a3fe0c18524e",
 			"length": 223529
 		},
 		{
 			"album": {
-				"name": "Heart And Soul",
-				"image": "",
+				"name": "Substance",
 				"year": 1988,
-				"id": ""
+				"id": "d0f324ec-a010-43b0-a1cb-54b49ceef7ed"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Joy Division",
-					"id": ""
+					"id": "f2645e16-2587-4afb-bbab-29197d6656ca"
 				}
 			],
 			"name": "Love Will Tear Us Apart",
-			"id": "",
+			"id": "b3c5e27e-c1b3-4097-a76a-89ab9330e3f5",
 			"length": 207255
 		},
 		{
 			"album": {
 				"name": "It's A Wonderfull Life",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "80a29117-a33b-4830-8078-fd6717b34f7f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sparklehorse",
-					"id": ""
+					"id": "3f299d22-a8fd-427b-986f-e97f14d0ce28"
 				}
 			],
 			"name": "Comfort Me",
-			"id": "",
+			"id": "629b4a47-11ba-4934-96b2-fe793a8996cb",
 			"length": 301270
 		},
 		{
 			"album": {
 				"name": "We Have Sound",
-				"image": "",
-				"id": ""
+				"id": "9a09110b-f9b4-4165-8139-30e4513ca456"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tom Vek",
-					"id": ""
+					"id": "a5e1ffb8-428e-42dc-9fe7-24b50f0682a2"
 				}
 			],
 			"name": "I Ain't Saying My Goodbyes",
-			"id": "",
+			"id": "a9e3ee51-bf19-4b11-ab27-0e6cc7eecfda",
 			"length": 225673
 		},
 		{
 			"album": {
 				"name": "Has Been",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "43015dff-1bea-4bf2-adbf-d2289cb60de1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "William Shatner",
-					"id": ""
+					"id": "366f7ca8-fd31-43af-9316-b274d39119d8"
 				}
 			],
 			"name": "I Can't Get Behind That",
-			"id": "",
+			"id": "f0f51b47-b201-432a-99c5-2fd4adfc1b6d",
 			"length": 180375
 		}
 	]

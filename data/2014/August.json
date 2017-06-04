@@ -1,91 +1,133 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2014",
+	"month": "august",
 	"year": "2014",
-	"id": "",
+	"id": "1rjFIb8D1leL4g4QOY1ENb",
 	"tracks": [
 		{
 			"album": {
-				"name": "Fragrant World",
-				"image": "",
-				"year": 2012,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Yeasayer",
-					"id": ""
-				}
-			],
-			"name": "Blue Paper",
-			"id": "",
-			"length": 306703
-		},
-		{
-			"album": {
-				"name": "Trouble In Paradise",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "La Roux",
-					"id": ""
-				}
-			],
-			"name": "Cruel Sexuality",
-			"id": "",
-			"length": 255190
-		},
-		{
-			"album": {
 				"name": "Laughing Stock",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Talk Talk",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "New Grass",
 			"id": "",
-			"length": 586501
+			"length": 586000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Trouble In Paradise",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "La Roux",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Cruel Sexuality",
+			"id": "",
+			"length": 255000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Fragrant World",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Yeasayer",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Blue Paper",
+			"id": "",
+			"length": 306000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Warpaint",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Warpaint",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Disco//very",
 			"id": "",
-			"length": 244427
+			"length": 244000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "EP2",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "FKA twigs",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Water Me",
 			"id": "",
-			"length": 204826
+			"length": 204000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

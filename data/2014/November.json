@@ -1,93 +1,133 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2014",
+	"month": "november",
 	"year": "2014",
-	"id": "",
+	"id": "7grqJ5146eamsYHb7vhPTa",
 	"tracks": [
 		{
 			"album": {
-				"name": "Transformers The Movie",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"name": "Dare to Be Stupid",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various",
-					"id": ""
+					"name": "\"Weird Al\" Yankovic",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Dare to Be Stupid",
 			"id": "",
-			"length": 205688
-		},
-		{
-			"album": {
-				"name": "EP2",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "FKA twigs",
-					"id": ""
-				}
-			],
-			"name": "Papi Pacify",
-			"id": "",
-			"length": 293982
-		},
-		{
-			"album": {
-				"name": "Whorl",
-				"image": "",
-				"year": 2014,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Simian Mobile Disco",
-					"id": ""
-				}
-			],
-			"name": "Calyx",
-			"id": "",
-			"length": 439980
+			"length": 205000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Physical World",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Death From Above 1979",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "White Is Red",
 			"id": "",
-			"length": 267911
+			"length": 267000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Seeds",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Winter",
 			"id": "",
-			"length": 220943
+			"length": 220000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Whorl",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Simian Mobile Disco",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Calyx",
+			"id": "",
+			"length": 439000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "EP2",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "FKA twigs",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Papi Pacify",
+			"id": "",
+			"length": 293000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

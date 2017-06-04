@@ -1,89 +1,140 @@
 {
-	"name": "April",
-	"month": "04",
+	"name": "April Top 5 2015",
+	"month": "april",
 	"year": "2015",
-	"id": "",
+	"id": "4iBcPb4xDYvLOc9i5am3Nx",
 	"tracks": [
 		{
 			"album": {
-				"name": "Lucky Shiner",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Gold Panda",
-					"id": ""
-				}
-			],
-			"name": "You",
-			"id": "",
-			"length": 216424
-		},
-		{
-			"album": {
 				"name": "Universal Everything",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Leftfield",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Universal Everything",
 			"id": "",
-			"length": 426893
+			"length": 426000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Lucky Shiner",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Gold Panda",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "You",
+			"id": "",
+			"length": 216000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Adventures In Your Own Backyard",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Patrick Watson",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Words In The Fire",
 			"id": "",
-			"length": 233717
+			"length": 233000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "In Colour",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jamie xx",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Romy",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Loud Places",
 			"id": "",
-			"length": 304143
+			"length": 304000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"name": "REALiTi",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Grimes",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "REALiTi",
 			"id": "",
-			"length": 264045
+			"length": 264000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,92 +1,133 @@
 {
-	"name": "October",
-	"month": "10",
+	"name": "October Top 5 2013",
+	"month": "october",
 	"year": "2013",
-	"id": "",
+	"id": "0b44m6mPjouNGHWaVPPWfK",
 	"tracks": [
 		{
 			"album": {
-				"name": "DJ-Kicks",
-				"image": "",
-				"year": 2004,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Morgan Geist",
-					"id": ""
-				}
-			],
-			"name": "Lullaby / A Place In My Heart",
-			"id": "",
-			"length": 203946
-		},
-		{
-			"album": {
-				"name": "Player Piano",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Memory Tapes",
-					"id": ""
-				}
-			],
-			"name": "Yes I Know",
-			"id": "",
-			"length": 222066
-		},
-		{
-			"album": {
-				"name": "Mercy - Single",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "TV On the Radio",
-					"id": ""
-				}
-			],
-			"name": "Mercy",
-			"id": "",
-			"length": 197696
-		},
-		{
-			"album": {
 				"name": "Repent Replenish Repeat",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Dan Le Sac vs Scroobius Pip",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Terminal",
 			"id": "",
-			"length": 258873
+			"length": 258000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Reflektor",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "It’s Never Over (Oh Orpheus)",
 			"id": "",
-			"length": 402886
+			"length": 402000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Mercy",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "TV On the Radio",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Mercy",
+			"id": "",
+			"length": 197000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Player Piano",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Memory Tapes",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Yes I Know",
+			"id": "",
+			"length": 222000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "DJ-Kicks",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Morgan Geist",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Lullaby / A Place In My Heart",
+			"id": "",
+			"length": 203000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

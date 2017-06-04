@@ -2,91 +2,86 @@
 	"name": "May",
 	"month": "05",
 	"year": "2004",
-	"id": "",
+	"id": "82a0d1df-7f46-4b65-8599-8d200d46c0ff",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Last Broadcast",
-				"image": "",
 				"year": 2002,
-				"id": ""
+				"id": "5e85e056-9cda-4da8-8180-f0b44cb64739"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Doves",
-					"id": ""
+					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
 				}
 			],
 			"name": "The Sulphur Man",
-			"id": "",
+			"id": "ca97055c-6ef2-4310-917b-16ec0e10da8e",
 			"length": 277394
 		},
 		{
 			"album": {
 				"name": "Xo",
-				"image": "",
 				"year": 1998,
-				"id": ""
+				"id": "08a8ecba-9351-4827-8e22-969d1a95ab80"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elliott Smith",
-					"id": ""
+					"id": "e6dcf363-0002-406d-ad4c-156fa6f093e1"
 				}
 			],
 			"name": "Waltz No. 1",
-			"id": "",
+			"id": "c7bb8d5a-526e-4198-a791-2b663e00ea39",
 			"length": 180192
 		},
 		{
 			"album": {
 				"name": "Details",
-				"image": "",
 				"year": 2002,
-				"id": ""
+				"id": "d50e717a-bdb9-4412-8738-3aa47f9f5219"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Frou Frou",
-					"id": ""
+					"id": "1a4c2fdc-f5e3-4efb-b66d-c15391593e7b"
 				}
 			],
 			"name": "Hear Me out",
-			"id": "",
+			"id": "3243c41a-5394-4b2e-8f75-e4e3c92ef408",
 			"length": 259369
 		},
 		{
 			"album": {
-				"name": "I Might be wrong. {special}",
-				"image": "",
+				"name": "Bootleg",
 				"year": 2002,
-				"id": ""
+				"id": "87bf8054-0e63-41bf-8e8f-1c1cd76290bc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "Big Ideas",
-			"id": "",
+			"id": "7c74900e-e050-437c-aafe-9d3eab46ebf1",
 			"length": 234135
 		},
 		{
 			"album": {
 				"name": "Fever To Tell",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "617e47f0-28e3-42be-97bd-dae8f3ff5027"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "3TNt4aUIxgfy9aoaft5Jj2"
+					"id": "6ed70853-8b41-45aa-b1dc-a7bfc1737a49"
 				}
 			],
 			"name": "Maps",
-			"id": "",
+			"id": "bc1d7d2c-7910-4a7a-b2af-0c5b41abedff",
 			"length": 219846
 		}
 	]

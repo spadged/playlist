@@ -1,90 +1,133 @@
 {
-	"name": "July",
-	"month": "07",
+	"name": "July Top 5 2014",
+	"month": "july",
 	"year": "2014",
-	"id": "",
+	"id": "1OYCEiDh1RaeYCGm8njEqC",
 	"tracks": [
 		{
 			"album": {
-				"name": "Remain In Light",
-				"image": "",
-				"year": 1980,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Talking Heads",
-					"id": ""
-				}
-			],
-			"name": "Seen and Not Seen",
-			"id": "",
-			"length": 204564
-		},
-		{
-			"album": {
 				"name": "Glow",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jackson And His Computerband",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Arp #1",
 			"id": "",
-			"length": 308088
+			"length": 308000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"name": "",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Soulwax",
-					"id": ""
+					"name": "Goose",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Synrise",
 			"id": "",
-			"length": 222354
+			"length": 222000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Trouble In Paradise",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "La Roux",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Sexotheque",
 			"id": "",
-			"length": 257462
+			"length": 257000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Remain In Light",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Talking Heads",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Seen and Not Seen",
+			"id": "",
+			"length": 204000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Voices",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Phantogram",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Nothing But Trouble",
 			"id": "",
-			"length": 245760
+			"length": 245000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

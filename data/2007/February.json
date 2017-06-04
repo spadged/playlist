@@ -2,91 +2,86 @@
 	"name": "February",
 	"month": "02",
 	"year": "2007",
-	"id": "",
+	"id": "cb68f3f4-6ce8-4dfd-8a29-f6718a0f0431",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Campfire Headphase",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "d6d0266c-d6b5-4be2-8cd6-66efd14a3058"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Boards of Canada",
-					"id": ""
+					"id": "26feeabc-9a21-4e69-9749-64dfcc5a2018"
 				}
 			],
 			"name": "Dayvan Cowboy",
-			"id": "",
+			"id": "62e2dd57-da62-4a76-996c-9fd070676a73",
 			"length": 300251
 		},
 		{
 			"album": {
 				"name": "Some Cities",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "e650ec2d-a26b-4416-898f-2535fbe23bd8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Doves",
-					"id": ""
+					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
 				}
 			],
 			"name": "Ambition",
-			"id": "",
+			"id": "18cb26b4-7fce-40b2-ac11-c15bfdebd35c",
 			"length": 240431
 		},
 		{
 			"album": {
 				"name": "Roadkillovercoat",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "6d84b975-1611-4fee-a907-64652dd00d33"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Busdriver",
-					"id": ""
+					"id": "7bc8511e-7552-4bf5-b2e8-e334c82c1400"
 				}
 			],
 			"name": "Sun Shower",
-			"id": "",
+			"id": "14c0a464-281b-4983-b0af-8a8de551c28e",
 			"length": 248293
 		},
 		{
 			"album": {
 				"name": "Neon Bible",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "3d0a46db-6f33-411d-8051-95fb67ad247c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "1f6dcd59-19dc-4bfc-8ca6-de0290628f62"
 				}
 			],
 			"name": "Keep The Car Running",
-			"id": "",
+			"id": "dc879788-56fd-4e7d-b98b-0a6a0b6eef74",
 			"length": 209136
 		},
 		{
 			"album": {
-				"name": "Young Folks - Single",
-				"image": "",
+				"name": "Writer's Block",
 				"year": 2006,
-				"id": ""
+				"id": "38ff7974-1931-4650-b753-9bd096fe8ea6"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Peter, Bjorn and John",
-					"id": ""
+					"name": "Peter, Bjorn and John featuring Victoria Bergsman",
+					"id": "d5fb5706-dc14-4c3b-90a8-fab8f5853111"
 				}
 			],
 			"name": "Young Folks",
-			"id": "",
+			"id": "37593727-4bb5-4544-8bb9-9e444cc3ee55",
 			"length": 280147
 		}
 	]

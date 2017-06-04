@@ -1,0 +1,94 @@
+{
+	"name": "Novmber",
+	"month": "11",
+	"year": "2009",
+	"id": "4be88d7c-ff66-462a-963f-3726329a9f4c",
+	"tracks": [
+		{
+			"album": {
+				"name": "Kingdom Of Rust",
+				"year": 2009,
+				"id": "c753ab8b-ca38-4c14-a5ef-cb213913f51a"
+			},
+			"artists": [
+				{
+					"name": "Doves",
+					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
+				}
+			],
+			"name": "10:03",
+			"id": "d8a38dbf-900e-4750-8cbe-d963e1a055ae",
+			"length": 244924
+		},
+		{
+			"album": {
+				"name": "Manners",
+				"id": "e460bdaa-f831-465b-a3fa-1da8b7c7b68e"
+			},
+			"artists": [
+				{
+					"name": "Passion Pit",
+					"id": "7125c1de-9fd0-4506-b7d1-26a9091b039c"
+				}
+			],
+			"name": "Swimming In the Flood",
+			"id": "6fa0fb61-2eee-4d43-b17a-0ec6cdb9ab89",
+			"length": 298657
+		},
+		{
+			"album": {
+				"name": "Impression: Samurai Champloo",
+				"year": 2004,
+				"id": "28c08cca-a37b-4d8a-b9ae-8af12d1ce42e"
+			},
+			"artists": [
+				{
+					"name": "Force of Nature",
+					"id": "b8173e4d-cc41-4fce-9b1c-7e6f50974ff1"
+				},
+				{
+					"name": "Nujabes",
+					"id": "b8173e4d-cc41-4fce-9b1c-7e6f50974ff1"
+				}
+			],
+			"name": "the million way of drum",
+			"id": "21fa9d4e-6925-4934-b0dc-759143971a3d",
+			"length": 168071
+		},
+		{
+			"album": {
+				"name": "Scars",
+				"year": 2009,
+				"id": "48215b3d-112b-4829-a534-629e0b074f8f"
+			},
+			"artists": [
+				{
+					"name": "Basement Jaxx",
+					"id": "fc20c87e-abb9-460e-aac5-94bff49e2724"
+				},
+				{
+					"name": "Lightspeed Champion",
+					"id": "fc20c87e-abb9-460e-aac5-94bff49e2724"
+				}
+			],
+			"name": "My Turn",
+			"id": "31d31f3d-ff7c-4cfb-bbe3-29f1c9c0e85d",
+			"length": 291892
+		},
+		{
+			"album": {
+				"name": "Manhattan Research, Inc.",
+				"id": "d31d2757-94c4-44ba-b74b-f53f2c1d6518"
+			},
+			"artists": [
+				{
+					"name": "Raymond Scott",
+					"id": "dff27d90-77bd-42c3-a083-67a5d1da8094"
+				}
+			],
+			"name": "Cyclic Bit",
+			"id": "bf806e39-39a3-49eb-8d2c-3aa0cd0bcade",
+			"length": 64679
+		}
+	]
+}

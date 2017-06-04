@@ -1,92 +1,140 @@
 {
-	"name": "December",
-	"month": "12",
+	"name": "December Top 5 2013",
+	"month": "december",
 	"year": "2013",
-	"id": "",
+	"id": "0MNamOkitWdoyVdPZpKXKq",
 	"tracks": [
 		{
 			"album": {
-				"name": "Richard D. James Album",
-				"image": "",
-				"year": 1996,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Aphex Twin",
-					"id": "6kBDZFXuLrZgHnvmPu9NsG"
-				}
-			],
-			"name": "Fingerbib",
-			"id": "",
-			"length": 228937
-		},
-		{
-			"album": {
-				"name": "Special Forces",
-				"image": "",
-				"year": 2004,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Julian Fane",
-					"id": ""
-				}
-			],
-			"name": "Book Repository",
-			"id": "",
-			"length": 355653
-		},
-		{
-			"album": {
-				"name": "Double Figure",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Plaid",
-					"id": ""
-				}
-			],
-			"name": "Sincetta",
-			"id": "",
-			"length": 300852
-		},
-		{
-			"album": {
 				"name": "Until The Quiet Comes",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Niki Randa",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Hunger",
 			"id": "",
-			"length": 219611
+			"length": 219000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Double Figure",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Plaid",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Sincetta",
+			"id": "",
+			"length": 300000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Special Forces",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Julian Fane",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Book Repository",
+			"id": "",
+			"length": 355000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Richard D. James Album",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Aphex Twin",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Fingerbib",
+			"id": "",
+			"length": 228000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Eyelid Movies",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Phantogram",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "All Dried Up",
 			"id": "",
-			"length": 226351
+			"length": 226000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

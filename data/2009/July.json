@@ -1,92 +1,133 @@
 {
-	"name": "July",
-	"month": "07",
+	"name": "July Top 5 2009",
+	"month": "july",
 	"year": "2009",
-	"id": "",
+	"id": "1y0OhzeiwpCLtR7zx3ghOJ",
 	"tracks": [
 		{
 			"album": {
-				"name": "Junior",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Royksopp",
-					"id": ""
-				}
-			],
-			"name": "The Girl And The Robot",
-			"id": "",
-			"length": 268956
-		},
-		{
-			"album": {
-				"name": "Incredibad",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": " ",
-					"id": ""
-				}
-			],
-			"name": "Punch You in the Jeans",
-			"id": "",
-			"length": 167131
-		},
-		{
-			"album": {
 				"name": "Everything is New",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jack Penate",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Every Glance",
 			"id": "",
-			"length": 253413
+			"length": 253000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "La Roux",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "La Roux",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Tigerlily",
 			"id": "",
-			"length": 204721
+			"length": 204000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Manners",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Passion Pit",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Reeling",
 			"id": "",
-			"length": 287973
+			"length": 287000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Junior",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Royksopp",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "The Girl And The Robot",
+			"id": "",
+			"length": 268000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Incredibad",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Lonely Island",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Punch You in the Jeans",
+			"id": "",
+			"length": 167000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

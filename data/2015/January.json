@@ -1,93 +1,147 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2015",
+	"month": "january",
 	"year": "2015",
-	"id": "",
+	"id": "7cvHM2IvxSJ5IJMTWAomgi",
 	"tracks": [
 		{
 			"album": {
-				"name": "Warpaint",
-				"image": "",
-				"year": 2014,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Warpaint",
-					"id": ""
-				}
-			],
-			"name": "Drive",
-			"id": "",
-			"length": 311536
-		},
-		{
-			"album": {
 				"name": "Otherness",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kindness",
-					"id": "6SYIsHAQ1sPokVxmzpaDBU"
-				}
-			],
-			"name": "Why Don't You Love Me Featuring Devonté Hynes & Tawiah",
-			"id": "",
-			"length": 245159
-		},
-		{
-			"album": {
-				"name": "Panda Bear Meets The Grim Reaper",
-				"image": "",
-				"year": 2015,
-				"id": ""
-			},
-			"artist": [
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
 				{
-					"name": "Panda Bear",
-					"id": ""
-				}
-			],
-			"name": "Butcher Baker Candlestick Maker",
-			"id": "",
-			"length": 187715
-		},
-		{
-			"album": {
-				"name": "New Adventures In Hi-Fi",
-				"image": "",
-				"year": 1996,
-				"id": ""
-			},
-			"artist": [
+					"name": "Devonte Hynes",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
 				{
-					"name": "R.E.M.",
-					"id": ""
+					"name": "Tawiah",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Electrolite",
+			"name": "Why Don't You Love Me",
 			"id": "",
-			"length": 245315
+			"length": 245000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Tremors",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sohn",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Lights",
 			"id": "",
-			"length": 269662
+			"length": 269000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Panda Bear Meets The Grim Reaper",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Panda Bear",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Butcher Baker Candlestick Maker",
+			"id": "",
+			"length": 187000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "New Adventures In Hi-Fi",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "R.E.M.",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Electrolite",
+			"id": "",
+			"length": 245000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Warpaint",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Warpaint",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Drive",
+			"id": "",
+			"length": 311000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

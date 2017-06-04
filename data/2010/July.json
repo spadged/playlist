@@ -1,93 +1,133 @@
 {
-	"name": "July",
-	"month": "07",
+	"name": "July Top 5 2010",
+	"month": "july",
 	"year": "2010",
-	"id": "",
+	"id": "01DBH9EQxj1xkgiJD4aPJT",
 	"tracks": [
 		{
 			"album": {
 				"name": "Plastic Beach",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Gorillaz",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "On Melancholy Hill",
 			"id": "",
-			"length": 227683
-		},
-		{
-			"album": {
-				"name": "Because Of The Times",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Kings Of Leon",
-					"id": ""
-				}
-			],
-			"name": "Knocked Up",
-			"id": "",
-			"length": 430393
-		},
-		{
-			"album": {
-				"name": "Say It",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Born Ruffians",
-					"id": ""
-				}
-			],
-			"name": "The Ballad of Moose Bruce",
-			"id": "",
-			"length": 233647
+			"length": 227000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "This Bliss",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Pantha du Prince",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Asha",
 			"id": "",
-			"length": 391157
+			"length": 391000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Say It",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Born Ruffians",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "The Ballad of Moose Bruce",
+			"id": "",
+			"length": 233000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Because Of The Times",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Kings Of Leon",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Knocked Up",
+			"id": "",
+			"length": 430000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Suburbs",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Ready To Start",
 			"id": "",
-			"length": 255947
+			"length": 255000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

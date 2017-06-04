@@ -1,93 +1,133 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2008",
+	"month": "november",
 	"year": "2008",
-	"id": "",
+	"id": "6I2BD79TotHkoX2BNOFg1F",
 	"tracks": [
 		{
 			"album": {
 				"name": "Revolver",
-				"image": "",
-				"year": 1966,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Beatles",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Taxman",
 			"id": "",
-			"length": 159059
-		},
-		{
-			"album": {
-				"name": "Með Suð Í Eyrum Við Spilum Endalaust",
-				"image": "",
-				"year": 2008,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Sigur Rós",
-					"id": ""
-				}
-			],
-			"name": "Inní Mér Syngur Vitleysingur",
-			"id": "",
-			"length": 245054
+			"length": 159000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Only By The Night",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kings Of Leon",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Crawl",
 			"id": "",
-			"length": 248555
+			"length": 248000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Með Suð Í Eyrum Við Spilum Endalaust",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Sigur Rós",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Inní Mér Syngur Vitleysingur",
+			"id": "",
+			"length": 245000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Cast Of Thousands",
-				"image": "",
-				"year": 2003,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elbow",
-					"id": "0TJB3EE2efClsYIDQ8V2Jk"
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Grace Under Pressure",
 			"id": "",
-			"length": 297613
+			"length": 297000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "The Sounds Of Science [Disc 1]",
-				"image": "",
-				"year": 1999,
-				"id": ""
+				"name": "The Sounds Of Science",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beastie Boys",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Alive",
 			"id": "",
-			"length": 228937
+			"length": 228000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

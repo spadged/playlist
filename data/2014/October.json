@@ -1,92 +1,133 @@
 {
-	"name": "October",
-	"month": "10",
+	"name": "October Top 5 2014",
+	"month": "october",
 	"year": "2014",
-	"id": "",
+	"id": "0mnFaef3UwzYySOnGh4Jlo",
 	"tracks": [
 		{
 			"album": {
-				"name": "Warpaint",
-				"image": "",
-				"year": 2014,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Warpaint",
-					"id": ""
-				}
-			],
-			"name": "Teese",
-			"id": "",
-			"length": 281913
-		},
-		{
-			"album": {
 				"name": "Seeds",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Careful You",
 			"id": "",
-			"length": 312163
+			"length": 312000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Our Love",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Caribou",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Silver",
 			"id": "",
-			"length": 316708
-		},
-		{
-			"album": {
-				"name": "Carry On The Grudge",
-				"image": "",
-				"year": 2014,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Jamie T",
-					"id": ""
-				}
-			],
-			"name": "They Told Me It Rained",
-			"id": "",
-			"length": 269609
+			"length": 316000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Tomorrow's Modern Boxes",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Thom Yorke",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Nose Grows Some",
 			"id": "",
-			"length": 322586
+			"length": 322000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Carry On The Grudge",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Jamie T",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "They Told Me It Rained",
+			"id": "",
+			"length": 269000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Warpaint",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Warpaint",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Teese",
+			"id": "",
+			"length": 281000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

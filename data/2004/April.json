@@ -2,88 +2,83 @@
 	"name": "April",
 	"month": "04",
 	"year": "2004",
-	"id": "",
+	"id": "61d42477-ccda-43b1-b3ee-2321dcac8fd4",
 	"tracks": [
 		{
 			"album": {
-				"name": "Lost in Translation",
-				"image": "",
-				"year": 2003,
-				"id": ""
+				"name": "United",
+				"year": 2000,
+				"id": "533c08e1-0189-4679-bfe1-26bcf10556c5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Phoenix",
-					"id": ""
+					"id": "8b3910bd-8361-4c99-bdb3-e1b231f38bda"
 				}
 			],
 			"name": "Too Young",
-			"id": "",
+			"id": "2fdb5b3e-5d71-4d43-9649-19a209d79e28",
 			"length": 198739
 		},
 		{
 			"album": {
 				"name": "Lost in Translation",
-				"image": "",
-				"id": ""
+				"id": "91fb649c-d873-46b0-8386-daac743c9a8d"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bill Murray",
-					"id": ""
+					"id": "4c61d85c-fd0e-4e37-a504-5d71ce33aefb"
 				}
 			],
 			"name": "More Than this",
-			"id": "",
+			"id": "a5a33055-e7a0-409f-8d55-d4e47e940072",
 			"length": 90435
 		},
 		{
 			"album": {
-				"name": "The Big Lebowski",
-				"image": "",
-				"id": ""
+				"name": "The First Edition",
+				"id": "74216f8c-d204-4d51-8f01-57783d409ec7"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Kenny Rogers",
-					"id": ""
+					"name": "Kenny Rogers and The First Edition",
+					"id": "58730072-7c56-47de-8f18-50d0c25f577e"
 				}
 			],
 			"name": "Just Dropped In",
-			"id": "",
+			"id": "c121f266-cccd-4216-8a74-26a1fb8f4825",
 			"length": 198556
 		},
 		{
 			"album": {
-				"name": "I Might be wrong. {special}",
-				"image": "",
-				"id": ""
+				"name": "Bootleg",
+				"id": "87bf8054-0e63-41bf-8e8f-1c1cd76290bc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "After the Gold rush",
-			"id": "",
+			"id": "1ecc62e5-1500-4897-ac67-0fe0e74f6e94",
 			"length": 222928
 		},
 		{
 			"album": {
 				"name": "Room On Fire",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "033deeba-2abd-45be-ada8-689e92a440a8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Strokes",
-					"id": ""
+					"id": "57f8afe0-0222-4324-bcf1-53e0b13a9b24"
 				}
 			],
 			"name": "Automatic Stop",
-			"id": "",
+			"id": "76b409e1-6467-4846-8fb0-2ac17a7a0acb",
 			"length": 208013
 		}
 	]

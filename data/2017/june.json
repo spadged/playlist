@@ -1,0 +1,33 @@
+{
+	"name": "June Top 5 2017",
+	"month": "june",
+	"year": "2017",
+	"id": "5tad1avHmsvOm3gNMVA9A0",
+	"tracks": [
+		{
+			"album": {
+				"name": "Everything Now",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "6ZeoqoBLbjjDebuKNOGJf2"
+				}
+			},
+			"artists": [
+				{
+					"name": "Arcade Fire",
+					"id": "",
+					"externalId": {
+						"spotify": "3kjuyTCjPG1WMFCiyc5IuB"
+					}
+				}
+			],
+			"name": "Everything Now",
+			"id": "",
+			"length": 303013,
+			"externalId": {
+				"spotify": "07Ugv4TA7PvQfoqetnmLrS"
+			}
+		}
+	]
+}

@@ -2,90 +2,85 @@
 	"name": "March",
 	"month": "03",
 	"year": "2004",
-	"id": "",
+	"id": "5dc6eca3-f617-4906-bbd7-279a7c348887",
 	"tracks": [
 		{
 			"album": {
 				"name": "Sheath",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "ea8f7bcb-6832-4f24-ae43-7ebbbe6c31a5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "LFO",
-					"id": ""
+					"id": "7aa9db1a-09bc-4133-939f-2c61aa197e63"
 				}
 			],
 			"name": "Blown",
-			"id": "",
+			"id": "1a369f2f-463c-40e1-b520-bac89950ebad",
 			"length": 362893
 		},
 		{
 			"album": {
 				"name": "( ) Untitled #1",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "16e1eaf9-8f9b-437e-ac42-eeb94c93e175"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": ""
+					"id": "eed7df49-749f-43ba-8b9a-bbcf1b4d8261"
 				}
 			],
 			"name": "Untitled 9 A",
-			"id": "",
+			"id": "5d6ad5db-48ab-4e86-a6aa-16f0bbd13479",
 			"length": 278099
 		},
 		{
 			"album": {
 				"name": "Ultravisitor",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "07f3c1a6-aadd-462e-b13c-27a7451a0381"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Squarepusher",
-					"id": ""
+					"id": "8280c329-23a8-4d4b-b3bb-1de0f89797b4"
 				}
 			],
 			"name": "Iambic 9 Poetry",
-			"id": "",
+			"id": "3a6a8faf-e8b2-45ce-8bf4-e6765a5a402b",
 			"length": 415973
 		},
 		{
 			"album": {
 				"name": "Louder than Bombs",
-				"image": "",
-				"id": ""
+				"id": "0789f188-adb3-4013-bf88-2c88a4191b4c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Smiths",
-					"id": ""
+					"id": "d1ba81fb-cb1c-42bb-be9c-379323e1828a"
 				}
 			],
 			"name": "Asleep",
-			"id": "",
+			"id": "c4e777f1-8f3f-4155-9aa4-a3c3862a3d32",
 			"length": 250279
 		},
 		{
 			"album": {
 				"name": "Com Lag: 2+2=5 [EP]",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "c4d00ba9-8790-4ffd-86ac-c428858b5e25"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "Gagging Order",
-			"id": "",
+			"id": "067f1fb2-ba84-458a-b813-bc709a42f8a7",
 			"length": 215875
 		}
 	]

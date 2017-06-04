@@ -2,90 +2,85 @@
 	"name": "April",
 	"month": "04",
 	"year": "2006",
-	"id": "",
+	"id": "e3fa5532-286c-44b1-95de-92ebefb7a820",
 	"tracks": [
 		{
 			"album": {
 				"name": "Elizabethtown",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "edfa1bc6-c5b1-4405-9b8f-f7dc757f05cf"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "My Morning Jacket",
-					"id": ""
+					"id": "d65d8fe6-e432-4a7e-b8fd-3d2cf4e18051"
 				}
 			],
 			"name": "Where To Begin",
-			"id": "",
+			"id": "ec1b24fe-b417-4325-9b84-89fb11b2315e",
 			"length": 238863
 		},
 		{
 			"album": {
 				"name": "Elizabethtown",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "ce943575-ad8e-4832-97d6-67fd44016e72"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Wheat",
-					"id": ""
+					"id": "0b141fd7-164e-42be-9331-a6e75cf54ce1"
 				}
 			],
 			"name": "Don't I Hold You Right",
-			"id": "",
+			"id": "5efbe606-c512-45fb-8989-5f335139e9b0",
 			"length": 219271
 		},
 		{
 			"album": {
 				"name": "Maritime",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "423ff1f3-361e-42ea-a0f0-ac0969ec609a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Minotaur Shock",
-					"id": ""
+					"id": "4a23fa5d-1133-4394-86ec-1cce2ef9de42"
 				}
 			],
 			"name": "(She's In) Dry Dock Now",
-			"id": "",
+			"id": "6c7f8b5d-4809-46ce-918b-07a68b31e88f",
 			"length": 236355
 		},
 		{
 			"album": {
 				"name": "Elizabethtown",
-				"image": "",
-				"id": ""
+				"id": "94ece240-0c66-4d24-83e1-07f2e93f68e8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ulrich Schnauss",
-					"id": ""
+					"id": "26bfeef5-7055-46e8-be69-37b2aee6a287"
 				}
 			],
 			"name": "...Passing By",
-			"id": "",
+			"id": "996b9624-8d5c-4915-8854-ae8774d0b302",
 			"length": 395311
 		},
 		{
 			"album": {
 				"name": "Show Your Bones",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "02e5b8b0-26a7-4f3d-ba52-4993a72b1577"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "3TNt4aUIxgfy9aoaft5Jj2"
+					"id": "6ed70853-8b41-45aa-b1dc-a7bfc1737a49"
 				}
 			],
 			"name": "Deja Vu",
-			"id": "",
+			"id": "48f278bc-144e-450e-8ff0-119a75abe497",
 			"length": 202553
 		}
 	]

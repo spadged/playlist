@@ -2,91 +2,86 @@
 	"name": "June",
 	"month": "06",
 	"year": "2004",
-	"id": "",
+	"id": "a3245b07-5a8f-4941-8a9b-5753c9c23360",
 	"tracks": [
 		{
 			"album": {
 				"name": "Clinic",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "8f54d35b-3ea6-44fd-90eb-036ce2e05507"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Clinic",
-					"id": ""
+					"id": "16a80505-e482-46d3-a9e5-29b328b870c1"
 				}
 			],
 			"name": "Porno",
-			"id": "",
+			"id": "251a9e51-b9d8-4d4d-8df4-9fef545caab4",
 			"length": 231862
 		},
 		{
 			"album": {
 				"name": "Kill Bill Volume 2",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "9c7514d3-1b53-4f73-badd-1cbe92d7139e"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ennio Morricone",
-					"id": ""
+					"id": "34e902cb-cf68-4d47-889b-0b22de8c8da1"
 				}
 			],
 			"name": "L Arena",
-			"id": "",
+			"id": "61bc268c-9e54-454e-a4b0-9384d1696fa7",
 			"length": 286066
 		},
 		{
 			"album": {
 				"name": "Either/Or",
-				"image": "",
 				"year": 1998,
-				"id": ""
+				"id": "a2e26580-10b0-40f5-87c2-2b42c9c799f1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elliott Smith",
-					"id": ""
+					"id": "e6dcf363-0002-406d-ad4c-156fa6f093e1"
 				}
 			],
 			"name": "Between the Bars",
-			"id": "",
+			"id": "eb6eff8b-5669-479f-9279-6b036cf18100",
 			"length": 141217
 		},
 		{
 			"album": {
 				"name": "Hello",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "d9e41ab7-e8d4-4d80-883c-23c535f3e864"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Half Japanese",
-					"id": ""
+					"id": "0902609d-e62e-4c04-838a-a344f8f058c8"
 				}
 			],
 			"name": "Red Sun",
-			"id": "",
+			"id": "e0b981c5-1135-4a06-b3fb-e3eb971fe489",
 			"length": 127268
 		},
 		{
 			"album": {
 				"name": "Fever To Tell",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "617e47f0-28e3-42be-97bd-dae8f3ff5027"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "3TNt4aUIxgfy9aoaft5Jj2"
+					"id": "6ed70853-8b41-45aa-b1dc-a7bfc1737a49"
 				}
 			],
 			"name": "Y Control",
-			"id": "",
+			"id": "861e75ce-194a-4bd0-a5cb-1014178c0a3d",
 			"length": 240692
 		}
 	]

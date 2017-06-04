@@ -1,93 +1,133 @@
 {
-	"name": "December",
-	"month": "12",
+	"name": "December Top 5 2007",
+	"month": "december",
 	"year": "2007",
-	"id": "",
+	"id": "7Jeozc1eiszMlTUCcMLZq2",
 	"tracks": [
 		{
 			"album": {
-				"name": "Sgt. Pepper's Lonely Hearts Club Band",
-				"image": "",
-				"year": 1967,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Beatles",
-					"id": ""
-				}
-			],
-			"name": "Being For The Benefit Of Mr. Kite!",
-			"id": "",
-			"length": 157152
-		},
-		{
-			"album": {
-				"name": "David Shrigley's Worried Noodles",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Psapp",
-					"id": ""
-				}
-			],
-			"name": "Sad Song",
-			"id": "",
-			"length": 196702
-		},
-		{
-			"album": {
-				"name": "The Shepard's Dog",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Iron & Wine",
-					"id": ""
-				}
-			],
-			"name": "Carousel",
-			"id": "",
-			"length": 242442
-		},
-		{
-			"album": {
 				"name": "Sound Of Silver",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "LCD Soundsystem",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "All My Friends",
 			"id": "",
-			"length": 457116
+			"length": 457000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "In Rainbows",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "All I Need",
 			"id": "",
-			"length": 228806
+			"length": 228000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "David Shrigley's Worried Noodles",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Psapp",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Sad Song",
+			"id": "",
+			"length": 196000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Shepard's Dog",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Iron & Wine",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Carousel",
+			"id": "",
+			"length": 242000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Sgt. Pepper's Lonely Hearts Club Band",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Beatles",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Being For The Benefit Of Mr. Kite!",
+			"id": "",
+			"length": 157000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

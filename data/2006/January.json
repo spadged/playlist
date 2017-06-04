@@ -2,169 +2,168 @@
 	"name": "January",
 	"month": "01",
 	"year": "2006",
-	"id": "",
+	"id": "db433c98-9505-48e4-88d1-13eee0fbe39b",
 	"tracks": [
 		{
 			"album": {
-				"name": "Hitch Soundtrack",
-				"image": "",
-				"id": ""
+				"name": "Touch",
+				"id": "7c73f9b4-797d-4e99-8866-bd044046dd8a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Amerie",
-					"id": ""
+					"id": "685dfbce-6ce4-4b42-a633-5893bda9483d"
 				}
 			],
 			"name": "1 Thing",
-			"id": "",
+			"id": "9ad90c05-b6c8-4e36-b791-6f1aa545d1da",
 			"length": 221675
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"name": "B'Day",
+				"id": "b4982243-1e3d-43f5-8e4c-4cefcc7ab63f"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Beyonce Ft Slim Thug",
-					"id": ""
+					"name": "Beyonce",
+					"id": "55a4d983-76b9-4a3d-a91f-e172af765a8f"
+				},
+				{
+					"name": "Slim Thug",
+					"id": "55a4d983-76b9-4a3d-a91f-e172af765a8f"
+				},
+				{
+					"name": "Bun B",
+					"id": "55a4d983-76b9-4a3d-a91f-e172af765a8f"
 				}
 			],
 			"name": "Check On It",
-			"id": "",
+			"id": "527c69e7-830b-4a11-bee4-8e2b5fd1394b",
 			"length": 211617
 		},
 		{
 			"album": {
 				"name": "Monkey Business",
-				"image": "",
-				"id": ""
+				"id": "89cbbd55-e6f2-46b6-8230-4f7633b90caa"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Black Eyed Peas",
-					"id": ""
+					"id": "26a5ec13-4ac4-4741-8372-68a535c70b87"
 				}
 			],
 			"name": "Don't Phunk With My Heart",
-			"id": "",
+			"id": "0028ebea-eda8-4dd6-9b54-b22c84969fbd",
 			"length": 241658
 		},
 		{
 			"album": {
 				"name": "Music For Films III",
-				"image": "",
 				"year": 1988,
-				"id": ""
+				"id": "35cbc80c-0db0-4538-9d0e-c57d7a4cb35f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Roger Eno",
-					"id": ""
+					"id": "aaf479b6-db6a-4db3-b90a-3b410b722801"
 				}
 			],
 			"name": "Quixote",
-			"id": "",
+			"id": "02fef341-bd13-4fe5-8d60-17aa2b701769",
 			"length": 214256
 		},
 		{
 			"album": {
 				"name": "Lost Sides",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "a9ac46bd-e178-4df3-84d5-172898940da1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Doves",
-					"id": ""
+					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
 				}
 			],
 			"name": "Northenden",
-			"id": "",
+			"id": "cb54e985-c9fd-40e7-97f0-d9a66171dc18",
 			"length": 242782
 		},
 		{
 			"album": {
-				"name": "Jarhead Soundtrack",
-				"image": "",
-				"id": ""
+				"name": "The College Dropout",
+				"id": "e7a3db5a-902b-4a3c-95bc-2a19c2d14d4c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kanye West",
-					"id": ""
+					"id": "e9d8f262-f214-4b0c-9f3e-b2bc03b8c5f2"
 				}
 			],
 			"name": "Jesus Walks With Me",
-			"id": "",
+			"id": "2fd86ed2-5054-4a2c-8c26-7d571ddea43a",
 			"length": 235049
 		},
 		{
 			"album": {
 				"name": "Late Registration",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "51ae9cd5-a22d-4924-afb2-f1c578316629"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kanye West",
-					"id": ""
+					"id": "e9d8f262-f214-4b0c-9f3e-b2bc03b8c5f2"
 				}
 			],
 			"name": "Heard'em Say",
-			"id": "",
+			"id": "20a8abd3-a70c-4925-8695-fa1aefa5a017",
 			"length": 203781
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"id": "6dd8bb09-56b4-4c0e-9644-c38d99af20b4"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Télépopmusic",
-					"id": ""
+					"id": "eb44e04e-6bb9-4d4e-88f0-1c8a65a42016"
 				}
 			],
 			"name": "Breathe",
-			"id": "",
+			"id": "a968e4ae-bd59-4047-8ea1-ba57cf32a063",
 			"length": 278204
 		},
 		{
 			"album": {
 				"name": "Veneer",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "e9408b7d-9b2a-46aa-8477-ffc7410a4437"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Jose Gonzalez",
-					"id": ""
+					"name": "Jose González",
+					"id": "5363396a-01bf-4a47-9d4c-a56511bd9173"
 				}
 			],
 			"name": "Heartbeats",
-			"id": "",
+			"id": "852251c3-8570-4cfe-a0ec-f81164f32016",
 			"length": 160313
 		},
 		{
 			"album": {
 				"name": "Give Up",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "6641f2cc-20a1-4395-9e21-284ee7579a75"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Postal Service",
-					"id": ""
+					"id": "34cce48a-d057-4659-ab49-18c781e3430a"
 				}
 			],
 			"name": "The District Sleeps Alone Tonight",
-			"id": "",
+			"id": "de2c9ece-2ef1-4b9d-96bb-c27fd0e895e5",
 			"length": 284368
 		}
 	]

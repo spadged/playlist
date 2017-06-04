@@ -2,90 +2,85 @@
 	"name": "September",
 	"month": "09",
 	"year": "2004",
-	"id": "",
+	"id": "ef93a0aa-d212-4fc6-919c-a8b6429cc772",
 	"tracks": [
 		{
 			"album": {
 				"name": "10,000Hz Legend",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "6001255f-ae27-48d4-8646-1bfe44e726b0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Air",
-					"id": ""
+					"id": "aa3f7228-b34e-42ce-ac20-605e391e0936"
 				}
 			],
 			"name": "Caramel Prisoner",
-			"id": "",
+			"id": "cb8ceb41-facb-49ea-9e08-efe4bb906858",
 			"length": 296724
 		},
 		{
 			"album": {
 				"name": "50 first dates",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "d310c26e-e803-42ff-ba0b-bad3906f88d6"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Adam Sandler",
-					"id": ""
+					"id": "c6b4c890-b5c1-4d1f-a391-e7391e0d4850"
 				}
 			],
 			"name": "Forgetful Lucy",
-			"id": "",
+			"id": "15525a42-fdc4-4c97-8764-cb3fee02774b",
 			"length": 111595
 		},
 		{
 			"album": {
 				"name": "Grace",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "547212ab-19bd-4fc5-a384-66db0e808704"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jeff Buckley",
-					"id": ""
+					"id": "487fa324-d6df-415e-aeed-e9cd0d38a714"
 				}
 			],
 			"name": "Mama, You Been On My Mind",
-			"id": "",
+			"id": "0eebc0bb-ce88-460a-99d5-38514f2e8d31",
 			"length": 206497
 		},
 		{
 			"album": {
 				"name": "Still",
-				"image": "",
-				"id": ""
+				"id": "68b72fb4-ed2a-4992-871b-9135c2976455"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": ""
+					"id": "5245a41c-8d27-4167-ba74-267f02647f8a"
 				}
 			],
 			"name": "Leaving Hope",
-			"id": "",
+			"id": "4c351890-6012-43d1-a45b-1d1012df279e",
 			"length": 357564
 		},
 		{
 			"album": {
 				"name": "Cherry Tree",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "8b129fc0-30ae-4a60-bccc-c8dc6ed93627"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The National",
-					"id": ""
+					"id": "9783479b-53cf-4810-8f8c-fe24b1005309"
 				}
 			],
 			"name": "All The Wine",
-			"id": "",
+			"id": "518600a0-8162-49f7-8791-284ebcec3f87",
 			"length": 200202
 		}
 	]

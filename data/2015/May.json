@@ -1,93 +1,133 @@
 {
-	"name": "May",
-	"month": "05",
+	"name": "May Top 5 2015",
+	"month": "may",
 	"year": "2015",
-	"id": "",
+	"id": "0b9OH5ICRoVDoHBrVm4iiv",
 	"tracks": [
 		{
 			"album": {
-				"name": "Fragrant World",
-				"image": "",
-				"year": 2012,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Yeasayer",
-					"id": ""
-				}
-			],
-			"name": "Demon Road",
-			"id": "",
-			"length": 252055
-		},
-		{
-			"album": {
-				"name": "The Album About Nothing",
-				"image": "",
-				"year": 2015,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Wale",
-					"id": ""
-				}
-			],
-			"name": "The Bloom (AG3)",
-			"id": "",
-			"length": 322298
-		},
-		{
-			"album": {
 				"name": "Ambivalence Avenue",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bibio",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "haikuesque (when she laughs)",
 			"id": "",
-			"length": 212610
+			"length": 212000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Fated",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nosaj Thing",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Medic",
 			"id": "",
-			"length": 118883
+			"length": 118000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Why Make Sense?",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Dark Night",
 			"id": "",
-			"length": 327575
+			"length": 327000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Fragrant World",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Yeasayer",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Demon Road",
+			"id": "",
+			"length": 252000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Album About Nothing",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Wale",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "The Bloom (AG3)",
+			"id": "",
+			"length": 322000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

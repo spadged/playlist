@@ -1,93 +1,140 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2011",
+	"month": "january",
 	"year": "2011",
-	"id": "",
+	"id": "134UsEPl0fFJgJ8oZJtp22",
 	"tracks": [
 		{
 			"album": {
-				"name": "Writer's Block ",
-				"image": "",
-				"year": 2006,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Peter Bjorn And John",
-					"id": ""
-				}
-			],
-			"name": "Paris 2004",
-			"id": "",
-			"length": 230791
-		},
-		{
-			"album": {
 				"name": "Tron Legacy",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Disc Wars",
 			"id": "",
-			"length": 251480
+			"length": 251000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Koyaanisqatsi",
-				"image": "",
-				"year": 1998,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Philip Glass",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Pruit Igoe",
 			"id": "",
-			"length": 472790
+			"length": 472000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Writer's Block ",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Peter Bjorn And John",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Paris 2004",
+			"id": "",
+			"length": 230000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "My Beautiful Dark Twisted Fantasy",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Kanye West featuring Bon Iver",
-					"id": ""
+					"name": "Kanye West",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Bon Iver",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Lost In The World",
 			"id": "",
-			"length": 256626
+			"length": 256000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Machine Dreams",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Little Dragon",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Looking Glass",
 			"id": "",
-			"length": 295444
+			"length": 295000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

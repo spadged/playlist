@@ -7,87 +7,127 @@
 		{
 			"album": {
 				"name": "A Moon Shaped Pool",
-				"image": "https://i.scdn.co/image/0d1460c036897175f4631e8480ea4a2217bf5447",
 				"year": "",
-				"id": "6vuykQgDLUCiZ7YggIpLM9"
+				"id": "",
+				"externalId": {
+					"spotify": "6vuykQgDLUCiZ7YggIpLM9"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "",
+					"externalId": {
+						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
+					}
 				}
 			],
 			"name": "Present Tense",
-			"id": "4eruRiSfDY1jdT03hjyi0i",
-			"length": 306581
+			"id": "",
+			"length": 306581,
+			"externalId": {
+				"spotify": "4eruRiSfDY1jdT03hjyi0i"
+			}
 		},
 		{
 			"album": {
 				"name": "Going Somewhere",
-				"image": "https://i.scdn.co/image/4fa4949210be8c8b8f8a0ac736f28b79c8146fd1",
 				"year": "",
-				"id": "6UMknHv7MCdwNP8Yf2Zq6m"
+				"id": "",
+				"externalId": {
+					"spotify": "6UMknHv7MCdwNP8Yf2Zq6m"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Colin Hay",
-					"id": "5mxB08ktCukEhGMg2YZeEv"
+					"id": "",
+					"externalId": {
+						"spotify": "5mxB08ktCukEhGMg2YZeEv"
+					}
 				}
 			],
 			"name": "Maggie",
-			"id": "0Dglw1nW9qIZUSdYvPr4FK",
-			"length": 261066
+			"id": "",
+			"length": 261066,
+			"externalId": {
+				"spotify": "0Dglw1nW9qIZUSdYvPr4FK"
+			}
 		},
 		{
 			"album": {
 				"name": "Chaleur Humaine",
-				"image": "https://i.scdn.co/image/3657a97c489a906310915e64586d7bb30754661a",
 				"year": "",
-				"id": "0dwg19QWat3Rw6GvtiZRML"
+				"id": "",
+				"externalId": {
+					"spotify": "0dwg19QWat3Rw6GvtiZRML"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Christine and the Queens",
-					"id": "04vj3iPUiVh5melWr0w3xT"
+					"id": "",
+					"externalId": {
+						"spotify": "04vj3iPUiVh5melWr0w3xT"
+					}
 				}
 			],
 			"name": "Tilted",
-			"id": "2E5tEyCqn9conRgZrXTF3Y",
-			"length": 233247
+			"id": "",
+			"length": 233247,
+			"externalId": {
+				"spotify": "2E5tEyCqn9conRgZrXTF3Y"
+			}
 		},
 		{
 			"album": {
 				"name": "Tango In The Night",
-				"image": "https://i.scdn.co/image/6b0c9a134a02a54a1c330dd0043aad286ec16857",
 				"year": "",
-				"id": "1W5YP0TlKjFtb2UZJThLpV"
+				"id": "",
+				"externalId": {
+					"spotify": "1W5YP0TlKjFtb2UZJThLpV"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Fleetwood Mac",
-					"id": "08GQAI4eElDnROBrJRGE0X"
+					"id": "",
+					"externalId": {
+						"spotify": "08GQAI4eElDnROBrJRGE0X"
+					}
 				}
 			],
 			"name": "Everywhere",
-			"id": "6i8ecOsx4J2Px1maiqzqoG",
-			"length": 222733
+			"id": "",
+			"length": 222733,
+			"externalId": {
+				"spotify": "6i8ecOsx4J2Px1maiqzqoG"
+			}
 		},
 		{
 			"album": {
 				"name": "The Bride",
-				"image": "https://i.scdn.co/image/7a628de9b3bb2bc949b4d34b4bbe63bfba4c4150",
 				"year": "",
-				"id": "0FOJVGWk7r4QKYCP1hCCEq"
+				"id": "",
+				"externalId": {
+					"spotify": "0FOJVGWk7r4QKYCP1hCCEq"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "6l77PmL5iuEEcYjGl8K6s7"
+					"id": "",
+					"externalId": {
+						"spotify": "6l77PmL5iuEEcYjGl8K6s7"
+					}
 				}
 			],
 			"name": "Joe's Dream",
-			"id": "3pN7HDHbcahxyHTgNOyOLs",
-			"length": 325080
+			"id": "",
+			"length": 325080,
+			"externalId": {
+				"spotify": "3pN7HDHbcahxyHTgNOyOLs"
+			}
 		}
 	]
 }

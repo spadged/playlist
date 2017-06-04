@@ -1,93 +1,140 @@
 {
-	"name": "April",
-	"month": "04",
+	"name": "April Top 5 2013",
+	"month": "april",
 	"year": "2013",
-	"id": "",
+	"id": "4H6d2FFJpxEZVXRggr6hME",
 	"tracks": [
 		{
 			"album": {
-				"name": "Nothing",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "N.E.R.D.",
-					"id": ""
-				}
-			],
-			"name": "God Bless Us All",
-			"id": "",
-			"length": 209664
-		},
-		{
-			"album": {
 				"name": "Where The Humans Eat",
-				"image": "",
-				"year": 2004,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Willy Mason",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Letter #1",
 			"id": "",
-			"length": 117773
+			"length": 117000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Nothing",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "N.E.R.D.",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "God Bless Us All",
+			"id": "",
+			"length": 209000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "OutRun",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kavinsky",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Odd Look",
 			"id": "",
-			"length": 289828
+			"length": 289000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Mosquito",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "3TNt4aUIxgfy9aoaft5Jj2"
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Mosquito",
 			"id": "",
-			"length": 179722
+			"length": 179000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Get Lucky - Single",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"name": "Random Access Memories",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Pharrell Williams",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Get Lucky",
 			"id": "",
-			"length": 247632
+			"length": 247000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

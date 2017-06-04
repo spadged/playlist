@@ -1,93 +1,133 @@
 {
-	"name": "September",
-	"month": "09",
+	"name": "September Top 5 2011",
+	"month": "september",
 	"year": "2011",
-	"id": "",
+	"id": "68PoQiRR0isMTHofxWAsdH",
 	"tracks": [
 		{
 			"album": {
-				"name": "King Of The Beach",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Wavves",
-					"id": ""
-				}
-			],
-			"name": "Baseball Cards",
-			"id": "",
-			"length": 184711
-		},
-		{
-			"album": {
-				"name": "Cut The Crap Playlist - April 2011",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Various Artists",
-					"id": ""
-				}
-			],
-			"name": "Yellow Wings",
-			"id": "",
-			"length": 298135
-		},
-		{
-			"album": {
-				"name": "Feel It Break",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Austra",
-					"id": ""
-				}
-			],
-			"name": "Beat And The Pulse",
-			"id": "",
-			"length": 355996
-		},
-		{
-			"album": {
 				"name": "One Thousand Pictures",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Pete And The Pirates",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Winter 1",
 			"id": "",
-			"length": 220656
+			"length": 220000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "King Of The Beach",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Wavves",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Baseball Cards",
+			"id": "",
+			"length": 184000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Gimmie Some",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Peter Bjorn and John",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Second Chance",
 			"id": "",
-			"length": 252813
+			"length": 252000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Feel It Break",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Austra",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Beat And The Pulse",
+			"id": "",
+			"length": 355000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Baby Style",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Keepaway",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Yellow Wings",
+			"id": "",
+			"length": 298000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

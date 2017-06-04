@@ -2,91 +2,98 @@
 	"name": "November",
 	"month": "11",
 	"year": "2006",
-	"id": "",
+	"id": "cd88a4bb-184f-4fce-b1ef-1df8abdb3b52",
 	"tracks": [
 		{
 			"album": {
-				"name": "Silent Alarm [Japan Bonus Tracks]",
-				"image": "",
+				"name": "Silent Alarm",
 				"year": 2005,
-				"id": ""
+				"id": "d784db0b-b923-450c-bc6a-27abd67817b5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bloc Party",
-					"id": "3MM8mtgFzaEJsqbjZBSsHJ"
+					"id": "d79c1013-2b36-42ef-b5cb-5a3e63ea1f06"
 				}
 			],
 			"name": "Banquet",
-			"id": "",
+			"id": "68ccbbcd-2b61-40de-b8f6-0ae53b588c2a",
 			"length": 201404
 		},
 		{
 			"album": {
 				"name": "The Grey Album",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "419614c5-9e51-40cd-99a3-6667bf375b99"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Jay-Z + DJ Danger Mouse",
-					"id": ""
+					"name": "DJ Danger Mouse",
+					"id": "e6e8e6ff-f615-4629-a7d3-e95039e705c1"
+				},
+				{
+					"name": "Jay-Z",
+					"id": "e6e8e6ff-f615-4629-a7d3-e95039e705c1"
 				}
 			],
 			"name": "Public Service Announcement",
-			"id": "",
+			"id": "946f2d45-c22a-4f58-9c3b-348fba0b753a",
 			"length": 165433
 		},
 		{
 			"album": {
 				"name": "Idlewild",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "c6fd98e4-1bf0-40cf-8bd7-c59aeb797f44"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Outkast",
-					"id": ""
+					"id": "07c6114b-f316-40da-9c67-fdaaaad69663"
+				},
+				{
+					"name": "Sleepy Brown",
+					"id": "07c6114b-f316-40da-9c67-fdaaaad69663"
+				},
+				{
+					"name": "Scar",
+					"id": "07c6114b-f316-40da-9c67-fdaaaad69663"
 				}
 			],
-			"name": "The Train f/ Sleepy Brown & Scar",
-			"id": "",
+			"name": "The Train",
+			"id": "60771dc5-0bae-4554-b8f4-03eb9faffe49",
 			"length": 250122
 		},
 		{
 			"album": {
 				"name": "Funeral",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "a4f465b3-61a8-471e-b665-f9a27f37d32a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Arcade Fire",
-					"id": ""
+					"id": "b4b6852f-d95b-4cfc-ab6f-c0b25952209e"
 				}
 			],
 			"name": "Neighborhood #3 (Power Out)",
-			"id": "",
+			"id": "170388d1-5b20-428a-b0c7-9f440317a00e",
 			"length": 312973
 		},
 		{
 			"album": {
-				"name": "Stop The Clocks",
-				"image": "",
+				"name": "Definitely Maybe",
 				"year": 1998,
-				"id": ""
+				"id": "39788d2c-a969-4fb9-bf1f-8411051e90c2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Oasis",
-					"id": ""
+					"id": "2e2b203b-2300-4730-a5ff-c9ceae997da2"
 				}
 			],
 			"name": "Half The World Away",
-			"id": "",
+			"id": "d83ead49-10aa-4e0f-abfc-39890ce418a1",
 			"length": 260466
 		}
 	]

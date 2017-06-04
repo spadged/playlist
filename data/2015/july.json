@@ -7,87 +7,127 @@
 		{
 			"album": {
 				"name": "1992 EP",
-				"image": "https://i.scdn.co/image/46960799eec57f677f315c31e03016b5ada85ac2",
 				"year": "",
-				"id": "6NebCuedf30wTZqRTGprn2"
+				"id": "",
+				"externalId": {
+					"spotify": "6NebCuedf30wTZqRTGprn2"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ben Khan",
-					"id": "2YwPMfgNYeDjbkGI7PwZ3K"
+					"id": "",
+					"externalId": {
+						"spotify": "2YwPMfgNYeDjbkGI7PwZ3K"
+					}
 				}
 			],
 			"name": "Youth",
-			"id": "3bfZPCm4UrEEmrayPyxtbU",
-			"length": 197447
+			"id": "",
+			"length": 197447,
+			"externalId": {
+				"spotify": "3bfZPCm4UrEEmrayPyxtbU"
+			}
 		},
 		{
 			"album": {
 				"name": "Black and Blue Point Two",
-				"image": "https://i.scdn.co/image/37dfa54104b3bdae613f803f52fa40f073c84200",
 				"year": "",
-				"id": "2lEDwGmnDigTwgVlUoSOfj"
+				"id": "",
+				"externalId": {
+					"spotify": "2lEDwGmnDigTwgVlUoSOfj"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Raleigh Ritchie",
-					"id": "0IB0VjX9NSrGX6PjCXGVcq"
+					"id": "",
+					"externalId": {
+						"spotify": "0IB0VjX9NSrGX6PjCXGVcq"
+					}
 				}
 			],
 			"name": "The Chased",
-			"id": "2MxjJldXH0aNaRIzD58gwq",
-			"length": 252426
+			"id": "",
+			"length": 252426,
+			"externalId": {
+				"spotify": "2MxjJldXH0aNaRIzD58gwq"
+			}
 		},
 		{
 			"album": {
 				"name": "Anjou",
-				"image": "https://i.scdn.co/image/8ca8507ffeaed0a383be4bbaec8992dbaa813a39",
 				"year": "",
-				"id": "7xImr4MTdxDm8eJsYnrHrS"
+				"id": "",
+				"externalId": {
+					"spotify": "7xImr4MTdxDm8eJsYnrHrS"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Youandewan",
-					"id": "4z6FshDl8yeHQSpFWdgN32"
+					"id": "",
+					"externalId": {
+						"spotify": "4z6FshDl8yeHQSpFWdgN32"
+					}
 				}
 			],
 			"name": "Anjou - Original Mix",
-			"id": "5FE7lwVtWQ0kCjD8Nwr3lJ",
-			"length": 401423
+			"id": "",
+			"length": 401423,
+			"externalId": {
+				"spotify": "5FE7lwVtWQ0kCjD8Nwr3lJ"
+			}
 		},
 		{
 			"album": {
 				"name": "Indigo Child",
-				"image": "https://i.scdn.co/image/df99855c5403dcb2ef402353d18bcb7708aee053",
 				"year": "",
-				"id": "3HVk2UGwXUfE51s1MmPzrL"
+				"id": "",
+				"externalId": {
+					"spotify": "3HVk2UGwXUfE51s1MmPzrL"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Raury",
-					"id": "2PU4qFehXQF7WnlFsJpBiJ"
+					"id": "",
+					"externalId": {
+						"spotify": "2PU4qFehXQF7WnlFsJpBiJ"
+					}
 				}
 			],
 			"name": "God's Whisper",
-			"id": "4BjX3hTy43SMyXUKXBVF2v",
-			"length": 248613
+			"id": "",
+			"length": 248613,
+			"externalId": {
+				"spotify": "4BjX3hTy43SMyXUKXBVF2v"
+			}
 		},
 		{
 			"album": {
 				"name": "Currents",
-				"image": "https://i.scdn.co/image/baf2307038b91139d25efafe175e2a66369efeb8",
 				"year": "",
-				"id": "0rxKf57PZvWEoU8v3m5W2q"
+				"id": "",
+				"externalId": {
+					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "5INjqkS1o8h1imAzPqGZBb"
+					"id": "",
+					"externalId": {
+						"spotify": "5INjqkS1o8h1imAzPqGZBb"
+					}
 				}
 			],
 			"name": "'Cause I'm A Man",
-			"id": "2oVyKK5NH2oawyrDZJn581",
-			"length": 241985
+			"id": "",
+			"length": 241985,
+			"externalId": {
+				"spotify": "2oVyKK5NH2oawyrDZJn581"
+			}
 		}
 	]
 }

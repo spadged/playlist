@@ -1,93 +1,133 @@
 {
-	"name": "June",
-	"month": "06",
+	"name": "June Top 5 2014",
+	"month": "june",
 	"year": "2014",
-	"id": "",
+	"id": "66eCon74FMkG1ZdtK5r72C",
 	"tracks": [
 		{
 			"album": {
-				"name": "There Is Love In You",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Four Tet",
-					"id": ""
-				}
-			],
-			"name": "She Just Likes To Fight",
-			"id": "",
-			"length": 274155
-		},
-		{
-			"album": {
-				"name": "Graceland",
-				"image": "",
-				"year": 1986,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Paul Simon",
-					"id": ""
-				}
-			],
-			"name": "Gumboots",
-			"id": "",
-			"length": 165172
-		},
-		{
-			"album": {
-				"name": "Glow",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Jackson And His Computerband",
-					"id": ""
-				}
-			],
-			"name": "G.I. Jane (Fill Me Up)",
-			"id": "",
-			"length": 327079
-		},
-		{
-			"album": {
 				"name": "Our Love",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Caribou",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Can't Do Without You",
 			"id": "",
-			"length": 236040
+			"length": 236000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Glow",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Jackson And His Computerband",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "G.I. Jane (Fill Me Up)",
+			"id": "",
+			"length": 327000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Graceland",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Paul Simon",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Gumboots",
+			"id": "",
+			"length": 165000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "There Is Love In You",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Four Tet",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "She Just Likes To Fight",
+			"id": "",
+			"length": 274000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "El Pintor",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Interpol",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "All the Rage Back Home",
 			"id": "",
-			"length": 262426
+			"length": 262000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

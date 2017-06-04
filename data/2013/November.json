@@ -1,90 +1,147 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2013",
+	"month": "november",
 	"year": "2013",
-	"id": "",
+	"id": "61cCVZ3CSKUt1f1g7a4VWQ",
 	"tracks": [
 		{
 			"album": {
-				"name": "Monkeytown",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Modeselektor",
-					"id": ""
-				}
-			],
-			"name": "War Cry",
-			"id": "",
-			"length": 296693
-		},
-		{
-			"album": {
 				"name": "Reflektor",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Afterlife",
 			"id": "",
-			"length": 352809
+			"length": 352000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Blurred Lines (feat. T.I. & Pharrell) - Single",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"name": "Monkeytown",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Robin Thicke",
-					"id": ""
+					"name": "Modeselektor",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Blurred Lines",
+			"name": "War Cry",
 			"id": "",
-			"length": 262651
+			"length": 296000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"name": "Thank You",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Busta Rhymes",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Thank You",
 			"id": "",
-			"length": 239438
+			"length": 239000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Despicable Me 2",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"name": "Girl",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Pharrell Williams",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Happy",
 			"id": "",
-			"length": 233305
+			"length": 233000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Blurred Lines",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Robin Thicke",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "T.I.",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Pharrel Williams",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Blurred Lines",
+			"id": "",
+			"length": 262000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

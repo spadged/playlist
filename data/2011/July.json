@@ -1,91 +1,133 @@
 {
-	"name": "July",
-	"month": "07",
+	"name": "July Top 5 2011",
+	"month": "july",
 	"year": "2011",
-	"id": "",
+	"id": "0oVA25YOFTKdjylGrsHrnR",
 	"tracks": [
 		{
 			"album": {
-				"name": "Y34RZ3R0R3M1X3D",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Stephen Morris and Gillian Gilbert",
-					"id": ""
-				}
-			],
-			"name": "Zero-Sum",
-			"id": "",
-			"length": 338991
-		},
-		{
-			"album": {
-				"name": "The Love Below",
-				"image": "",
-				"year": 2003,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Outkast",
-					"id": ""
-				}
-			],
-			"name": "A Life In The Day Of Benjamin André (Incomplete)",
-			"id": "",
-			"length": 311457
-		},
-		{
-			"album": {
-				"name": "Hard Normal Daddy",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Squarepusher",
-					"id": ""
-				}
-			],
-			"name": "beep street",
-			"id": "",
-			"length": 397139
-		},
-		{
-			"album": {
-				"name": "Blalock's Indie/Rock Playlist: Best of 09",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Various Artists",
-					"id": ""
-				}
-			],
-			"name": "Percussion Gun",
-			"id": "",
-			"length": 188395
-		},
-		{
-			"album": {
 				"name": "Era Extraña",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Neon Indian",
-					"id": "0KydPQPUUoTNhmiHKOg5Er"
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Fallout",
 			"id": "",
-			"length": 216999
+			"length": 216000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Hard Normal Daddy",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Squarepusher",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "beep street",
+			"id": "",
+			"length": 397000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Y34RZ3R0R3M1X3D",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Nine Inch Nails",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Zero-Sum (Stephen Morris and Gillian Gilbert)",
+			"id": "",
+			"length": 338000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Love Below",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Outkast",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "A Life In The Day Of Benjamin André (Incomplete)",
+			"id": "",
+			"length": 311000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Best of the Bands, Vol. 2",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "White Rabbits",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Percussion Gun",
+			"id": "",
+			"length": 188000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

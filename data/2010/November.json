@@ -1,92 +1,147 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2010",
+	"month": "november",
 	"year": "2010",
-	"id": "",
+	"id": "3U6ODC53vp3ObeHTxtwoBB",
 	"tracks": [
 		{
 			"album": {
 				"name": "High Violet",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The National",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "England",
 			"id": "",
-			"length": 340244
-		},
-		{
-			"album": {
-				"name": "Nothing Else",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Lorn",
-					"id": ""
-				}
-			],
-			"name": "Cherry Moon",
-			"id": "",
-			"length": 218070
-		},
-		{
-			"album": {
-				"name": "Cerulean",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Baths",
-					"id": ""
-				}
-			],
-			"name": "Rafting Starlit Everglades",
-			"id": "",
-			"length": 237662
-		},
-		{
-			"album": {
-				"name": "Maximum Balloon",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Maximum Balloon",
-					"id": ""
-				}
-			],
-			"name": "Groove Me",
-			"id": "",
-			"length": 224809
+			"length": 340000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Nothing",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "N.E.R.D.",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Daft Punk",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Hypnotize U",
 			"id": "",
-			"length": 257112
+			"length": 257000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Maximum Balloon",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Maximum Balloon",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Theophilus London",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Groove Me",
+			"id": "",
+			"length": 224000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Nothing Else",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Lorn",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Cherry Moon",
+			"id": "",
+			"length": 218000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Cerulean",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Baths",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Rafting Starlit Everglades",
+			"id": "",
+			"length": 237000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,93 +1,133 @@
 {
-	"name": "February",
-	"month": "02",
+	"name": "February Top 5 2008",
+	"month": "february",
 	"year": "2008",
-	"id": "",
+	"id": "7kRJ8s5L4CiS524QE7WpYp",
 	"tracks": [
 		{
 			"album": {
-				"name": "The Information",
-				"image": "",
-				"year": 2006,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Beck",
-					"id": ""
-				}
-			],
-			"name": "The Horrible Fanfare/Landslide/Exoskelton",
-			"id": "",
-			"length": 636891
-		},
-		{
-			"album": {
-				"name": "In Rainbows",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
-				}
-			],
-			"name": "Weird Fishes/Arpeggi",
-			"id": "",
-			"length": 318223
-		},
-		{
-			"album": {
 				"name": "At War With The Mystics",
-				"image": "",
-				"year": 2006,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Flaming Lips",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Haven’t Got A Clue",
 			"id": "",
-			"length": 205975
+			"length": 205000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Information",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Beck",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "The Horrible Fanfare/Landslide/Exoskelton",
+			"id": "",
+			"length": 636000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Kitsuné Maison 4",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Feist",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "My Moon My Man (Boys Noize Remix)",
 			"id": "",
-			"length": 404192
+			"length": 404000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "In Rainbows",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Radiohead",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Weird Fishes/Arpeggi",
+			"id": "",
+			"length": 318000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Seventh Tree",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Goldfrapp",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "A&E",
 			"id": "",
-			"length": 198008
+			"length": 198000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

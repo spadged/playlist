@@ -7,95 +7,141 @@
 		{
 			"album": {
 				"name": "One By One",
-				"image": "https://i.scdn.co/image/107218a31a13296f9a579a3466fb00c899bcafd5",
 				"year": "",
-				"id": "2TIp2qGorHvqyaiAb82Awe"
+				"id": "",
+				"externalId": {
+					"spotify": "2TIp2qGorHvqyaiAb82Awe"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Foo Fighters",
-					"id": "7jy3rLJdDQY21OgRLCZ9sD"
+					"id": "",
+					"externalId": {
+						"spotify": "7jy3rLJdDQY21OgRLCZ9sD"
+					}
 				}
 			],
 			"name": "Low",
-			"id": "01ERgmlDJjGYFXkBLgRTFp",
-			"length": 268040
+			"id": "",
+			"length": 268040,
+			"externalId": {
+				"spotify": "01ERgmlDJjGYFXkBLgRTFp"
+			}
 		},
 		{
 			"album": {
 				"name": "Good Times",
-				"image": "https://i.scdn.co/image/06a1548ba498cba0818609fe2cd797ba23ce8c75",
 				"year": "",
-				"id": "36pKx43hkeUF1OGxuxKkZw"
+				"id": "",
+				"externalId": {
+					"spotify": "36pKx43hkeUF1OGxuxKkZw"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Willie Nelson",
-					"id": "5W5bDNCqJ1jbCgTxDD0Cb3"
+					"id": "",
+					"externalId": {
+						"spotify": "5W5bDNCqJ1jbCgTxDD0Cb3"
+					}
 				}
 			],
 			"name": "Buddy",
-			"id": "1dbQNSAXlOEtngcIZAOfPO",
-			"length": 135973
+			"id": "",
+			"length": 135973,
+			"externalId": {
+				"spotify": "1dbQNSAXlOEtngcIZAOfPO"
+			}
 		},
 		{
 			"album": {
 				"name": "Shadows in the Night",
-				"image": "https://i.scdn.co/image/51bf0a2fd2829a8fd28ed166c682f503d27b405d",
 				"year": "",
-				"id": "2mVpSZrllFAWhOgCoyz8ow"
+				"id": "",
+				"externalId": {
+					"spotify": "2mVpSZrllFAWhOgCoyz8ow"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bob Dylan",
-					"id": "74ASZWbe4lXaubB36ztrGX"
+					"id": "",
+					"externalId": {
+						"spotify": "74ASZWbe4lXaubB36ztrGX"
+					}
 				}
 			],
 			"name": "What'll I Do",
-			"id": "5pWyOsWnOrSfDzNqCqBzOY",
-			"length": 195786
+			"id": "",
+			"length": 195786,
+			"externalId": {
+				"spotify": "5pWyOsWnOrSfDzNqCqBzOY"
+			}
 		},
 		{
 			"album": {
-				"name": "Elsewhere Anchises (feat. Stephen Rea)",
-				"image": "https://i.scdn.co/image/55fa1fa9e5db687ea5ce3eb536fc1233cc8150bc",
+				"name": "Elsewhere Anchises",
 				"year": "",
-				"id": "24i8Sj6loL2qIJNsrojnGT"
+				"id": "",
+				"externalId": {
+					"spotify": "24i8Sj6loL2qIJNsrojnGT"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "David Holmes",
-					"id": "10kGEgP8MxhlfeA2tMinsL"
+					"id": "",
+					"externalId": {
+						"spotify": "10kGEgP8MxhlfeA2tMinsL"
+					}
 				},
 				{
 					"name": "Jon Hopkins",
-					"id": "7yxi31szvlbwvKq9dYOmFI"
+					"id": "",
+					"externalId": {
+						"spotify": "7yxi31szvlbwvKq9dYOmFI"
+					}
 				},
 				{
 					"name": "Stephen Rea",
-					"id": "5KIabrrmudYdwnxbEl0pOZ"
+					"id": "",
+					"externalId": {
+						"spotify": "5KIabrrmudYdwnxbEl0pOZ"
+					}
 				}
 			],
 			"name": "Elsewhere Anchises",
-			"id": "4nezbRPMpvIWObOOBnOmXk",
-			"length": 290769
+			"id": "",
+			"length": 290769,
+			"externalId": {
+				"spotify": "4nezbRPMpvIWObOOBnOmXk"
+			}
 		},
 		{
 			"album": {
 				"name": "Avalon",
-				"image": "https://i.scdn.co/image/615d74b4019901ca38276c82ed7d3207ea578f9a",
 				"year": "",
-				"id": "3JXODSjT9mUz2lIb4YIErw"
+				"id": "",
+				"externalId": {
+					"spotify": "3JXODSjT9mUz2lIb4YIErw"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Roxy Music",
-					"id": "3fhOTtm0LBJ3Ojn4hIljLo"
+					"id": "",
+					"externalId": {
+						"spotify": "3fhOTtm0LBJ3Ojn4hIljLo"
+					}
 				}
 			],
-			"name": "More Than This - 1999 Digital Remaster",
-			"id": "6N7gPTru90HYLRUIVDQ185",
-			"length": 270693
+			"name": "More Than This",
+			"id": "",
+			"length": 270693,
+			"externalId": {
+				"spotify": "6N7gPTru90HYLRUIVDQ185"
+			}
 		}
 	]
 }

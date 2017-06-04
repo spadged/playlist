@@ -2,91 +2,86 @@
 	"name": "August",
 	"month": "08",
 	"year": "2006",
-	"id": "",
+	"id": "2fdf44f0-58c1-49c9-87d2-29d6a99b8d37",
 	"tracks": [
 		{
 			"album": {
 				"name": "Bryter Layter",
-				"image": "",
 				"year": 1970,
-				"id": ""
+				"id": "59f82c03-dd0f-4ca1-86b0-14fe23cd2d0e"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nick Drake",
-					"id": ""
+					"id": "2d8256af-2e6b-4937-89ae-b72f0c099dac"
 				}
 			],
 			"name": "Introduction",
-			"id": "",
+			"id": "9aac25a1-5570-4a46-8cff-ef38b7115be0",
 			"length": 94432
 		},
 		{
 			"album": {
-				"name": "Unkle Mixes",
-				"image": "",
+				"name": "Whats the story (Morning Glory)?",
 				"year": 2005,
-				"id": ""
+				"id": "3cedba98-19f7-4224-b82b-3e7f0b8094c3"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Oasis",
-					"id": ""
+					"id": "2e2b203b-2300-4730-a5ff-c9ceae997da2"
 				}
 			],
 			"name": "Cast No Shadow ",
-			"id": "",
+			"id": "7ecf25c8-1695-4dfd-9b93-cfdc18157c34",
 			"length": 253831
 		},
 		{
 			"album": {
 				"name": "Yellow House",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "b191a317-20f7-476b-957e-38c943812174"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Grizzly Bear",
-					"id": ""
+					"id": "e5a900b8-f067-4126-a6c2-32f78c095ea6"
 				}
 			],
 			"name": "Easier",
-			"id": "",
+			"id": "95903710-eeb3-49f0-be05-f3dd2217b0ae",
 			"length": 225619
 		},
 		{
 			"album": {
 				"name": "Mr. Beast",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "47bec453-9cb7-47dc-bb87-157372e53a50"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Mogwai",
-					"id": ""
+					"id": "540f6e05-6b89-4824-979c-7cc31b774044"
 				}
 			],
 			"name": "Auto Rock",
-			"id": "",
+			"id": "d36f2925-44d6-4952-8fbc-97543fb279b7",
 			"length": 258575
 		},
 		{
 			"album": {
 				"name": "In Rainbows",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "87cd507d-9844-4c0b-9165-2e74e2a334f0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "Videotape",
-			"id": "",
+			"id": "5edcd931-deb1-42fa-9c88-10e7cc220893",
 			"length": 279666
 		}
 	]

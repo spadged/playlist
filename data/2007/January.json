@@ -2,174 +2,164 @@
 	"name": "January",
 	"month": "01",
 	"year": "2007",
-	"id": "",
+	"id": "a767fcb0-8202-49d4-a0a3-7276848c8161",
 	"tracks": [
 		{
 			"album": {
 				"name": "How Clean Is Your Acid House",
-				"image": "",
-				"id": ""
+				"id": "1e23edfa-509e-4a54-9595-edbf010a468b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Errors",
-					"id": ""
+					"id": "af10d2af-83af-4a0a-bd5d-e11828ade6a6"
 				}
 			],
 			"name": "Mr Milk",
-			"id": "",
+			"id": "e2c785d9-fafb-4d24-98bf-5c5277d354cc",
 			"length": 263962
 		},
 		{
 			"album": {
 				"name": "Love Box",
-				"image": "",
 				"year": 2002,
-				"id": ""
+				"id": "8803365f-2b11-4fb5-b488-78b46f7a904d"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Groove Armada",
-					"id": ""
+					"id": "88fd00f3-00c2-443e-b4dc-db173eb65bbe"
 				}
 			],
 			"name": "Remember",
-			"id": "",
+			"id": "d74c4cbc-e432-400b-8254-f0a61b13305b",
 			"length": 331206
 		},
 		{
 			"album": {
 				"name": "Politics",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "28f779fc-3eaa-4d45-9a49-6c481813ad05"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sébastien Tellier",
-					"id": ""
+					"id": "13f041a8-518c-4380-8e38-ae205aa5a69d"
 				}
 			],
 			"name": "La Ritournelle",
-			"id": "",
+			"id": "e3785056-7254-4039-8c1d-219aa4561ae8",
 			"length": 454556
 		},
 		{
 			"album": {
 				"name": "The Outsider",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "e94e9368-6c73-46e4-b93f-3f8621d58bc8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "DJ Shadow",
-					"id": ""
+					"id": "f4351c9a-cbe6-4a28-8afc-2cd972911caa"
 				}
 			],
 			"name": "This Time (I'm Gonna Try It My Way)",
-			"id": "",
+			"id": "58d38407-898a-4483-bdae-7956005255c3",
 			"length": 185208
 		},
 		{
 			"album": {
 				"name": "Nice and Nicely Done",
-				"image": "",
-				"id": ""
+				"id": "d7c18cd3-29a7-449a-8fcb-61de4aec76ba"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Spinto Band",
-					"id": ""
+					"id": "b804eb8c-8c85-4249-9e44-bf88065f7f06"
 				}
 			],
 			"name": "Oh Mandy",
-			"id": "",
+			"id": "bf973ccd-482d-4c9d-bdbf-7a059380b3ab",
 			"length": 215353
 		},
 		{
 			"album": {
 				"name": "A Weekend in The City",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "475e748a-ed32-4e0b-9174-861261832ca0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bloc Party",
-					"id": "3MM8mtgFzaEJsqbjZBSsHJ"
+					"id": "d79c1013-2b36-42ef-b5cb-5a3e63ea1f06"
 				}
 			],
 			"name": "the prayer",
-			"id": "",
+			"id": "f97f69b7-8725-49f3-9f69-ae74aabdd620",
 			"length": 225097
 		},
 		{
 			"album": {
 				"name": "Cansei De Ser Sexy",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "ab84d945-f739-40cd-bbe1-81d71d967e1e"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Cansei De Ser Sexy",
-					"id": ""
+					"id": "e74f084f-5928-470c-bc87-45ba0d670beb"
 				}
 			],
 			"name": "Patins",
-			"id": "",
+			"id": "c9abe134-caa3-4464-a466-566a5030f451",
 			"length": 138997
 		},
 		{
 			"album": {
 				"name": "The White Album",
-				"image": "",
 				"year": 1968,
-				"id": ""
+				"id": "d747f6a9-aaba-43a9-80d4-58f7b7cc4aef"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Beatles",
-					"id": ""
+					"id": "7b6056f0-45b2-4b89-8db6-a92088ebeef1"
 				}
 			],
 			"name": "Long, Long, Long",
-			"id": "",
+			"id": "a3717528-4b9d-4e75-bce5-cae1b83d08b5",
 			"length": 184398
 		},
 		{
 			"album": {
 				"name": "Funeral",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "a4f465b3-61a8-471e-b665-f9a27f37d32a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Arcade Fire",
-					"id": ""
+					"id": "b4b6852f-d95b-4cfc-ab6f-c0b25952209e"
 				}
 			],
 			"name": "Rebellion (Lies)",
-			"id": "",
+			"id": "b71f2808-2d6e-48b0-a2e6-d3cb3ecad13c",
 			"length": 310961
 		},
 		{
 			"album": {
 				"name": "Myths Of The Near Future ",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "334bfd17-97d5-4ab4-916d-c676b2ad8f02"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Klaxons",
-					"id": ""
+					"id": "90e1c38b-f106-4fdb-a3e5-543ae8278595"
 				}
 			],
 			"name": "Golden Skans",
-			"id": "",
+			"id": "d4b0f079-b2d4-4477-8c48-dd8d617bdfcb",
 			"length": 165668
 		}
 	]

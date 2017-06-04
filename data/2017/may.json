@@ -1,0 +1,140 @@
+{
+	"name": "May Top 5 2017",
+	"month": "may",
+	"year": "2017",
+	"id": "1nx3DdhUaYC8vSxIcIbxcq",
+	"tracks": [
+		{
+			"album": {
+				"name": "Freetown Sound",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "3Z2XUjgVj5ZkCGpU7b2qtY"
+				}
+			},
+			"artists": [
+				{
+					"name": "Blood Orange",
+					"id": "",
+					"externalId": {
+						"spotify": "6LEeAFiJF8OuPx747e1wxR"
+					}
+				}
+			],
+			"name": "Best to You",
+			"id": "",
+			"length": 225747,
+			"externalId": {
+				"spotify": "1p2TWJxUlHE5JR0sE6E1d7"
+			}
+		},
+		{
+			"album": {
+				"name": "Ogre",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "7yhAAIhtBSbQiiSUlSY67E"
+				}
+			},
+			"artists": [
+				{
+					"name": "Richard Dawson",
+					"id": "",
+					"externalId": {
+						"spotify": "0VeQgI9lzgoOMszAOq0iml"
+					}
+				}
+			],
+			"name": "Ogre",
+			"id": "",
+			"length": 416200,
+			"externalId": {
+				"spotify": "21gusGqyiEnCKLeYUCIAJr"
+			}
+		},
+		{
+			"album": {
+				"name": "What Now",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "1BJMCEXQ7JmuVlJ6cYbe3x"
+				}
+			},
+			"artists": [
+				{
+					"name": "Sylvan Esso",
+					"id": "",
+					"externalId": {
+						"spotify": "39vA9YljbnOApXKniLWBZv"
+					}
+				}
+			],
+			"name": "Kick Jump Twist",
+			"id": "",
+			"length": 263226,
+			"externalId": {
+				"spotify": "5pXVT8Ev8ICTv1bQzMTCKr"
+			}
+		},
+		{
+			"album": {
+				"name": "Behind The Scenes",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "2gwOBLxcqvOCpJQ3hiVVwO"
+				}
+			},
+			"artists": [
+				{
+					"name": "DJ Format",
+					"id": "",
+					"externalId": {
+						"spotify": "08b8bBBm9g4yIou2ESJmQN"
+					}
+				},
+				{
+					"name": "Abdominal",
+					"id": "",
+					"externalId": {
+						"spotify": "46YEbpfedcyg8athXhSrLK"
+					}
+				}
+			],
+			"name": "Behind The Scenes - Single Mix",
+			"id": "",
+			"length": 206939,
+			"externalId": {
+				"spotify": "4XTDrdHrnkUXDOX5h4HUw5"
+			}
+		},
+		{
+			"album": {
+				"name": "Put Your Back N 2 It",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": "5hjlzVCJCePW4DmMJVryla"
+				}
+			},
+			"artists": [
+				{
+					"name": "Perfume Genius",
+					"id": "",
+					"externalId": {
+						"spotify": "2ueoLVCXQ948OfhVvAy3Nn"
+					}
+				}
+			],
+			"name": "Floating Spit",
+			"id": "",
+			"length": 194693,
+			"externalId": {
+				"spotify": "4C7F5zCFfppYauKHjKpC34"
+			}
+		}
+	]
+}

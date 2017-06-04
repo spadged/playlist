@@ -1,93 +1,133 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2007",
+	"month": "november",
 	"year": "2007",
-	"id": "",
+	"id": "1y7d5EJe3Z9mSKaQ48wSdF",
 	"tracks": [
 		{
 			"album": {
-				"name": "Rooty",
-				"image": "",
-				"year": 2001,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Basement Jaxx",
-					"id": ""
-				}
-			],
-			"name": "Breakaway",
-			"id": "",
-			"length": 202736
-		},
-		{
-			"album": {
-				"name": "Rushmore",
-				"image": "",
-				"year": 1999,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "John Lennon",
-					"id": ""
-				}
-			],
-			"name": "Oh Yoko",
-			"id": "",
-			"length": 256417
-		},
-		{
-			"album": {
 				"name": "David Shrigley's Worried Noodles",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Scarlet's Well",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Maybe",
 			"id": "",
-			"length": 134008
+			"length": 134000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "David Shrigley's Worried Noodles",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "David Byrne",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "For You",
 			"id": "",
-			"length": 200019
+			"length": 200000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Sam's Town",
-				"image": "",
-				"year": 2006,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Killers",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "For Reasons Unknown",
 			"id": "",
-			"length": 212323
+			"length": 212000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Rooty",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Basement Jaxx",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Breakaway",
+			"id": "",
+			"length": 202000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Imagine",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "John Lennon",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Oh Yoko",
+			"id": "",
+			"length": 256000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

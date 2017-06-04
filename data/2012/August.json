@@ -1,92 +1,133 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2012",
+	"month": "august",
 	"year": "2012",
-	"id": "",
+	"id": "3VJXmN761zjD0wIowcO98Y",
 	"tracks": [
 		{
 			"album": {
-				"name": "Cerulean",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Baths",
-					"id": ""
-				}
-			],
-			"name": "Rafting Starlit Everglades",
-			"id": "",
-			"length": 237662
-		},
-		{
-			"album": {
-				"name": "Mind Bokeh",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Bibio",
-					"id": ""
-				}
-			],
-			"name": "Feminine Eye",
-			"id": "",
-			"length": 110628
-		},
-		{
-			"album": {
-				"name": "Player Piano",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Memory Tapes",
-					"id": ""
-				}
-			],
-			"name": "Humming",
-			"id": "",
-			"length": 166920
-		},
-		{
-			"album": {
 				"name": "World, You Need A Change Of Mind",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kindness",
-					"id": "6SYIsHAQ1sPokVxmzpaDBU"
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Seod",
 			"id": "",
-			"length": 390582
+			"length": 390000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Cerulean",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Baths",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Rafting Starlit Everglades",
+			"id": "",
+			"length": 237000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Mind Bokeh",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Bibio",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Feminine Eye",
+			"id": "",
+			"length": 110000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Player Piano",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Memory Tapes",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Humming",
+			"id": "",
+			"length": 166000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Fragrant World",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Yeasayer",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Fingers Never Bleed",
 			"id": "",
-			"length": 269871
+			"length": 269000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

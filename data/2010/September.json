@@ -1,92 +1,133 @@
 {
-	"name": "September",
-	"month": "09",
+	"name": "September Top 5 2010",
+	"month": "september",
 	"year": "2010",
-	"id": "",
+	"id": "0lh4TGF7DvQ4kVCq79enN3",
 	"tracks": [
 		{
 			"album": {
-				"name": "Fall Be Kind (Ep)",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Animal Collective",
-					"id": "4kwxTgCKMipBKhSnEstNKj"
-				}
-			],
-			"name": "On A Highway",
-			"id": "",
-			"length": 276140
-		},
-		{
-			"album": {
-				"name": "Era Vulgaris",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Queens of the Stone Age",
-					"id": ""
-				}
-			],
-			"name": "Suture Up Your Future",
-			"id": "",
-			"length": 277368
-		},
-		{
-			"album": {
-				"name": "Let It Be",
-				"image": "",
-				"year": 1970,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Beatles",
-					"id": ""
-				}
-			],
-			"name": "Across the Universe",
-			"id": "",
-			"length": 228545
-		},
-		{
-			"album": {
 				"name": "Cerulean",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Baths",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Lovely Bloodflow",
 			"id": "",
-			"length": 217338
+			"length": 217000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Scott Pilgrim vs. the World (Original Score Composed By Nigel Godrich)",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"name": "Fall Be Kind",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Animal Collective",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "On A Highway",
+			"id": "",
+			"length": 276000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Let It Be",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Beatles",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Across the Universe",
+			"id": "",
+			"length": 228000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Era Vulgaris",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Queens of the Stone Age",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Suture Up Your Future",
+			"id": "",
+			"length": 277000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Scott Pilgrim vs. The World",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Nigel Godrich",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Hillcrest Park",
 			"id": "",
-			"length": 244595
+			"length": 244000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

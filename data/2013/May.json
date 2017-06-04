@@ -1,93 +1,140 @@
 {
-	"name": "May",
-	"month": "05",
+	"name": "May Top 5 2013",
+	"month": "may",
 	"year": "2013",
-	"id": "",
+	"id": "0spdyGhgeAcuxab7wirK1k",
 	"tracks": [
 		{
 			"album": {
-				"name": "Nightlife",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Phantogram",
-					"id": ""
-				}
-			],
-			"name": "16 Years",
-			"id": "",
-			"length": 236747
-		},
-		{
-			"album": {
 				"name": "Bankrupt!",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Phoenix",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Chloroform",
 			"id": "",
-			"length": 244871
+			"length": 244000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Silver Wilkinson",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bibio",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Look At Orion!",
 			"id": "",
-			"length": 458448
+			"length": 458000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Random Access Memories",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Panda Bear ",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Doin' it right",
 			"id": "",
-			"length": 250017
+			"length": 250000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "...Like Clockwork",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Queens Of The Stone Age",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Vampyre Of Time And Memory",
 			"id": "",
-			"length": 214648
+			"length": 214000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Nightlife",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Phantogram",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "16 Years",
+			"id": "",
+			"length": 236000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

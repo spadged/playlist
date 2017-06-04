@@ -2,90 +2,85 @@
 	"name": "August",
 	"month": "08",
 	"year": "2007",
-	"id": "",
+	"id": "5f6a3928-f6fe-4b92-8686-74b7dcd4aaa6",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Shawshank Redemption",
-				"image": "",
-				"id": ""
+				"id": "bc88dcb3-e825-4b9b-9893-2827a370cc89"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Inkspots",
-					"id": ""
+					"id": "69a88f5b-feed-4ee1-a318-a6fc4412ae6f"
 				}
 			],
 			"name": "If I didn't care",
-			"id": "",
+			"id": "d8944641-db7a-45e1-aa0f-14037fb747ae",
 			"length": 185364
 		},
 		{
 			"album": {
 				"name": "New Health Rock",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "867e17e3-ad2f-4f3f-b61e-02fbc4eedfbc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0"
 				}
 			],
 			"name": "Dry Drunk Emperor",
-			"id": "",
+			"id": "bc14348b-332e-454a-a35b-98087e560d4a",
 			"length": 406778
 		},
 		{
 			"album": {
 				"name": "Sound Of Silver",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "8b7dd715-b532-4920-98c5-56d7f5235296"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "LCD Soundsystem",
-					"id": ""
+					"id": "418edab8-9540-48e6-8b99-e4e76dc17368"
 				}
 			],
 			"name": "Someone Great",
-			"id": "",
+			"id": "bb71fd10-946c-4339-822d-38fb1695a0b7",
 			"length": 385854
 		},
 		{
 			"album": {
 				"name": "Kala",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "778f9477-1869-41e4-a232-4c249fff2ab3"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "M.I.A.",
-					"id": "0QJIPDAEDILuo8AIq3pMuU"
+					"id": "df12cf9b-c9d6-4dc7-a4fa-44248d91d7b5"
 				}
 			],
 			"name": "Jimmy",
-			"id": "",
+			"id": "40f4299d-b598-45be-8511-8d225f3008f2",
 			"length": 209266
 		},
 		{
 			"album": {
 				"name": "Crystal Castles",
-				"image": "",
 				"year": 2008,
-				"id": ""
+				"id": "f7c0f748-ae03-4fa8-bcba-c6c1232683e8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Crystal Castles",
-					"id": ""
+					"id": "d523bbc0-9ee3-4b21-b07a-ceddf961b15f"
 				}
 			],
 			"name": "Crimewave",
-			"id": "",
+			"id": "4df59aaa-d822-4ddc-95c2-fc22a80e4178",
 			"length": 261093
 		}
 	]

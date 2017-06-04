@@ -2,91 +2,86 @@
 	"name": "November",
 	"month": "11",
 	"year": "2003",
-	"id": "",
+	"id": "cc1fc083-f8ea-43ca-a0ff-ebe383b16624",
 	"tracks": [
 		{
 			"album": {
 				"name": "Solaris",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "0e76ccd8-33c7-4a16-8abb-4a1dfb8ffc42"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Cliff Martinez",
-					"id": ""
+					"id": "1cb5d45a-1ff0-4603-ab08-48e1db074573"
 				}
 			],
 			"name": "Wear Your Seat Belt",
-			"id": "",
+			"id": "14932134-600c-4348-802c-d20d04249756",
 			"length": 190093
 		},
 		{
 			"album": {
 				"name": "Angels of the Universe",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "02a11107-baa5-4468-b97c-e9068daa23dc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hilmar Örn Hilmarsson & Sigur Rós",
-					"id": ""
+					"id": "c5efe2b2-5889-4ce9-a250-3dbb03828caa"
 				}
 			],
 			"name": "Hlemmur-Josef",
-			"id": "",
+			"id": "dd30b531-e94f-43b1-bb2c-4523a73b276b",
 			"length": 169639
 		},
 		{
 			"album": {
-				"name": "Mystery White Boy ",
-				"image": "",
+				"name": "Mystery White Boy",
 				"year": 2000,
-				"id": ""
+				"id": "a349ecae-f50a-452c-8790-508a01c569d2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jeff Buckley",
-					"id": ""
+					"id": "487fa324-d6df-415e-aeed-e9cd0d38a714"
 				}
 			],
 			"name": "Hallelujah / I Know It's Over (Medley)",
-			"id": "",
+			"id": "f8db74f4-ae1c-450d-8026-f258150b08ca",
 			"length": 557296
 		},
 		{
 			"album": {
 				"name": "Youth & Young Manhood",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "6b513370-b7e1-4d43-93b5-b3df653fc573"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kings Of Leon",
-					"id": ""
+					"id": "2cb195f0-91e2-42ae-90e4-f7366c3db293"
 				}
 			],
 			"name": "Trani",
-			"id": "",
+			"id": "ef24a7c0-1d67-46c0-8403-aa41a1904310",
 			"length": 300643
 		},
 		{
 			"album": {
 				"name": "Spokes",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "654d6ff5-dd0e-4714-8cdb-1f1ccfc6e444"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Plaid",
-					"id": ""
+					"id": "4739518a-bf89-4958-a82d-9c8b933620bd"
 				}
 			],
 			"name": "B Born Droid",
-			"id": "",
+			"id": "c8a0a30a-acd0-41d8-9d3f-c74fd0e73cab",
 			"length": 331520
 		}
 	]

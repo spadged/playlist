@@ -2,87 +2,82 @@
 	"name": "December",
 	"month": "12",
 	"year": "2004",
-	"id": "",
+	"id": "bb266f85-101b-43ab-b5ea-905ce4c2b655",
 	"tracks": [
 		{
 			"album": {
 				"name": "Talkie Walkie",
-				"image": "",
-				"id": ""
+				"id": "dff9beb0-6ae9-4c97-a53d-231776f239fe"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Air",
-					"id": ""
+					"id": "aa3f7228-b34e-42ce-ac20-605e391e0936"
 				}
 			],
 			"name": "Run",
-			"id": "",
+			"id": "ae46b217-c744-4c1f-bf7b-d11f1362db37",
 			"length": 252473
 		},
 		{
 			"album": {
-				"name": "Vanilla Sky",
-				"image": "",
-				"id": ""
+				"name": "Home",
+				"id": "8bc28e48-51ad-469c-b63e-e5c377143f93"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Josh Rouse",
-					"id": ""
+					"id": "0fb2c1d2-4e3b-4d30-823b-c652b8b4769e"
 				}
 			],
 			"name": "Directions",
-			"id": "",
+			"id": "46c72a69-460a-45b5-abec-13adc507bd77",
 			"length": 204773
 		},
 		{
 			"album": {
 				"name": "The Contino Sessions",
-				"image": "",
-				"id": ""
+				"id": "164267a1-3b13-4c1a-812c-7369d3585554"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Death in Vegas",
-					"id": ""
+					"id": "aa877c5d-a343-4d75-afff-cebec0dfcfae"
 				}
 			],
 			"name": "Aladdin's story",
-			"id": "",
+			"id": "4e3cb98f-c7a1-4f6e-bdd1-a6287b43d3c3",
 			"length": 219559
 		},
 		{
 			"album": {
 				"name": "Aha Shake Heartbreak",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "27e81095-67bf-4356-a899-06665000ea5c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kings Of Leon",
-					"id": ""
+					"id": "2cb195f0-91e2-42ae-90e4-f7366c3db293"
 				}
 			],
 			"name": "Milk",
-			"id": "",
+			"id": "21e26c48-e223-410d-a8f4-982a0825a37e",
 			"length": 240326
 		},
 		{
 			"album": {
-				"name": "Running From Demons",
-				"image": "",
-				"id": ""
+				"name": "Airbag / How Am I Driving?",
+				"id": "c9794341-6ea1-45d9-bcf1-6c28d37def18"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "A Reminder",
-			"id": "",
+			"id": "f09c8a62-fd97-4b16-8684-ea2c4fa2f434",
 			"length": 231471
 		}
 	]

@@ -7,87 +7,127 @@
 		{
 			"album": {
 				"name": "Burn the Witch",
-				"image": "https://i.scdn.co/image/fc67258a36d4631239593313bdd55a16be3885f6",
 				"year": "",
-				"id": "2DCzgO12HyMeGxoQlbtvQV"
+				"id": "",
+				"externalId": {
+					"spotify": "2DCzgO12HyMeGxoQlbtvQV"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "",
+					"externalId": {
+						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
+					}
 				}
 			],
 			"name": "Burn the Witch",
-			"id": "3dAxzv7hkxipbuWJaOMzAl",
-			"length": 220609
+			"id": "",
+			"length": 220609,
+			"externalId": {
+				"spotify": "3dAxzv7hkxipbuWJaOMzAl"
+			}
 		},
 		{
 			"album": {
 				"name": "In Conflict",
-				"image": "https://i.scdn.co/image/d38dec985f9fde03937a398257b855ec237e1bb0",
 				"year": "",
-				"id": "5uw6bqTj61Fjy73OpymGDC"
+				"id": "",
+				"externalId": {
+					"spotify": "5uw6bqTj61Fjy73OpymGDC"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Owen Pallett",
-					"id": "77Rj6PHmQJFb8nbSH62y68"
+					"id": "",
+					"externalId": {
+						"spotify": "77Rj6PHmQJFb8nbSH62y68"
+					}
 				}
 			],
 			"name": "In Conflict",
-			"id": "7HOUmHMzQ1wyNlRksUrmzn",
-			"length": 253706
+			"id": "",
+			"length": 253706,
+			"externalId": {
+				"spotify": "7HOUmHMzQ1wyNlRksUrmzn"
+			}
 		},
 		{
 			"album": {
 				"name": "Currents",
-				"image": "https://i.scdn.co/image/baf2307038b91139d25efafe175e2a66369efeb8",
 				"year": "",
-				"id": "0rxKf57PZvWEoU8v3m5W2q"
+				"id": "",
+				"externalId": {
+					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "5INjqkS1o8h1imAzPqGZBb"
+					"id": "",
+					"externalId": {
+						"spotify": "5INjqkS1o8h1imAzPqGZBb"
+					}
 				}
 			],
 			"name": "The Less I Know The Better",
-			"id": "4g3Ax56IslQkI6XVfYKVc5",
-			"length": 216318
+			"id": "",
+			"length": 216318,
+			"externalId": {
+				"spotify": "4g3Ax56IslQkI6XVfYKVc5"
+			}
 		},
 		{
 			"album": {
 				"name": "VEGA INTL. Night School",
-				"image": "https://i.scdn.co/image/18ee38f742d042fe372d1f571e6669d380889f57",
 				"year": "",
-				"id": "6cAIm2AZBlMXTXpypxgcE5"
+				"id": "",
+				"externalId": {
+					"spotify": "6cAIm2AZBlMXTXpypxgcE5"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Neon Indian",
-					"id": "0KydPQPUUoTNhmiHKOg5Er"
+					"id": "",
+					"externalId": {
+						"spotify": "0KydPQPUUoTNhmiHKOg5Er"
+					}
 				}
 			],
 			"name": "Techno Clique",
-			"id": "6hkd96xGgvtEJTee8TXv7w",
-			"length": 272318
+			"id": "",
+			"length": 272318,
+			"externalId": {
+				"spotify": "6hkd96xGgvtEJTee8TXv7w"
+			}
 		},
 		{
 			"album": {
 				"name": "White Men Are Black Men Too",
-				"image": "https://i.scdn.co/image/1c8a96a2c89648bb8b88a83aa0afb92fb8f33555",
 				"year": "",
-				"id": "3xtwcBeltPMO0I4PnDfV0k"
+				"id": "",
+				"externalId": {
+					"spotify": "3xtwcBeltPMO0I4PnDfV0k"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Young Fathers",
-					"id": "5mZC7ndY6oGMxJentRwsuV"
+					"id": "",
+					"externalId": {
+						"spotify": "5mZC7ndY6oGMxJentRwsuV"
+					}
 				}
 			],
 			"name": "Sirens",
-			"id": "2gYdgnpPtB17vcYZms3ats",
-			"length": 180326
+			"id": "",
+			"length": 180326,
+			"externalId": {
+				"spotify": "2gYdgnpPtB17vcYZms3ats"
+			}
 		}
 	]
 }

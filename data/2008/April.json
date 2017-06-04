@@ -1,93 +1,147 @@
 {
-	"name": "April",
-	"month": "04",
+	"name": "April Top 5 2008",
+	"month": "april",
 	"year": "2008",
-	"id": "",
+	"id": "7Esik1aN4OzrXLnwq20e2K",
 	"tracks": [
 		{
 			"album": {
-				"name": "In Rainbows",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
-				}
-			],
-			"name": "4 Minute Warning",
-			"id": "",
-			"length": 246308
-		},
-		{
-			"album": {
-				"name": "Sound Of Silver",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "LCD Soundsystem",
-					"id": ""
-				}
-			],
-			"name": "Get Innocuous!",
-			"id": "",
-			"length": 431568
-		},
-		{
-			"album": {
 				"name": "Era Vulgaris",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Queens of the Stone Age",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "River In The Road",
 			"id": "",
-			"length": 199993
+			"length": 199000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Y34RZ3R0R3M1X3D",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Kronos Quartet and Enrique Gonzalez Muller",
-					"id": ""
+					"name": "Nine Inch Nails",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Kronos Quartet",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "nrique Gonzalez Muller",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Another Version of the Truth",
 			"id": "",
-			"length": 265221
+			"length": 265000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Sound Of Silver",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "LCD Soundsystem",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Get Innocuous!",
+			"id": "",
+			"length": 431000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "In Rainbows",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Radiohead",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "4 Minute Warning",
+			"id": "",
+			"length": 246000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "We Were Dead Before The Ship Even Sank",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Modest Mouse",
-					"id": ""
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Steam Engenius",
 			"id": "",
-			"length": 266370
+			"length": 266000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

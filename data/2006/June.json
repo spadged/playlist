@@ -2,91 +2,86 @@
 	"name": "June",
 	"month": "06",
 	"year": "2006",
-	"id": "",
+	"id": "eb4f0046-ff3c-4064-beed-4bd2d00e7a20",
 	"tracks": [
 		{
 			"album": {
 				"name": "Thicker Than Water",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "b98ecfc3-a53a-4208-8fe6-2d6146190cc4"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Todd Hannigan",
-					"id": ""
+					"id": "cd99b03c-8d59-44b7-8177-b8899490e5b2"
 				}
 			],
 			"name": "Thicker Than Water",
-			"id": "",
+			"id": "68023568-1a14-4bb0-a0ca-8cdfba9730d0",
 			"length": 204852
 		},
 		{
 			"album": {
 				"name": "Thicker Than Water",
-				"image": "",
 				"year": 1969,
-				"id": ""
+				"id": "50e0e84c-8465-487d-84d0-0c2f851e5648"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Harpers Bizarre",
-					"id": ""
+					"id": "1239fa68-361d-45b1-b814-a77e8a5774ee"
 				}
 			],
 			"name": "Witchi Tai To",
-			"id": "",
+			"id": "00107d9d-f77a-44af-96b4-c26a9ea06117",
 			"length": 163657
 		},
 		{
 			"album": {
 				"name": "On and On",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "081c66ed-1e3f-4142-a14c-240c5ef891ac"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jack Johnson",
-					"id": ""
+					"id": "d95232a3-5252-475a-9568-d12edfcd0e24"
 				}
 			],
 			"name": "Traffic In The Sky",
-			"id": "",
+			"id": "a9b03674-9130-4e6a-b746-7eb460ce4835",
 			"length": 171023
 		},
 		{
 			"album": {
 				"name": "Heartbreaker",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "1b666706-db61-411f-896f-824b51bb7cfc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ryan Adams",
-					"id": ""
+					"id": "06aaf4f3-540e-4976-a3aa-59b7cb9c3522"
 				}
 			],
 			"name": "To Be Young (Is to Be Sad, Is to Be High)",
-			"id": "",
+			"id": "0689c118-0747-40a3-9535-38514c986a0a",
 			"length": 184411
 		},
 		{
 			"album": {
 				"name": "The Eraser",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "a8370110-2de2-4e62-9571-9e776199addf"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Thom Yorke",
-					"id": ""
+					"id": "db6f6263-27dc-4b15-8c38-52bfedca9610"
 				}
 			],
 			"name": "The Eraser",
-			"id": "",
+			"id": "3018e8bc-8a56-4043-a155-67d840d14bcc",
 			"length": 293851
 		}
 	]
