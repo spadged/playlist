@@ -10,7 +10,7 @@ class GenerateLookup
 
 		var lookup:any = Utils.openJsonFile("../../data/lookup.json");
 
-		var reset:boolean = false;
+		var reset:boolean = true;
 
 		if(reset)
 		{
@@ -49,30 +49,40 @@ class GenerateLookup
 								playlist.tracks[t].id = Utils.generateUUID();
 							}
 
-							var albumKey:string = this.nameToKey(track.album.name);
+							var albumKey:string = Utils.nameToKey(track.album.name);
 
 							if(lookup.albums[albumKey] === undefined)
 							{
 								var albumId:string = Utils.generateUUID();
-								
-								lookup.albums[albumKey] = albumId;
+
+								lookup.albums[albumKey] = {id: albumId, discogs: "", spotify: ""};
 
 								playlist.tracks[t].album.id = albumId; 
+							}
+
+							if(track.album["externalId"] != undefined)
+							{
+								lookup.albums[albumKey].spotify = track.album.externalId.spotify;
 							}
 
 							for(var a:number=0; a < track.artists.length; a++)
 							{
 								var artist:IArtist = track.artists[a];
 
-								var artistKey:string = this.nameToKey(artist.name);
+								var artistKey:string = Utils.nameToKey(artist.name);
 
 								if(lookup.artists[artistKey] === undefined)
 								{
 									var artistId = Utils.generateUUID();
-									
-									lookup.artists[artistKey] = artistId;
+
+									lookup.artists[artistKey] = {id: artistId, discogs: "", spotify: ""};
 
 									playlist.tracks[t].artists[a].id = artistId;
+								}
+
+								if(artist["externalId"] != undefined)
+								{
+									lookup.artists[artistKey].spotify = artist.externalId.spotify;
 								}
 							}
 						}
@@ -90,7 +100,14 @@ class GenerateLookup
 		Utils.saveJsonFile("../../data/manifest.json", manifest);
 	}
 
-	private nameToKey(name:string):string
+	
+}
+
+class Utils
+{
+	private static fs:any = require("fs");
+
+	public static nameToKey(name:string):string
 	{
 		var result:string = name.toLowerCase();
 
@@ -98,12 +115,7 @@ class GenerateLookup
 
 		return result;
 	}
-}
-
-class Utils
-{
-	private static fs:any = require("fs");
-
+	
 	public static generateUUID():string
 	{
     	var d:number = new Date().getTime();
