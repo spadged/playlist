@@ -2,43 +2,138 @@
 
 class GenerateLookup
 {
-	private generateManifest():void
+	constructor()
 	{
-
+		this.checkData();
+		//this.generateManifest();
+		//this.generateLookup();
 	}
 
-	private generateLookup():void
+	private checkData():void
 	{
+		var months:any = {
+			"january":1, "february":2, "march":3, "april":4,
+			"may":5, "june":6, "july":7, "august":8,
+			"september":9, "october":10, "november":11, "december":12
+		};
+
 		var pathLookup:string = "../../data/cache/lookup-internal.json";
 		
 		var lookup:any = Utils.openJsonFile(pathLookup);
 
-		this.iterateTracks(function(track:ITrack):void
+		this.iteratePlaylists(function(playlist:IPlaylist, path:string):void
 		{
-			//do stuff
+			//check playlist month format is correct
+			var month:string = playlist.name.split(" ")[0].toLowerCase();
+
+			playlist.month = {
+				label: month,
+				value: months[month]
+			};
+
+			//check shit has a guid
+			for(var i:number = 0; i < playlist.tracks.length; i++)
+			{
+				var track:ITrack = playlist.tracks[i];
+
+				if(track.id == "")
+				{
+					playlist.tracks[i].id = this.generateUUID();
+				}
+
+				if(track.album.id == "")
+				{
+					var keyAlbum:string = Utils.nameToKey(track.album.name);
+
+					if(lookup.album[keyAlbum] === undefined)
+					{
+						var albumId:string = Utils.generateUUID();
+						
+						playlist.tracks[i].album.id = lookup.album[keyAlbum] = albumId
+					}
+					else
+					{
+						playlist.tracks[i].album.id = lookup.album[keyAlbum];
+					}
+				}
+
+				for(var z:number = 0; z < track.artists.length; z++)
+				{
+					var artist:IArtist = track.artists[z];
+
+					console.log(artist);
+
+					if(artist !== undefined && artist !== null && artist.id == "")
+					{	
+						var keyArtist:string = Utils.nameToKey(artist.name);
+						
+						if(lookup.artist[keyArtist] === undefined)
+						{
+							var artistId:string = Utils.generateUUID();
+
+							playlist.tracks[i].artists[z].id = lookup.artist[keyArtist] = artistId;
+						}
+						else
+						{
+							playlist.tracks[i].artists[z].id = lookup.artist[keyArtist];
+						}
+					}
+				}
+			}
+
+			Utils.saveJsonFile(path, playlist);
 		});
 
 		Utils.saveJsonFile(pathLookup, lookup);
 	}
-	
-	private generateInternal():void
+
+	private generateManifest():void
 	{
-		var pathLookup:string = "../../data/cache/lookup-internal.json";
+		var path:string = "../../data/cache/manifest.json";
 		
-		var lookup:any = Utils.openJsonFile(pathLookup);
+		var manifest:any = {};
+
+		this.iteratePlaylists(function(playlist:IPlaylist):void
+		{
+			if(manifest[playlist.year] === undefined)
+			{
+				manifest[playlist.year] = [];
+			}
+
+			manifest[playlist.year].push(playlist.month);
+		});
+
+		Utils.saveJsonFile(path, manifest); 
+	}
+	
+	private generateLookup():void
+	{
+		var self:any = this;
 		
-		this.iterateTracks(function(track:ITrack):void
+		var pathInternalLookup:string = "../../data/cache/lookup-internal.json";
+
+		var pathLookup:string = "../../data/cache/lookup.json";
+
+		var lookupInternal:any = {};
+
+		var lookup:any = {};
+		
+		this.iterateTracks(function(playlist:IPlaylist, track:ITrack):void
 		{
 			var albumKey:string = Utils.nameToKey(track.album.name);
 
-			if(track.album.id == "")
+			if(lookupInternal.album[albumKey] === undefined)
 			{
-				track.album.id = Utils.generateUUID();
+				lookupInternal.album[albumKey] = track.album.id;
 			}
 
-			if(lookup[track.album.name] === undefined)
+			if(lookup[track.album.id] == undefined)
 			{
-				lookup[albumKey] = track.album.id;
+				lookup[track.album.id] = {
+					spotify: self.getExternalId(track.album, "spotify"),
+					discogs: self.getExternalId(track.album, "discogs"),
+					type: "album"
+				};
 			}
 
 			for(var i:number = 0; i < track.artists.length; i++)
@@ -47,21 +142,37 @@ class GenerateLookup
 
 				var artistKey:string = Utils.nameToKey(artist.name);
 
-				if(artist.id == "")
+				if(lookupInternal.artist[artistKey] === undefined)
 				{
-					artist.id = Utils.generateUUID();
+					lookupInternal.artist[artistKey] = artist.id;
 				}
 
-				if(lookup[artistKey] === undefined)
+				if(lookup[artist.id] === undefined)
 				{
-					lookup[artistKey] = artist.id;
+					lookup[artist.id] = {
+					spotify: self.getExternalId(track.album, "spotify"),
+					discogs: self.getExternalId(track.album, "discogs"),
+					type: "artist"
+				};
 				}
 			}
-
-			//todo, resave track data
 		});
 
 		Utils.saveJsonFile(pathLookup, lookup);
+
+		Utils.saveJsonFile(pathInternalLookup, lookupInternal);
+	}
+
+	private getExternalId(data:any, property:string):string
+	{
+		var result:string = "";
+
+		if(data['externalId'] !== undefined && data.externalId[property] !== undefined)
+		{
+			result = data.externalId[property];
+		}
+
+		return result;
 	}
 
 	private iterateTracks(callback:Function):void
@@ -72,7 +183,7 @@ class GenerateLookup
 			{
 				var track:ITrack = playlist.tracks[i];
 				
-				callback(track)
+				callback(playlist, track);
 			}
 		})
 	}
@@ -105,105 +216,6 @@ class GenerateLookup
 			}
 		}
 	}
-	
-	constructor()
-	{
-		var dirs:Array<string> = Utils.readDir("../../data/");
-
-		var manifest:Array<any> = [];
-
-		var lookup:any = Utils.openJsonFile("../../data/lookup.json");
-
-		var reset:boolean = true;
-
-		if(reset)
-		{
-			lookup = {};
-		}
-
-		for(var i:number=0; i < dirs.length; i++)
-		{
-			var dir:string = dirs[i];
-
-			if(dir != "lookup.json" && dir != "manifest.json" && dir != ".DS_Store")
-			{
-				var files:Array<string> = Utils.readDir("../../data/" + dir + "/");
-				
-				var list:Array<string> = [];
-
-				for(var z:number = 0; z < files.length; z++)
-				{
-					var fileName:string = files[z];
-
-					if(fileName != ".DS_Store")
-					{
-						list.push(fileName.replace(".json",""));
-						
-						var filePath:string = "../../data/" + dir + "/" + fileName;
-						
-						var playlist:IPlaylist = Utils.openJsonFile(filePath);
-
-						for (var t:number = 0; t < playlist.tracks.length; t++)
-						{
-							var track:ITrack = playlist.tracks[t];
-
-							if(playlist.tracks[t].id === "")
-							{
-								playlist.tracks[t].id = Utils.generateUUID();
-							}
-
-							var albumKey:string = Utils.nameToKey(track.album.name);
-
-							if(lookup.albums[albumKey] === undefined)
-							{
-								var albumId:string = Utils.generateUUID();
-
-								lookup.albums[albumKey] = {id: albumId, discogs: "", spotify: ""};
-
-								playlist.tracks[t].album.id = albumId; 
-							}
-
-							if(track.album["externalId"] != undefined)
-							{
-								lookup.albums[albumKey].spotify = track.album.externalId.spotify;
-							}
-
-							for(var a:number=0; a < track.artists.length; a++)
-							{
-								var artist:IArtist = track.artists[a];
-
-								var artistKey:string = Utils.nameToKey(artist.name);
-
-								if(lookup.artists[artistKey] === undefined)
-								{
-									var artistId = Utils.generateUUID();
-
-									lookup.artists[artistKey] = {id: artistId, discogs: "", spotify: ""};
-
-									playlist.tracks[t].artists[a].id = artistId;
-								}
-
-								if(artist["externalId"] != undefined)
-								{
-									lookup.artists[artistKey].spotify = artist.externalId.spotify;
-								}
-							}
-						}
-
-						Utils.saveJsonFile(filePath, playlist);
-					}
-				}
-
-				manifest.push({year: dir, files: list});
-			}
-		}
-
-		Utils.saveJsonFile("../../data/lookup.json", lookup);
-
-		Utils.saveJsonFile("../../data/manifest.json", manifest);
-	}
-
-	
 }
 
 class Utils
@@ -212,7 +224,12 @@ class Utils
 
 	public static nameToKey(name:string):string
 	{
-		return name.toLowerCase().trim().replace(/\s+/g, '');
+		return name
+			.toLowerCase()
+			.trim()
+			.replace(/\s+/g, '')
+			.replace(/&/g,'and')
+			.replace(/\./g,'');
 	}
 	
 	public static generateUUID():string
