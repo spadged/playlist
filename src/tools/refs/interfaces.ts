@@ -5,7 +5,7 @@ interface IPlaylist
 	tracks:Array<ITrack>;
 	name:string;
 	year:string;
-	month:string;
+	month:IValueLabel;
 	id:string;
 }
 
@@ -38,4 +38,11 @@ interface IExternalId
 {
 	spotify?:string;
 	gracenote?:string;
+	discogs?:string;
+}
+
+interface IValueLabel
+{
+	value:string;
+	label:string;
 }
