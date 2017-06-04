@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2011",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2011",
 	"id": "522nZwyD87wJp8flG64Fwu",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "The National",
-					"id": "",
+					"id": "5c880de8-23a9-47e1-bbdf-342235bc1cbd",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "The Suburbs",
 				"year": "",
-				"id": "",
+				"id": "916827dd-7adc-4bba-a214-6cf308bd647a",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}
@@ -141,7 +144,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}
@@ -183,7 +186,7 @@
 			"album": {
 				"name": "I Told You I Was Freaky",
 				"year": "",
-				"id": "",
+				"id": "159b29f8-b635-44c7-ab73-9d8235ff5f73",
 				"externalId": {
 					"spotify": null
 				}
@@ -191,7 +194,7 @@
 			"artists": [
 				{
 					"name": "Flight of the Conchords",
-					"id": "",
+					"id": "7994ea75-dbed-41b4-a825-f400b364f754",
 					"externalId": {
 						"spotify": null
 					}
@@ -216,7 +219,7 @@
 			"artists": [
 				{
 					"name": "Tom Vek",
-					"id": "",
+					"id": "ff98b5d0-38be-4a17-b880-8d4f65dd30c0",
 					"externalId": {
 						"spotify": null
 					}

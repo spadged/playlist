@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2016",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2016",
 	"id": "2Kuc8EgmbITV34iqHna1DC",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "David Bowie",
-					"id": "",
+					"id": "bc493e43-e606-4a71-851b-3f10762a6774",
 					"externalId": {
 						"spotify": "0oSGxfWSnnOXhD2fKuz2Gy"
 					}

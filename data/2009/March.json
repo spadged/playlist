@@ -1,6 +1,9 @@
 {
 	"name": "March Top 5 2009",
-	"month": "march",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2009",
 	"id": "0G88NOqtYUqgQtlg9fjBrd",
 	"tracks": [
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Merriweather Post Pavilion",
 				"year": "",
-				"id": "",
+				"id": "b7e44c34-333c-43fc-80d7-d4ed37217d31",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Animal Collective",
-					"id": "",
+					"id": "f3eb8355-4783-44f9-896b-64008fa8f0c6",
 					"externalId": {
 						"spotify": null
 					}

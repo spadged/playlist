@@ -1,6 +1,9 @@
 {
 	"name": "September Top 5 2008",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2008",
 	"id": "2nCJ3dJOVp6unjvuYjaokD",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Attack Decay Sustain Release",
 				"year": "",
-				"id": "",
+				"id": "a82c08dc-20d8-4189-83dc-61741a379bb6",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Simian Mobile Disco",
-					"id": "",
+					"id": "dc9075da-fb5d-4435-ada7-5cb7609b4e15",
 					"externalId": {
 						"spotify": null
 					}

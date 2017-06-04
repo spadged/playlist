@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2017",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2017",
 	"id": "6oVvUC1JOFC1VEuhhooyxD",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Young Fathers",
-					"id": "",
+					"id": "9a2989f5-c829-4bf7-b642-9e9866812837",
 					"externalId": {
 						"spotify": "5mZC7ndY6oGMxJentRwsuV"
 					}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Georgia",
-					"id": "",
+					"id": "d4439ade-57a7-4e6f-a1f1-56395ea935b8",
 					"externalId": {
 						"spotify": "06knYh538h5SI7OAEF8ek3"
 					}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Warpaint",
-					"id": "",
+					"id": "6bc492cd-b367-4942-968c-ecc8a7969601",
 					"externalId": {
 						"spotify": "3AmgGrYHXqgbmZ2yKoIVzO"
 					}

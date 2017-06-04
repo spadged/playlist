@@ -1,6 +1,9 @@
 {
 	"name": "November Top 5 2013",
-	"month": "november",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2013",
 	"id": "61cCVZ3CSKUt1f1g7a4VWQ",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Modeselektor",
-					"id": "",
+					"id": "617b3769-97d4-4793-b064-337799df49ad",
 					"externalId": {
 						"spotify": null
 					}

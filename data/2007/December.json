@@ -1,6 +1,9 @@
 {
 	"name": "December Top 5 2007",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2007",
 	"id": "7Jeozc1eiszMlTUCcMLZq2",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Sound Of Silver",
 				"year": "",
-				"id": "",
+				"id": "ff89327a-ec8a-4f66-b06d-f3308f0a9b82",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "LCD Soundsystem",
-					"id": "",
+					"id": "00a582fa-b658-4aac-bbbe-91c8eeabdf27",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "In Rainbows",
 				"year": "",
-				"id": "",
+				"id": "a7eaf61a-3d41-47a9-b42f-eaef8ba7e21c",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Iron & Wine",
-					"id": "",
+					"id": "0c66d1e2-948a-4576-8a13-b2bbda63a8a6",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "Sgt. Pepper's Lonely Hearts Club Band",
 				"year": "",
-				"id": "",
+				"id": "523db593-d6b3-4d78-9e24-bce200689017",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "The Beatles",
-					"id": "",
+					"id": "88fbae7b-dd9d-4f45-a9ff-1dd198e75192",
 					"externalId": {
 						"spotify": null
 					}

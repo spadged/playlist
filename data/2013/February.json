@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2013",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2013",
 	"id": "29nsvteg1g04tIQ36fpevE",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": "",
+					"id": "52b9b635-d8eb-4312-90fe-f580eebbc445",
 					"externalId": {
 						"spotify": null
 					}

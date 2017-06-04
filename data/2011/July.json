@@ -1,6 +1,9 @@
 {
 	"name": "July Top 5 2011",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2011",
 	"id": "0oVA25YOFTKdjylGrsHrnR",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Era Extraña",
 				"year": "",
-				"id": "",
+				"id": "5a891c29-8e9c-41de-b16e-8dcc492c4fb9",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Neon Indian",
-					"id": "",
+					"id": "271e60ea-289d-4450-bb4f-bd954a65d395",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Squarepusher",
-					"id": "",
+					"id": "73a4fd10-9f20-4d47-9b0c-6f40f74c3fad",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Y34RZ3R0R3M1X3D",
 				"year": "",
-				"id": "",
+				"id": "7711012f-f796-49c5-ba90-f46f8ba4ba21",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": "",
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "The Love Below",
 				"year": "",
-				"id": "",
+				"id": "661ea1a1-ce18-406d-ba91-c494299ed915",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Outkast",
-					"id": "",
+					"id": "1f205c23-ad23-42ea-bdbf-3d95744d57ef",
 					"externalId": {
 						"spotify": null
 					}

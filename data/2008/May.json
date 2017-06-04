@@ -1,6 +1,9 @@
 {
 	"name": "May top 5 2008",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2008",
 	"id": "6Svdnfgc2xU7gwKoiS26Ig",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Kanye West",
-					"id": "",
+					"id": "448ff158-68af-45bf-a765-2579997bde53",
 					"externalId": {
 						"spotify": null
 					}
@@ -65,7 +68,7 @@
 			"album": {
 				"name": "The Warning",
 				"year": "",
-				"id": "",
+				"id": "acdbf36a-a8a9-4f04-8a6f-a20dc094cbad",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": "",
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +93,7 @@
 			"album": {
 				"name": "Ma Fleur",
 				"year": "",
-				"id": "",
+				"id": "e186eaa1-9d62-4742-a225-4ff54fb4173c",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "The Cinematic Orchestra",
-					"id": "",
+					"id": "1bdbfec1-0180-42a1-b128-3a29404c68dd",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "Era Vulgaris",
 				"year": "",
-				"id": "",
+				"id": "3a4637ca-065c-4e5a-8669-b62f7feaee63",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Queens of the Stone Age",
-					"id": "",
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3",
 					"externalId": {
 						"spotify": null
 					}

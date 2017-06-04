@@ -1,6 +1,9 @@
 {
 	"name": "July Top 5 2008",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2008",
 	"id": "3F64FsHP4QIL08Siqc0RNO",
 	"tracks": [
@@ -166,7 +169,7 @@
 			"artists": [
 				{
 					"name": "Beck",
-					"id": "",
+					"id": "2e82a8f0-265e-4a6e-93b9-6bff6b2b5d42",
 					"externalId": {
 						"spotify": null
 					}
@@ -240,7 +243,7 @@
 			"album": {
 				"name": "Amnesiac",
 				"year": "",
-				"id": "",
+				"id": "0caf4ccf-cbee-44e8-9331-86ba96c0f94f",
 				"externalId": {
 					"spotify": null
 				}
@@ -248,7 +251,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}

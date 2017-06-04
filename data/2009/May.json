@@ -1,6 +1,9 @@
 {
 	"name": "May Top 5 2009",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2009",
 	"id": "2ft8vbSmdYZh3fHnDKo1L1",
 	"tracks": [
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Dark Night Of The Soul",
 				"year": "",
-				"id": "",
+				"id": "89399bb6-4eda-47a7-af69-b54db23b327b",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "",
+					"id": "d395b353-f88d-4608-848c-73bf907ed076",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "Two Suns",
 				"year": "",
-				"id": "",
+				"id": "0eaf7953-3ca7-41b9-b517-3527bae894fa",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "",
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
 					"externalId": {
 						"spotify": null
 					}

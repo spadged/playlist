@@ -1,6 +1,9 @@
 {
 	"name": "March Top 5 2011",
-	"month": "march",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2011",
 	"id": "068WslXVXKRCjbFVAADLrR",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "The King Of Limbs",
 				"year": "",
-				"id": "",
+				"id": "344c3f3b-fb05-40d7-8d42-6aee45238f8d",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "High Violet",
 				"year": "",
-				"id": "",
+				"id": "be752d59-d78d-4c8f-abee-fa8d91bcc1b2",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "The National",
-					"id": "",
+					"id": "5c880de8-23a9-47e1-bbdf-342235bc1cbd",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Magic Chairs",
 				"year": "",
-				"id": "",
+				"id": "f8e48862-256d-4f78-b434-5fb2459e47a8",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Efterklang",
-					"id": "",
+					"id": "5ae691a2-7bd0-4a96-85d3-d0faa01bae36",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Iron & Wine",
-					"id": "",
+					"id": "0c66d1e2-948a-4576-8a13-b2bbda63a8a6",
 					"externalId": {
 						"spotify": null
 					}

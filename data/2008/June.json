@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2008",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2008",
 	"id": "0l8vNMrPne5N7I6Zk6YXnK",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": "",
+					"id": "8765df1a-e512-4885-b0fa-92c22a380ebc",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "The White Album",
 				"year": "",
-				"id": "",
+				"id": "cb7e9364-fcac-4a4c-8ac6-16702570ebc0",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "The Beatles",
-					"id": "",
+					"id": "88fbae7b-dd9d-4f45-a9ff-1dd198e75192",
 					"externalId": {
 						"spotify": null
 					}
@@ -98,7 +101,7 @@
 				},
 				{
 					"name": "Justice",
-					"id": "",
+					"id": "f6a44559-c685-4297-814c-ba9db8696ca0",
 					"externalId": {
 						"spotify": null
 					}

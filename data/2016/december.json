@@ -1,6 +1,9 @@
 {
 	"name": "December Top 5 2016",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2016",
 	"id": "46FTuq0NgJ5KutaeqSgZVM",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Chromatics",
-					"id": "",
+					"id": "0d20cf17-ebce-43df-ba4e-511a6a95ce7d",
 					"externalId": {
 						"spotify": "4tOVIRjlWWfR1RrAxyRqTE"
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Elbow",
-					"id": "",
+					"id": "bdc6a55d-51d1-493c-88c1-0564c68f271c",
 					"externalId": {
 						"spotify": "0TJB3EE2efClsYIDQ8V2Jk"
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Raleigh Ritchie",
-					"id": "",
+					"id": "267d5ac3-0650-44ff-8e99-4047a1700532",
 					"externalId": {
 						"spotify": "0IB0VjX9NSrGX6PjCXGVcq"
 					}

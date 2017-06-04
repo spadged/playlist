@@ -1,6 +1,9 @@
 {
 	"name": "September Top 5 2016",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2016",
 	"id": "5JhwyhOfjNbjggvxmiJZE0",
 	"tracks": [
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Bob Dylan",
-					"id": "",
+					"id": "d2b0ae64-b67e-46dd-ba96-23d4d7206551",
 					"externalId": {
 						"spotify": "74ASZWbe4lXaubB36ztrGX"
 					}
@@ -91,14 +94,14 @@
 			"artists": [
 				{
 					"name": "David Holmes",
-					"id": "",
+					"id": "7408db14-48ab-4963-832f-8042742e08ea",
 					"externalId": {
 						"spotify": "10kGEgP8MxhlfeA2tMinsL"
 					}
 				},
 				{
 					"name": "Jon Hopkins",
-					"id": "",
+					"id": "741b4510-0cce-401d-81de-6d29cffd74e9",
 					"externalId": {
 						"spotify": "7yxi31szvlbwvKq9dYOmFI"
 					}

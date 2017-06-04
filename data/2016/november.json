@@ -1,6 +1,9 @@
 {
 	"name": "November Top 5 2016",
-	"month": "november",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2016",
 	"id": "6prVXdINopHvqWvKtMuDtA",
 	"tracks": [
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Bloc Party",
-					"id": "",
+					"id": "6c66bf1d-c761-4281-9198-74dc4b6bafa1",
 					"externalId": {
 						"spotify": "3MM8mtgFzaEJsqbjZBSsHJ"
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "September Top 5 2014",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2014",
 	"id": "13PwqArdAZaj0HZXYueny7",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Seeds",
 				"year": "",
-				"id": "",
+				"id": "22fc6bbe-c51d-47b9-9350-a8e5b12e1107",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": "",
+					"id": "52b9b635-d8eb-4312-90fe-f580eebbc445",
 					"externalId": {
 						"spotify": null
 					}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Aphex Twin",
-					"id": "",
+					"id": "02f357df-4e60-4b83-8bfc-0ce290854fda",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +93,7 @@
 			"album": {
 				"name": "El Pintor",
 				"year": "",
-				"id": "",
+				"id": "b07dfc64-64b3-4a4f-ac23-127c49f1755c",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Interpol",
-					"id": "",
+					"id": "a8cc658d-4bb4-419c-b2cc-096a7a1dff32",
 					"externalId": {
 						"spotify": null
 					}

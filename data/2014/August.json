@@ -1,6 +1,9 @@
 {
 	"name": "August Top 5 2014",
-	"month": "august",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2014",
 	"id": "1rjFIb8D1leL4g4QOY1ENb",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "La Roux",
-					"id": "",
+					"id": "25907714-f115-48a9-be6e-589aba0a3d6f",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Fragrant World",
 				"year": "",
-				"id": "",
+				"id": "b543986d-36b2-4c80-90e3-d2beb6ef110d",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Yeasayer",
-					"id": "",
+					"id": "36d53436-1f70-43f7-8441-e4e1fe7f496c",
 					"externalId": {
 						"spotify": null
 					}

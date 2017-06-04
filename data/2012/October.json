@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2012",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2012",
 	"id": "2U9zVP6fb5ZlpYyMagYs47",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Groove Armada",
-					"id": "",
+					"id": "25f92871-732d-481d-9f09-adb8d47e82c6",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": "",
+					"id": "52b9b635-d8eb-4312-90fe-f580eebbc445",
 					"externalId": {
 						"spotify": null
 					}
@@ -65,7 +68,7 @@
 			"album": {
 				"name": "Politics",
 				"year": "",
-				"id": "",
+				"id": "b31be8de-409f-4aa7-a9ec-0541f84b4ead",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Sébastien Tellier",
-					"id": "",
+					"id": "7a5c76ee-75a2-4cc7-83c6-c0d0b6c4b670",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +93,7 @@
 			"album": {
 				"name": "Build A Rocket Boys!",
 				"year": "",
-				"id": "",
+				"id": "6ddb7e6c-20bf-4267-bba4-bc1c0d8a0c69",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Elbow",
-					"id": "",
+					"id": "bdc6a55d-51d1-493c-88c1-0564c68f271c",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "Era Extraña",
 				"year": "",
-				"id": "",
+				"id": "5a891c29-8e9c-41de-b16e-8dcc492c4fb9",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Neon Indian",
-					"id": "",
+					"id": "271e60ea-289d-4450-bb4f-bd954a65d395",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "March Top 5 2016",
-	"month": "march",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2016",
 	"id": "3wilkJv4CY8M6DmhWjZe4O",
 	"tracks": [
@@ -16,14 +19,14 @@
 			"artists": [
 				{
 					"name": "Bombay Bicycle Club",
-					"id": "",
+					"id": "b890eb77-aa8f-4fd7-8d45-20985269007e",
 					"externalId": {
 						"spotify": "3pTE9iaJTkWns3mxpNQlJV"
 					}
 				},
 				{
 					"name": "UNKLE",
-					"id": "",
+					"id": "2fab40b2-239b-40cb-a451-4f7dc4c31c5e",
 					"externalId": {
 						"spotify": "2nszamLjZFgu3Yx77mKxuC"
 					}
@@ -65,7 +68,7 @@
 			"album": {
 				"name": "You're a Man Now, Boy",
 				"year": "",
-				"id": "",
+				"id": "5fd1458d-6acd-469f-966e-27d554d66ecb",
 				"externalId": {
 					"spotify": "50EXi4hlRIPF7fLQcWCXyp"
 				}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Raleigh Ritchie",
-					"id": "",
+					"id": "267d5ac3-0650-44ff-8e99-4047a1700532",
 					"externalId": {
 						"spotify": "0IB0VjX9NSrGX6PjCXGVcq"
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "December Top 5 2010",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2010",
 	"id": "3FAFfg5empPInVw5GL05ss",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Klaxons",
-					"id": "",
+					"id": "87c6b2fb-b0af-413b-9dc2-b1d84295f6ce",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": "",
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Dan Le Sac vs Scroobius Pip",
-					"id": "",
+					"id": "47403fa8-f8d2-47cc-9d7f-36e657a0234a",
 					"externalId": {
 						"spotify": null
 					}

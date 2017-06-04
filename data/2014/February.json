@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2014",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2014",
 	"id": "1TAKB8lk18FrkmCCOQOoul",
 	"tracks": [
@@ -40,7 +43,7 @@
 			"album": {
 				"name": "Scott Pilgrim vs. the World",
 				"year": "",
-				"id": "",
+				"id": "3aa9fa2e-8f95-49c6-9ead-77677e14b918",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,7 +51,7 @@
 			"artists": [
 				{
 					"name": "Nigel Godrich",
-					"id": "",
+					"id": "a98ed504-f1a5-4589-b5fd-44510cb568fd",
 					"externalId": {
 						"spotify": null
 					}
@@ -65,7 +68,7 @@
 			"album": {
 				"name": "Era Extraña",
 				"year": "",
-				"id": "",
+				"id": "5a891c29-8e9c-41de-b16e-8dcc492c4fb9",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Neon Indian",
-					"id": "",
+					"id": "271e60ea-289d-4450-bb4f-bd954a65d395",
 					"externalId": {
 						"spotify": null
 					}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Boards Of Canada",
-					"id": "",
+					"id": "0429bb53-d597-43f6-9427-f8e8b4dea0c6",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "Plateau Vision",
 				"year": "",
-				"id": "",
+				"id": "da244e77-2ef1-49a7-9516-7e18b756f92b",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Lushlife",
-					"id": "",
+					"id": "43980fd5-399c-4de9-a5d2-d7f80a2f9ba9",
 					"externalId": {
 						"spotify": null
 					}

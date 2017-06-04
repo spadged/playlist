@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2010",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2010",
 	"id": "7HycaAaxEZxD1GuURrCMzd",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Gorillaz",
-					"id": "",
+					"id": "e7af629b-06d5-4e6d-8b79-8c44493d74a1",
 					"externalId": {
 						"spotify": null
 					}
@@ -48,7 +51,7 @@
 			"artists": [
 				{
 					"name": "Crystal Castles",
-					"id": "",
+					"id": "e0078692-0393-4b47-8a32-e6fbdafec8fd",
 					"externalId": {
 						"spotify": null
 					}
@@ -105,7 +108,7 @@
 				},
 				{
 					"name": "Thom Yorke",
-					"id": "",
+					"id": "fdbacbf5-0d00-4169-afb3-41e8322f01ce",
 					"externalId": {
 						"spotify": null
 					}
@@ -130,7 +133,7 @@
 			"artists": [
 				{
 					"name": "Black Eyed Peas",
-					"id": "",
+					"id": "6867bdb2-3fa2-4d90-95f4-506dae113dfe",
 					"externalId": {
 						"spotify": null
 					}

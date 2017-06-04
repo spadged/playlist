@@ -1,6 +1,9 @@
 {
 	"name": "November Top 5 2011",
-	"month": "november",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2011",
 	"id": "1DHwEwVIHvRFKuJoX848Jx",
 	"tracks": [
@@ -40,7 +43,7 @@
 			"album": {
 				"name": "Lost Sides",
 				"year": "",
-				"id": "",
+				"id": "2023f08e-e171-4397-8a9d-432cfa495f4b",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,7 +51,7 @@
 			"artists": [
 				{
 					"name": "Doves",
-					"id": "",
+					"id": "99bcf564-2a38-4924-8819-56181fdf471a",
 					"externalId": {
 						"spotify": null
 					}
@@ -65,7 +68,7 @@
 			"album": {
 				"name": "Neon Bible",
 				"year": "",
-				"id": "",
+				"id": "00ec826d-66ed-43d1-a05f-910a3ada7f5b",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +93,7 @@
 			"album": {
 				"name": "Third",
 				"year": "",
-				"id": "",
+				"id": "29b85566-62d7-4bf4-8084-fbc2755858f1",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Portishead",
-					"id": "",
+					"id": "450c9faf-6f13-4574-afcb-8f5c85c88cf2",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "The Information",
 				"year": "",
-				"id": "",
+				"id": "a1ebff7a-37b0-409c-ad08-a380f651033a",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Beck",
-					"id": "",
+					"id": "2e82a8f0-265e-4a6e-93b9-6bff6b2b5d42",
 					"externalId": {
 						"spotify": null
 					}

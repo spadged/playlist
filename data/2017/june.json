@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2017",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2017",
 	"id": "5tad1avHmsvOm3gNMVA9A0",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": "3kjuyTCjPG1WMFCiyc5IuB"
 					}

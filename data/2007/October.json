@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2007",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2007",
 	"id": "2i4m2MOzxpeCsU70hyVfIZ",
 	"tracks": [
@@ -65,7 +68,7 @@
 			"album": {
 				"name": "In Rainbows",
 				"year": "",
-				"id": "",
+				"id": "a7eaf61a-3d41-47a9-b42f-eaef8ba7e21c",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Underworld",
-					"id": "",
+					"id": "2bc5bf42-2f07-4431-8484-afb4c1d3a4a4",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "We Are The Night",
 				"year": "",
-				"id": "",
+				"id": "c00f7c8b-ffaa-4ff2-b680-792d8fd7e8e6",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "The Chemical Brothers",
-					"id": "",
+					"id": "95561727-a19d-4ae3-84f3-05ea623c647c",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2009",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2009",
 	"id": "33ljwXyQa6QaA09BtmIM3m",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}

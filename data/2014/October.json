@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2014",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2014",
 	"id": "0mnFaef3UwzYySOnGh4Jlo",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Seeds",
 				"year": "",
-				"id": "",
+				"id": "22fc6bbe-c51d-47b9-9350-a8e5b12e1107",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Our Love",
 				"year": "",
-				"id": "",
+				"id": "a90929e9-fa52-4490-865e-5a9fd024e12a",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Caribou",
-					"id": "",
+					"id": "2a5bc698-845a-4062-9a0a-53459e186775",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Thom Yorke",
-					"id": "",
+					"id": "fdbacbf5-0d00-4169-afb3-41e8322f01ce",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Jamie T",
-					"id": "",
+					"id": "2de08652-50f9-47b9-8a78-4902481691b4",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "Warpaint",
 				"year": "",
-				"id": "",
+				"id": "f8b5c782-a709-442f-be31-d4c480ed724a",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Warpaint",
-					"id": "",
+					"id": "6bc492cd-b367-4942-968c-ecc8a7969601",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "May Top 5 2017",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2017",
 	"id": "1nx3DdhUaYC8vSxIcIbxcq",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Blood Orange",
-					"id": "",
+					"id": "234bfce3-c0d1-4009-96a6-7705a7a8f168",
 					"externalId": {
 						"spotify": "6LEeAFiJF8OuPx747e1wxR"
 					}

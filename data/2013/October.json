@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2013",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2013",
 	"id": "0b44m6mPjouNGHWaVPPWfK",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Dan Le Sac vs Scroobius Pip",
-					"id": "",
+					"id": "47403fa8-f8d2-47cc-9d7f-36e657a0234a",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Reflektor",
 				"year": "",
-				"id": "",
+				"id": "8b6230e5-0dd6-411e-b33c-ddaecf81c594",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "TV On the Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Player Piano",
 				"year": "",
-				"id": "",
+				"id": "8332ff94-76c2-46ce-8844-381a62117ab7",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Memory Tapes",
-					"id": "",
+					"id": "c5f2b046-7abe-4ff6-ba6a-60c656ff8023",
 					"externalId": {
 						"spotify": null
 					}

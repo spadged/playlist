@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2015",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2015",
 	"id": "4iBcPb4xDYvLOc9i5am3Nx",
 	"tracks": [
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Jamie xx",
-					"id": "",
+					"id": "dc00c068-f555-46e1-9e68-592786dec474",
 					"externalId": {
 						"spotify": null
 					}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Grimes",
-					"id": "",
+					"id": "768f8d89-0723-402b-b66a-b8789df1bf3a",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2013",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2013",
 	"id": "6CefFOhIm2kuFMU1rpC2DF",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Boards of Canada",
-					"id": "",
+					"id": "0429bb53-d597-43f6-9427-f8e8b4dea0c6",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": "",
+					"id": "8765df1a-e512-4885-b0fa-92c22a380ebc",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Queens Of The Stone Age",
-					"id": "",
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Random Access Memories",
 				"year": "",
-				"id": "",
+				"id": "296711d3-61f6-4256-95d6-117d53054a0a",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,14 +94,14 @@
 			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": "",
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Pharrell Williams ",
-					"id": "",
+					"id": "0100a3d4-d323-4b96-a7b2-3517ff846de1",
 					"externalId": {
 						"spotify": null
 					}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": "",
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d",
 					"externalId": {
 						"spotify": null
 					}

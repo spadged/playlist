@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2009",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2009",
 	"id": "0GwhoEFCHzJXsRxCjabjSy",
 	"tracks": [
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Elbow",
-					"id": "",
+					"id": "bdc6a55d-51d1-493c-88c1-0564c68f271c",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Kanye West",
-					"id": "",
+					"id": "448ff158-68af-45bf-a765-2579997bde53",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "The Killers",
-					"id": "",
+					"id": "41389d43-2061-47e5-98d8-d972eeb191fe",
 					"externalId": {
 						"spotify": null
 					}
@@ -166,7 +169,7 @@
 			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}
@@ -191,7 +194,7 @@
 			"artists": [
 				{
 					"name": "Bloc Party",
-					"id": "",
+					"id": "6c66bf1d-c761-4281-9198-74dc4b6bafa1",
 					"externalId": {
 						"spotify": null
 					}
@@ -208,7 +211,7 @@
 			"album": {
 				"name": "War Child Presents Heroes",
 				"year": "",
-				"id": "",
+				"id": "1135e4eb-fc7c-4e7b-9587-63386952d651",
 				"externalId": {
 					"spotify": null
 				}

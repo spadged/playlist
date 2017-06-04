@@ -1,6 +1,9 @@
 {
 	"name": "September Top 5 2010",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2010",
 	"id": "0lh4TGF7DvQ4kVCq79enN3",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Cerulean",
 				"year": "",
-				"id": "",
+				"id": "4f13807d-6dd8-4f5e-bd2b-c4bddadb094e",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Baths",
-					"id": "",
+					"id": "e11c7985-b201-47a5-9080-6da37a189d61",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Animal Collective",
-					"id": "",
+					"id": "f3eb8355-4783-44f9-896b-64008fa8f0c6",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "The Beatles",
-					"id": "",
+					"id": "88fbae7b-dd9d-4f45-a9ff-1dd198e75192",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Era Vulgaris",
 				"year": "",
-				"id": "",
+				"id": "3a4637ca-065c-4e5a-8669-b62f7feaee63",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Queens of the Stone Age",
-					"id": "",
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "September Top 5 2015",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2015",
 	"id": "0egh01ABOrCIqaxS0AVLRf",
 	"tracks": [
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Beach House",
-					"id": "",
+					"id": "3606ae8d-c0d1-4cee-ae28-88131d1a0e8e",
 					"externalId": {
 						"spotify": "56ZTgzPBDge0OvCGgMO3OY"
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Young Fathers",
-					"id": "",
+					"id": "9a2989f5-c829-4bf7-b642-9e9866812837",
 					"externalId": {
 						"spotify": "5mZC7ndY6oGMxJentRwsuV"
 					}

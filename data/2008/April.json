@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2008",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2008",
 	"id": "7Esik1aN4OzrXLnwq20e2K",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Era Vulgaris",
 				"year": "",
-				"id": "",
+				"id": "3a4637ca-065c-4e5a-8669-b62f7feaee63",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Queens of the Stone Age",
-					"id": "",
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": "",
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d",
 					"externalId": {
 						"spotify": null
 					}
@@ -72,7 +75,7 @@
 			"album": {
 				"name": "Sound Of Silver",
 				"year": "",
-				"id": "",
+				"id": "ff89327a-ec8a-4f66-b06d-f3308f0a9b82",
 				"externalId": {
 					"spotify": null
 				}
@@ -80,7 +83,7 @@
 			"artists": [
 				{
 					"name": "LCD Soundsystem",
-					"id": "",
+					"id": "00a582fa-b658-4aac-bbbe-91c8eeabdf27",
 					"externalId": {
 						"spotify": null
 					}
@@ -97,7 +100,7 @@
 			"album": {
 				"name": "In Rainbows",
 				"year": "",
-				"id": "",
+				"id": "a7eaf61a-3d41-47a9-b42f-eaef8ba7e21c",
 				"externalId": {
 					"spotify": null
 				}
@@ -105,7 +108,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}

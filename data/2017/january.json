@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2017",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2017",
 	"id": "08IUrLSrqfH03gzT4ZSjLt",
 	"tracks": [
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "The xx",
-					"id": "",
+					"id": "a5dfdc75-a9e3-4f9a-a43c-7f6e61b85a9f",
 					"externalId": {
 						"spotify": "3iOvXCl6edW5Um0fXEBRXy"
 					}

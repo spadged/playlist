@@ -1,6 +1,9 @@
 {
 	"name": "August Top 5 2008",
-	"month": "august",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2008",
 	"id": "08jgZyal9q56VrR9mLjSX8",
 	"tracks": [
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "The Eraser",
 				"year": "",
-				"id": "",
+				"id": "f53ad30d-c750-4c1b-ba30-14651d8b4ddf",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Thom Yorke",
-					"id": "",
+					"id": "fdbacbf5-0d00-4169-afb3-41e8322f01ce",
 					"externalId": {
 						"spotify": null
 					}

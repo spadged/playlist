@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2011",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2011",
 	"id": "7A9eyh4tGHCkpweQ1m88hq",
 	"tracks": [
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Bat for Lashes",
-					"id": "",
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "Nine Types Of Light",
 				"year": "",
-				"id": "",
+				"id": "3cab1ac9-f019-4970-a082-a1e0e34c264d",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}

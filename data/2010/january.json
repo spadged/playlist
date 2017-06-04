@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2010",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2010",
 	"id": "0Lli0TKJiIeZouiH0CFTw0",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Massive Attack",
-					"id": "",
+					"id": "5872c080-2650-4417-a57c-f928e22d7944",
 					"externalId": {
 						"spotify": null
 					}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": "",
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
 					"externalId": {
 						"spotify": null
 					}

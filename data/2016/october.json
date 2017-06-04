@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2016",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2016",
 	"id": "61LQBS2l6lK1yo1RvTx5Le",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Johnny Cash",
-					"id": "",
+					"id": "ea00a0f0-3b0c-4624-aa54-8d421d52ebac",
 					"externalId": {
 						"spotify": "6kACVPfCOnqzgfEF5ryl0x"
 					}

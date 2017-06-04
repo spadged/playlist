@@ -1,6 +1,9 @@
 {
 	"name": "December Top 5 2013",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2013",
 	"id": "0MNamOkitWdoyVdPZpKXKq",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Until The Quiet Comes",
 				"year": "",
-				"id": "",
+				"id": "7106f475-8b1b-418e-9b32-5575c3a34fd4",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +19,14 @@
 			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": "",
+					"id": "52b9b635-d8eb-4312-90fe-f580eebbc445",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Niki Randa",
-					"id": "",
+					"id": "106b6b95-bc78-4b2a-a4ae-f801c89595f0",
 					"externalId": {
 						"spotify": null
 					}
@@ -48,7 +51,7 @@
 			"artists": [
 				{
 					"name": "Plaid",
-					"id": "",
+					"id": "ab351a97-15f7-4ae4-aab3-23ca0bc7d3a0",
 					"externalId": {
 						"spotify": null
 					}
@@ -65,7 +68,7 @@
 			"album": {
 				"name": "Special Forces",
 				"year": "",
-				"id": "",
+				"id": "a5656288-f1d6-4b83-8934-64df5884addf",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Julian Fane",
-					"id": "",
+					"id": "9bd7ef6b-a974-4d8d-8caa-b0f88b607353",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "Eyelid Movies",
 				"year": "",
-				"id": "",
+				"id": "031103a8-5f85-4f7d-8927-1842e35fd132",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Phantogram",
-					"id": "",
+					"id": "63b0990b-0cc2-4b6b-a566-10a386d0cf0d",
 					"externalId": {
 						"spotify": null
 					}

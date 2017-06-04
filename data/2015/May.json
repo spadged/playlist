@@ -1,6 +1,9 @@
 {
 	"name": "May Top 5 2015",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2015",
 	"id": "0b9OH5ICRoVDoHBrVm4iiv",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Ambivalence Avenue",
 				"year": "",
-				"id": "",
+				"id": "5e8ddf02-f4d5-4388-9131-edc88a05eb34",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Bibio",
-					"id": "",
+					"id": "f076a11e-d339-4b20-9262-a1180bffa5bf",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Nosaj Thing",
-					"id": "",
+					"id": "ce67c455-320e-416b-8202-55b547d64621",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Why Make Sense?",
 				"year": "",
-				"id": "",
+				"id": "e4f85fde-488b-440f-b75b-2ed2c9527d77",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": "",
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Fragrant World",
 				"year": "",
-				"id": "",
+				"id": "b543986d-36b2-4c80-90e3-d2beb6ef110d",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Yeasayer",
-					"id": "",
+					"id": "36d53436-1f70-43f7-8441-e4e1fe7f496c",
 					"externalId": {
 						"spotify": null
 					}

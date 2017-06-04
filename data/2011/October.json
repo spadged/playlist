@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2011",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2011",
 	"id": "0lDUebIMKOrK5WcUsmmnmX",
 	"tracks": [
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Crystal Castles",
-					"id": "",
+					"id": "e0078692-0393-4b47-8a32-e6fbdafec8fd",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2015",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2015",
 	"id": "0H1gZQ7E95v6wYOutAbjbn",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "M.I.A.",
-					"id": "",
+					"id": "67264ab9-2422-4abb-9d2a-e7fe31e10151",
 					"externalId": {
 						"spotify": "0QJIPDAEDILuo8AIq3pMuU"
 					}

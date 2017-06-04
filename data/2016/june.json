@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2016",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2016",
 	"id": "7F5WRpxABIAyWSYxdD55Sh",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "The Bride",
 				"year": "",
-				"id": "",
+				"id": "a5bbb719-9e50-4428-9456-90daee35713c",
 				"externalId": {
 					"spotify": "0FOJVGWk7r4QKYCP1hCCEq"
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "",
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
 					"externalId": {
 						"spotify": "6l77PmL5iuEEcYjGl8K6s7"
 					}

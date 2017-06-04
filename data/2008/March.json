@@ -1,6 +1,9 @@
 {
 	"name": "March Top 5 2008",
-	"month": "march",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2008",
 	"id": "7IH2pzV5ljO1KcUg5WNAqo",
 	"tracks": [
@@ -23,7 +26,7 @@
 				},
 				{
 					"name": "Kanye West",
-					"id": "",
+					"id": "448ff158-68af-45bf-a765-2579997bde53",
 					"externalId": {
 						"spotify": null
 					}
@@ -40,7 +43,7 @@
 			"album": {
 				"name": "Sheath",
 				"year": "",
-				"id": "",
+				"id": "27402b95-fb6d-4cf7-bfba-d761f91e5bb2",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,7 +51,7 @@
 			"artists": [
 				{
 					"name": "LFO",
-					"id": "",
+					"id": "e310f502-87da-490e-8064-0432a3f83248",
 					"externalId": {
 						"spotify": null
 					}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Boards of Canada",
-					"id": "",
+					"id": "0429bb53-d597-43f6-9427-f8e8b4dea0c6",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +93,7 @@
 			"album": {
 				"name": "The Information",
 				"year": "",
-				"id": "",
+				"id": "a1ebff7a-37b0-409c-ad08-a380f651033a",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Beck",
-					"id": "",
+					"id": "2e82a8f0-265e-4a6e-93b9-6bff6b2b5d42",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "March Top 5 2015",
-	"month": "march",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2015",
 	"id": "1RpF5836OAY8HVr3VxN2Lh",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": "",
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Dan Deacon",
-					"id": "",
+					"id": "f9cdb2dc-0032-41b0-9300-65da37ed9320",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Kanye West",
-					"id": "",
+					"id": "448ff158-68af-45bf-a765-2579997bde53",
 					"externalId": {
 						"spotify": "5K4W6rqBFWDnAN6FQUkS6x"
 					}

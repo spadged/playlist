@@ -1,6 +1,9 @@
 {
 	"name": "May Top 5 2011",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2011",
 	"id": "2nkteFfC0aNquDRJlVG1n2",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Elbow",
-					"id": "",
+					"id": "bdc6a55d-51d1-493c-88c1-0564c68f271c",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Angles",
 				"year": "",
-				"id": "",
+				"id": "b5e3ff4f-5181-4497-b442-37e2b14d35ea",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Dan Le Sac vs Scroobius Pip",
-					"id": "",
+					"id": "47403fa8-f8d2-47cc-9d7f-36e657a0234a",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,14 +119,14 @@
 			"artists": [
 				{
 					"name": "The Lonely Island",
-					"id": "",
+					"id": "b31c4097-7e8e-47f0-8f29-11d5d904e922",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Beck",
-					"id": "",
+					"id": "2e82a8f0-265e-4a6e-93b9-6bff6b2b5d42",
 					"externalId": {
 						"spotify": null
 					}

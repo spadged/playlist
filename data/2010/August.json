@@ -1,6 +1,9 @@
 {
 	"name": "August Top 5 2010",
-	"month": "august",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2010",
 	"id": "5AXcgcfqctt53ZJ2arvRQZ",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}
@@ -73,7 +76,7 @@
 				},
 				{
 					"name": "Calvin Harris",
-					"id": "",
+					"id": "a319aaf3-c67b-41d2-ab17-b08dcd73adb7",
 					"externalId": {
 						"spotify": null
 					}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Talking Heads",
-					"id": "",
+					"id": "02bd402a-d98a-4551-9613-413ed8b3b24f",
 					"externalId": {
 						"spotify": null
 					}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Kanye West",
-					"id": "",
+					"id": "448ff158-68af-45bf-a765-2579997bde53",
 					"externalId": {
 						"spotify": null
 					}

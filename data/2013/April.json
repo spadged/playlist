@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2013",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2013",
 	"id": "4H6d2FFJpxEZVXRggr6hME",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Where The Humans Eat",
 				"year": "",
-				"id": "",
+				"id": "688f5855-56b4-4b81-a233-131aa7a5e520",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Willy Mason",
-					"id": "",
+					"id": "a1a25dad-9df7-4086-b5ee-0ae5ac369b76",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Nothing",
 				"year": "",
-				"id": "",
+				"id": "03a5c844-ad24-45b1-ba5e-5400300f750f",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "N.E.R.D.",
-					"id": "",
+					"id": "3d2ac78e-0da2-4db5-9275-1853b6c1aef1",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Kavinsky",
-					"id": "",
+					"id": "ae872c69-3939-4d8d-8d3a-5980742abafa",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "",
+					"id": "d395b353-f88d-4608-848c-73bf907ed076",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": "",
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "July Top 5 2013",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2013",
 	"id": "4cxqR4UEf0JoM9VbQzGn6M",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Manhattan Research, Inc.",
 				"year": "",
-				"id": "",
+				"id": "fea71cfe-c04b-4f6b-863c-15ffad004f18",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Raymond Scott",
-					"id": "",
+					"id": "3bf07dae-353a-4864-93b2-96f634908a52",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Young Lairs",
 				"year": "",
-				"id": "",
+				"id": "c5350cd3-05ae-415f-8e86-f1f7518bbf71",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "TV on the Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Moderat",
-					"id": "",
+					"id": "77d62b3e-96fd-4120-baf2-734bf4cca1cd",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Gorillaz",
-					"id": "",
+					"id": "e7af629b-06d5-4e6d-8b79-8c44493d74a1",
 					"externalId": {
 						"spotify": null
 					}

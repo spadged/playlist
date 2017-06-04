@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2015",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2015",
 	"id": "5MDLLl4G9YJ3T2Fyq8dfHI",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Bibio",
-					"id": "",
+					"id": "f076a11e-d339-4b20-9262-a1180bffa5bf",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "In Colour",
 				"year": "",
-				"id": "",
+				"id": "39c64ab8-ffc3-4cde-a158-ce66890294f5",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,14 +44,14 @@
 			"artists": [
 				{
 					"name": "Jamie xx",
-					"id": "",
+					"id": "dc00c068-f555-46e1-9e68-592786dec474",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Romy",
-					"id": "",
+					"id": "59957765-d8ea-4d93-be7e-4703ea76b50e",
 					"externalId": {
 						"spotify": null
 					}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Major Lazer",
-					"id": "",
+					"id": "298816c8-02cf-48a7-b698-68f93abe0c4a",
 					"externalId": {
 						"spotify": null
 					}
@@ -105,7 +108,7 @@
 			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": "",
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
 					"externalId": {
 						"spotify": null
 					}
@@ -130,7 +133,7 @@
 			"artists": [
 				{
 					"name": "The Internet",
-					"id": "",
+					"id": "8d9f28de-a614-4882-8c91-1ba6a9c157f0",
 					"externalId": {
 						"spotify": null
 					}

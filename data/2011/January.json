@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2011",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2011",
 	"id": "134UsEPl0fFJgJ8oZJtp22",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Tron Legacy",
 				"year": "",
-				"id": "",
+				"id": "73d8e3d0-a882-4f0f-b449-125722891690",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": "",
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Philip Glass",
-					"id": "",
+					"id": "975c2fd4-9db6-4241-b6f2-3ec278e0f7a2",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Writer's Block ",
 				"year": "",
-				"id": "",
+				"id": "b9eedae6-b95a-4087-bf0b-2bbd20a21ec8",
 				"externalId": {
 					"spotify": null
 				}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "My Beautiful Dark Twisted Fantasy",
 				"year": "",
-				"id": "",
+				"id": "07fe1db5-0b3a-4fd7-8bb3-2501148d6f79",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Kanye West",
-					"id": "",
+					"id": "448ff158-68af-45bf-a765-2579997bde53",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "Machine Dreams",
 				"year": "",
-				"id": "",
+				"id": "3a8b3d17-a15f-4d5a-bdec-e73b0ac91984",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Little Dragon",
-					"id": "",
+					"id": "daf53736-0de5-4bca-9ec5-3cc1547ebc9d",
 					"externalId": {
 						"spotify": null
 					}

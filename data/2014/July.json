@@ -1,6 +1,9 @@
 {
 	"name": "July Top 5 2014",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2014",
 	"id": "1OYCEiDh1RaeYCGm8njEqC",
 	"tracks": [
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "",
 				"year": "",
-				"id": "",
+				"id": "3b36c315-cbea-462a-9fcc-005443a0b298",
 				"externalId": {
 					"spotify": null
 				}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Trouble In Paradise",
 				"year": "",
-				"id": "",
+				"id": "7edb95c3-2cdf-4bf6-9a33-6bf1ec32a37b",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "La Roux",
-					"id": "",
+					"id": "25907714-f115-48a9-be6e-589aba0a3d6f",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Remain In Light",
 				"year": "",
-				"id": "",
+				"id": "ee6866c6-d911-4388-9123-0b5f27a7815f",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Talking Heads",
-					"id": "",
+					"id": "02bd402a-d98a-4551-9613-413ed8b3b24f",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Phantogram",
-					"id": "",
+					"id": "63b0990b-0cc2-4b6b-a566-10a386d0cf0d",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2015",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2015",
 	"id": "4gmoQ4xH5ylv0QYFSlrWAe",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Johnny Cash",
-					"id": "",
+					"id": "ea00a0f0-3b0c-4624-aa54-8d421d52ebac",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2017",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2017",
 	"id": "0mfjwCbHDee9et4eDxKBGu",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Goldfrapp",
-					"id": "",
+					"id": "b2e4119b-efa7-404f-a4e7-5c9f747b63c4",
 					"externalId": {
 						"spotify": "5BKsn7SCN2XmbF7apdCpRS"
 					}
@@ -98,7 +101,7 @@
 				},
 				{
 					"name": "Thom Yorke",
-					"id": "",
+					"id": "fdbacbf5-0d00-4169-afb3-41e8322f01ce",
 					"externalId": {
 						"spotify": "4CvTDPKA6W06DRfBnZKrau"
 					}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Massive Attack",
-					"id": "",
+					"id": "5872c080-2650-4417-a57c-f928e22d7944",
 					"externalId": {
 						"spotify": "6FXMGgJwohJLUSr5nVlf9X"
 					}

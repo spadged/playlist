@@ -1,6 +1,9 @@
 {
 	"name": "November Top 5 2007",
-	"month": "november",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2007",
 	"id": "1y7d5EJe3Z9mSKaQ48wSdF",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "David Shrigley's Worried Noodles",
 				"year": "",
-				"id": "",
+				"id": "c8fc6334-8580-41ab-84f6-84fb9ce175a0",
 				"externalId": {
 					"spotify": null
 				}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "David Shrigley's Worried Noodles",
 				"year": "",
-				"id": "",
+				"id": "c8fc6334-8580-41ab-84f6-84fb9ce175a0",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "John Lennon",
-					"id": "",
+					"id": "e95fcbe4-45f6-45c3-97a7-68e8719fb50a",
 					"externalId": {
 						"spotify": null
 					}

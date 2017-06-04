@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2008",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2008",
 	"id": "7kRJ8s5L4CiS524QE7WpYp",
 	"tracks": [
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "The Information",
 				"year": "",
-				"id": "",
+				"id": "a1ebff7a-37b0-409c-ad08-a380f651033a",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Beck",
-					"id": "",
+					"id": "2e82a8f0-265e-4a6e-93b9-6bff6b2b5d42",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Feist",
-					"id": "",
+					"id": "b723f3fb-8230-4031-ac32-bee9087ec99e",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "In Rainbows",
 				"year": "",
-				"id": "",
+				"id": "a7eaf61a-3d41-47a9-b42f-eaef8ba7e21c",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}

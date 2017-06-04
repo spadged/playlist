@@ -1,6 +1,9 @@
 {
 	"name": "July Top 5 2009",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2009",
 	"id": "1y0OhzeiwpCLtR7zx3ghOJ",
 	"tracks": [

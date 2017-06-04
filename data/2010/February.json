@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2010",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2010",
 	"id": "6LJpryP2lLH9RfjhADRW4H",
 	"tracks": [
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Thom Yorke",
-					"id": "",
+					"id": "fdbacbf5-0d00-4169-afb3-41e8322f01ce",
 					"externalId": {
 						"spotify": null
 					}

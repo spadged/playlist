@@ -1,6 +1,9 @@
 {
 	"name": "July Top 5 2010",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2010",
 	"id": "01DBH9EQxj1xkgiJD4aPJT",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Plastic Beach",
 				"year": "",
-				"id": "",
+				"id": "01b87dd4-09c5-40ff-a079-1b1a491ca28d",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Gorillaz",
-					"id": "",
+					"id": "e7af629b-06d5-4e6d-8b79-8c44493d74a1",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Because Of The Times",
 				"year": "",
-				"id": "",
+				"id": "11772649-52bf-499c-b164-82ca678d6ee9",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Kings Of Leon",
-					"id": "",
+					"id": "c6f869cc-e994-48bf-ab81-2dc06bd22091",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "The Suburbs",
 				"year": "",
-				"id": "",
+				"id": "916827dd-7adc-4bba-a214-6cf308bd647a",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2009",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2009",
 	"id": "6NGZuTyAC2408U9B0nScwY",
 	"tracks": [
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Bootleg",
 				"year": "",
-				"id": "",
+				"id": "f45881ef-07e2-439e-a84d-3f36c21286dc",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Doves",
-					"id": "",
+					"id": "99bcf564-2a38-4924-8819-56181fdf471a",
 					"externalId": {
 						"spotify": null
 					}

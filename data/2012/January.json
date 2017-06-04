@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2012",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2012",
 	"id": "5y5StyxUfdoGpMjD2GNe46",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Depeche Mode",
-					"id": "",
+					"id": "dfb4988e-2a03-43b9-a43f-265b6f197ec4",
 					"externalId": {
 						"spotify": null
 					}

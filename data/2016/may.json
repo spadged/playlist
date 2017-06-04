@@ -1,6 +1,9 @@
 {
 	"name": "May Top 5 2016",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2016",
 	"id": "3PoC1T8K3XtCVnvDM5ovM3",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Currents",
 				"year": "",
-				"id": "",
+				"id": "61cb00f0-aefe-423b-a5f8-d3d11c8bb614",
 				"externalId": {
 					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "",
+					"id": "db923391-a2cd-48d9-a1c0-d5e963ef44d3",
 					"externalId": {
 						"spotify": "5INjqkS1o8h1imAzPqGZBb"
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Neon Indian",
-					"id": "",
+					"id": "271e60ea-289d-4450-bb4f-bd954a65d395",
 					"externalId": {
 						"spotify": "0KydPQPUUoTNhmiHKOg5Er"
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "White Men Are Black Men Too",
 				"year": "",
-				"id": "",
+				"id": "ce2cce42-bf23-45e2-9c2b-9b7c5eb1031b",
 				"externalId": {
 					"spotify": "3xtwcBeltPMO0I4PnDfV0k"
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Young Fathers",
-					"id": "",
+					"id": "9a2989f5-c829-4bf7-b642-9e9866812837",
 					"externalId": {
 						"spotify": "5mZC7ndY6oGMxJentRwsuV"
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "August Top 5 2011",
-	"month": "august",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2011",
 	"id": "6SShCSWDwoBp6gCyfQpG0k",
 	"tracks": [
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "United",
 				"year": "",
-				"id": "",
+				"id": "ef2fadf1-499d-41b5-9e56-e63574b4ec1c",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Phoenix",
-					"id": "",
+					"id": "b0ceecc3-dbfb-48aa-9149-10ac4b1705be",
 					"externalId": {
 						"spotify": null
 					}

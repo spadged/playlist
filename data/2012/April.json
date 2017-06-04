@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2012",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2012",
 	"id": "4t8Jsbiv9Gs2H4bnhUlxYF",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Beach House",
-					"id": "",
+					"id": "3606ae8d-c0d1-4cee-ae28-88131d1a0e8e",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Brothers",
 				"year": "",
-				"id": "",
+				"id": "61fc16cc-ee90-4da6-972f-f3569300c5b1",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "The Black Keys",
-					"id": "",
+					"id": "930b16a8-e8f3-4268-8590-39a881773077",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "End of Line",
 				"year": "",
-				"id": "",
+				"id": "b275514e-b100-4a3d-a7e2-2ed9b55a1b82",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Mogi Grumbles",
-					"id": "",
+					"id": "5325dcf1-c37e-49d0-a963-c0d76dd60231",
 					"externalId": {
 						"spotify": null
 					}

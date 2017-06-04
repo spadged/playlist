@@ -1,6 +1,9 @@
 {
 	"name": "September Top 5 2009",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2009",
 	"id": "1uBSHQXtGjIhsSFHh71E3W",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Ready For The Weekend",
 				"year": "",
-				"id": "",
+				"id": "42f6f98c-f866-404d-96e6-bd552d0f605b",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Calvin Harris",
-					"id": "",
+					"id": "a319aaf3-c67b-41d2-ab17-b08dcd73adb7",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Amnesiac",
 				"year": "",
-				"id": "",
+				"id": "0caf4ccf-cbee-44e8-9331-86ba96c0f94f",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "See Clear Now",
 				"year": "",
-				"id": "",
+				"id": "0d1d4cd9-21c4-421a-ae4a-e541948dbb7b",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Wiley",
-					"id": "",
+					"id": "31b012ac-e9b0-405a-a713-b73519599aa8",
 					"externalId": {
 						"spotify": null
 					}

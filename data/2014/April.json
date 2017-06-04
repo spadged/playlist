@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2014",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2014",
 	"id": "5MNJYgot1IZerOqh7iyYTw",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Mind Bokeh",
 				"year": "",
-				"id": "",
+				"id": "1f06a1a3-6415-413b-81d2-2e69e7866322",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Bibio",
-					"id": "",
+					"id": "f076a11e-d339-4b20-9262-a1180bffa5bf",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Baths",
-					"id": "",
+					"id": "e11c7985-b201-47a5-9080-6da37a189d61",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Boards Of Canada",
-					"id": "",
+					"id": "0429bb53-d597-43f6-9427-f8e8b4dea0c6",
 					"externalId": {
 						"spotify": null
 					}

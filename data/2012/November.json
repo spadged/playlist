@@ -1,6 +1,9 @@
 {
 	"name": "November Top 5 2012",
-	"month": "november",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2012",
 	"id": "6P3qfBnkQ98YHVXvPqmmDp",
 	"tracks": [
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "The Haunted Man",
 				"year": "",
-				"id": "",
+				"id": "6efd77c0-05ab-4604-99fb-7af4b3bf3529",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "",
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "Home",
 				"year": "",
-				"id": "",
+				"id": "6d6893a9-ebf4-49a7-a4ba-de72a174441a",
 				"externalId": {
 					"spotify": null
 				}

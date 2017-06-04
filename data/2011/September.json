@@ -1,6 +1,9 @@
 {
 	"name": "September Top 5 2011",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2011",
 	"id": "68PoQiRR0isMTHofxWAsdH",
 	"tracks": [
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Peter Bjorn and John",
-					"id": "",
+					"id": "369d79cd-908c-47f0-82e8-61feb5b8baaa",
 					"externalId": {
 						"spotify": null
 					}

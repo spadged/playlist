@@ -1,6 +1,9 @@
 {
 	"name": "May",
-	"month": "05",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2006",
 	"id": "f48a559d-7b43-40a4-b5e3-5ce91359b343",
 	"tracks": [

@@ -1,6 +1,9 @@
 {
 	"name": "November Top 5 2010",
-	"month": "november",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2010",
 	"id": "3U6ODC53vp3ObeHTxtwoBB",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "The National",
-					"id": "",
+					"id": "5c880de8-23a9-47e1-bbdf-342235bc1cbd",
 					"externalId": {
 						"spotify": null
 					}
@@ -48,7 +51,7 @@
 				},
 				{
 					"name": "Daft Punk",
-					"id": "",
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128",
 					"externalId": {
 						"spotify": null
 					}

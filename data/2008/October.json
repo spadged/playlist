@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2008",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2008",
 	"id": "3PwEqrp02iGcCTgYuGf5ht",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "LCD Soundsystem",
-					"id": "",
+					"id": "00a582fa-b658-4aac-bbbe-91c8eeabdf27",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Dear Science",
 				"year": "",
-				"id": "",
+				"id": "bb134379-6c79-455f-a1c8-7be8167d4392",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Ryan Adams",
-					"id": "",
+					"id": "e024594d-1fbe-4661-b883-655c18bb0838",
 					"externalId": {
 						"spotify": null
 					}

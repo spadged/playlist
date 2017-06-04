@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2009",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2009",
 	"id": "3tIFhHS6FFUFAUhybI8OOE",
 	"tracks": [
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Incredibad",
 				"year": "",
-				"id": "",
+				"id": "519ea045-54c9-4390-93af-60e631db0f66",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "The Lonely Island",
-					"id": "",
+					"id": "b31c4097-7e8e-47f0-8f29-11d5d904e922",
 					"externalId": {
 						"spotify": null
 					}

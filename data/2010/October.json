@@ -1,6 +1,9 @@
 {
 	"name": "October Top 5 2010",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2010",
 	"id": "4HgCMHvPLJ064EfxCQQ9WP",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Logic of Chance",
 				"year": "",
-				"id": "",
+				"id": "a3cae223-2479-4fc3-9944-ad39113b6c7d",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Dan Le Sac vs Scroobius Pip",
-					"id": "",
+					"id": "47403fa8-f8d2-47cc-9d7f-36e657a0234a",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Maximum Balloon",
 				"year": "",
-				"id": "",
+				"id": "d5825c82-afe0-4a91-be9f-5b12044c920e",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Maximum Balloon",
-					"id": "",
+					"id": "6ae871cf-9312-4f1a-ae97-7c697ffaa9ac",
 					"externalId": {
 						"spotify": null
 					}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Underworld",
-					"id": "",
+					"id": "2bc5bf42-2f07-4431-8484-afb4c1d3a4a4",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "Cerulean",
 				"year": "",
-				"id": "",
+				"id": "4f13807d-6dd8-4f5e-bd2b-c4bddadb094e",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Baths",
-					"id": "",
+					"id": "e11c7985-b201-47a5-9080-6da37a189d61",
 					"externalId": {
 						"spotify": null
 					}

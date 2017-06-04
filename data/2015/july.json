@@ -1,6 +1,9 @@
 {
 	"name": "July Top 5 2015",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2015",
 	"id": "1AeWnCj0ZmgDXD177YMGIa",
 	"tracks": [
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "Currents",
 				"year": "",
-				"id": "",
+				"id": "61cb00f0-aefe-423b-a5f8-d3d11c8bb614",
 				"externalId": {
 					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "",
+					"id": "db923391-a2cd-48d9-a1c0-d5e963ef44d3",
 					"externalId": {
 						"spotify": "5INjqkS1o8h1imAzPqGZBb"
 					}

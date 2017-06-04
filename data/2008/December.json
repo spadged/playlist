@@ -1,6 +1,9 @@
 {
 	"name": "December Top 5 2008",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2008",
 	"id": "6SPofhHU205uVt0fUV8CPC",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Black Market Music",
 				"year": "",
-				"id": "",
+				"id": "b1bb29b9-9bbf-4b27-b2d5-fc917845569d",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Placebo",
-					"id": "",
+					"id": "8d5c070c-1121-42fc-a2a3-a933bbebc1d5",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": "",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Sparklehorse",
-					"id": "",
+					"id": "bd818382-aecc-46fa-8af6-a09a08ca610d",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Interpol",
-					"id": "",
+					"id": "a8cc658d-4bb4-419c-b2cc-096a7a1dff32",
 					"externalId": {
 						"spotify": null
 					}

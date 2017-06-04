@@ -1,6 +1,9 @@
 {
 	"name": "March Top 5 2012",
-	"month": "march",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2012",
 	"id": "0eVKymaI9MzV1UEY02AKHu",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Graceland",
 				"year": "",
-				"id": "",
+				"id": "999dc741-5307-41b2-b410-055984a77eff",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Paul Simon",
-					"id": "",
+					"id": "33ab6209-ce62-4f09-88af-0067e08ee8cb",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Passion Pit",
-					"id": "",
+					"id": "a01efb3f-ef0a-4d1a-b64f-0c7b039b34b2",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Peter Bjorn And John",
-					"id": "",
+					"id": "369d79cd-908c-47f0-82e8-61feb5b8baaa",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "The Back Room",
 				"year": "",
-				"id": "",
+				"id": "13a1d8e9-ef37-44eb-98ef-40d89d9c1b13",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Editors",
-					"id": "",
+					"id": "817c340d-4d38-408c-ba9c-b9bca75b35cb",
 					"externalId": {
 						"spotify": null
 					}

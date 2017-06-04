@@ -1,6 +1,9 @@
 {
 	"name": "September Top 5 2012",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2012",
 	"id": "7waCZ0CUGn4whkezRjwJUp",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Angelo Badalamenti",
-					"id": "",
+					"id": "58b670dc-a57b-4f35-a3dc-2fe5d71a3805",
 					"externalId": {
 						"spotify": null
 					}

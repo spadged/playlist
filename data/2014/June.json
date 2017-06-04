@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2014",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2014",
 	"id": "66eCon74FMkG1ZdtK5r72C",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Caribou",
-					"id": "",
+					"id": "2a5bc698-845a-4062-9a0a-53459e186775",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Glow",
 				"year": "",
-				"id": "",
+				"id": "18b0c223-81d9-4d3c-b4d4-400029a027dd",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Jackson And His Computerband",
-					"id": "",
+					"id": "41a30a58-bd6e-49ec-af11-31db8725a372",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Graceland",
 				"year": "",
-				"id": "",
+				"id": "999dc741-5307-41b2-b410-055984a77eff",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Paul Simon",
-					"id": "",
+					"id": "33ab6209-ce62-4f09-88af-0067e08ee8cb",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Four Tet",
-					"id": "",
+					"id": "f44998e2-a1cc-4ef3-b8d7-353d5b75cb76",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Interpol",
-					"id": "",
+					"id": "a8cc658d-4bb4-419c-b2cc-096a7a1dff32",
 					"externalId": {
 						"spotify": null
 					}

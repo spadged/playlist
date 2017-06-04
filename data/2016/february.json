@@ -1,6 +1,9 @@
 {
 	"name": "February Top 5 2016",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2016",
 	"id": "4YvDnAyzN7SfMbyuTzGgPv",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Moderat",
-					"id": "",
+					"id": "77d62b3e-96fd-4120-baf2-734bf4cca1cd",
 					"externalId": {
 						"spotify": "2exkZbmNqMKnT8LRWuxWgy"
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Kindness",
-					"id": "",
+					"id": "bac5e454-3b48-4774-84a8-235cfb89ebcc",
 					"externalId": {
 						"spotify": "6SYIsHAQ1sPokVxmzpaDBU"
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Big Black Coat",
 				"year": "",
-				"id": "",
+				"id": "da0fab72-aa36-429b-a710-ef04f70ca709",
 				"externalId": {
 					"spotify": "5pdm3GVR8dE7f0O7foPKbq"
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Junior Boys",
-					"id": "",
+					"id": "ecb61415-f741-4a83-9585-253ec6de6dd2",
 					"externalId": {
 						"spotify": "39x9e2QDpAxK8xTuJDwRqR"
 					}

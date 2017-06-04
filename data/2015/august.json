@@ -1,6 +1,9 @@
 {
 	"name": "August Top 5 2015",
-	"month": "august",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2015",
 	"id": "1eIQ9yNAx269vt94p1MZcr",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "",
+					"id": "db923391-a2cd-48d9-a1c0-d5e963ef44d3",
 					"externalId": {
 						"spotify": "5INjqkS1o8h1imAzPqGZBb"
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "The Chemical Brothers",
-					"id": "",
+					"id": "95561727-a19d-4ae3-84f3-05ea623c647c",
 					"externalId": {
 						"spotify": "1GhPHrq36VKCY3ucVaZCfo"
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "December Top 5 2015",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2015",
 	"id": "2DiqdoZ90FuaYJzEiAOVsJ",
 	"tracks": [

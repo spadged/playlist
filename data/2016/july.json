@@ -1,6 +1,9 @@
 {
 	"name": "July Top 5 2016",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2016",
 	"id": "7A6kV4GKeLu4ro9Dc33582",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "",
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
 					"externalId": {
 						"spotify": "6l77PmL5iuEEcYjGl8K6s7"
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Aphex Twin",
-					"id": "",
+					"id": "02f357df-4e60-4b83-8bfc-0ce290854fda",
 					"externalId": {
 						"spotify": "6kBDZFXuLrZgHnvmPu9NsG"
 					}

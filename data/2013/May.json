@@ -1,6 +1,9 @@
 {
 	"name": "May Top 5 2013",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2013",
 	"id": "0spdyGhgeAcuxab7wirK1k",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Phoenix",
-					"id": "",
+					"id": "b0ceecc3-dbfb-48aa-9149-10ac4b1705be",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Bibio",
-					"id": "",
+					"id": "f076a11e-d339-4b20-9262-a1180bffa5bf",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Random Access Memories",
 				"year": "",
-				"id": "",
+				"id": "296711d3-61f6-4256-95d6-117d53054a0a",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": "",
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +93,7 @@
 			"album": {
 				"name": "...Like Clockwork",
 				"year": "",
-				"id": "",
+				"id": "7a4a1280-8d78-4ea2-b9ef-e87a8cb55c70",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Queens Of The Stone Age",
-					"id": "",
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3",
 					"externalId": {
 						"spotify": null
 					}
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "Nightlife",
 				"year": "",
-				"id": "",
+				"id": "a45aa851-c6e3-466b-9ad6-3f1bb8bad9d0",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Phantogram",
-					"id": "",
+					"id": "63b0990b-0cc2-4b6b-a566-10a386d0cf0d",
 					"externalId": {
 						"spotify": null
 					}

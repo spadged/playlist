@@ -1,6 +1,9 @@
 {
 	"name": "November Top 5 2008",
-	"month": "november",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2008",
 	"id": "6I2BD79TotHkoX2BNOFg1F",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "The Beatles",
-					"id": "",
+					"id": "88fbae7b-dd9d-4f45-a9ff-1dd198e75192",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Kings Of Leon",
-					"id": "",
+					"id": "c6f869cc-e994-48bf-ab81-2dc06bd22091",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "Með Suð Í Eyrum Við Spilum Endalaust",
 				"year": "",
-				"id": "",
+				"id": "cc743f4a-09e5-45a4-b041-1d730cc46fcb",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": "",
+					"id": "8765df1a-e512-4885-b0fa-92c22a380ebc",
 					"externalId": {
 						"spotify": null
 					}

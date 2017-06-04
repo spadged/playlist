@@ -1,6 +1,9 @@
 {
 	"name": "December Top 5 2011",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2011",
 	"id": "0BCeGHSpfsf7F1DGncI12F",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Angles",
 				"year": "",
-				"id": "",
+				"id": "b5e3ff4f-5181-4497-b442-37e2b14d35ea",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Dan Le Sac vs Scroobius Pip",
-					"id": "",
+					"id": "47403fa8-f8d2-47cc-9d7f-36e657a0234a",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "Day & Age",
 				"year": "",
-				"id": "",
+				"id": "ecc9d1ac-d431-434b-829f-338c7022f39c",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "The Killers",
-					"id": "",
+					"id": "41389d43-2061-47e5-98d8-d972eeb191fe",
 					"externalId": {
 						"spotify": null
 					}

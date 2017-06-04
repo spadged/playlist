@@ -1,6 +1,9 @@
 {
 	"name": "March Top 5 2017",
-	"month": "march",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2017",
 	"id": "54u9DjuHpQ37A6uA6Euy7d",
 	"tracks": [
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Bibio",
-					"id": "",
+					"id": "f076a11e-d339-4b20-9262-a1180bffa5bf",
 					"externalId": {
 						"spotify": "0qzzGu8qpbXYpzgV52wOFT"
 					}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "James Blake",
-					"id": "",
+					"id": "87c7e201-63a0-4598-b3c0-d73bbf0c96f8",
 					"externalId": {
 						"spotify": "53KwLdlmrlCelAZMaLVZqU"
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Raury",
-					"id": "",
+					"id": "9e83e612-0076-4f3e-ab1a-a87bfb9ee446",
 					"externalId": {
 						"spotify": "2PU4qFehXQF7WnlFsJpBiJ"
 					}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "UNKLE",
-					"id": "",
+					"id": "2fab40b2-239b-40cb-a451-4f7dc4c31c5e",
 					"externalId": {
 						"spotify": "2nszamLjZFgu3Yx77mKxuC"
 					}

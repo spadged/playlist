@@ -1,6 +1,9 @@
 {
 	"name": "December Top 5 2012",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2012",
 	"id": "0GwJIk1c7xLyIsk0xNH6hu",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "With Teeth",
 				"year": "",
-				"id": "",
+				"id": "f36d6541-361a-41ca-9e4b-b26d19ebc195",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": "",
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d",
 					"externalId": {
 						"spotify": null
 					}
@@ -41,14 +44,14 @@
 			"artists": [
 				{
 					"name": "David Byrne",
-					"id": "",
+					"id": "93a49268-9417-41ae-8394-eaba7b688f4c",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Brian Eno",
-					"id": "",
+					"id": "76699e65-50eb-4007-920d-916231977b30",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +93,7 @@
 			"album": {
 				"name": "The Boy With No Name",
 				"year": "",
-				"id": "",
+				"id": "5542c3b9-bed7-418c-96b9-3db7d0f4eb5a",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Travis",
-					"id": "",
+					"id": "57ff22dd-02a3-4804-92ff-42f106c8fc0d",
 					"externalId": {
 						"spotify": null
 					}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "",
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
 					"externalId": {
 						"spotify": null
 					}

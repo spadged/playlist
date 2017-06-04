@@ -1,6 +1,9 @@
 {
 	"name": "May Top 5 2012",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2012",
 	"id": "4CRwmNS0scTRwKjyCZMJpD",
 	"tracks": [
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Orbital",
-					"id": "",
+					"id": "93748910-ae81-48df-bc47-5af19477c427",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "SBTRKT",
 				"year": "",
-				"id": "",
+				"id": "01102240-b74b-4aaf-96ed-7a59b36422f8",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "SBTRKT",
-					"id": "",
+					"id": "45eef704-f45c-41ab-ae18-c27bc86f8dc4",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "World, You Need A Change Of Mind",
 				"year": "",
-				"id": "",
+				"id": "6d0aa197-a991-4c98-9ca0-6f8076b2eb67",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Kindness",
-					"id": "",
+					"id": "bac5e454-3b48-4774-84a8-235cfb89ebcc",
 					"externalId": {
 						"spotify": null
 					}

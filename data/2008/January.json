@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2008",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2008",
 	"id": "46KdvM0vEPaBzybjvM8Rkm",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "The White Album",
 				"year": "",
-				"id": "",
+				"id": "cb7e9364-fcac-4a4c-8ac6-16702570ebc0",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "The Beatles",
-					"id": "",
+					"id": "88fbae7b-dd9d-4f45-a9ff-1dd198e75192",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +93,7 @@
 			"album": {
 				"name": "Blue Eyed In The Red Room",
 				"year": "",
-				"id": "",
+				"id": "36ae34d8-faf4-40ef-8a3b-fd0263ef89a6",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +101,7 @@
 			"artists": [
 				{
 					"name": "Boom Bip",
-					"id": "",
+					"id": "ec7bcfee-69cc-4005-812b-2abf33474356",
 					"externalId": {
 						"spotify": null
 					}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": "",
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
 					"externalId": {
 						"spotify": null
 					}

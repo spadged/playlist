@@ -1,6 +1,9 @@
 {
 	"name": "March Top 5 2010",
-	"month": "march",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2010",
 	"id": "7maeAy18Q01tJcKUtREp4P",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": "",
+					"id": "52b9b635-d8eb-4312-90fe-f580eebbc445",
 					"externalId": {
 						"spotify": null
 					}
@@ -108,7 +111,7 @@
 			"album": {
 				"name": "The E.N.D.",
 				"year": "",
-				"id": "",
+				"id": "b276af57-7c25-4dac-863b-5dd7700357d0",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Black Eyed Peas",
-					"id": "",
+					"id": "6867bdb2-3fa2-4d90-95f4-506dae113dfe",
 					"externalId": {
 						"spotify": null
 					}

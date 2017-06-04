@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2011",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2011",
 	"id": "11RDiwY81yGrZo5uug7EjD",
 	"tracks": [
@@ -115,7 +118,7 @@
 			"album": {
 				"name": "The Daily Mail / Staircase",
 				"year": "",
-				"id": "",
+				"id": "eda137d8-8fcd-4933-843d-eb707c9c9352",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +126,7 @@
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
 					"externalId": {
 						"spotify": null
 					}

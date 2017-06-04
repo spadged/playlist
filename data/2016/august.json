@@ -1,6 +1,9 @@
 {
 	"name": "August Top 5 2016",
-	"month": "august",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2016",
 	"id": "5gtQ87kFBdtqKqJYLPqZxm",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "YACHT",
-					"id": "",
+					"id": "f60b79f1-4f12-4d2c-9d57-e16fe4cb7fc0",
 					"externalId": {
 						"spotify": "57anmI1X2hXWPrNagFdzZr"
 					}
@@ -73,7 +76,7 @@
 			"artists": [
 				{
 					"name": "Animal Collective",
-					"id": "",
+					"id": "f3eb8355-4783-44f9-896b-64008fa8f0c6",
 					"externalId": {
 						"spotify": "4kwxTgCKMipBKhSnEstNKj"
 					}

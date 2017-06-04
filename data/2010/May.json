@@ -1,6 +1,9 @@
 {
 	"name": "May Top 5 2010",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2010",
 	"id": "4C93YQNAxJz6fWc9hWt64j",
 	"tracks": [
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Swim",
 				"year": "",
-				"id": "",
+				"id": "639717e4-5aad-4a96-8784-c473f68c2379",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Caribou",
-					"id": "",
+					"id": "2a5bc698-845a-4062-9a0a-53459e186775",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "The Suburbs",
 				"year": "",
-				"id": "",
+				"id": "916827dd-7adc-4bba-a214-6cf308bd647a",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "LCD Soundsystem",
-					"id": "",
+					"id": "00a582fa-b658-4aac-bbbe-91c8eeabdf27",
 					"externalId": {
 						"spotify": null
 					}

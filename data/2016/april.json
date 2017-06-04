@@ -1,6 +1,9 @@
 {
 	"name": "April Top 5 2016",
-	"month": "april",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2016",
 	"id": "0nZHrd2fme3Bvc8epP2QrL",
 	"tracks": [
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Raleigh Ritchie",
-					"id": "",
+					"id": "267d5ac3-0650-44ff-8e99-4047a1700532",
 					"externalId": {
 						"spotify": "0IB0VjX9NSrGX6PjCXGVcq"
 					}

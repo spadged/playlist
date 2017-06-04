@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2014",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2014",
 	"id": "0x9L6UjTSUuf9RT8h623mL",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Kittenz And Thee Glitz",
 				"year": "",
-				"id": "",
+				"id": "12236ba8-efea-4c3d-bfdd-06d15670a02e",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Felix Da Housecat",
-					"id": "",
+					"id": "699b1f6e-395c-430c-8562-2cab7a560c42",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Record Collection",
 				"year": "",
-				"id": "",
+				"id": "09d4f6f0-94b1-43f2-a703-642fd5c04f48",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "Mark Ronson & The Business Intl",
-					"id": "",
+					"id": "97789ec2-ee06-484f-81f1-e79479178cc6",
 					"externalId": {
 						"spotify": null
 					}
@@ -58,7 +61,7 @@
 			"album": {
 				"name": "The Music of Grand Theft Auto V",
 				"year": "",
-				"id": "",
+				"id": "1df391fd-4718-4f3c-a26b-2bdd5dce1fe5",
 				"externalId": {
 					"spotify": null
 				}
@@ -83,7 +86,7 @@
 			"album": {
 				"name": "Cold Spring Fault Less Youth",
 				"year": "",
-				"id": "",
+				"id": "d54cc33e-6c66-4781-9fc1-81155cd49bc6",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Mount Kimbie",
-					"id": "",
+					"id": "c6796f79-8ef9-4d9c-87a3-59f692559dac",
 					"externalId": {
 						"spotify": null
 					}

@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2012",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2012",
 	"id": "6Ku32MiqoXpHAuRqAqBYkQ",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "World, You Need A Change Of Mind",
 				"year": "",
-				"id": "",
+				"id": "6d0aa197-a991-4c98-9ca0-6f8076b2eb67",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Kindness",
-					"id": "",
+					"id": "bac5e454-3b48-4774-84a8-235cfb89ebcc",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "To Lose My Life",
 				"year": "",
-				"id": "",
+				"id": "5bc97fa3-79f2-4038-a30f-754405d7c405",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "White Lies",
-					"id": "",
+					"id": "99927382-80d8-4916-98bc-02500b560a32",
 					"externalId": {
 						"spotify": null
 					}
@@ -66,7 +69,7 @@
 			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": "",
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
 					"externalId": {
 						"spotify": null
 					}
@@ -116,7 +119,7 @@
 			"artists": [
 				{
 					"name": "Phantogram",
-					"id": "",
+					"id": "63b0990b-0cc2-4b6b-a566-10a386d0cf0d",
 					"externalId": {
 						"spotify": null
 					}

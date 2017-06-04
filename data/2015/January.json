@@ -1,6 +1,9 @@
 {
 	"name": "January Top 5 2015",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2015",
 	"id": "7cvHM2IvxSJ5IJMTWAomgi",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "Otherness",
 				"year": "",
-				"id": "",
+				"id": "46106cc7-a97b-4887-9d34-69f80b28f991",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Kindness",
-					"id": "",
+					"id": "bac5e454-3b48-4774-84a8-235cfb89ebcc",
 					"externalId": {
 						"spotify": null
 					}
@@ -55,7 +58,7 @@
 			"artists": [
 				{
 					"name": "Sohn",
-					"id": "",
+					"id": "b7e7d60a-8e5e-443e-b027-367e42968657",
 					"externalId": {
 						"spotify": null
 					}
@@ -105,7 +108,7 @@
 			"artists": [
 				{
 					"name": "R.E.M.",
-					"id": "",
+					"id": "a26f6db1-ed0a-4ded-9823-61d4ccceef21",
 					"externalId": {
 						"spotify": null
 					}
@@ -122,7 +125,7 @@
 			"album": {
 				"name": "Warpaint",
 				"year": "",
-				"id": "",
+				"id": "f8b5c782-a709-442f-be31-d4c480ed724a",
 				"externalId": {
 					"spotify": null
 				}
@@ -130,7 +133,7 @@
 			"artists": [
 				{
 					"name": "Warpaint",
-					"id": "",
+					"id": "6bc492cd-b367-4942-968c-ecc8a7969601",
 					"externalId": {
 						"spotify": null
 					}

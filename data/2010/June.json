@@ -1,6 +1,9 @@
 {
 	"name": "June Top 5 2010",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2010",
 	"id": "1fUIilggSM9ruS622MW0Yk",
 	"tracks": [
@@ -8,7 +11,7 @@
 			"album": {
 				"name": "The Suburbs",
 				"year": "",
-				"id": "",
+				"id": "916827dd-7adc-4bba-a214-6cf308bd647a",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +19,7 @@
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
 					"externalId": {
 						"spotify": null
 					}
@@ -33,7 +36,7 @@
 			"album": {
 				"name": "Conditions",
 				"year": "",
-				"id": "",
+				"id": "18c64d34-f167-4356-a989-a0238b7f0e12",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +44,7 @@
 			"artists": [
 				{
 					"name": "The Temper Trap",
-					"id": "",
+					"id": "9452ee91-073a-4fe8-a061-5b0d42585dae",
 					"externalId": {
 						"spotify": null
 					}
@@ -91,7 +94,7 @@
 			"artists": [
 				{
 					"name": "Pantha Du Prince",
-					"id": "",
+					"id": "1e14e45d-3f72-4c1e-84a3-d43367735896",
 					"externalId": {
 						"spotify": null
 					}
