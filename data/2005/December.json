@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "Bewilderness",
-				"id": "1b84dd16-d8db-411f-a9b9-a68efe7b4af3"
+				"id": "4487858a-8bcf-43e5-ae99-8d935d72123b"
 			},
 			"artists": [
 				{
 					"name": "Bill Bailey",
-					"id": "7b0cba14-cd55-496c-89f3-d6f91455cda3"
+					"id": "84fc337c-795a-4799-863c-c97ab14b44cc"
 				}
 			],
 			"name": "Unisex Chip Shop",
@@ -38,12 +38,12 @@
 			"album": {
 				"name": "John Lennon/Plastic Ono Band",
 				"year": 1998,
-				"id": "c60692e2-3c16-4cdf-b7c7-face1ff526f0"
+				"id": "1deba9ce-c32c-4cab-93b0-26f64c3dadd1"
 			},
 			"artists": [
 				{
 					"name": "John Lennon",
-					"id": "0b9e7315-e259-44c0-ad33-01c2808e1a08"
+					"id": "e95fcbe4-45f6-45c3-97a7-68e8719fb50a"
 				}
 			],
 			"name": "Look At Me",
@@ -54,7 +54,7 @@
 			"album": {
 				"name": "American Recordings",
 				"year": 1994,
-				"id": "f1243bf0-230e-4d21-99a3-489249e1e7ee"
+				"id": "49a20b69-669c-41c4-8f2e-f531ffee801d"
 			},
 			"artists": [
 				{
@@ -70,12 +70,12 @@
 			"album": {
 				"name": "Heart And Soul",
 				"year": 1980,
-				"id": "a83fa44e-6d2c-495f-8e10-b4bbe262f759"
+				"id": "21de7ede-b124-4d52-bbac-048e1c5c80ab"
 			},
 			"artists": [
 				{
 					"name": "Joy Division",
-					"id": "1fdd8b7c-7c94-4919-8e4a-c93bbee02c6d"
+					"id": "88409f1c-dccb-4865-bbe4-cef0ed566704"
 				}
 			],
 			"name": "Atmosphere",

@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "Hefty Fine",
-				"id": "479a0cb6-3861-4e86-8fd6-a1a5381f96f5"
+				"id": "8da6f37e-8d7d-43f2-821b-e83144443bb2"
 			},
 			"artists": [
 				{
 					"name": "Bloodhound Gang",
-					"id": "0278eb1c-88c3-4af3-9029-784fd36658ef"
+					"id": "8804e283-3c76-4fbe-8e40-7e90cbe69880"
 				}
 			],
 			"name": "Foxtrot Uniform Charlie Kilo",
@@ -23,12 +23,12 @@
 			"album": {
 				"name": "X&Y",
 				"year": 2005,
-				"id": "296cff7d-7f2b-4f83-a8c2-db14df79eb63"
+				"id": "4a498593-5ecc-4d66-9df0-61928c46d6e9"
 			},
 			"artists": [
 				{
 					"name": "Coldplay",
-					"id": "18747e29-0609-427c-ba5f-c5bbab5dbecc"
+					"id": "6497d2dc-8620-4cc5-92b5-646faba27332"
 				}
 			],
 			"name": "Til Kingdom Come",
@@ -55,12 +55,12 @@
 			"album": {
 				"name": "Disraeli Gears",
 				"year": 1967,
-				"id": "ebedea51-a178-4375-9fd3-fc43fb1ca95f"
+				"id": "da920fe1-8711-4d3e-9126-e6f5bc80e539"
 			},
 			"artists": [
 				{
 					"name": "Cream",
-					"id": "8ec2e25a-d07f-4d2a-8621-35fa9502ecc5"
+					"id": "d6576885-9694-4734-a983-99f280d7d692"
 				}
 			],
 			"name": "We're Going Wrong",
@@ -71,7 +71,7 @@
 			"album": {
 				"name": "Lost Sides",
 				"year": 2003,
-				"id": "54d0ca29-4dbd-479b-acd9-ab2e0545a6a1"
+				"id": "2023f08e-e171-4397-8a9d-432cfa495f4b"
 			},
 			"artists": [
 				{

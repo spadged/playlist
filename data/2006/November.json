@@ -8,12 +8,12 @@
 			"album": {
 				"name": "Silent Alarm",
 				"year": 2005,
-				"id": "68c0a07d-54e1-4c50-b772-e5efc2a54e2f"
+				"id": "c128ab22-21ef-470f-83f9-be96e2edde1f"
 			},
 			"artists": [
 				{
 					"name": "Bloc Party",
-					"id": "5a93fea5-a989-46ea-84f9-060b05682c9f"
+					"id": "6c66bf1d-c761-4281-9198-74dc4b6bafa1"
 				}
 			],
 			"name": "Banquet",
@@ -53,11 +53,11 @@
 				},
 				{
 					"name": "Sleepy Brown",
-					"id": "02cafee4-86a3-446d-b7fa-28883bf03416"
+					"id": "0402f5fa-f4a7-464b-95ad-c5f874e2ba5c"
 				},
 				{
 					"name": "Scar",
-					"id": "9bb63859-e5a7-4325-bcae-1e39acc0e80b"
+					"id": "a7b649e1-3149-4552-bb98-0beb52e21e4f"
 				}
 			],
 			"name": "The Train",
@@ -68,12 +68,12 @@
 			"album": {
 				"name": "Funeral",
 				"year": 2004,
-				"id": "16aa0ea5-3c78-4f7c-90e8-3630a9286cbb"
+				"id": "25ed4f2f-290a-4954-a5cb-9e727cf804f7"
 			},
 			"artists": [
 				{
 					"name": "The Arcade Fire",
-					"id": "c4a39621-4077-4867-a4ea-72396770495a"
+					"id": "e9d0cb70-04fd-4fae-a020-b202c25110ec"
 				}
 			],
 			"name": "Neighborhood #3 (Power Out)",
@@ -84,7 +84,7 @@
 			"album": {
 				"name": "Definitely Maybe",
 				"year": 1998,
-				"id": "73750166-1876-4b9e-8707-371673321245"
+				"id": "ecedb519-3cfc-473a-b128-76248e0f6d72"
 			},
 			"artists": [
 				{

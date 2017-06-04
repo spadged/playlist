@@ -8,7 +8,7 @@
 			"album": {
 				"name": "This Is All Yours",
 				"year": 2014,
-				"id": "71cce08c-42a7-4c29-9c47-8648766c2c3b"
+				"id": "e39f4ff9-3eb3-47fb-837a-6b894297607d"
 			},
 			"artists": [
 				{
@@ -24,7 +24,7 @@
 			"album": {
 				"name": "Twin Peaks: Season Two Music And More",
 				"year": 2007,
-				"id": "e5facce1-b0ae-4f5c-b13f-43ad2e8d7ee9"
+				"id": "0b20cdfa-9965-461a-8443-bbd8b13ad5de"
 			},
 			"artists": [
 				{
@@ -40,12 +40,12 @@
 			"album": {
 				"name": "Clark",
 				"year": 2014,
-				"id": "bce53a94-3346-4389-a30b-e634beb20e64"
+				"id": "d329e9cb-da0c-4bba-a8f1-46f8dae7d6f4"
 			},
 			"artists": [
 				{
 					"name": "Clark",
-					"id": "2674137b-1e2b-48c8-9fc1-cfc2e8229250"
+					"id": "b4c4b0fe-c297-4605-b05c-121f39efa683"
 				}
 			],
 			"name": "There’s A Distance In You",
@@ -56,7 +56,7 @@
 			"album": {
 				"name": "Otherness",
 				"year": 2014,
-				"id": "e6824271-4f91-4494-91c1-dd73d6d699fe"
+				"id": "46106cc7-a97b-4887-9d34-69f80b28f991"
 			},
 			"artists": [
 				{
@@ -75,12 +75,12 @@
 		{
 			"album": {
 				"name": "December Will Be Magic Again",
-				"id": "99d7c873-c421-46ad-a196-68f7a3a24128"
+				"id": "3d8222e0-585b-4a9c-bef1-63e17697c19b"
 			},
 			"artists": [
 				{
 					"name": "Kate Bush",
-					"id": "a4e02be4-7225-4756-9af0-c6d53fe6fe65"
+					"id": "a95e148c-51a4-4346-b657-f3c5a0302f19"
 				}
 			],
 			"name": "December Will Be Magic Again",

@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Guerolito",
 				"year": 2005,
-				"id": "b2815d92-a49a-41ac-82cf-5a65d710a94a"
+				"id": "05050ae9-375d-4907-ae67-3b4c9f90f45b"
 			},
 			"artists": [
 				{
@@ -24,7 +24,7 @@
 			"album": {
 				"name": "The Very Best Of The Sun Years",
 				"year": 2001,
-				"id": "bbecac8b-b1fb-4b30-8d5c-5d0f525c4119"
+				"id": "511144fa-36e6-452f-a9f6-a5a8d5dc6ec4"
 			},
 			"artists": [
 				{
@@ -40,12 +40,12 @@
 			"album": {
 				"name": "Mel",
 				"year": 1996,
-				"id": "bd1230f3-22c9-468c-b7dd-88fa3ecd2023"
+				"id": "56f90809-daca-47ab-b503-3ef7f522dcbc"
 			},
 			"artists": [
 				{
 					"name": "East River Pipe",
-					"id": "d3930020-41e4-4d52-9bd4-a159eca8f797"
+					"id": "cf77596e-2c75-4929-a7d1-bec2f8fe1be2"
 				}
 			],
 			"name": "Prettiest Whore",
@@ -55,12 +55,12 @@
 		{
 			"album": {
 				"name": "The Back Room",
-				"id": "03c88bde-62e8-4cd6-a58b-b480dae7b294"
+				"id": "13a1d8e9-ef37-44eb-98ef-40d89d9c1b13"
 			},
 			"artists": [
 				{
 					"name": "Editors",
-					"id": "da40bf3c-865a-446c-8009-d62ba4585299"
+					"id": "817c340d-4d38-408c-ba9c-b9bca75b35cb"
 				}
 			],
 			"name": "You are Fading",
@@ -87,7 +87,7 @@
 			"album": {
 				"name": "Anthology",
 				"year": 1998,
-				"id": "6be966d6-dad3-423f-8992-6c6264bb0c72"
+				"id": "df7ff5ba-d5cd-40d6-9b36-aa4df66b91a1"
 			},
 			"artists": [
 				{
@@ -102,7 +102,7 @@
 		{
 			"album": {
 				"name": "Amnesiac",
-				"id": "a3ff7977-fbcb-4fe5-aa58-1cec53b66ee2"
+				"id": "0caf4ccf-cbee-44e8-9331-86ba96c0f94f"
 			},
 			"artists": [
 				{
@@ -150,7 +150,7 @@
 			"album": {
 				"name": "The Freewheelin' Bob Dylan",
 				"year": 1963,
-				"id": "5c468744-5e36-40c7-8362-0bae842a1a00"
+				"id": "e73a1db5-dae5-489a-a9ec-2a50fc7758c8"
 			},
 			"artists": [
 				{

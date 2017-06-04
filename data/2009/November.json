@@ -39,16 +39,16 @@
 			"album": {
 				"name": "Impression: Samurai Champloo",
 				"year": 2004,
-				"id": "12bb8c10-61dc-43a4-b0b3-3c0ed72a76e3"
+				"id": "564207ce-6321-4e51-905c-7445a9d71788"
 			},
 			"artists": [
 				{
 					"name": "Force of Nature",
-					"id": "aecad965-8beb-4715-9b3b-487b3d7309af"
+					"id": "ac3ab9c2-a27e-47ca-94de-86f1472aa61d"
 				},
 				{
 					"name": "Nujabes",
-					"id": "f587f161-6217-41b2-9d94-973f96700fc9"
+					"id": "706e9901-3a5e-4839-be07-4b5f67c9f2cd"
 				}
 			],
 			"name": "the million way of drum",
@@ -59,7 +59,7 @@
 			"album": {
 				"name": "Scars",
 				"year": 2009,
-				"id": "b77bee26-6204-4d96-9796-9f3760745ca8"
+				"id": "2a1ae259-f93e-4b6b-be8c-64ab3a7d15aa"
 			},
 			"artists": [
 				{
@@ -68,7 +68,7 @@
 				},
 				{
 					"name": "Lightspeed Champion",
-					"id": "c93337a2-18a5-4e33-8316-9278ebd025e4"
+					"id": "a5ff2501-1d69-459c-882c-5075d9856486"
 				}
 			],
 			"name": "My Turn",
@@ -78,12 +78,12 @@
 		{
 			"album": {
 				"name": "Manhattan Research, Inc.",
-				"id": "30da22aa-f318-4e0c-a89c-561fcaa34232"
+				"id": "fea71cfe-c04b-4f6b-863c-15ffad004f18"
 			},
 			"artists": [
 				{
 					"name": "Raymond Scott",
-					"id": "ba2e7816-de4c-4f8a-b670-fabfb634b3c4"
+					"id": "3bf07dae-353a-4864-93b2-96f634908a52"
 				}
 			],
 			"name": "Cyclic Bit",

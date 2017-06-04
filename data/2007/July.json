@@ -24,12 +24,12 @@
 			"album": {
 				"name": "Discovery",
 				"year": 2001,
-				"id": "75252c71-c076-4ccb-844d-14e51b333f9a"
+				"id": "415ab1f3-0e6a-480b-b71e-33c291c912ac"
 			},
 			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": "e361f385-bbbd-4856-95d0-705650f6fabd"
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128"
 				}
 			],
 			"name": "Harder, Better, Faster, Stronger",
@@ -40,12 +40,12 @@
 			"album": {
 				"name": "Cross",
 				"year": 2007,
-				"id": "e9b7e66f-56d3-461c-8aab-10e89645a653"
+				"id": "870651a6-531f-443b-8345-c3c8ec79ec17"
 			},
 			"artists": [
 				{
 					"name": "Justice",
-					"id": "35da64d5-c532-437c-ad8e-ae3a1a8de1dc"
+					"id": "f6a44559-c685-4297-814c-ba9db8696ca0"
 				}
 			],
 			"name": "D.A.N.C.E",
@@ -56,7 +56,7 @@
 			"album": {
 				"name": "We Are The Night",
 				"year": 2007,
-				"id": "3f3d3684-4cea-4245-9c80-7a7886da8b47"
+				"id": "c00f7c8b-ffaa-4ff2-b680-792d8fd7e8e6"
 			},
 			"artists": [
 				{

@@ -8,12 +8,12 @@
 			"album": {
 				"name": "The Hour Of The Bewilderbeast",
 				"year": 2000,
-				"id": "0cc5a71b-9fd4-4e55-954a-35fea9b9e95e"
+				"id": "fa1230db-33fe-4ca9-9b1e-54daa40b93d2"
 			},
 			"artists": [
 				{
 					"name": "Badly Drawn Boy",
-					"id": "d6ec1fd9-2e24-4889-abaf-563790082715"
+					"id": "8cc42783-4b53-492f-aa24-ebae93f9c8cd"
 				}
 			],
 			"name": "Magic In The Air",
@@ -24,7 +24,7 @@
 			"album": {
 				"name": "Substance",
 				"year": 1988,
-				"id": "5f744730-d4d9-4933-a2b2-5ff7444e7091"
+				"id": "8efc7b2c-1acc-4266-b197-ea9af74b771e"
 			},
 			"artists": [
 				{
@@ -55,12 +55,12 @@
 		{
 			"album": {
 				"name": "We Have Sound",
-				"id": "0402843f-8faf-46c4-a1eb-0613981f3fdf"
+				"id": "37a36500-1714-4725-90d8-379d8a1844ef"
 			},
 			"artists": [
 				{
 					"name": "Tom Vek",
-					"id": "13a34b3f-9307-42b4-929c-157a38d181e5"
+					"id": "ff98b5d0-38be-4a17-b880-8d4f65dd30c0"
 				}
 			],
 			"name": "I Ain't Saying My Goodbyes",
@@ -71,12 +71,12 @@
 			"album": {
 				"name": "Has Been",
 				"year": 2004,
-				"id": "901e0a71-8a3c-43e3-9202-0632da7ec7b1"
+				"id": "d827894d-038f-4568-99d2-3aacf02abd91"
 			},
 			"artists": [
 				{
 					"name": "William Shatner",
-					"id": "7ac7db4a-a20c-4598-a662-03fc3f12d1fe"
+					"id": "eeabe4b4-1b65-498b-b246-70356e6904ef"
 				}
 			],
 			"name": "I Can't Get Behind That",

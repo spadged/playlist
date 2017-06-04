@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "The Shawshank Redemption",
-				"id": "08f9dd26-ef9d-4614-a7cb-b53f6b7c1c4b"
+				"id": "50906c84-8ec5-4100-b308-f0206592d772"
 			},
 			"artists": [
 				{
 					"name": "The Inkspots",
-					"id": "c757fc43-a122-4d0a-86f5-2276edc34dcd"
+					"id": "0f9e4e46-e516-4f2b-a3c2-f317339ed154"
 				}
 			],
 			"name": "If I didn't care",
@@ -23,7 +23,7 @@
 			"album": {
 				"name": "New Health Rock",
 				"year": 2005,
-				"id": "cefbb8c4-1f4a-4df4-9895-d2a093bd0ee2"
+				"id": "63c35e73-c533-48bc-8f5d-64c385f94e13"
 			},
 			"artists": [
 				{
@@ -39,12 +39,12 @@
 			"album": {
 				"name": "Sound Of Silver",
 				"year": 2007,
-				"id": "1028dcac-b158-4fc1-85bd-9067a36a29bd"
+				"id": "ff89327a-ec8a-4f66-b06d-f3308f0a9b82"
 			},
 			"artists": [
 				{
 					"name": "LCD Soundsystem",
-					"id": "452fdd68-8a60-4620-9d57-69be7fe28443"
+					"id": "00a582fa-b658-4aac-bbbe-91c8eeabdf27"
 				}
 			],
 			"name": "Someone Great",
@@ -55,12 +55,12 @@
 			"album": {
 				"name": "Kala",
 				"year": 2007,
-				"id": "2884b851-1676-4244-83bf-65d1c1c86dda"
+				"id": "7b9794c2-c4bd-4c09-8218-b556b40eae48"
 			},
 			"artists": [
 				{
 					"name": "M.I.A.",
-					"id": "47bae8f3-3d59-49eb-a87a-812f94fc2b13"
+					"id": "67264ab9-2422-4abb-9d2a-e7fe31e10151"
 				}
 			],
 			"name": "Jimmy",
@@ -71,12 +71,12 @@
 			"album": {
 				"name": "Crystal Castles",
 				"year": 2008,
-				"id": "ef18e1c2-fcdd-4b71-ad9d-c04f54643b39"
+				"id": "921dbc6b-5f11-45a0-af94-970cc84e9d7d"
 			},
 			"artists": [
 				{
 					"name": "Crystal Castles",
-					"id": "a9dba6c2-f66f-4486-9acc-93794c1c800f"
+					"id": "e0078692-0393-4b47-8a32-e6fbdafec8fd"
 				}
 			],
 			"name": "Crimewave",

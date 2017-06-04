@@ -8,7 +8,7 @@
 			"album": {
 				"name": "High Violet",
 				"year": "",
-				"id": "928f4d17-d3e8-4236-846e-203af15905cf",
+				"id": "be752d59-d78d-4c8f-abee-fa8d91bcc1b2",
 				"externalId": {
 					"spotify": null
 				}
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Nothing",
 				"year": "",
-				"id": "1eba25dc-cd52-4ac3-a44d-4b42925d2f93",
+				"id": "03a5c844-ad24-45b1-ba5e-5400300f750f",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +41,7 @@
 			"artists": [
 				{
 					"name": "N.E.R.D.",
-					"id": "719717f0-a689-495e-9520-78084b725cc0",
+					"id": "3d2ac78e-0da2-4db5-9275-1853b6c1aef1",
 					"externalId": {
 						"spotify": null
 					}
@@ -65,7 +65,7 @@
 			"album": {
 				"name": "Maximum Balloon",
 				"year": "",
-				"id": "84df9c7a-4f54-4ca4-98a4-e9d5015fa655",
+				"id": "d5825c82-afe0-4a91-be9f-5b12044c920e",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,14 +73,14 @@
 			"artists": [
 				{
 					"name": "Maximum Balloon",
-					"id": "df114310-9d0b-4b50-97c7-77bae5a67363",
+					"id": "6ae871cf-9312-4f1a-ae97-7c697ffaa9ac",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Theophilus London",
-					"id": "b2defe3e-57c8-43f5-8a44-01d7cc9b69ac",
+					"id": "4a294744-6e07-4537-bf3a-df6148d008e0",
 					"externalId": {
 						"spotify": null
 					}
@@ -97,7 +97,7 @@
 			"album": {
 				"name": "Nothing Else",
 				"year": "",
-				"id": "e0f50a24-0450-48e8-94e1-17bb1246d4da",
+				"id": "7dda0666-efdf-440a-a0c3-abc2d5a2440f",
 				"externalId": {
 					"spotify": null
 				}
@@ -105,7 +105,7 @@
 			"artists": [
 				{
 					"name": "Lorn",
-					"id": "bacba77b-8eb7-463f-a77b-7905a9829d53",
+					"id": "76cd30d3-1ee4-4799-a515-f5c8b2b13a81",
 					"externalId": {
 						"spotify": null
 					}
@@ -122,7 +122,7 @@
 			"album": {
 				"name": "Cerulean",
 				"year": "",
-				"id": "b63143af-34cf-42ce-9dc0-384b24234be6",
+				"id": "4f13807d-6dd8-4f5e-bd2b-c4bddadb094e",
 				"externalId": {
 					"spotify": null
 				}
@@ -130,7 +130,7 @@
 			"artists": [
 				{
 					"name": "Baths",
-					"id": "c17b57fb-e670-4f08-93b5-96437cf4994a",
+					"id": "e11c7985-b201-47a5-9080-6da37a189d61",
 					"externalId": {
 						"spotify": null
 					}

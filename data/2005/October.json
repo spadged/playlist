@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "Live, Rare, B-sides and Others",
-				"id": "2fd32294-984b-4830-9478-394534d50677"
+				"id": "c075f9fe-01e0-4c61-8f98-db720d225d2c"
 			},
 			"artists": [
 				{
 					"name": "Ben Folds",
-					"id": "af8dbef8-d3cc-4924-a8bc-6104b1cf6d63"
+					"id": "361e524f-2fff-40f0-bf10-12b037a45d09"
 				}
 			],
 			"name": "Bitches Ain't Shit",
@@ -22,12 +22,12 @@
 		{
 			"album": {
 				"name": "Unkle Mixes",
-				"id": "5490bf4c-6bca-4eaa-94e2-9e520ee51e3d"
+				"id": "600ce813-d76e-49b2-ac5d-37a79ebc8d27"
 			},
 			"artists": [
 				{
 					"name": "Stina Nordenstam",
-					"id": "bc1c9800-0b39-49e3-b60e-6234bf47f01c"
+					"id": "c36af464-c4d5-402c-a592-d040f6f2deda"
 				}
 			],
 			"name": "People are Strange",
@@ -38,12 +38,12 @@
 			"album": {
 				"name": "Sgt. Pepper's Lonely Hearts Club Band",
 				"year": 1967,
-				"id": "c7e8c72b-2a00-4511-9ef8-7922bf798567"
+				"id": "523db593-d6b3-4d78-9e24-bce200689017"
 			},
 			"artists": [
 				{
 					"name": "The Beatles",
-					"id": "dbb546c5-9e07-4a6f-8732-ecbb26d16334"
+					"id": "88fbae7b-dd9d-4f45-a9ff-1dd198e75192"
 				}
 			],
 			"name": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -69,12 +69,12 @@
 			"album": {
 				"name": "Point",
 				"year": 2001,
-				"id": "da90d586-4c09-4613-b8c9-336ae17bc782"
+				"id": "c2d39057-4c73-4417-9589-8f57dea2564b"
 			},
 			"artists": [
 				{
 					"name": "Cornelius",
-					"id": "db683dee-fa35-4b2c-9808-cf0a0e6c7b86"
+					"id": "c357a375-de12-4629-bd6b-d18e7319b455"
 				}
 			],
 			"name": "Drop",

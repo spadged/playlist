@@ -8,7 +8,7 @@
 			"album": {
 				"name": "A Mineral Love",
 				"year": "",
-				"id": "1cabbe65-9fb2-4b60-af5b-9b4adf55ce10",
+				"id": "f837e140-2b84-49c2-95c7-2487b191804f",
 				"externalId": {
 					"spotify": "47riSLCeFOffFRi9BZ2eig"
 				}
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "The Colour In Anything",
 				"year": "",
-				"id": "c4d53c03-b9b0-41f9-a917-7fc3d6704047",
+				"id": "787eecdf-4c7b-48f1-bfe6-3e553c6e0cb0",
 				"externalId": {
 					"spotify": "3W6y9r01OraL2mcoySQW9v"
 				}
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "All We Need",
 				"year": "",
-				"id": "7ff8ec4c-cc99-48ed-b63f-efae1ee3c66b",
+				"id": "8efae3b4-7f4c-47af-ad42-aec6d773a042",
 				"externalId": {
 					"spotify": "5UOaWbjsdPwjPzzQbCGPWl"
 				}
@@ -73,7 +73,7 @@
 				},
 				{
 					"name": "Big K.R.I.T.",
-					"id": "602eae1d-1497-4fde-8cda-db33e1937875",
+					"id": "3b11087a-e1e8-4f7c-b876-9f246b8c9d7e",
 					"externalId": {
 						"spotify": "0CKa42Jqrc9fSFbDjePaXP"
 					}
@@ -90,7 +90,7 @@
 			"album": {
 				"name": "Cowboys or Indians",
 				"year": "",
-				"id": "07d6a186-29f4-4a86-bcfc-c00e6a3ae04d",
+				"id": "e49548b8-baee-4781-b06f-18d6400ba4b6",
 				"externalId": {
 					"spotify": "0QPcYj4xhgLJNkQs9sJtln"
 				}
@@ -105,21 +105,21 @@
 				},
 				{
 					"name": "Ysée",
-					"id": "cac76e40-e908-4bce-9b98-954084f15e6d",
+					"id": "06e879e2-10fc-4063-8d75-ea6fa1e2ccec",
 					"externalId": {
 						"spotify": "6CSR3FMvlGtdxwzU7UvoZo"
 					}
 				},
 				{
 					"name": "Mink",
-					"id": "c6f46add-5e35-40e6-a6e2-1e040b5c8c3f",
+					"id": "acfd493e-937f-4a9a-a4cf-6b3f2f4b16ab",
 					"externalId": {
 						"spotify": "53uR8rbtksR96RAojNtqi0"
 					}
 				},
 				{
 					"name": "Elliott Power",
-					"id": "9d7ab8eb-82d3-4152-a8e3-05727cc3383e",
+					"id": "2dd12cc8-f522-4abd-b0f1-4507d14685b0",
 					"externalId": {
 						"spotify": "0W9uSww0CY2GNQZaRMnBZA"
 					}
@@ -136,7 +136,7 @@
 			"album": {
 				"name": "99.9%",
 				"year": "",
-				"id": "38ec87a9-4541-49f4-8b80-dccca9b89994",
+				"id": "9b4dd09c-bea7-4e11-8a33-45925b03b188",
 				"externalId": {
 					"spotify": "1dZZh7PvVgce1DDsDPzy8Z"
 				}
@@ -144,14 +144,14 @@
 			"artists": [
 				{
 					"name": "KAYTRANADA",
-					"id": "6154726b-2aa8-406d-b177-8daddfc230d5",
+					"id": "f4a44fd6-b1ba-4846-8d87-b9b1b30f8f0d",
 					"externalId": {
 						"spotify": "6qgnBH6iDM91ipVXv28OMu"
 					}
 				},
 				{
 					"name": "Syd",
-					"id": "585fa3b1-fdd9-4795-bc30-c39ddd44611f",
+					"id": "2e174617-ddc8-47fb-afa3-78cbf3278795",
 					"externalId": {
 						"spotify": "3jk39CGeaaSO3FPKNx1RUx"
 					}

@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Twin Peaks: Fire Walk With Me",
 				"year": 1992,
-				"id": "2ba86191-dc3b-4e66-9c15-708166cf3bc4"
+				"id": "8915457f-390d-4989-8282-985799c51051"
 			},
 			"artists": [
 				{
@@ -17,7 +17,7 @@
 				},
 				{
 					"name": "Jimmy Scott",
-					"id": "86cb2cc6-90eb-4025-8cf8-b8b0bdc6c428"
+					"id": "7f767ac4-45aa-4a3f-b0af-29367162b2c7"
 				}
 			],
 			"name": "Sycamore Trees",
@@ -28,12 +28,12 @@
 			"album": {
 				"name": "Idealism",
 				"year": 2007,
-				"id": "dc855423-acd2-4726-b691-d430916d4e3a"
+				"id": "58c54b80-ce99-42e0-8830-13fa81003413"
 			},
 			"artists": [
 				{
 					"name": "Digitalism",
-					"id": "f306749f-0dac-40bc-9cb3-ee4d9a360035"
+					"id": "0cdc3dda-8801-4333-a351-fb278fbbaa84"
 				}
 			],
 			"name": "Pogo",
@@ -44,12 +44,12 @@
 			"album": {
 				"name": "I'll Sleep When You're Dead",
 				"year": 2007,
-				"id": "d215e79b-8f61-42c6-ac30-0fd097884902"
+				"id": "e84ff741-836d-4dd3-a208-83d2604fe762"
 			},
 			"artists": [
 				{
 					"name": "El-P",
-					"id": "19daec5d-ff57-41eb-af6a-5f4e7fbf5965"
+					"id": "3e1a08fb-d2e4-478e-b4e8-79971e2db7bf"
 				}
 			],
 			"name": "The Overly Dramatic Truth",
@@ -60,12 +60,12 @@
 			"album": {
 				"name": "Happy Birthday!",
 				"year": 2007,
-				"id": "0807d806-6cfb-4939-bbce-692c32ca18c0"
+				"id": "766b123a-6d2a-4749-b4bc-f374984d7d6e"
 			},
 			"artists": [
 				{
 					"name": "Modeselektor",
-					"id": "f6619287-9a6c-442c-9663-4d4b4986a7e9"
+					"id": "617b3769-97d4-4793-b064-337799df49ad"
 				},
 				{
 					"name": "Thom Yorke",
@@ -88,7 +88,7 @@
 				},
 				{
 					"name": "Moby",
-					"id": "5e639813-ba7d-4aa8-9fb6-8b2bbba30daa"
+					"id": "5b44de9f-2d49-4181-95a1-e5d9c98e5dc7"
 				}
 			],
 			"name": "In A State/God moving Over The Waters",

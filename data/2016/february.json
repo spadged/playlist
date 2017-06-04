@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Reminder",
 				"year": "",
-				"id": "f059a69c-c489-489b-b264-0652f0505a80",
+				"id": "b75ba0e3-e189-4b05-b7b3-5e3e0cc01576",
 				"externalId": {
 					"spotify": "34leSDkpEeoIPkyhzSIDYg"
 				}
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "A Retelling",
 				"year": "",
-				"id": "b43595f5-1a43-476e-8df8-90cc597dcec6",
+				"id": "c2dd9023-443d-42aa-884d-86cf686938ae",
 				"externalId": {
 					"spotify": "6u3V2lOfrxUpLWHL8rjllE"
 				}
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Water",
 				"year": "",
-				"id": "de8c4bf5-56d3-411b-ab4d-8a339effc6cd",
+				"id": "1fce5166-13f5-441a-b4a2-8f9ae666cee1",
 				"externalId": {
 					"spotify": "35Cbis4EC9WCCSrmIwGNkJ"
 				}
@@ -91,14 +91,14 @@
 			"artists": [
 				{
 					"name": "Ra Ra Riot",
-					"id": "dda81ded-8e79-4b9d-a817-0d0d7ad73a32",
+					"id": "de6160e0-6d76-46d7-96de-a28bffdc9ab6",
 					"externalId": {
 						"spotify": "6FIrstf3kHEg3zBOyLpvxD"
 					}
 				},
 				{
 					"name": "Rostam",
-					"id": "5ed9874b-5aae-4851-a0cc-a65918e0173c",
+					"id": "3f3030a8-2b4f-4d74-a396-6b8c3ed27397",
 					"externalId": {
 						"spotify": "04XggbrM51GcFPTxBYtRXT"
 					}
@@ -115,7 +115,7 @@
 			"album": {
 				"name": "I Love You, Honeybear",
 				"year": "",
-				"id": "3f00feef-b76d-43ce-b4d3-b0209aec3e49",
+				"id": "90029b5d-0524-4c30-9143-b5fd8717254c",
 				"externalId": {
 					"spotify": "2A8IKX257C4hJaYUHMhLP7"
 				}
@@ -123,7 +123,7 @@
 			"artists": [
 				{
 					"name": "Father John Misty",
-					"id": "7ccca3b2-1191-477a-b031-c9f5e3de27a0",
+					"id": "65ba0263-eb77-4b08-a9a5-97384b8fc779",
 					"externalId": {
 						"spotify": "2kGBy2WHvF0VdZyqiVCkDT"
 					}

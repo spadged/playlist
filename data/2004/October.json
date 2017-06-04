@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "Apollo: Atmospheres and Soundtracks",
-				"id": "e094fe51-6539-4940-b418-e477ac49bdc7"
+				"id": "20124702-3bf0-4579-83b6-8ee231b10e21"
 			},
 			"artists": [
 				{
 					"name": "Brian Eno",
-					"id": "2521a503-f452-4b62-8711-980894dd17dc"
+					"id": "76699e65-50eb-4007-920d-916231977b30"
 				}
 			],
 			"name": "Ascent (An Ending)",
@@ -22,12 +22,12 @@
 		{
 			"album": {
 				"name": "Blonde on Blonde",
-				"id": "69864a44-0302-43e7-bb97-6fc5f579f1a9"
+				"id": "7cd5a1ed-f88a-4f68-aa70-6f4dc84abede"
 			},
 			"artists": [
 				{
 					"name": "Bob Dylan",
-					"id": "bcb625f3-bbab-4ab3-a384-72737fe37825"
+					"id": "d2b0ae64-b67e-46dd-ba96-23d4d7206551"
 				}
 			],
 			"name": "Fourth time around",
@@ -38,7 +38,7 @@
 			"album": {
 				"name": "Figure 8",
 				"year": 2000,
-				"id": "bbebc3cb-a6dd-42a8-b72b-b8cc940a521f"
+				"id": "1de0e668-384a-4596-8521-a29e76ad0633"
 			},
 			"artists": [
 				{
@@ -54,12 +54,12 @@
 			"album": {
 				"name": "Antics",
 				"year": 2004,
-				"id": "96778b87-6258-480d-ac87-f7bb5c1aad42"
+				"id": "a1e34239-5ecb-4629-a26d-536fdd94a772"
 			},
 			"artists": [
 				{
 					"name": "Interpol",
-					"id": "1e2962e0-8a3b-4586-bb5a-0aadbedd4451"
+					"id": "a8cc658d-4bb4-419c-b2cc-096a7a1dff32"
 				}
 			],
 			"name": "Slow Hands",
@@ -70,12 +70,12 @@
 			"album": {
 				"name": "Black Market Music",
 				"year": 2000,
-				"id": "574ac24e-9db5-43b6-bf77-078aca2efa99"
+				"id": "b1bb29b9-9bbf-4b27-b2d5-fc917845569d"
 			},
 			"artists": [
 				{
 					"name": "Placebo",
-					"id": "3012d000-43e1-4fc6-a8d9-e6bf5685057c"
+					"id": "8d5c070c-1121-42fc-a2a3-a933bbebc1d5"
 				}
 			],
 			"name": "Black-Eyed",

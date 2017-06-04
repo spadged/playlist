@@ -40,12 +40,12 @@
 			"album": {
 				"name": "Then it was a bad, bad night",
 				"year": 2004,
-				"id": "43f908c1-3a0b-489a-83a3-2253e4433d51"
+				"id": "fb866b27-9647-4d18-9fe6-71269e8ba5cb"
 			},
 			"artists": [
 				{
 					"name": "Kidd",
-					"id": "a4af9f25-1eff-4260-a76a-1e16bf1a4102"
+					"id": "a23111dd-81e9-41d5-8d04-5e24dcb59616"
 				}
 			],
 			"name": "South bound on Avalon",
@@ -55,12 +55,12 @@
 		{
 			"album": {
 				"name": "Ágætis Byrjun",
-				"id": "954bde26-e7da-4dd2-afb7-731804e7184d"
+				"id": "59303939-b787-4259-b366-d5ea5957aeee"
 			},
 			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": "860f3d17-e751-4691-97bb-f5ed3e051702"
+					"id": "8765df1a-e512-4885-b0fa-92c22a380ebc"
 				}
 			],
 			"name": "Ágaetis Byrjun",
@@ -70,12 +70,12 @@
 		{
 			"album": {
 				"name": "Louder than Bombs",
-				"id": "763597ec-e564-45a6-b1cb-05c28cd1d7b6"
+				"id": "617c0a99-fae8-44ea-8709-04aad543e23b"
 			},
 			"artists": [
 				{
 					"name": "The Smiths",
-					"id": "72bd6c7d-eeb0-4b41-9e85-390095ea67c2"
+					"id": "1ba04fc6-d220-472a-b75a-18ce6cacddb5"
 				}
 			],
 			"name": "Please please please let me get what I want",

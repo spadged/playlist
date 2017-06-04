@@ -8,12 +8,12 @@
 			"album": {
 				"name": "Clinic",
 				"year": 2001,
-				"id": "c503473f-434e-4c60-af08-c9742d2cab60"
+				"id": "a1687984-7bfc-4535-aafc-035c2a77635a"
 			},
 			"artists": [
 				{
 					"name": "Clinic",
-					"id": "2b7da7d3-939e-48f7-9474-f500df7cf887"
+					"id": "64150cd4-14cc-4ba8-91e3-5859330f85de"
 				}
 			],
 			"name": "Porno",
@@ -24,12 +24,12 @@
 			"album": {
 				"name": "Kill Bill Volume 2",
 				"year": 2004,
-				"id": "eaeb304b-4ee4-4940-89bb-e2bbb1c6a1d4"
+				"id": "a74b9208-00b7-4a9b-bf15-667070de2aa9"
 			},
 			"artists": [
 				{
 					"name": "Ennio Morricone",
-					"id": "e5d153d7-2cc3-426c-b6d9-bbf7e22e01cf"
+					"id": "d790e26b-2e72-4e72-9748-f4e911ae2bd7"
 				}
 			],
 			"name": "L Arena",
@@ -40,7 +40,7 @@
 			"album": {
 				"name": "Either/Or",
 				"year": 1998,
-				"id": "a2e2a6dc-0f73-4de3-839f-4fea72d94782"
+				"id": "852df940-b2a9-4246-8b98-0d0f02a28829"
 			},
 			"artists": [
 				{
@@ -56,12 +56,12 @@
 			"album": {
 				"name": "Hello",
 				"year": 2001,
-				"id": "19e48550-cbc8-4065-8e11-e28f4072a98f"
+				"id": "6a0c605d-0bad-48bd-adf3-8e4dcd15538d"
 			},
 			"artists": [
 				{
 					"name": "Half Japanese",
-					"id": "3c767e95-6dc5-45f6-9553-5b39b8f9a9d9"
+					"id": "97798f1b-3eff-4c9c-9ff2-d2a34bf5f706"
 				}
 			],
 			"name": "Red Sun",
@@ -72,12 +72,12 @@
 			"album": {
 				"name": "Fever To Tell",
 				"year": 2003,
-				"id": "c769891d-2baa-420e-aa3e-40055f8b4dc3"
+				"id": "f6b2f42f-c608-413e-8107-e8ed0e611e47"
 			},
 			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "e414630c-aac0-44e6-8717-163869cae3e2"
+					"id": "d395b353-f88d-4608-848c-73bf907ed076"
 				}
 			],
 			"name": "Y Control",

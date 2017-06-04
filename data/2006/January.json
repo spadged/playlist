@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "Touch",
-				"id": "d9774fdd-73ee-4204-ac2b-006d3b45b17f"
+				"id": "04f3b3ab-426d-4e58-a3c1-ad1866c406e4"
 			},
 			"artists": [
 				{
 					"name": "Amerie",
-					"id": "42e8b0b0-f83f-482f-a00a-c984d3006730"
+					"id": "9cc75d30-d6b0-4418-a7e1-03a001850d43"
 				}
 			],
 			"name": "1 Thing",
@@ -22,20 +22,20 @@
 		{
 			"album": {
 				"name": "B'Day",
-				"id": "c085a5e5-a25a-4d87-a7b6-6059148550b9"
+				"id": "80cbaf40-90c2-4d4b-8947-3d7c2b3d3dfa"
 			},
 			"artists": [
 				{
 					"name": "Beyonce",
-					"id": "6741c4ef-a7d1-4fe3-87d1-2c030693e105"
+					"id": "70b5706b-9f30-43e9-955f-d6cac62a43d6"
 				},
 				{
 					"name": "Slim Thug",
-					"id": "ad7e77e4-cc14-43d2-9ffa-b205e8a647d9"
+					"id": "d409684a-79fc-43e9-b6ed-26bc8331b75d"
 				},
 				{
 					"name": "Bun B",
-					"id": "fa8f9074-f91f-47a8-ac3b-12082c9dd941"
+					"id": "e7e3ae0b-1ef5-4705-b0a7-dd482f7b9b2c"
 				}
 			],
 			"name": "Check On It",
@@ -45,12 +45,12 @@
 		{
 			"album": {
 				"name": "Monkey Business",
-				"id": "2fd068ec-9808-4792-bc05-974349104db7"
+				"id": "5a527f15-4441-41af-bc34-15b572cf4e7d"
 			},
 			"artists": [
 				{
 					"name": "Black Eyed Peas",
-					"id": "bcb34a67-1f90-4be6-b656-2d933d2e0c73"
+					"id": "6867bdb2-3fa2-4d90-95f4-506dae113dfe"
 				}
 			],
 			"name": "Don't Phunk With My Heart",
@@ -61,12 +61,12 @@
 			"album": {
 				"name": "Music For Films III",
 				"year": 1988,
-				"id": "87a86436-2c8d-47e3-8b4b-f5e3b9da300f"
+				"id": "cf054cb1-ada7-42a0-9cc4-3928dfc3afa9"
 			},
 			"artists": [
 				{
 					"name": "Roger Eno",
-					"id": "65028067-ee54-44af-8181-a3025b1e6630"
+					"id": "7c546529-5d83-4a7b-a3c0-8e6c86fd3450"
 				}
 			],
 			"name": "Quixote",
@@ -92,7 +92,7 @@
 		{
 			"album": {
 				"name": "The College Dropout",
-				"id": "585e8636-85e7-4ee8-93e4-d647d22f35d9"
+				"id": "fb568536-4349-4b28-b85d-9bc167ca73fb"
 			},
 			"artists": [
 				{
@@ -123,12 +123,12 @@
 		{
 			"album": {
 				"name": "Genetic World",
-				"id": "af8ec187-ef3c-4219-a35b-41bdd041c882"
+				"id": "81b8fd6f-5d71-4753-a41c-6e1f240a2894"
 			},
 			"artists": [
 				{
 					"name": "Télépopmusic",
-					"id": "6c212a05-e093-4211-a1da-8af8b0146dc6"
+					"id": "0282eb9d-b8ba-4f78-8c3a-d829de7c422a"
 				}
 			],
 			"name": "Breathe",
@@ -139,12 +139,12 @@
 			"album": {
 				"name": "Veneer",
 				"year": 2003,
-				"id": "f3afa287-547b-452e-88ff-537e001b96eb"
+				"id": "0ceaf3e2-0583-4ce7-810f-650043692ae1"
 			},
 			"artists": [
 				{
 					"name": "Jose González",
-					"id": "899bbd4b-e8f7-40b0-8445-51d5821d0da1"
+					"id": "1dc2661f-79c5-494d-8308-e83a532f7cb4"
 				}
 			],
 			"name": "Heartbeats",
@@ -155,12 +155,12 @@
 			"album": {
 				"name": "Give Up",
 				"year": 2003,
-				"id": "9562eb26-a4a5-49d9-a450-d5cc57a8c57a"
+				"id": "0e884514-2504-4d96-b000-12561b62db9f"
 			},
 			"artists": [
 				{
 					"name": "The Postal Service",
-					"id": "cca56994-fb4a-45eb-a90a-9f0aa46107ab"
+					"id": "04677d6a-62ed-4147-bd9a-adc339b2c82b"
 				}
 			],
 			"name": "The District Sleeps Alone Tonight",

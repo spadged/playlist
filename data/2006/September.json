@@ -23,12 +23,12 @@
 		{
 			"album": {
 				"name": "Eternal Sunshine fo the Spotless Mind",
-				"id": "55e171e8-7a1d-43f7-a8bb-c319cd457c5e"
+				"id": "b0a98fc0-c8a0-487c-8b37-a650c5b8924a"
 			},
 			"artists": [
 				{
 					"name": "Jon Brion",
-					"id": "cc5790b5-3822-49b9-9293-e9592ad1cdc5"
+					"id": "577cfb7e-adb7-4f99-b4e8-616174971252"
 				}
 			],
 			"name": "Eternal Sunshine Of The Spotless Mind Theme",
@@ -63,12 +63,12 @@
 			"album": {
 				"name": "Oh, Inverted World",
 				"year": 2001,
-				"id": "125793ea-ebe3-43a7-96d7-2bbd54377f5a"
+				"id": "c0b2144d-3760-4d9d-bba2-12ab3ef8087e"
 			},
 			"artists": [
 				{
 					"name": "The Shins",
-					"id": "13c25464-e143-499b-8ef2-d474f40a277b"
+					"id": "f7745c64-d23e-4f2b-b536-14610fb1e181"
 				}
 			],
 			"name": "New Slang",
@@ -79,12 +79,12 @@
 			"album": {
 				"name": "Big World Small World",
 				"year": 2000,
-				"id": "ad546d27-0491-4fd6-ab76-8f4567527c9a"
+				"id": "5ea65bed-fe6c-476a-b0fd-d6edbfa7dab1"
 			},
 			"artists": [
 				{
 					"name": "Smith & Mighty",
-					"id": "e6336ffc-b600-4c67-b1c6-fcaf7e24ea5e"
+					"id": "b99753b3-d4a9-438e-a0ab-efec083f86f0"
 				}
 			],
 			"name": "Same",

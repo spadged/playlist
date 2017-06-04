@@ -8,7 +8,7 @@
 			"album": {
 				"name": "One By One",
 				"year": "",
-				"id": "243c316b-0a76-45a6-876c-e68260e168f6",
+				"id": "c4b46f88-a1a0-4cbe-8c0d-64a353aed1e2",
 				"externalId": {
 					"spotify": "2TIp2qGorHvqyaiAb82Awe"
 				}
@@ -16,7 +16,7 @@
 			"artists": [
 				{
 					"name": "Foo Fighters",
-					"id": "0a403ddf-14eb-4f8b-9660-4fa0bf473a59",
+					"id": "e1d93aa7-8f86-4ad6-8767-a000a8577bd7",
 					"externalId": {
 						"spotify": "7jy3rLJdDQY21OgRLCZ9sD"
 					}
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Good Times",
 				"year": "",
-				"id": "2136e23d-b2ab-4d8d-8cd8-6e5397f3a8ad",
+				"id": "c87ca830-17fa-402f-8aef-95b9ffb3ed1a",
 				"externalId": {
 					"spotify": "36pKx43hkeUF1OGxuxKkZw"
 				}
@@ -41,7 +41,7 @@
 			"artists": [
 				{
 					"name": "Willie Nelson",
-					"id": "d60eb8cf-dae0-4684-b64e-1094e9361010",
+					"id": "449cc7b1-b0eb-4f9b-95f7-fe32fa798cc6",
 					"externalId": {
 						"spotify": "5W5bDNCqJ1jbCgTxDD0Cb3"
 					}
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Shadows in the Night",
 				"year": "",
-				"id": "ae31b3a2-64a6-464d-8e63-7b471c3c4cd7",
+				"id": "a2eba184-455a-4aac-adcc-169057bd6663",
 				"externalId": {
 					"spotify": "2mVpSZrllFAWhOgCoyz8ow"
 				}
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Elsewhere Anchises",
 				"year": "",
-				"id": "b20a650f-a211-471b-9b2d-fec424021026",
+				"id": "a09cccf7-d22c-45f1-be65-4a7a34aa8c5e",
 				"externalId": {
 					"spotify": "24i8Sj6loL2qIJNsrojnGT"
 				}
@@ -105,7 +105,7 @@
 				},
 				{
 					"name": "Stephen Rea",
-					"id": "29e89882-1835-4aba-bead-55f5a363d92f",
+					"id": "b7983f76-4fa8-4bfb-9034-bee05a457629",
 					"externalId": {
 						"spotify": "5KIabrrmudYdwnxbEl0pOZ"
 					}
@@ -122,7 +122,7 @@
 			"album": {
 				"name": "Avalon",
 				"year": "",
-				"id": "706441e2-6d8a-4e1b-9052-e853b872a9e6",
+				"id": "96257103-d27b-447e-a594-fe03cfd41f26",
 				"externalId": {
 					"spotify": "3JXODSjT9mUz2lIb4YIErw"
 				}
@@ -130,7 +130,7 @@
 			"artists": [
 				{
 					"name": "Roxy Music",
-					"id": "da39238e-7631-493e-a77f-effef68a154b",
+					"id": "1e0e476f-614f-4dc2-85fa-e47e4b03011c",
 					"externalId": {
 						"spotify": "3fhOTtm0LBJ3Ojn4hIljLo"
 					}

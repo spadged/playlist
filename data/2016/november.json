@@ -8,7 +8,7 @@
 			"album": {
 				"name": "She-Devils",
 				"year": "",
-				"id": "0ce37bf5-8e16-4e27-b4e9-ca92ff632706",
+				"id": "789aab43-0b1a-4a41-b626-bb4e732cd9e9",
 				"externalId": {
 					"spotify": "70LRZU0wf6kpAQoW67ODj6"
 				}
@@ -16,7 +16,7 @@
 			"artists": [
 				{
 					"name": "She-Devils",
-					"id": "d7edca2e-159b-41c6-b355-f77fb57cb4d8",
+					"id": "81601aa4-7b3f-44c2-8cab-3705773596be",
 					"externalId": {
 						"spotify": "3u7brx0K0jy0FFN5ekSuBh"
 					}
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "HOPELESSNESS",
 				"year": "",
-				"id": "65ceadc4-f9a7-4e00-a462-8a30d321b7fe",
+				"id": "928a81f6-b867-4c84-a02c-efa624e18bf4",
 				"externalId": {
 					"spotify": "1S3OY2V2ZwFh4xU7gQG6IZ"
 				}
@@ -41,7 +41,7 @@
 			"artists": [
 				{
 					"name": "ANOHNI",
-					"id": "35cba113-6b3d-4d88-9d4b-bcc6412c6148",
+					"id": "f56def08-33fc-4a5a-aea2-4dd4196a3e9d",
 					"externalId": {
 						"spotify": "6VJZYivuYJGCrPuOAnI7Qo"
 					}
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "HYMNS",
 				"year": "",
-				"id": "0872b37c-d937-491b-9777-f454519272d8",
+				"id": "cc6625e7-79a8-4bc1-9ad7-0a0bd360b127",
 				"externalId": {
 					"spotify": "6AeBPtepkxtQOXc4gCVzKP"
 				}
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "On Hold",
 				"year": "",
-				"id": "be5b1532-d710-4360-82ff-491ca05d7736",
+				"id": "bc795150-b1f4-4092-bbc1-bab5d7870f09",
 				"externalId": {
 					"spotify": "0xhcc6Lp1uTV4mokv50GXf"
 				}
@@ -91,7 +91,7 @@
 			"artists": [
 				{
 					"name": "The xx",
-					"id": "1ffebef9-78c5-48aa-ae7e-196a53f234e3",
+					"id": "a5dfdc75-a9e3-4f9a-a43c-7f6e61b85a9f",
 					"externalId": {
 						"spotify": "3iOvXCl6edW5Um0fXEBRXy"
 					}
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "Beats, Rhymes & Life",
 				"year": "",
-				"id": "db26ce47-a34d-4c63-87eb-8de05594562a",
+				"id": "0e266d3e-ea8d-49e1-8f76-b95158db74ec",
 				"externalId": {
 					"spotify": "0EguP4tsJurU5I8ocCxdyb"
 				}
@@ -116,14 +116,14 @@
 			"artists": [
 				{
 					"name": "A Tribe Called Quest",
-					"id": "199b92b3-866f-4ee3-a713-1f0204d35b3c",
+					"id": "eecf9826-929c-4886-8701-900169c85992",
 					"externalId": {
 						"spotify": "09hVIj6vWgoCDtT03h8ZCa"
 					}
 				},
 				{
 					"name": "Faith Evans",
-					"id": "8b093e14-5573-4909-a77d-e93fcf9f624d",
+					"id": "42555ded-bafc-4ffe-8d4e-110553e6b600",
 					"externalId": {
 						"spotify": "5NDMothbpdpq2xHqSjrrWn"
 					}

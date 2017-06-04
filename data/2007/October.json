@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Finding Forever",
 				"year": "",
-				"id": "9d9cdf77-4298-4d4e-a949-2fde977854bc",
+				"id": "a191d035-a8ab-4d47-94a6-ad84a50b93d5",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "Common",
-					"id": "aed71bf1-9971-49c7-8583-fe9dbfe6359c",
+					"id": "20e0da43-6328-4bd0-9c64-64216f8b8350",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Lily Allen",
-					"id": "48d30ae6-0a45-4b92-a29d-a033ee813b54",
+					"id": "3a38184b-4932-442d-93a1-750696fe787c",
 					"externalId": {
 						"spotify": null
 					}
@@ -40,7 +40,7 @@
 			"album": {
 				"name": "The Reminder",
 				"year": "",
-				"id": "a4f2b76b-b0f0-485b-98b5-e815c4e4ee6a",
+				"id": "6f938c13-e847-4369-812f-9d5b478c7b81",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,7 +48,7 @@
 			"artists": [
 				{
 					"name": "Feist",
-					"id": "bc0d5ce1-eeb0-46eb-b3f0-b115b750edea",
+					"id": "b723f3fb-8230-4031-ac32-bee9087ec99e",
 					"externalId": {
 						"spotify": null
 					}
@@ -90,7 +90,7 @@
 			"album": {
 				"name": "Oblivion With Bells",
 				"year": "",
-				"id": "85abf852-2074-439d-99c1-287f8ba5ec89",
+				"id": "94e34f9f-9a08-4219-9de5-c44dbee535d4",
 				"externalId": {
 					"spotify": null
 				}

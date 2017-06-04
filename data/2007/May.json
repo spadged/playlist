@@ -40,7 +40,7 @@
 			"album": {
 				"name": "Blur",
 				"year": 1997,
-				"id": "f9d0b1cd-476b-490a-a89b-237363425f6a"
+				"id": "ffb8d184-9595-44a7-a5a8-3f168f664c1c"
 			},
 			"artists": [
 				{
@@ -56,12 +56,12 @@
 			"album": {
 				"name": "Brazilification {Remixes 95-99}",
 				"year": 1997,
-				"id": "07046a60-c634-4edf-9727-5ddbef749f65"
+				"id": "1bbea899-580b-4dde-b1b2-2040dff0cca7"
 			},
 			"artists": [
 				{
 					"name": "Fila Brazillia",
-					"id": "48c2b43b-e8ad-4ed2-a8a4-454fa19969f6"
+					"id": "18e59422-52bf-4dbb-a2d7-6763b4d738c6"
 				},
 				{
 					"name": "Radiohead",
@@ -85,7 +85,7 @@
 				},
 				{
 					"name": "Lamb",
-					"id": "180b442c-b644-4171-8b3a-4291be63fdee"
+					"id": "557f7381-1dba-4f4f-9d24-c24a98d14826"
 				}
 			],
 			"name": "Cotton wool",
@@ -105,7 +105,7 @@
 				},
 				{
 					"name": "Fontella Bass",
-					"id": "bd2f7b64-63d4-4c96-90aa-b4b34eafdd6f"
+					"id": "47bf98e7-e684-434a-b6dd-f93313bddaed"
 				}
 			],
 			"name": "Breathe",
@@ -116,12 +116,12 @@
 			"album": {
 				"name": "Nino Rojo",
 				"year": 2004,
-				"id": "44e1c2e5-db1f-491b-a99f-cde4aa8d4c67"
+				"id": "81d9f367-e692-4186-80a0-fb630eca5503"
 			},
 			"artists": [
 				{
 					"name": "Devendra Banhart",
-					"id": "fe828104-7155-4123-82a7-986d9479b7ba"
+					"id": "aa0f1247-9ec4-41f3-84d9-3c6987b08e49"
 				}
 			],
 			"name": "Little Yellow Spider",
@@ -132,12 +132,12 @@
 			"album": {
 				"name": "Under The Western Freeway",
 				"year": 1997,
-				"id": "4acef156-0c8f-455a-9554-5952f0ebde7d"
+				"id": "be459239-e3de-442e-969f-a88a0a3592de"
 			},
 			"artists": [
 				{
 					"name": "Grandaddy",
-					"id": "c83a7de2-0feb-4afe-ac25-4fd9e242eceb"
+					"id": "1e7bfe45-b379-4784-85dc-af1ceb8a920b"
 				}
 			],
 			"name": "A.M. 180",
@@ -148,12 +148,12 @@
 			"album": {
 				"name": "Self Defence",
 				"year": 2006,
-				"id": "d1ce11d9-8418-4364-b1a5-910aa9253754"
+				"id": "24edca23-6670-4b15-be6d-3a9ee0bebba9"
 			},
 			"artists": [
 				{
 					"name": "Unkle",
-					"id": "dc041aa2-d2db-4ed5-9d4b-7e669c8f957e"
+					"id": "2fab40b2-239b-40cb-a451-4f7dc4c31c5e"
 				}
 			],
 			"name": "Tracier",
@@ -164,12 +164,12 @@
 			"album": {
 				"name": "The Boy With No Name",
 				"year": 2007,
-				"id": "649ed2d9-cf49-4535-b6ff-87daaabe222f"
+				"id": "5542c3b9-bed7-418c-96b9-3db7d0f4eb5a"
 			},
 			"artists": [
 				{
 					"name": "Travis",
-					"id": "5e56f098-1be3-4bf1-9dd7-340e05c147ff"
+					"id": "57ff22dd-02a3-4804-92ff-42f106c8fc0d"
 				}
 			],
 			"name": "Closer",

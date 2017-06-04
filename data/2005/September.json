@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Help: A Day In the Life",
 				"year": 2005,
-				"id": "ddd0cfeb-33e1-4610-b3df-02ae5b3da398"
+				"id": "af2682de-1de2-48ea-a7c0-e4e1765b8daa"
 			},
 			"artists": [
 				{
@@ -24,12 +24,12 @@
 			"album": {
 				"name": "Wipe Out 2097",
 				"year": 1996,
-				"id": "8943c0b7-a987-43e7-9bf0-49d53e481e14"
+				"id": "6a7a922d-9138-449e-8931-2789d7b520e5"
 			},
 			"artists": [
 				{
 					"name": "Underworld",
-					"id": "2acf41c4-89f1-4996-9dc1-f3937cbce3e4"
+					"id": "2bc5bf42-2f07-4431-8484-afb4c1d3a4a4"
 				}
 			],
 			"name": "Tin There",
@@ -55,12 +55,12 @@
 			"album": {
 				"name": "Curtains",
 				"year": 2004,
-				"id": "319a0817-3ed9-42c8-915a-057065998071"
+				"id": "6636bdd4-d2d3-4ef7-8cf4-8b5bacad18e0"
 			},
 			"artists": [
 				{
 					"name": "John Frusciante",
-					"id": "f5a24936-ecf0-45f4-875e-849fc2824533"
+					"id": "bccbef8c-c57d-4a11-bad4-32ba0cab7e00"
 				}
 			],
 			"name": "The Real",
@@ -70,12 +70,12 @@
 		{
 			"album": {
 				"name": "The Milk-Eyed Mender",
-				"id": "366c3b96-e229-4300-8b17-d844e1eab3c4"
+				"id": "035a9cc9-29fe-4ae8-a551-145d8b7c189b"
 			},
 			"artists": [
 				{
 					"name": "Joanna Newsom",
-					"id": "4344d252-8ce5-4d47-afc4-21370376371d"
+					"id": "0f39f426-7f01-4d47-a700-339f44a10939"
 				}
 			],
 			"name": "This Side of the Blue",

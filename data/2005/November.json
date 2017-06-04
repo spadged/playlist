@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "Blue Eyed In The Red Room",
-				"id": "b3dc33cc-831e-463b-b005-ed15cecf8467"
+				"id": "36ae34d8-faf4-40ef-8a3b-fd0263ef89a6"
 			},
 			"artists": [
 				{
 					"name": "Boom Bip",
-					"id": "185ffe60-2fa1-405e-b15f-3512548768f5"
+					"id": "ec7bcfee-69cc-4005-812b-2abf33474356"
 				}
 			],
 			"name": "The Matter (Of Our Discussion)",
@@ -23,12 +23,12 @@
 			"album": {
 				"name": "Smash",
 				"year": 2005,
-				"id": "afdf3f54-f786-4f6a-87fd-75fbecaa2748"
+				"id": "b439a5dc-88e4-4ba7-82d3-ca6841731e92"
 			},
 			"artists": [
 				{
 					"name": "Jackson & His Computer Band",
-					"id": "d7c83247-9987-492c-b019-496af94b65f9"
+					"id": "41a30a58-bd6e-49ec-af11-31db8725a372"
 				}
 			],
 			"name": "Radio Caca",
@@ -39,12 +39,12 @@
 			"album": {
 				"name": "A Sphere In The Heart Of Silence",
 				"year": 2004,
-				"id": "5074c673-8b0d-4eee-b254-46c728cfec61"
+				"id": "efc9f68e-8b1e-47b2-9e09-73f4cc869248"
 			},
 			"artists": [
 				{
 					"name": "John Frusciante & Josh Klinghoffer",
-					"id": "0a26a858-9849-47d4-a825-8349693cb7bd"
+					"id": "a79e034b-a8b5-4b2c-9b78-72a44c2fc1e1"
 				}
 			],
 			"name": "At Your Enemies",
@@ -54,16 +54,16 @@
 		{
 			"album": {
 				"name": "Late Registration",
-				"id": "e87a3e67-563a-402d-a66e-603257a3863e"
+				"id": "5bdf0f5e-39e3-4dc3-8d2c-2b4cc001ae44"
 			},
 			"artists": [
 				{
 					"name": "Kanye West",
-					"id": "5835166f-e05e-4e24-90ef-8975fd8d59ea"
+					"id": "448ff158-68af-45bf-a765-2579997bde53"
 				},
 				{
 					"name": "Jamie Foxx",
-					"id": "073690af-4269-47e1-bfd3-07cadc7c838e"
+					"id": "15bc49f7-db07-450a-997b-3a9f490a0684"
 				}
 			],
 			"name": "Gold Digga",
@@ -74,12 +74,12 @@
 			"album": {
 				"name": "Colour the Small One",
 				"year": 2004,
-				"id": "dda5a674-0193-4a73-82d0-60dbcca0eb3a"
+				"id": "86944956-ef8e-40cf-b4c8-0a61339a3c93"
 			},
 			"artists": [
 				{
 					"name": "Sia",
-					"id": "1d767f80-26ad-49e8-9b19-b296ffc560a4"
+					"id": "dd40f51a-414a-496d-a0f7-7cde1a4cde43"
 				}
 			],
 			"name": "Breathe Me",

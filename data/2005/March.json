@@ -23,12 +23,12 @@
 		{
 			"album": {
 				"name": "Watch Repeat & Play",
-				"id": "1c9d2859-af2f-4061-a0bf-7487e07b4918"
+				"id": "d26e9541-74eb-4ac6-8e5e-d9d1029fb44c"
 			},
 			"artists": [
 				{
 					"name": "Buddy Peace",
-					"id": "888ed06d-b9d4-44c5-b0a6-8e2e2d6be287"
+					"id": "7a80584e-fba7-46d5-b2a7-9552aae6377c"
 				}
 			],
 			"name": "Section 008",
@@ -39,7 +39,7 @@
 			"album": {
 				"name": "Some Cities",
 				"year": 2005,
-				"id": "8d2a6555-8adc-4055-93a6-6b8bc3c6f323"
+				"id": "26abc978-2604-444b-8217-14e4d44fa6dd"
 			},
 			"artists": [
 				{
@@ -55,7 +55,7 @@
 			"album": {
 				"name": "From A Basement On The Hill",
 				"year": 2004,
-				"id": "241882d9-8c45-4af8-bd2a-0ae5b6bbe124"
+				"id": "c930cb6f-7958-4a00-acce-343e112cca1b"
 			},
 			"artists": [
 				{
@@ -87,12 +87,12 @@
 			"album": {
 				"name": "The Creek Drank The Cradle",
 				"year": 2002,
-				"id": "1866d2ee-025e-4f1d-954c-8429e3f7963e"
+				"id": "11feb2db-a6dc-482b-bdb5-ce7916d1a175"
 			},
 			"artists": [
 				{
 					"name": "Iron & Wine",
-					"id": "0254cace-66c8-4194-9814-7b935bb955c6"
+					"id": "0c66d1e2-948a-4576-8a13-b2bbda63a8a6"
 				}
 			],
 			"name": "Faded From The Winter",
@@ -103,7 +103,7 @@
 			"album": {
 				"name": "With Teeth",
 				"year": 2005,
-				"id": "26141024-0333-422e-acb7-9e983cf2f2de"
+				"id": "f36d6541-361a-41ca-9e4b-b26d19ebc195"
 			},
 			"artists": [
 				{
@@ -119,12 +119,12 @@
 			"album": {
 				"name": "Lullabies To Paralyze",
 				"year": 2005,
-				"id": "4e962cd6-e6c6-4f1d-8865-23d53c23a76e"
+				"id": "051cdb4b-a72f-4a33-8a4c-7a87b615fc39"
 			},
 			"artists": [
 				{
 					"name": "Queens Of The Stone Age",
-					"id": "1f544faa-1624-4f65-b5f3-cb9bfb73b20f"
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3"
 				}
 			],
 			"name": "I Never Came",
@@ -135,12 +135,12 @@
 			"album": {
 				"name": "Push The Button",
 				"year": 2004,
-				"id": "48051b64-7bdf-4bcc-aa83-c2cfefbae488"
+				"id": "9a915ca8-9462-456d-8d43-0d7d6fd3d8b6"
 			},
 			"artists": [
 				{
 					"name": "The Chemical Brothers",
-					"id": "25f8730b-d857-4246-9334-4a8944859a5a"
+					"id": "95561727-a19d-4ae3-84f3-05ea623c647c"
 				}
 			],
 			"name": "Close Your Eyes",
@@ -151,7 +151,7 @@
 			"album": {
 				"name": "Is This It?",
 				"year": 2000,
-				"id": "9f00522d-b0e2-4ddb-a76c-2e6914b8806f"
+				"id": "209b43db-a0ed-44e6-b51e-fea5b3250b4a"
 			},
 			"artists": [
 				{

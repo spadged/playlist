@@ -8,12 +8,12 @@
 			"album": {
 				"name": "The Life Aquatic With Steve Zissou",
 				"year": 2004,
-				"id": "40862d46-936a-4e7c-92e5-7df53f6c012d"
+				"id": "5657b662-b41b-4a43-b239-8907ca257bd1"
 			},
 			"artists": [
 				{
 					"name": "Seu Jorge",
-					"id": "28c2cc88-5de7-4f7e-b9b1-f941147621ca"
+					"id": "3982090e-4519-4b48-a8db-44658aa17100"
 				}
 			],
 			"name": "Rebel Rebel",
@@ -24,12 +24,12 @@
 			"album": {
 				"name": "Hunky Dory",
 				"year": 2004,
-				"id": "7ed4509a-b5f7-4c4d-904e-55c6b8b53974"
+				"id": "15c20d31-ed03-449f-85f1-e2e2be7c6785"
 			},
 			"artists": [
 				{
 					"name": "David Bowie",
-					"id": "d68c7c70-10fb-44a6-965c-9924bef5e285"
+					"id": "bc493e43-e606-4a71-851b-3f10762a6774"
 				}
 			],
 			"name": "Queen Bitch",
@@ -40,12 +40,12 @@
 			"album": {
 				"name": "& Yet & Yet",
 				"year": 2002,
-				"id": "5e8f7454-45c0-42fe-ac81-a903548c28b6"
+				"id": "f25e9da0-c59d-4459-86ea-902783e85df4"
 			},
 			"artists": [
 				{
 					"name": "Do Make Say Think",
-					"id": "187c50b0-4fb3-4b1c-a3bc-54fe26514233"
+					"id": "db7c7412-59de-4cf6-89d0-2be1610d322f"
 				}
 			],
 			"name": "Soul And Onward",
@@ -72,12 +72,12 @@
 			"album": {
 				"name": "Happy Songs For Happy People",
 				"year": 2003,
-				"id": "4a8fd64d-21b0-4e5c-bcab-d988e75afc92"
+				"id": "9df11093-52ee-479e-9179-7d37e35cd45c"
 			},
 			"artists": [
 				{
 					"name": "Mogwai",
-					"id": "4233538c-b524-4539-b1bc-43782fa30392"
+					"id": "b0764139-eee5-481c-baf0-0fda14b322f3"
 				}
 			],
 			"name": "Moses? I Ain't",

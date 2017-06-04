@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Dear Science",
 				"year": "",
-				"id": "fecd7cd4-4879-4f70-be93-933326f33cd1",
+				"id": "bb134379-6c79-455f-a1c8-7be8167d4392",
 				"externalId": {
 					"spotify": null
 				}
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Dreamt For Light Years In The Belly Of A Mountain",
 				"year": "",
-				"id": "f6a71dfb-7206-42e3-a457-b9ab13eb391a",
+				"id": "b89d844b-ded0-41a0-9818-1e015408e92f",
 				"externalId": {
 					"spotify": null
 				}
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Turn On The Bright Lights",
 				"year": "",
-				"id": "6048c548-0100-4354-b73f-c4a7c0e44530",
+				"id": "37595bcf-f799-4027-bc4e-cc3a7a3cb3d2",
 				"externalId": {
 					"spotify": null
 				}
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "Raw Power",
 				"year": "",
-				"id": "6af45b7d-25f7-4e8b-8bb3-af59f51a7e2a",
+				"id": "6848b880-ffab-4cd6-8acd-5015fb55e5ed",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,7 +116,7 @@
 			"artists": [
 				{
 					"name": "The Stooges",
-					"id": "f736af98-66dc-4b7b-8f65-4f8b0e5fb13b",
+					"id": "04af1d6a-4efc-4b27-8a01-027ab4d429cd",
 					"externalId": {
 						"spotify": null
 					}

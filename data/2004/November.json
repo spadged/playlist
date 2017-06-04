@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "Lovebox",
-				"id": "27aecb90-0787-46c3-863c-a42b00e810ce"
+				"id": "a4e77eb2-4911-4c0c-8803-4209f6e8a8a0"
 			},
 			"artists": [
 				{
 					"name": "Groove Armada",
-					"id": "38326eb7-b5cf-40a1-88e8-89fa0b6fccc5"
+					"id": "25f92871-732d-481d-9f09-adb8d47e82c6"
 				}
 			],
 			"name": "Hands of Time",
@@ -22,12 +22,12 @@
 		{
 			"album": {
 				"name": "Collateral",
-				"id": "0cc3117a-0307-43ce-a566-a934a49488e7"
+				"id": "15a40b6f-7342-4314-94db-770caccfbe31"
 			},
 			"artists": [
 				{
 					"name": "James Newton Howard",
-					"id": "ff1060e3-f4fc-4ee9-86ae-f126e53e238c"
+					"id": "243b6e00-508e-4dfb-a3ff-f6c80896526c"
 				}
 			],
 			"name": "Requiem",
@@ -38,7 +38,7 @@
 			"album": {
 				"name": "Live A L'Olympia",
 				"year": 2001,
-				"id": "d1816934-ae2b-435d-bc94-8c3e3322719d"
+				"id": "05a042dd-4b42-44d6-9bba-019a2c37e113"
 			},
 			"artists": [
 				{
@@ -70,12 +70,12 @@
 			"album": {
 				"name": "Bad Habits",
 				"year": 1994,
-				"id": "a34dbff4-b6f0-47c5-b96c-62784314f1eb"
+				"id": "ffeecf1f-c4c0-4be7-af64-ac8af4c27f8f"
 			},
 			"artists": [
 				{
 					"name": "Nina Simone",
-					"id": "cc6802db-d2fb-405b-95e6-5058336e7ed0"
+					"id": "0063dc2d-cf5b-46c0-a38a-6935c38be662"
 				}
 			],
 			"name": "Four Women",

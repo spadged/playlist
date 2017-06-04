@@ -8,12 +8,12 @@
 			"album": {
 				"name": "Combat Rock",
 				"year": 2002,
-				"id": "0ace8290-3ede-4428-b884-6af5d0547175"
+				"id": "5d454c38-1922-478a-a0c8-489feb5e6630"
 			},
 			"artists": [
 				{
 					"name": "The Clash",
-					"id": "58365b20-fb8e-42e8-b289-71afbc25fe0c"
+					"id": "935f4bf9-76f7-455b-b070-f945bc33cb1f"
 				}
 			],
 			"name": "Rock The Casbah",
@@ -29,7 +29,7 @@
 			"artists": [
 				{
 					"name": "Washington Phillips",
-					"id": "6944b570-27ec-4dd1-bb44-8663dca32535"
+					"id": "3365373a-2000-416e-8468-114f8ec100ad"
 				}
 			],
 			"name": "What Are They Doing In Heaven Today",
@@ -40,12 +40,12 @@
 			"album": {
 				"name": "The Lamb Lies Down On Broadway",
 				"year": 1994,
-				"id": "ed499b07-f792-4a5d-b2c4-2bc237c450ac"
+				"id": "12963968-2833-47f4-a0f2-ffc1b1565c18"
 			},
 			"artists": [
 				{
 					"name": "Genesis",
-					"id": "0c9896ef-3a39-417f-bf4c-b62ce0c3b8ab"
+					"id": "9fe46ab4-e6e0-4f9e-aebc-d1a5180a5ebd"
 				}
 			],
 			"name": "Back In N.Y.C.",
@@ -56,7 +56,7 @@
 			"album": {
 				"name": "About A Boy",
 				"year": 2002,
-				"id": "16f2904a-7cec-492a-a8f1-0dc07c2b4ba6"
+				"id": "cdca04cf-8d9c-4cfc-bf9b-fa1147655733"
 			},
 			"artists": [
 				{
@@ -72,12 +72,12 @@
 			"album": {
 				"name": "Black holes and revelations",
 				"year": 2006,
-				"id": "6185a7a3-d49d-4088-a724-f65924cf793e"
+				"id": "26f5b66f-f42e-45f0-87de-4e7791303c3a"
 			},
 			"artists": [
 				{
 					"name": "Muse",
-					"id": "758ce31a-0847-4b4b-a065-3cb9bffc2303"
+					"id": "57ccadf2-8fad-43b5-a5d9-15b970d7ce96"
 				}
 			],
 			"name": "Supermassive Black Hole",

@@ -8,12 +8,12 @@
 			"album": {
 				"name": "The Three E.P.'s",
 				"year": 1997,
-				"id": "fd3e57f3-703b-4f42-bc16-817d0fc70b70"
+				"id": "cf925207-158c-48f9-8a0a-2877e263d2bf"
 			},
 			"artists": [
 				{
 					"name": "The Beta Band",
-					"id": "badbbf48-2cee-471d-85d9-75aef5a10898"
+					"id": "5100c0cb-5f28-466a-b5ef-bf164e2e11a7"
 				}
 			],
 			"name": "Dry The Rain",
@@ -24,7 +24,7 @@
 			"album": {
 				"name": "The Information",
 				"year": 2006,
-				"id": "2ef579a9-2f0b-45b9-b56c-9e96a69e258c"
+				"id": "a1ebff7a-37b0-409c-ad08-a380f651033a"
 			},
 			"artists": [
 				{
@@ -40,16 +40,16 @@
 			"album": {
 				"name": "Remixes",
 				"year": 2006,
-				"id": "09522efd-6a87-4174-8c8f-07cbd33e0ab9"
+				"id": "880d2ff7-8e50-4f1b-bd53-10224bcb82e7"
 			},
 			"artists": [
 				{
 					"name": "Four Tet",
-					"id": "2ceba663-20f8-4417-a2ea-e1e4bbf6ecf0"
+					"id": "f44998e2-a1cc-4ef3-b8d7-353d5b75cb76"
 				},
 				{
 					"name": "Madvillain",
-					"id": "ca78107a-6837-4a3f-8cbf-23e00ad33e98"
+					"id": "5db0bc8b-be22-4e98-a3fb-f3effe516da2"
 				}
 			],
 			"name": "Great Day (Four Tet Remix)",
@@ -60,12 +60,12 @@
 			"album": {
 				"name": "The Warning",
 				"year": 2006,
-				"id": "55a54466-9717-4dd4-89de-ff0cddfa5633"
+				"id": "acdbf36a-a8a9-4f04-8a6f-a20dc094cbad"
 			},
 			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": "adeea345-5b85-43ed-add2-03b0f73d9572"
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89"
 				}
 			],
 			"name": "Over And Over",

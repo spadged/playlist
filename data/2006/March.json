@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "The Luxury Gap",
-				"id": "62f589f5-a1d6-456e-a770-6f5dcf26ece2"
+				"id": "cfeab936-f15f-40ec-8d98-0545a1b6d0df"
 			},
 			"artists": [
 				{
 					"name": "Heaven 17",
-					"id": "51e52fd3-d550-43fc-8c00-bcd6f8d886a7"
+					"id": "9b546f1f-e337-44fd-907e-4caf1ab83376"
 				}
 			],
 			"name": "Temptation",
@@ -23,12 +23,12 @@
 			"album": {
 				"name": "Live With Me",
 				"year": 2006,
-				"id": "e71d0401-eb5d-4f55-a6dc-6414fd4739ec"
+				"id": "8b2370db-d1fd-453f-92b5-933587f3b8f0"
 			},
 			"artists": [
 				{
 					"name": "Massive Attack",
-					"id": "3818d411-45cf-4c50-98d9-9a3b2fec0893"
+					"id": "5872c080-2650-4417-a57c-f928e22d7944"
 				}
 			],
 			"name": "Live With Me",
@@ -39,7 +39,7 @@
 			"album": {
 				"name": "The Fragile",
 				"year": 1999,
-				"id": "be52beda-b253-413a-a3ef-014f7676caa2"
+				"id": "c44035dd-26d8-47ac-ae15-b4e05ee1e8d2"
 			},
 			"artists": [
 				{
@@ -55,12 +55,12 @@
 			"album": {
 				"name": "Siamese Dream",
 				"year": 1993,
-				"id": "4a8ea9d0-12c0-464f-abc6-de8fefee140e"
+				"id": "1481b125-b82a-449f-a001-10f4ea59c06f"
 			},
 			"artists": [
 				{
 					"name": "Smashing Pumpkins",
-					"id": "dc048433-d11c-41a3-936a-f8a88966283a"
+					"id": "dae89290-803a-40fa-8bce-70524a7d6508"
 				}
 			],
 			"name": "Sweet Sweet",
@@ -71,12 +71,12 @@
 			"album": {
 				"name": "Jailbreak",
 				"year": 1976,
-				"id": "d64b8b62-cb9e-4f0b-88b5-d01b1fbf6cc5"
+				"id": "d248c33f-0ef7-4d56-92ab-ef7e48ea7c79"
 			},
 			"artists": [
 				{
 					"name": "Thin Lizzy",
-					"id": "32e86c86-b62d-4845-bbb0-ab682502f7eb"
+					"id": "bc8917dc-8701-4a04-816a-a9811372aa06"
 				}
 			],
 			"name": "Romeo And The Lonely Girl",

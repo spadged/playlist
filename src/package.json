@@ -21,6 +21,7 @@
     "spotify-web-api-node": "^2.4.0"
   },
   "devDependencies": {
+    "disconnect": "^1.1.0",
     "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-less": "^1.4.0",

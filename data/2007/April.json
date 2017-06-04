@@ -24,7 +24,7 @@
 			"album": {
 				"name": "The Beach",
 				"year": 2000,
-				"id": "4622ec6f-112f-454f-8fc5-fd0bce6f2aa1"
+				"id": "e4a81a86-d28d-49b6-8203-c81f424e04fa"
 			},
 			"artists": [
 				{
@@ -45,7 +45,7 @@
 			"artists": [
 				{
 					"name": "Faithless",
-					"id": "5e043516-c537-4ae6-8dbe-47971b4ffeb9"
+					"id": "2094925c-4d8d-4641-842e-9d9b88f300bd"
 				}
 			],
 			"name": "Woozy",
@@ -61,11 +61,11 @@
 			"artists": [
 				{
 					"name": "Orbital",
-					"id": "5fd2d65c-2b72-42dd-93b5-29a52971987b"
+					"id": "93748910-ae81-48df-bc47-5af19477c427"
 				},
 				{
 					"name": "Angelo Badalamenti",
-					"id": "9d798db8-e3ca-4c9d-804e-a468e6a31730"
+					"id": "58b670dc-a57b-4f35-a3dc-2fe5d71a3805"
 				}
 			],
 			"name": "Beached",

@@ -8,12 +8,12 @@
 			"album": {
 				"name": "Solaris",
 				"year": 2003,
-				"id": "fdd7a218-ac9f-4498-bde3-f0773f25e5ac"
+				"id": "508a0c64-caad-4459-b3df-34483a394464"
 			},
 			"artists": [
 				{
 					"name": "Cliff Martinez",
-					"id": "f83ebb4e-3d28-4c76-af12-7ed37bc2532b"
+					"id": "b3d321da-9057-4ea9-b029-772fd4c4af41"
 				}
 			],
 			"name": "Wear Your Seat Belt",
@@ -24,12 +24,12 @@
 			"album": {
 				"name": "Angels of the Universe",
 				"year": 2003,
-				"id": "36838dcd-a801-4197-b8b0-523b15883669"
+				"id": "8bbf11e8-71be-4b98-a372-d230a2022c7a"
 			},
 			"artists": [
 				{
 					"name": "Hilmar Örn Hilmarsson & Sigur Rós",
-					"id": "39bfcbe3-bd3c-408f-8df7-ffdf387f8fb7"
+					"id": "1a7f6d48-9c2e-48dd-b4af-5cea794ffc3a"
 				}
 			],
 			"name": "Hlemmur-Josef",
@@ -40,7 +40,7 @@
 			"album": {
 				"name": "Mystery White Boy",
 				"year": 2000,
-				"id": "df0578a4-e08f-4d5c-a7ca-305486b5b1c2"
+				"id": "9e91fbbe-34c0-46ec-96b3-0fdc59089d90"
 			},
 			"artists": [
 				{
@@ -56,12 +56,12 @@
 			"album": {
 				"name": "Youth & Young Manhood",
 				"year": 2003,
-				"id": "73c34029-ff45-45aa-966d-6ad9c275b9df"
+				"id": "34d36acb-e99a-4b67-b24c-7b2fe7a6fec4"
 			},
 			"artists": [
 				{
 					"name": "Kings Of Leon",
-					"id": "d9621069-2099-41cc-a2dd-84ade6bfa094"
+					"id": "c6f869cc-e994-48bf-ab81-2dc06bd22091"
 				}
 			],
 			"name": "Trani",
@@ -72,12 +72,12 @@
 			"album": {
 				"name": "Spokes",
 				"year": 2003,
-				"id": "afb92160-a612-4b4b-b80d-a271664751fb"
+				"id": "57c6a390-a5bf-4c80-87f2-2562bd1c14e5"
 			},
 			"artists": [
 				{
 					"name": "Plaid",
-					"id": "7ddccdf7-31cd-407a-adda-2d31281ef118"
+					"id": "ab351a97-15f7-4ae4-aab3-23ca0bc7d3a0"
 				}
 			],
 			"name": "B Born Droid",

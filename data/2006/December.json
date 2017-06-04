@@ -8,12 +8,12 @@
 			"album": {
 				"name": "Aluminium",
 				"year": 2006,
-				"id": "4b6c1316-fc43-4e05-8ed0-1c9719767888"
+				"id": "58a4c119-26ff-49b9-a59d-efbeb77fcfa5"
 			},
 			"artists": [
 				{
 					"name": "Aluminium",
-					"id": "0702875c-cc87-4cc5-8803-3702fc4dcfc2"
+					"id": "81594189-bfcd-4744-9b04-82a6f02cd86f"
 				}
 			],
 			"name": "I'm Bound to Pack It Up",
@@ -24,12 +24,12 @@
 			"album": {
 				"name": "The Fountain",
 				"year": 2006,
-				"id": "01db3f27-c7f0-4a4c-9142-e85478b25b25"
+				"id": "7894acf1-e4de-46ab-8efe-2fc6a11adf10"
 			},
 			"artists": [
 				{
 					"name": "Clint Mansell",
-					"id": "a5accdc8-d792-459f-b2d2-9c5de8fb179b"
+					"id": "b0f5b00c-bc68-48a5-904c-05796d2b6d98"
 				}
 			],
 			"name": "The Last Man",
@@ -40,16 +40,16 @@
 			"album": {
 				"name": "The Grey Album",
 				"year": 2004,
-				"id": "f439c5ec-954f-46c4-be71-c7b501a9aa2e"
+				"id": "f865e6ff-1178-43df-8038-18fe67de4b27"
 			},
 			"artists": [
 				{
 					"name": "DJ Danger Mouse",
-					"id": "858c8657-7f14-4aa0-962c-2cd6fbe843bb"
+					"id": "26c9f406-eb4e-40a0-b5be-41c09a44382c"
 				},
 				{
 					"name": "Jay-Z",
-					"id": "ee970ef7-62bd-46e4-bb7c-225d06bb0672"
+					"id": "a55a0235-ce05-4479-9534-d47290e10cd3"
 				}
 			],
 			"name": "Encore",
@@ -60,7 +60,7 @@
 			"album": {
 				"name": "Idlewild",
 				"year": 2006,
-				"id": "32f44d0d-4aae-40eb-aa27-acf6d711ad09"
+				"id": "1afc4211-e221-42a3-b279-a452ec4c50c2"
 			},
 			"artists": [
 				{
@@ -69,11 +69,11 @@
 				},
 				{
 					"name": "Lil' Wayne",
-					"id": "3bacde84-c327-4d0e-b259-183aef9b1e38"
+					"id": "8f7bde77-a451-40d0-9baf-5cf1d2c8b44e"
 				},
 				{
 					"name": "Snoop Dogg",
-					"id": "053b9d41-78cb-400d-8066-8a0ab5c18230"
+					"id": "a1402c99-5b56-4b0d-9428-6c58c127941b"
 				}
 			],
 			"name": "Hollywood Divorce",
@@ -84,7 +84,7 @@
 			"album": {
 				"name": "Return To Cookie Mountain",
 				"year": 2006,
-				"id": "58a3331b-0d78-45b6-9992-0fe0354f6f16"
+				"id": "8d78e854-df60-4c29-9282-92612320ce86"
 			},
 			"artists": [
 				{

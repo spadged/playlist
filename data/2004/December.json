@@ -7,12 +7,12 @@
 		{
 			"album": {
 				"name": "Talkie Walkie",
-				"id": "6b17fdcb-c54f-4726-b3a8-8c9daa21aa5c"
+				"id": "cb19f340-4551-4b46-904e-959d114b8923"
 			},
 			"artists": [
 				{
 					"name": "Air",
-					"id": "67cf7668-1b22-4407-ab04-e73e5e418c16"
+					"id": "46903002-f883-41a8-9a86-9e3951946778"
 				}
 			],
 			"name": "Run",
@@ -22,12 +22,12 @@
 		{
 			"album": {
 				"name": "Home",
-				"id": "49ac5b08-e431-4d7a-ba18-3f00c8057f16"
+				"id": "6d6893a9-ebf4-49a7-a4ba-de72a174441a"
 			},
 			"artists": [
 				{
 					"name": "Josh Rouse",
-					"id": "9c22f527-bbaf-4319-8a91-a8f572b06bfb"
+					"id": "359fcf2a-f0a3-4d62-b0b0-13aabf6858a2"
 				}
 			],
 			"name": "Directions",
@@ -37,12 +37,12 @@
 		{
 			"album": {
 				"name": "The Contino Sessions",
-				"id": "fa84e4fe-ca91-450d-939d-98308a98aafb"
+				"id": "06fcb620-9815-4321-ac57-11776fe2e495"
 			},
 			"artists": [
 				{
 					"name": "Death in Vegas",
-					"id": "2e059f21-6a0e-4531-a141-8c1021fb370e"
+					"id": "0d8b6868-9e66-4211-8c94-a0ed4be2c289"
 				}
 			],
 			"name": "Aladdin's story",
@@ -53,7 +53,7 @@
 			"album": {
 				"name": "Aha Shake Heartbreak",
 				"year": 2004,
-				"id": "8eb1fc11-af20-48cc-a3f7-8cc84bce891f"
+				"id": "e1b53df1-1b70-40f7-80bc-6f023f2a5a5d"
 			},
 			"artists": [
 				{
@@ -68,7 +68,7 @@
 		{
 			"album": {
 				"name": "Airbag / How Am I Driving?",
-				"id": "e0ad2adb-e2ce-42a0-99fa-a68cac918816"
+				"id": "0e114867-d4d2-445b-939d-e6fad81e308d"
 			},
 			"artists": [
 				{

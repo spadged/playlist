@@ -8,12 +8,12 @@
 			"album": {
 				"name": "The Campfire Headphase",
 				"year": 2005,
-				"id": "7b91544d-d4bd-4651-8e59-e20068b37dd6"
+				"id": "564b716c-8617-4909-a90f-0b71ec2193fc"
 			},
 			"artists": [
 				{
 					"name": "Boards of Canada",
-					"id": "cf94d3b8-5066-4fdb-898e-0535f5b8b7f4"
+					"id": "0429bb53-d597-43f6-9427-f8e8b4dea0c6"
 				}
 			],
 			"name": "Dayvan Cowboy",
@@ -40,12 +40,12 @@
 			"album": {
 				"name": "Roadkillovercoat",
 				"year": 2007,
-				"id": "c3e19f4e-4c2c-4aed-b21b-5be69bb30885"
+				"id": "66fb247c-4587-4c8a-9f48-5364d656885e"
 			},
 			"artists": [
 				{
 					"name": "Busdriver",
-					"id": "43bf66d5-b158-4456-9738-b9bd10e09d96"
+					"id": "cb20f090-267b-43cd-8e1a-0526f3c40870"
 				}
 			],
 			"name": "Sun Shower",
@@ -56,12 +56,12 @@
 			"album": {
 				"name": "Neon Bible",
 				"year": 2007,
-				"id": "34a98eaa-09cf-48e0-b50b-495f3041dc17"
+				"id": "00ec826d-66ed-43d1-a05f-910a3ada7f5b"
 			},
 			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": "39949e87-5fa9-452e-b255-3e1c0b418852"
+					"id": "36dc1882-e430-42c6-9c12-961568007584"
 				}
 			],
 			"name": "Keep The Car Running",
@@ -72,16 +72,16 @@
 			"album": {
 				"name": "Writer's Block",
 				"year": 2006,
-				"id": "de9bb0f3-c1d6-4913-bf54-5d5f5f0b582f"
+				"id": "b9eedae6-b95a-4087-bf0b-2bbd20a21ec8"
 			},
 			"artists": [
 				{
 					"name": "Peter Bjorn and John",
-					"id": "88d05396-1473-4167-85f1-3472129506cf"
+					"id": "369d79cd-908c-47f0-82e8-61feb5b8baaa"
 				},
 				{
 					"name": "Victoria Bergsman",
-					"id": "4a469d95-f74d-42d0-9f48-16429286de20"
+					"id": "6eef6d55-ea30-4ebf-b869-d883103a2136"
 				}
 			],
 			"name": "Young Folks",

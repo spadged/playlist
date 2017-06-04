@@ -8,7 +8,7 @@
 			"album": {
 				"name": "10,000Hz Legend",
 				"year": 2001,
-				"id": "716d6efe-daf9-4428-91fe-7453cfaacc2c"
+				"id": "c9adac1a-b7e5-4258-92d5-a8f84baf72a5"
 			},
 			"artists": [
 				{
@@ -24,12 +24,12 @@
 			"album": {
 				"name": "50 first dates",
 				"year": 2004,
-				"id": "2ffee7ff-e5c9-4411-b360-7f8bc35c778e"
+				"id": "362da7cd-5eae-4ad2-a032-a683c74a4bc9"
 			},
 			"artists": [
 				{
 					"name": "Adam Sandler",
-					"id": "df033a2a-a7b1-4654-aa1f-3d98cd254ab3"
+					"id": "121390ae-ef9f-4cef-9c5a-96e5ed70a684"
 				}
 			],
 			"name": "Forgetful Lucy",
@@ -40,7 +40,7 @@
 			"album": {
 				"name": "Grace",
 				"year": 2004,
-				"id": "a2a65202-099f-42e3-973e-42cba4708f75"
+				"id": "4e22b673-bf05-4be4-96bc-f23cb4971007"
 			},
 			"artists": [
 				{
@@ -55,12 +55,12 @@
 		{
 			"album": {
 				"name": "Still",
-				"id": "5200f009-b164-43ae-bd4d-cdd16b71edb7"
+				"id": "231291ba-b4eb-49bf-80e1-2cae9a4b8e4a"
 			},
 			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": "84becbc1-6c1d-4fe1-ab80-5cc903a2b39d"
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d"
 				}
 			],
 			"name": "Leaving Hope",

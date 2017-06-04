@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Reflektor",
 				"year": "",
-				"id": "bbccb5ea-1f5e-4c49-8bfd-53348b9cb928",
+				"id": "8b6230e5-0dd6-411e-b33c-ddaecf81c594",
 				"externalId": {
 					"spotify": null
 				}
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Monkeytown",
 				"year": "",
-				"id": "7c2be73e-21aa-45cc-87c9-e763f04199ee",
+				"id": "6a023f67-b2d7-431f-bf56-426c6a68cac6",
 				"externalId": {
 					"spotify": null
 				}
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Thank You",
 				"year": "",
-				"id": "f5628f7f-b808-44c0-960e-2759d96b8af1",
+				"id": "2dea3d42-c859-46ef-88ee-304f9bc52664",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +66,7 @@
 			"artists": [
 				{
 					"name": "Busta Rhymes",
-					"id": "d4998d06-369e-4a89-bcce-217bd5dd2c0b",
+					"id": "3f21a2c6-bb26-48b5-b4bc-0824eac5a4df",
 					"externalId": {
 						"spotify": null
 					}
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Girl",
 				"year": "",
-				"id": "8f340338-ec93-4434-a831-eec474c54169",
+				"id": "b6182814-aa06-4e37-9b49-cfb764393630",
 				"externalId": {
 					"spotify": null
 				}
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "Blurred Lines",
 				"year": "",
-				"id": "c15dae57-e15b-4235-b27b-5f69e5dac97b",
+				"id": "db6f68cb-2792-4de1-85b0-76ec523a8bb5",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,21 +116,21 @@
 			"artists": [
 				{
 					"name": "Robin Thicke",
-					"id": "e58573b2-57c4-4f2a-b958-b75dd9735958",
+					"id": "13d7c9ac-eade-4702-bdd4-fc1186d3c9d6",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "T.I.",
-					"id": "bd0d0502-441a-4ef9-95f4-87c11c30c9bd",
+					"id": "4a09f203-0ec3-4534-8204-49cced9aecd4",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Pharrel Williams",
-					"id": "c587c90c-1551-41d3-8fb2-6a62da3ff37d",
+					"id": "88b9be63-6aa9-4a9d-a9e3-113ea12f46f6",
 					"externalId": {
 						"spotify": null
 					}

@@ -8,12 +8,12 @@
 			"album": {
 				"name": "United",
 				"year": 2000,
-				"id": "a256ad1a-404d-4e9c-8079-b9cb92d418d3"
+				"id": "ef2fadf1-499d-41b5-9e56-e63574b4ec1c"
 			},
 			"artists": [
 				{
 					"name": "Phoenix",
-					"id": "1497d970-5b24-451f-a943-cf99d35f0bf5"
+					"id": "b0ceecc3-dbfb-48aa-9149-10ac4b1705be"
 				}
 			],
 			"name": "Too Young",
@@ -23,12 +23,12 @@
 		{
 			"album": {
 				"name": "Lost in Translation",
-				"id": "8a4af617-d625-4331-ba46-36448b5010b6"
+				"id": "f9869ce9-66c5-417e-92c4-29efeca6ff15"
 			},
 			"artists": [
 				{
 					"name": "Bill Murray",
-					"id": "85c3c6d5-00e2-471c-905d-e187209d3929"
+					"id": "f0c8ac88-8915-47c5-a483-f1cc4de3437b"
 				}
 			],
 			"name": "More Than this",
@@ -38,12 +38,12 @@
 		{
 			"album": {
 				"name": "The First Edition",
-				"id": "ce8b00d0-98b3-46be-aae3-9648bef47241"
+				"id": "c7591ed5-3fb6-4b6a-96b6-4469ba28d269"
 			},
 			"artists": [
 				{
 					"name": "Kenny Rogers and The First Edition",
-					"id": "6758ee5f-9a70-4b37-b87f-7f5b046be3d6"
+					"id": "97080f38-83a6-4a90-86d7-5d490101a60f"
 				}
 			],
 			"name": "Just Dropped In",
@@ -53,12 +53,12 @@
 		{
 			"album": {
 				"name": "Bootleg",
-				"id": "791f41dd-c826-4949-b5e9-4af3a2fea6d6"
+				"id": "f45881ef-07e2-439e-a84d-3f36c21286dc"
 			},
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "c5c85cad-fc7e-40fc-9420-54e0feca661e"
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4"
 				}
 			],
 			"name": "After the Gold rush",
@@ -69,12 +69,12 @@
 			"album": {
 				"name": "Room On Fire",
 				"year": 2003,
-				"id": "311d7c50-c4ee-49eb-a992-933b570f75ca"
+				"id": "5224a85f-c7e6-4b25-ac95-a7042804bccf"
 			},
 			"artists": [
 				{
 					"name": "The Strokes",
-					"id": "ab1cf3aa-08a9-4f1f-a08f-d18374231fca"
+					"id": "d8034ddf-47de-40b1-b997-a04101616437"
 				}
 			],
 			"name": "Automatic Stop",
