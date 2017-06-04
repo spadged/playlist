@@ -8,55 +8,55 @@
 			"album": {
 				"name": "See Clear Now",
 				"year": 2008,
-				"id": "229760d9-6641-4501-8d2d-9b8d9ca108df"
+				"id": "3d6a9164-3497-4d1a-9461-efa60c951eb0"
 			},
 			"artists": [
 				{
 					"name": "Wiley",
-					"id": "778c39ad-a67e-4724-b22c-e01fbf620780"
+					"id": "824dd663-0e9a-44d9-8bb5-e3b5d88ce8ee"
 				}
 			],
 			"name": "Can't Stop Thinking",
-			"id": "8c1a4ca3-568a-4b3e-ac28-5ea74b88892d",
+			"id": "8f6a20b5-29a9-4596-ba04-714be2670381",
 			"length": 229433
 		},
 		{
 			"album": {
 				"name": "Miike Snow",
 				"year": 2009,
-				"id": "6ac982c6-62ca-4f14-bcf9-b9256b25b7ee"
+				"id": "a740a9bb-7725-46a4-8eb7-6ae293a33dcc"
 			},
 			"artists": [
 				{
 					"name": "Miike Snow",
-					"id": "e3eb13ce-5734-49e1-8ef0-d16fa2904846"
+					"id": "c8a281dc-1333-4366-a966-41407c0b694f"
 				}
 			],
 			"name": "In Search Of",
-			"id": "3568e420-f27f-4d78-b804-5c5268755100",
+			"id": "88c7f6ba-aee1-48a6-a3fe-df1010b75ce8",
 			"length": 315826
 		},
 		{
 			"album": {
 				"name": "Heart On",
 				"year": 2008,
-				"id": "868897a0-350a-4211-a8e6-eef7e443b96c"
+				"id": "57c0c25a-f7b4-4928-9a18-896cf447585a"
 			},
 			"artists": [
 				{
 					"name": "Eagles Of Death Metal",
-					"id": "7cf8e9c7-2cbb-4490-a30e-ba150922d236"
+					"id": "3cb67dd3-47bf-4cfe-9525-6bc43e24fc72"
 				}
 			],
 			"name": "Now I'm A Fool",
-			"id": "cd3a1cc0-6431-478a-949b-88ca7f4198ff",
+			"id": "5ce01a69-9e69-43c5-8a15-8b15e968ca66",
 			"length": 221832
 		},
 		{
 			"album": {
 				"name": "Splitting The Atom",
 				"year": 2009,
-				"id": "99dc41c1-9785-447c-9bbb-41a93a68b6b3"
+				"id": "4fa3ff14-7233-41b6-acf4-9797823eb392"
 			},
 			"artists": [
 				{
@@ -65,14 +65,14 @@
 				}
 			],
 			"name": "Pray for Rain",
-			"id": "76ef5f56-8570-4235-b9c2-53ecd2e7e504",
+			"id": "4c241db7-55ed-4c08-b7b9-7c8b6435cf6a",
 			"length": 404688
 		},
 		{
 			"album": {
 				"name": "In This Light And On This Evening [Deluxe Edition]",
 				"year": 2009,
-				"id": "2f145631-b284-4683-9eef-ac9b2390a720"
+				"id": "0fd84421-a8c4-4420-8e19-ca058aaec1f9"
 			},
 			"artists": [
 				{
@@ -81,7 +81,7 @@
 				}
 			],
 			"name": "Eat Raw Meat = Blood Drool",
-			"id": "a7d56edb-e3c2-4bfc-83af-4553c5b1d816",
+			"id": "c7006d95-b6d6-44c4-a602-58f81e4c9e80",
 			"length": 293198
 		}
 	]

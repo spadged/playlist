@@ -7,47 +7,47 @@
 		{
 			"album": {
 				"name": "Live, Rare, B-sides and Others",
-				"id": "792f6725-0e3b-4809-a919-b0d9e602c49a"
+				"id": "2fd32294-984b-4830-9478-394534d50677"
 			},
 			"artists": [
 				{
 					"name": "Ben Folds",
-					"id": "f8b5d192-9771-45e9-9fe0-1b3d05a75c6f"
+					"id": "af8dbef8-d3cc-4924-a8bc-6104b1cf6d63"
 				}
 			],
 			"name": "Bitches Ain't Shit",
-			"id": "f026d64e-5fee-44ac-a3e0-31c84b069c1e",
+			"id": "49fac686-dc52-47bb-9dd8-00e89f70d740",
 			"length": 234528
 		},
 		{
 			"album": {
 				"name": "Unkle Mixes",
-				"id": "efc60039-867d-46ae-ac20-4a9651ab7766"
+				"id": "5490bf4c-6bca-4eaa-94e2-9e520ee51e3d"
 			},
 			"artists": [
 				{
 					"name": "Stina Nordenstam",
-					"id": "c004b1f6-0c92-43bb-957f-603356834482"
+					"id": "bc1c9800-0b39-49e3-b60e-6234bf47f01c"
 				}
 			],
 			"name": "People are Strange",
-			"id": "81fdc98b-5501-4829-8296-1372edecf6e0",
+			"id": "84c0809f-182f-4bb5-85bf-815fb4e40952",
 			"length": 339487
 		},
 		{
 			"album": {
 				"name": "Sgt. Pepper's Lonely Hearts Club Band",
 				"year": 1967,
-				"id": "0a4bdf5d-48f8-4058-b66f-9a1a355a5be2"
+				"id": "c7e8c72b-2a00-4511-9ef8-7922bf798567"
 			},
 			"artists": [
 				{
 					"name": "The Beatles",
-					"id": "7b6056f0-45b2-4b89-8db6-a92088ebeef1"
+					"id": "dbb546c5-9e07-4a6f-8732-ecbb26d16334"
 				}
 			],
 			"name": "Sgt. Pepper's Lonely Hearts Club Band",
-			"id": "477b6430-90ad-48c2-9620-10f14a11099b",
+			"id": "65c4e4d5-615d-4d98-b8d3-17c933bd8f3e",
 			"length": 122488
 		},
 		{
@@ -62,23 +62,23 @@
 				}
 			],
 			"name": "Nothing But Green Lights",
-			"id": "658a5f65-ca78-4041-aa71-71158296767a",
+			"id": "32bc3a3f-bc45-4687-b7f6-d5588ad864d7",
 			"length": 257275
 		},
 		{
 			"album": {
 				"name": "Point",
 				"year": 2001,
-				"id": "b86f59ea-cb5f-48b3-901b-4436b86c78a2"
+				"id": "da90d586-4c09-4613-b8c9-336ae17bc782"
 			},
 			"artists": [
 				{
 					"name": "Cornelius",
-					"id": "3ece2b3f-7f7d-4c5c-9cb3-bb38757f8cd2"
+					"id": "db683dee-fa35-4b2c-9808-cf0a0e6c7b86"
 				}
 			],
 			"name": "Drop",
-			"id": "3f72f67b-8751-4622-9ce9-c910e22be232",
+			"id": "5bfdfd69-38d8-4971-82c2-b21da40c3a2b",
 			"length": 293150
 		}
 	]

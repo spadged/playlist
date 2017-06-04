@@ -8,7 +8,7 @@
 			"album": {
 				"name": "The Suburbs",
 				"year": "",
-				"id": "",
+				"id": "e86576bd-74af-470a-a6bd-576106960dd2",
 				"externalId": {
 					"spotify": null
 				}
@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "Wasted Hours",
-			"id": "",
+			"id": "d0e939d6-2e24-423e-9cab-ebac034dd746",
 			"length": 200000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Machine Dreams",
 				"year": "",
-				"id": "",
+				"id": "b53244c4-d310-435f-b28e-640c5b30e422",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Little Dragon",
-					"id": "",
+					"id": "6dd6bc35-12a7-4507-a1d4-3d1ee5761f6c",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "My Step",
-			"id": "",
+			"id": "68aac49d-7985-4825-8137-134a8787a7b4",
 			"length": 207000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "4th Of July (Fireworks)",
 				"year": "",
-				"id": "",
+				"id": "74d1faab-dcce-4a99-9002-49f8cdf2dc84",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,7 +66,7 @@
 			"artists": [
 				{
 					"name": "Kelis",
-					"id": "",
+					"id": "e2a84ba2-1e4b-4d8a-b34b-f0b3a8244f52",
 					"externalId": {
 						"spotify": null
 					}
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "4th Of July (Fireworks) (Calvin Harris Remix)",
-			"id": "",
+			"id": "13418f2f-8755-4114-aced-8f0c817eb624",
 			"length": 338000,
 			"externalId": {
 				"spotify": null
@@ -90,7 +90,7 @@
 			"album": {
 				"name": "Stop Making Sense",
 				"year": "",
-				"id": "",
+				"id": "1beebb95-bb7e-489f-b01c-f16717426dd1",
 				"externalId": {
 					"spotify": null
 				}
@@ -105,7 +105,7 @@
 				}
 			],
 			"name": "Heaven",
-			"id": "",
+			"id": "59f6fcf8-b8e4-4da7-8225-e1c5c59f1798",
 			"length": 221000,
 			"externalId": {
 				"spotify": null
@@ -115,7 +115,7 @@
 			"album": {
 				"name": "My Beautiful Dark Twisted Fantasy",
 				"year": "",
-				"id": "",
+				"id": "9237b150-9390-44f5-9c72-bae946a9c496",
 				"externalId": {
 					"spotify": null
 				}
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "Power",
-			"id": "",
+			"id": "56863ded-baf5-45a4-bf67-f23ed8c7b5c6",
 			"length": 292000,
 			"externalId": {
 				"spotify": null

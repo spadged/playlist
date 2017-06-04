@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Shine",
 				"year": "",
-				"id": "",
+				"id": "aff4c8e1-99f4-4a76-9052-85e3ef5ceb6a",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,7 +16,7 @@
 			"artists": [
 				{
 					"name": "Estelle",
-					"id": "",
+					"id": "5a55cd75-c832-4cec-86b4-af18129f291a",
 					"externalId": {
 						"spotify": null
 					}
@@ -30,7 +30,7 @@
 				}
 			],
 			"name": "American Boy",
-			"id": "",
+			"id": "c57dcdf8-f044-472a-b953-c0be8a4cab26",
 			"length": 236000,
 			"externalId": {
 				"spotify": null
@@ -55,7 +55,7 @@
 				}
 			],
 			"name": "Freak",
-			"id": "",
+			"id": "ffef8b27-2697-478b-a51f-0e24f6664469",
 			"length": 303000,
 			"externalId": {
 				"spotify": null
@@ -65,7 +65,7 @@
 			"album": {
 				"name": "In a beautiful place in the country",
 				"year": "",
-				"id": "",
+				"id": "de8b77e3-7334-44b7-80c7-9a4ccf4a6b1d",
 				"externalId": {
 					"spotify": null
 				}
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "Kid For Today",
-			"id": "",
+			"id": "f09a98e7-8a88-4c08-8769-df1bff98159e",
 			"length": 383000,
 			"externalId": {
 				"spotify": null
@@ -105,7 +105,7 @@
 				}
 			],
 			"name": "The Horrible Fanfare/Landslide/Exoskelton",
-			"id": "",
+			"id": "7899f662-0b13-4fc5-ac2f-0eaa2992ddf8",
 			"length": 636000,
 			"externalId": {
 				"spotify": null
@@ -115,7 +115,7 @@
 			"album": {
 				"name": "Nouvelle Vague",
 				"year": "",
-				"id": "",
+				"id": "bdd19cdf-f1c8-4242-95fd-6f92dfd1781d",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,14 +123,14 @@
 			"artists": [
 				{
 					"name": "Nouvelle Vague",
-					"id": "",
+					"id": "8cb05991-accf-49ea-b8c8-440b61563a4c",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Too drunk to fuck",
-			"id": "",
+			"id": "7405457e-c2a8-4a47-a186-16b85daae4fb",
 			"length": 136000,
 			"externalId": {
 				"spotify": null

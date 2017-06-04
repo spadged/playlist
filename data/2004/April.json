@@ -8,77 +8,77 @@
 			"album": {
 				"name": "United",
 				"year": 2000,
-				"id": "533c08e1-0189-4679-bfe1-26bcf10556c5"
+				"id": "a256ad1a-404d-4e9c-8079-b9cb92d418d3"
 			},
 			"artists": [
 				{
 					"name": "Phoenix",
-					"id": "8b3910bd-8361-4c99-bdb3-e1b231f38bda"
+					"id": "1497d970-5b24-451f-a943-cf99d35f0bf5"
 				}
 			],
 			"name": "Too Young",
-			"id": "2fdb5b3e-5d71-4d43-9649-19a209d79e28",
+			"id": "a5e00a33-f38e-41c6-9aae-d35f0b14896b",
 			"length": 198739
 		},
 		{
 			"album": {
 				"name": "Lost in Translation",
-				"id": "91fb649c-d873-46b0-8386-daac743c9a8d"
+				"id": "8a4af617-d625-4331-ba46-36448b5010b6"
 			},
 			"artists": [
 				{
 					"name": "Bill Murray",
-					"id": "4c61d85c-fd0e-4e37-a504-5d71ce33aefb"
+					"id": "85c3c6d5-00e2-471c-905d-e187209d3929"
 				}
 			],
 			"name": "More Than this",
-			"id": "a5a33055-e7a0-409f-8d55-d4e47e940072",
+			"id": "37afe42a-e305-4d0f-a7a2-531b9e52412a",
 			"length": 90435
 		},
 		{
 			"album": {
 				"name": "The First Edition",
-				"id": "74216f8c-d204-4d51-8f01-57783d409ec7"
+				"id": "ce8b00d0-98b3-46be-aae3-9648bef47241"
 			},
 			"artists": [
 				{
 					"name": "Kenny Rogers and The First Edition",
-					"id": "58730072-7c56-47de-8f18-50d0c25f577e"
+					"id": "6758ee5f-9a70-4b37-b87f-7f5b046be3d6"
 				}
 			],
 			"name": "Just Dropped In",
-			"id": "c121f266-cccd-4216-8a74-26a1fb8f4825",
+			"id": "1cbf6ed4-3c46-4295-80ff-b52586366ea8",
 			"length": 198556
 		},
 		{
 			"album": {
 				"name": "Bootleg",
-				"id": "87bf8054-0e63-41bf-8e8f-1c1cd76290bc"
+				"id": "791f41dd-c826-4949-b5e9-4af3a2fea6d6"
 			},
 			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "09613218-6862-4c46-b384-01228005827c"
+					"id": "c5c85cad-fc7e-40fc-9420-54e0feca661e"
 				}
 			],
 			"name": "After the Gold rush",
-			"id": "1ecc62e5-1500-4897-ac67-0fe0e74f6e94",
+			"id": "c8052c58-5de0-4624-8bb0-d0e02485f16f",
 			"length": 222928
 		},
 		{
 			"album": {
 				"name": "Room On Fire",
 				"year": 2003,
-				"id": "033deeba-2abd-45be-ada8-689e92a440a8"
+				"id": "311d7c50-c4ee-49eb-a992-933b570f75ca"
 			},
 			"artists": [
 				{
 					"name": "The Strokes",
-					"id": "57f8afe0-0222-4324-bcf1-53e0b13a9b24"
+					"id": "ab1cf3aa-08a9-4f1f-a08f-d18374231fca"
 				}
 			],
 			"name": "Automatic Stop",
-			"id": "76b409e1-6467-4846-8fb0-2ac17a7a0acb",
+			"id": "0ef329fd-6653-4e87-8a61-ee22ed12945b",
 			"length": 208013
 		}
 	]

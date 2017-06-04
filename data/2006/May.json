@@ -8,16 +8,16 @@
 			"album": {
 				"name": "Combat Rock",
 				"year": 2002,
-				"id": "6d745be5-7cf4-45c2-8bf5-568e4d66d3f2"
+				"id": "0ace8290-3ede-4428-b884-6af5d0547175"
 			},
 			"artists": [
 				{
 					"name": "The Clash",
-					"id": "458b0728-1d3a-4cdd-81ea-82f5a4d83d10"
+					"id": "58365b20-fb8e-42e8-b289-71afbc25fe0c"
 				}
 			],
 			"name": "Rock The Casbah",
-			"id": "48e6b9ff-3e55-4ac6-9ef7-f741143f7575",
+			"id": "30794121-3e20-4b8c-ab50-cfbfacaadc52",
 			"length": 225880
 		},
 		{
@@ -29,34 +29,34 @@
 			"artists": [
 				{
 					"name": "Washington Phillips",
-					"id": "dbf159ac-b4da-4480-917a-b92688100e24"
+					"id": "6944b570-27ec-4dd1-bb44-8663dca32535"
 				}
 			],
 			"name": "What Are They Doing In Heaven Today",
-			"id": "34b5ee5b-8a7a-4f60-aeea-1b91969d685f",
+			"id": "c115152e-5b47-46e0-b0a6-21be5da8ef43",
 			"length": 198112
 		},
 		{
 			"album": {
 				"name": "The Lamb Lies Down On Broadway",
 				"year": 1994,
-				"id": "f5fb56e2-61f1-437e-ad72-c893888decf8"
+				"id": "ed499b07-f792-4a5d-b2c4-2bc237c450ac"
 			},
 			"artists": [
 				{
 					"name": "Genesis",
-					"id": "98210252-5daa-48b9-b130-3b987c105a4f"
+					"id": "0c9896ef-3a39-417f-bf4c-b62ce0c3b8ab"
 				}
 			],
 			"name": "Back In N.Y.C.",
-			"id": "0316217a-95bb-4743-bd8c-f302ad0aa746",
+			"id": "cba565b7-54cf-403e-aeb2-c74567b0aa35",
 			"length": 342817
 		},
 		{
 			"album": {
 				"name": "About A Boy",
 				"year": 2002,
-				"id": "fde3c467-90e1-4a8d-87b0-db515b630485"
+				"id": "16f2904a-7cec-492a-a8f1-0dc07c2b4ba6"
 			},
 			"artists": [
 				{
@@ -65,23 +65,23 @@
 				}
 			],
 			"name": "A Minor Incident",
-			"id": "1cd1fc16-7353-44c7-9245-2adba34886c4",
+			"id": "2ef4ab9c-b91d-4471-86cc-2763d34b14c4",
 			"length": 224365
 		},
 		{
 			"album": {
 				"name": "Black holes and revelations",
 				"year": 2006,
-				"id": "2e7747e2-e179-4802-a703-9860ee271e57"
+				"id": "6185a7a3-d49d-4088-a724-f65924cf793e"
 			},
 			"artists": [
 				{
 					"name": "Muse",
-					"id": "2c40e198-4922-4378-9391-bce3e4103210"
+					"id": "758ce31a-0847-4b4b-a065-3cb9bffc2303"
 				}
 			],
 			"name": "Supermassive Black Hole",
-			"id": "fe1cd4b3-683d-4459-a16f-1ada813aa8d3",
+			"id": "82ce0742-3de4-4778-bddd-bdf6755db5af",
 			"length": 210789
 		}
 	]

@@ -8,7 +8,7 @@
 			"album": {
 				"name": "I Told You I Was Freaky",
 				"year": "",
-				"id": "",
+				"id": "c8922e5e-fd61-4c69-946f-7676d390ad70",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "Flight of the Conchords",
-					"id": "",
+					"id": "c3c36c25-b306-41b4-bdf1-684c05ed22cd",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Friends",
-			"id": "",
+			"id": "536e0b54-ca1e-4669-acc6-8248d0e4711c",
 			"length": 133000,
 			"externalId": {
 				"spotify": null
@@ -48,7 +48,7 @@
 				}
 			],
 			"name": "Lalibela",
-			"id": "",
+			"id": "3652bd38-60b4-4faf-9844-9b3f441ff9eb",
 			"length": 145000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Brothers",
 				"year": "",
-				"id": "",
+				"id": "9ca14dcb-e334-4e68-9473-8114342f50cc",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "The Black Keys",
-					"id": "",
+					"id": "cfb9adc7-cdf3-4fb5-8ba0-a912a85e07c6",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Tighten Up",
-			"id": "",
+			"id": "84babf03-f6ab-4800-a513-b25e7f95bc66",
 			"length": 211000,
 			"externalId": {
 				"spotify": null
@@ -98,7 +98,7 @@
 				}
 			],
 			"name": "The Suburbs",
-			"id": "",
+			"id": "c8e0fcf2-514d-40cf-a1f5-3e8f3552b81d",
 			"length": 315000,
 			"externalId": {
 				"spotify": null
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "This Is Happening",
 				"year": "",
-				"id": "",
+				"id": "5a4d833b-6e67-4f2a-abec-aa1e26489852",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "Home",
-			"id": "",
+			"id": "d2582259-e640-4e3b-b0ab-fdc51704cacc",
 			"length": 473000,
 			"externalId": {
 				"spotify": null

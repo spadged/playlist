@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Universal Everything",
 				"year": "",
-				"id": "",
+				"id": "b4286e0d-c760-40b1-908e-378b5f7175ce",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "Leftfield",
-					"id": "",
+					"id": "fb52e948-31b5-482d-b58e-e17ab2278878",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Universal Everything",
-			"id": "",
+			"id": "dcdf7542-c372-4195-bc2c-ff64dddcca3b",
 			"length": 426000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Lucky Shiner",
 				"year": "",
-				"id": "",
+				"id": "5d44445f-b9fa-46d8-960e-53c3a56e731e",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Gold Panda",
-					"id": "",
+					"id": "9a8a12f3-cf10-4492-a2d6-f2156e2034f2",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "You",
-			"id": "",
+			"id": "f5792cfe-de24-4906-a355-1b27e0bba047",
 			"length": 216000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Adventures In Your Own Backyard",
 				"year": "",
-				"id": "",
+				"id": "7373e582-c26d-4973-951d-71a2e6d5d0fc",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "Patrick Watson",
-					"id": "",
+					"id": "6eedfc8a-5a57-4c9b-9876-04dac1e0c346",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Words In The Fire",
-			"id": "",
+			"id": "c21d1c86-9fb9-4d05-97b8-821fcd99f3ec",
 			"length": 233000,
 			"externalId": {
 				"spotify": null
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "In Colour",
 				"year": "",
-				"id": "",
+				"id": "a98adee8-862e-4044-b824-a8c7761f272f",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,14 +98,14 @@
 				},
 				{
 					"name": "Romy",
-					"id": "",
+					"id": "a2ed07b2-2338-4b4a-bc33-21e3b81da869",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Loud Places",
-			"id": "",
+			"id": "65a4ba48-ba9f-4a9f-ba03-69b4f8710d32",
 			"length": 304000,
 			"externalId": {
 				"spotify": null
@@ -115,7 +115,7 @@
 			"album": {
 				"name": "REALiTi",
 				"year": "",
-				"id": "",
+				"id": "a6c9fb03-e57f-44e8-8e19-14cffe99af0f",
 				"externalId": {
 					"spotify": null
 				}
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "REALiTi",
-			"id": "",
+			"id": "d153f3b3-22ea-4279-b26f-2d3b6b62d41e",
 			"length": 264000,
 			"externalId": {
 				"spotify": null

@@ -7,54 +7,54 @@
 		{
 			"album": {
 				"name": "Lovely Day",
-				"id": "02c740ce-f446-4ce3-9abe-58a44b534e11"
+				"id": "7534eb4e-f835-40ea-90bf-d143690846a7"
 			},
 			"artists": [
 				{
 					"name": "Bill Withers",
-					"id": "02ab8524-2ae0-41d3-8882-e832acd6f33a"
+					"id": "d61b1a85-3af3-40fa-8c9b-0f3f23f2652c"
 				}
 			],
 			"name": "Use Me Up",
-			"id": "39d15dfe-23fa-4601-8c2d-c65c6e3784d8",
+			"id": "eede659d-8d3c-4915-8165-946b2afc6eb8",
 			"length": 229511
 		},
 		{
 			"album": {
 				"name": "Worst case scenario",
-				"id": "4b807e59-03b2-4827-b42a-d2984609d95d"
+				"id": "4297b208-73f7-4124-a69f-55a564871c8a"
 			},
 			"artists": [
 				{
 					"name": "dEUS",
-					"id": "cf541d0e-7e2e-475d-931f-35bfcbd8d685"
+					"id": "3599ce68-38c9-4e31-8eb0-ac4a18baa2d2"
 				}
 			],
 			"name": "Secret hell",
-			"id": "71a31094-0e51-406b-8b07-3e34e874ffce",
+			"id": "b3a65369-41c4-40e1-ad8d-ff7201a58f27",
 			"length": 301871
 		},
 		{
 			"album": {
 				"name": "The Love Below",
 				"year": 2003,
-				"id": "b35d2559-c8d2-4c7b-ac25-22a66a47102c"
+				"id": "4364626d-1f6a-462d-bf2d-a8c93c4f5db8"
 			},
 			"artists": [
 				{
 					"name": "Outkast",
-					"id": "07c6114b-f316-40da-9c67-fdaaaad69663"
+					"id": "48a2196f-d294-4ff4-a124-3e1586b7e05d"
 				}
 			],
 			"name": "Roses",
-			"id": "6efee0ac-899a-4125-82af-9efc78d78cfd",
+			"id": "2b00b105-0cb0-4cb6-aded-263bfbc02a78",
 			"length": 369632
 		},
 		{
 			"album": {
 				"name": "Music For Split Sides",
 				"year": 2004,
-				"id": "28529855-a216-4c7c-8736-2764b9bb5be0"
+				"id": "68a65a74-711b-44b0-9064-77268f6ed0ac"
 			},
 			"artists": [
 				{
@@ -63,23 +63,23 @@
 				}
 			],
 			"name": "Ba Ba",
-			"id": "9f92db27-b95c-4988-96b2-3ed89ad14714",
+			"id": "7bb29b64-dff5-48a0-a7eb-2b0ba125a3b7",
 			"length": 372062
 		},
 		{
 			"album": {
 				"name": "Desperate Youth, Blood Thirsty Babes",
 				"year": 2004,
-				"id": "d7e57969-9989-47b1-a707-6b5b48c1a2cd"
+				"id": "e7109a2b-ed13-4425-b5ca-1c6988ccbb5a"
 			},
 			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0"
+					"id": "8f6296a1-3f4f-499b-ac6b-a1811c330706"
 				}
 			],
 			"name": "Staring At The Sun",
-			"id": "b2d6cd5e-79b6-40fc-8396-4b4a09c0fadd",
+			"id": "28360ecf-f057-4c31-9189-0e04a783576e",
 			"length": 207046
 		}
 	]

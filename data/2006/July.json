@@ -8,23 +8,23 @@
 			"album": {
 				"name": "Country Falls",
 				"year": 2004,
-				"id": "a15756c3-4842-4878-be93-21c61541b0fd"
+				"id": "1c1770e7-a2cf-425c-b532-f6a3b174712d"
 			},
 			"artists": [
 				{
 					"name": "Husky Rescue",
-					"id": "b4c723fb-c035-43a1-a8d4-aa1c45cced12"
+					"id": "5d3f5890-789d-4e51-b8ae-c5e9f520152e"
 				}
 			],
 			"name": "My World",
-			"id": "08bd9d7b-1fc9-4266-9796-5e88fb35c876",
+			"id": "0f9895e6-3132-4f77-91ae-205667ab5def",
 			"length": 290951
 		},
 		{
 			"album": {
 				"name": "sutemos net compilation",
 				"year": 2000,
-				"id": "b8e6a4b3-64d6-4a1d-ab56-8f9140cd62b2"
+				"id": "162c4946-4ae9-450a-8d66-a18d798f50c2"
 			},
 			"artists": [
 				{
@@ -33,38 +33,38 @@
 				}
 			],
 			"name": "us suddenly",
-			"id": "88566935-d3ef-45f3-a45f-d51b503f63d8",
+			"id": "56ef0aa0-211d-4ea7-bbff-b7550e7e9ecc",
 			"length": 382066
 		},
 		{
 			"album": {
 				"name": "The Audiences' Listening",
 				"year": 2006,
-				"id": "621dcb3e-cba7-4fcd-8780-be8ba6510899"
+				"id": "00ac4a12-9df8-47a1-b6f9-ee839eaedf3a"
 			},
 			"artists": [
 				{
 					"name": "Cut Chemist",
-					"id": "466b7bc9-3950-43eb-a60d-0b2d5f7b0a95"
+					"id": "12deb160-216b-46c2-9d92-a737eac5441b"
 				}
 			],
 			"name": "The Garden",
-			"id": "4528cb8f-eeb4-4270-a8ca-71b83f94c4c7",
+			"id": "b97edf6b-ea13-4a19-9870-33832325d035",
 			"length": 376450
 		},
 		{
 			"album": {
 				"name": "6-30-00 LA, CA @ The Palace",
-				"id": "719f0871-6a8c-4285-b6ea-5d6ae5263a59"
+				"id": "d1ada84a-6af3-49ce-b8d3-a2b84ae5ce0d"
 			},
 			"artists": [
 				{
 					"name": "DVDA",
-					"id": "956a229c-c0c3-408c-b918-c8bf25f22afc"
+					"id": "8ffe315f-aa74-45a6-8803-e6d9386603c0"
 				}
 			],
 			"name": "I AM Chewbacca",
-			"id": "f6cec0ac-d6ed-4009-8e5c-ddde341251bd",
+			"id": "224ba149-fada-4654-bf7c-466f273f1488",
 			"length": 214700
 		},
 		{
@@ -76,11 +76,11 @@
 			"artists": [
 				{
 					"name": "Ray Charles",
-					"id": "d58c8dc4-7749-46da-a657-1ac80c8d1118"
+					"id": "ebab2a4c-69a3-4099-91ea-31781ac4646b"
 				}
 			],
 			"name": "I Can't Stop Loving You",
-			"id": "f9dbf05e-dec0-46c7-9e14-0b0aa57d04ec",
+			"id": "aba03b73-d195-4de0-941d-b10dd440edbb",
 			"length": 254876
 		}
 	]

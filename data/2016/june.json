@@ -8,7 +8,7 @@
 			"album": {
 				"name": "A Moon Shaped Pool",
 				"year": "",
-				"id": "",
+				"id": "22ad3e1a-b789-4106-927c-e78c16867064",
 				"externalId": {
 					"spotify": "6vuykQgDLUCiZ7YggIpLM9"
 				}
@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "Present Tense",
-			"id": "",
+			"id": "758f3525-1e5d-4135-bebe-111485d22dcc",
 			"length": 306581,
 			"externalId": {
 				"spotify": "4eruRiSfDY1jdT03hjyi0i"
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Going Somewhere",
 				"year": "",
-				"id": "",
+				"id": "4a949660-1db5-47ee-8631-b0ed17c0936a",
 				"externalId": {
 					"spotify": "6UMknHv7MCdwNP8Yf2Zq6m"
 				}
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Colin Hay",
-					"id": "",
+					"id": "f429f9f4-013b-43a0-b078-d7908fa8509d",
 					"externalId": {
 						"spotify": "5mxB08ktCukEhGMg2YZeEv"
 					}
 				}
 			],
 			"name": "Maggie",
-			"id": "",
+			"id": "5f0c6f1c-f2f8-488c-a1dc-11930d63a9a9",
 			"length": 261066,
 			"externalId": {
 				"spotify": "0Dglw1nW9qIZUSdYvPr4FK"
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Chaleur Humaine",
 				"year": "",
-				"id": "",
+				"id": "6e63d5ab-97a7-4e97-bf07-5874e8ef593c",
 				"externalId": {
 					"spotify": "0dwg19QWat3Rw6GvtiZRML"
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "Christine and the Queens",
-					"id": "",
+					"id": "300ed585-8899-46a8-b957-9c913ac4701f",
 					"externalId": {
 						"spotify": "04vj3iPUiVh5melWr0w3xT"
 					}
 				}
 			],
 			"name": "Tilted",
-			"id": "",
+			"id": "dde38111-db63-4612-8049-f40fc3e32947",
 			"length": 233247,
 			"externalId": {
 				"spotify": "2E5tEyCqn9conRgZrXTF3Y"
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Tango In The Night",
 				"year": "",
-				"id": "",
+				"id": "eb4ee747-7b5d-4263-8450-62d78e1c2830",
 				"externalId": {
 					"spotify": "1W5YP0TlKjFtb2UZJThLpV"
 				}
@@ -91,14 +91,14 @@
 			"artists": [
 				{
 					"name": "Fleetwood Mac",
-					"id": "",
+					"id": "68598909-735d-406b-86a5-372396835e76",
 					"externalId": {
 						"spotify": "08GQAI4eElDnROBrJRGE0X"
 					}
 				}
 			],
 			"name": "Everywhere",
-			"id": "",
+			"id": "04339001-239d-4143-9990-d5a09a833a6b",
 			"length": 222733,
 			"externalId": {
 				"spotify": "6i8ecOsx4J2Px1maiqzqoG"
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "Joe's Dream",
-			"id": "",
+			"id": "12e5ce3c-1b35-4f60-8eda-1984f57ac528",
 			"length": 325080,
 			"externalId": {
 				"spotify": "3pN7HDHbcahxyHTgNOyOLs"

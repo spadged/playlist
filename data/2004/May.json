@@ -8,23 +8,23 @@
 			"album": {
 				"name": "The Last Broadcast",
 				"year": 2002,
-				"id": "5e85e056-9cda-4da8-8180-f0b44cb64739"
+				"id": "d7d8d0ff-52a0-481f-bb73-f94cf33c6c51"
 			},
 			"artists": [
 				{
 					"name": "Doves",
-					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
+					"id": "7a5a307b-b0ff-4f50-b7c3-13adf0206c9c"
 				}
 			],
 			"name": "The Sulphur Man",
-			"id": "ca97055c-6ef2-4310-917b-16ec0e10da8e",
+			"id": "c1b909ab-299c-48ec-9630-ea09b5a13658",
 			"length": 277394
 		},
 		{
 			"album": {
 				"name": "Xo",
 				"year": 1998,
-				"id": "08a8ecba-9351-4827-8e22-969d1a95ab80"
+				"id": "e1308c58-4b6a-4763-9d46-2d43cf7bd6c2"
 			},
 			"artists": [
 				{
@@ -33,23 +33,23 @@
 				}
 			],
 			"name": "Waltz No. 1",
-			"id": "c7bb8d5a-526e-4198-a791-2b663e00ea39",
+			"id": "eaf0f051-5082-4c5d-a197-c32b402bcf33",
 			"length": 180192
 		},
 		{
 			"album": {
 				"name": "Details",
 				"year": 2002,
-				"id": "d50e717a-bdb9-4412-8738-3aa47f9f5219"
+				"id": "4ac2ac3d-1ab5-4aa7-aba4-3225999257c7"
 			},
 			"artists": [
 				{
 					"name": "Frou Frou",
-					"id": "1a4c2fdc-f5e3-4efb-b66d-c15391593e7b"
+					"id": "21a95023-d019-4b64-aaf4-3744daab71ec"
 				}
 			],
 			"name": "Hear Me out",
-			"id": "3243c41a-5394-4b2e-8f75-e4e3c92ef408",
+			"id": "708f4589-f700-4d55-b6d2-81ead2391b02",
 			"length": 259369
 		},
 		{
@@ -65,7 +65,7 @@
 				}
 			],
 			"name": "Big Ideas",
-			"id": "7c74900e-e050-437c-aafe-9d3eab46ebf1",
+			"id": "0f1c4714-e6a9-4fd7-904c-794bb1ebb7af",
 			"length": 234135
 		},
 		{
@@ -81,7 +81,7 @@
 				}
 			],
 			"name": "Maps",
-			"id": "bc1d7d2c-7910-4a7a-b2af-0c5b41abedff",
+			"id": "435266e8-9369-4e31-a42a-8c5a4c481834",
 			"length": 219846
 		}
 	]

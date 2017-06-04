@@ -8,64 +8,64 @@
 			"album": {
 				"name": "Twin Peaks: Fire Walk With Me",
 				"year": 1992,
-				"id": "7146ff68-26e1-4906-a665-3e429d97de02"
+				"id": "2ba86191-dc3b-4e66-9c15-708166cf3bc4"
 			},
 			"artists": [
 				{
 					"name": "Angelo Badalamenti",
-					"id": "15aff125-b62c-4a4e-b141-b7ac04bace91"
+					"id": "1186fbb0-d16a-465c-9a12-06a61d0606da"
 				},
 				{
 					"name": "Jimmy Scott",
-					"id": "15aff125-b62c-4a4e-b141-b7ac04bace91"
+					"id": "86cb2cc6-90eb-4025-8cf8-b8b0bdc6c428"
 				}
 			],
 			"name": "Sycamore Trees",
-			"id": "5d6ef840-7ff3-443b-9d05-0e347bf1e0bd",
+			"id": "08f14f6d-92cb-4a40-b4e2-6a561000c71d",
 			"length": 238119
 		},
 		{
 			"album": {
 				"name": "Idealism",
 				"year": 2007,
-				"id": "2b33b5e7-8405-4e49-905f-0cc4d09d2257"
+				"id": "dc855423-acd2-4726-b691-d430916d4e3a"
 			},
 			"artists": [
 				{
 					"name": "Digitalism",
-					"id": "4d66a17b-8940-4b86-be92-76dbca8dc53e"
+					"id": "f306749f-0dac-40bc-9cb3-ee4d9a360035"
 				}
 			],
 			"name": "Pogo",
-			"id": "71dd7423-42ed-4b63-9ae5-191cf488a17d",
+			"id": "942f329a-0658-448a-a6bf-8bf2802e51f7",
 			"length": 226507
 		},
 		{
 			"album": {
 				"name": "I'll Sleep When You're Dead",
 				"year": 2007,
-				"id": "de17e9a2-6436-4ecd-86c3-dcc082698544"
+				"id": "d215e79b-8f61-42c6-ac30-0fd097884902"
 			},
 			"artists": [
 				{
 					"name": "El-P",
-					"id": "e7aa6b74-fbd3-4a80-8ad7-e804941ab6d5"
+					"id": "19daec5d-ff57-41eb-af6a-5f4e7fbf5965"
 				}
 			],
 			"name": "The Overly Dramatic Truth",
-			"id": "2c50772b-82f8-44b6-8d7f-024b69b4eba3",
+			"id": "bb32045f-1ac6-4a45-812c-240dbf9a40a8",
 			"length": 270654
 		},
 		{
 			"album": {
 				"name": "Happy Birthday!",
 				"year": 2007,
-				"id": "7f592731-bafe-495b-ba0b-ae64ec13cb9c"
+				"id": "0807d806-6cfb-4939-bbce-692c32ca18c0"
 			},
 			"artists": [
 				{
 					"name": "Modeselektor",
-					"id": "17017095-6110-4d88-878a-f6d356b81cfc"
+					"id": "f6619287-9a6c-442c-9663-4d4b4986a7e9"
 				},
 				{
 					"name": "Thom Yorke",
@@ -73,7 +73,7 @@
 				}
 			],
 			"name": "The White Flash",
-			"id": "39099e4f-0557-43b5-bcf7-e4a560730710",
+			"id": "03c2677d-7693-457e-9188-563cf16eee2a",
 			"length": 289645
 		},
 		{
@@ -88,11 +88,11 @@
 				},
 				{
 					"name": "Moby",
-					"id": "e505e79c-6cba-4369-92a0-c8ed58ee4699"
+					"id": "5e639813-ba7d-4aa8-9fb6-8b2bbba30daa"
 				}
 			],
 			"name": "In A State/God moving Over The Waters",
-			"id": "a04c42e8-3a64-4b35-9aa4-7c64282ffbbc",
+			"id": "cfb43a8b-bbf7-4c4c-b474-2363ed2ab0aa",
 			"length": 666801
 		}
 	]

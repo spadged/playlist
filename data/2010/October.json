@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "Snob",
-			"id": "",
+			"id": "c3a577b4-5417-49e4-af7b-caa1506e309e",
 			"length": 241000,
 			"externalId": {
 				"spotify": null
@@ -48,14 +48,14 @@
 				},
 				{
 					"name": "Katrina Ford",
-					"id": "",
+					"id": "ec31331d-9dcd-4fc2-ab2f-d1ee2ef2e1a2",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Young Love",
-			"id": "",
+			"id": "34fb1d42-61ef-42a3-8713-7abe68bca0f1",
 			"length": 208000,
 			"externalId": {
 				"spotify": null
@@ -65,7 +65,7 @@
 			"album": {
 				"name": "Upper Air",
 				"year": "",
-				"id": "",
+				"id": "34df6e4d-a65d-42bb-a3c1-7ea5fa7347fe",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,14 +73,14 @@
 			"artists": [
 				{
 					"name": "Bowerbirds",
-					"id": "",
+					"id": "930d20e5-a823-450e-9952-d3553264ed38",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Crooked Lust",
-			"id": "",
+			"id": "109751ba-010d-4b43-84c0-0db4c28d348e",
 			"length": 244000,
 			"externalId": {
 				"spotify": null
@@ -90,7 +90,7 @@
 			"album": {
 				"name": "Barking",
 				"year": "",
-				"id": "",
+				"id": "bfc2f345-46cb-4904-b5fa-dda102e8550c",
 				"externalId": {
 					"spotify": null
 				}
@@ -105,7 +105,7 @@
 				}
 			],
 			"name": "Bird 1",
-			"id": "",
+			"id": "9f4bfa41-614c-4543-a120-c25c53d4d6a8",
 			"length": 411000,
 			"externalId": {
 				"spotify": null
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "Hall",
-			"id": "",
+			"id": "a013a301-70ba-4a59-abd8-66fc946bd20d",
 			"length": 165000,
 			"externalId": {
 				"spotify": null

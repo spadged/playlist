@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Currents",
 				"year": "",
-				"id": "",
+				"id": "0db1e5de-426d-4462-9581-3e57c0169a93",
 				"externalId": {
 					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
 				}
@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "Yes I'm Changing",
-			"id": "",
+			"id": "78e3c8be-a07a-401c-a6c9-381d408a3870",
 			"length": 270678,
 			"externalId": {
 				"spotify": "10ZwvQF9EbmXA20sFf9bO3"
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Born In The Echoes",
 				"year": "",
-				"id": "",
+				"id": "d1d89e88-7523-4036-b74b-a8147e48918f",
 				"externalId": {
 					"spotify": "36E5LAM5D3AKnVx8s5dyc6"
 				}
@@ -48,7 +48,7 @@
 				}
 			],
 			"name": "Wide Open",
-			"id": "",
+			"id": "0f43979f-ba68-4177-aa8f-708e890d1774",
 			"length": 354603,
 			"externalId": {
 				"spotify": "702bgtK1RC080O8pozq94S"
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "The Best Of DMX",
 				"year": "",
-				"id": "",
+				"id": "dc3b4e51-e0d2-4871-b9f5-8ce981797614",
 				"externalId": {
 					"spotify": "1B6nlZKCMmawwnnijTeH3I"
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "DMX",
-					"id": "",
+					"id": "6b1f1049-73c4-436b-9e86-c23c7c178086",
 					"externalId": {
 						"spotify": "1HwM5zlC5qNWhJtM00yXzG"
 					}
 				}
 			],
 			"name": "X Gon' Give It To Ya",
-			"id": "",
+			"id": "bb25149d-ba53-4d71-b993-bb8c5db2e5e6",
 			"length": 219253,
 			"externalId": {
 				"spotify": "2NeHnSFnwNp1Z5WYgcjJ8L"
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Ceremony",
 				"year": "",
-				"id": "",
+				"id": "d7faa5e0-92a6-4406-ad06-476ee8636f50",
 				"externalId": {
 					"spotify": "2qf3yzwEdaklZSu7777unx"
 				}
@@ -91,14 +91,14 @@
 			"artists": [
 				{
 					"name": "Anna von Hausswolff",
-					"id": "",
+					"id": "53529f66-4e5c-45ca-88ec-1de7572818fb",
 					"externalId": {
 						"spotify": "1eiXrvua27VlWgZ9kiaIn6"
 					}
 				}
 			],
 			"name": "Mountains Crave",
-			"id": "",
+			"id": "3b4b9830-75cd-4ade-bce3-21cf8674efdf",
 			"length": 215131,
 			"externalId": {
 				"spotify": "0IZ05Z5gVwYQ4b3QFazN89"
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "Inherent Vice",
 				"year": "",
-				"id": "",
+				"id": "5eac36de-5340-47c9-8057-03332ec91329",
 				"externalId": {
 					"spotify": "3LIMxY8oQG9c70DWKe0iHN"
 				}
@@ -116,14 +116,14 @@
 			"artists": [
 				{
 					"name": "Jonny Greenwood",
-					"id": "",
+					"id": "6763fdf9-0f7f-47fd-aa95-fe66af500818",
 					"externalId": {
 						"spotify": "0z9s3P5vCzKcUBSxgBDyLU"
 					}
 				}
 			],
 			"name": "Amethyst",
-			"id": "",
+			"id": "17fc9aa1-132d-45c5-b3dd-55a6fa189aa3",
 			"length": 123653,
 			"externalId": {
 				"spotify": "2vgNEKfr2AiRJB8Hjdi9Ha"

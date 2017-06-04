@@ -17,7 +17,7 @@
 				}
 			],
 			"name": "Moodswing Whiskey",
-			"id": "6499293a-fb41-4a43-b597-ca50c05914b7",
+			"id": "0996f8dc-7410-44c1-ad5b-a16a0582449e",
 			"length": 336927
 		},
 		{
@@ -33,53 +33,53 @@
 				}
 			],
 			"name": "That's All I Ask (live)",
-			"id": "71a3b21c-b4c8-467f-98da-bff3572cbdca",
+			"id": "e7e9aca3-4a22-495d-b741-2a381dfe9ade",
 			"length": 325746
 		},
 		{
 			"album": {
 				"name": "Then it was a bad, bad night",
 				"year": 2004,
-				"id": "5efd902b-94c7-4423-aded-628a80a33961"
+				"id": "43f908c1-3a0b-489a-83a3-2253e4433d51"
 			},
 			"artists": [
 				{
 					"name": "Kidd",
-					"id": "cd982f72-27ba-4ea9-9b29-94edaaf3d89f"
+					"id": "a4af9f25-1eff-4260-a76a-1e16bf1a4102"
 				}
 			],
 			"name": "South bound on Avalon",
-			"id": "c4fbb82b-75c2-45b4-868c-bbf975edcef9",
+			"id": "85f8430f-7039-4ddc-8edc-bf1be186ca0e",
 			"length": 445962
 		},
 		{
 			"album": {
 				"name": "Ágætis Byrjun",
-				"id": "7622e820-359e-435f-8567-f4068c7af349"
+				"id": "954bde26-e7da-4dd2-afb7-731804e7184d"
 			},
 			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": "eed7df49-749f-43ba-8b9a-bbcf1b4d8261"
+					"id": "860f3d17-e751-4691-97bb-f5ed3e051702"
 				}
 			],
 			"name": "Ágaetis Byrjun",
-			"id": "833ef3f8-caf3-4c5a-b253-afc508022036",
+			"id": "7fa44272-9550-44f2-a548-c598beac11be",
 			"length": 475872
 		},
 		{
 			"album": {
 				"name": "Louder than Bombs",
-				"id": "0789f188-adb3-4013-bf88-2c88a4191b4c"
+				"id": "763597ec-e564-45a6-b1cb-05c28cd1d7b6"
 			},
 			"artists": [
 				{
 					"name": "The Smiths",
-					"id": "d1ba81fb-cb1c-42bb-be9c-379323e1828a"
+					"id": "72bd6c7d-eeb0-4b41-9e85-390095ea67c2"
 				}
 			],
 			"name": "Please please please let me get what I want",
-			"id": "da40c1ea-c732-499d-993c-ff3ff268ab38",
+			"id": "016ec358-3335-4505-a1b3-7e6b658c268d",
 			"length": 114207
 		}
 	]

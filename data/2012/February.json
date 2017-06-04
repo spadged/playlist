@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Hymns for a Dark Horse",
 				"year": "",
-				"id": "",
+				"id": "e9627b9d-eba8-4852-a18c-d388a37061fa",
 				"externalId": {
 					"spotify": null
 				}
@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "My Oldest Memory",
-			"id": "",
+			"id": "646561f3-e63a-4b52-99c2-24cda8ea65c9",
 			"length": 271000,
 			"externalId": {
 				"spotify": null
@@ -48,7 +48,7 @@
 				}
 			],
 			"name": "Suns Irrupt",
-			"id": "",
+			"id": "7ee58936-7883-47d0-b729-c5dd9fb898e9",
 			"length": 328000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Graceland",
 				"year": "",
-				"id": "",
+				"id": "1ddf7735-27d0-4ce8-804f-69553d956c16",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "Paul Simon",
-					"id": "",
+					"id": "4415c62d-7b64-4552-bc87-d05e79b19513",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Graceland",
-			"id": "",
+			"id": "29c59d69-be12-4e8c-83b8-8ed16786370d",
 			"length": 290000,
 			"externalId": {
 				"spotify": null
@@ -98,7 +98,7 @@
 				}
 			],
 			"name": "Speaking In Tongues",
-			"id": "",
+			"id": "a2861c7b-2515-47fd-89ab-811cf16d2d99",
 			"length": 232000,
 			"externalId": {
 				"spotify": null
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "Speaking In Tongues",
 				"year": "",
-				"id": "",
+				"id": "f307db88-2d73-426b-9e22-b254bd926298",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "This Must Be The Place (Naive Melody)",
-			"id": "",
+			"id": "6403c563-cd3b-4bd8-aee9-7b008859edfd",
 			"length": 297000,
 			"externalId": {
 				"spotify": null

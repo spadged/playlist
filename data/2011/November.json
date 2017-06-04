@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Purple Naked Ladies",
 				"year": "",
-				"id": "",
+				"id": "2dc60900-913b-4deb-b94a-c6ce7fb12ca7",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,21 +16,21 @@
 			"artists": [
 				{
 					"name": "The Internet",
-					"id": "",
+					"id": "4a9ffe8d-7717-423f-b890-74d2bc7d84f5",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Left Brain",
-					"id": "",
+					"id": "b6c4d069-fb1d-4367-984f-aef20ff3b943",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Cocaine",
-			"id": "",
+			"id": "01590584-f62f-4e63-aca3-24fbcc1f37c9",
 			"length": 179000,
 			"externalId": {
 				"spotify": null
@@ -55,7 +55,7 @@
 				}
 			],
 			"name": "Far From Grace",
-			"id": "",
+			"id": "ecf8807d-5912-4067-9ef1-1d306ca7e182",
 			"length": 266000,
 			"externalId": {
 				"spotify": null
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "Neon Bible",
-			"id": "",
+			"id": "4ed2cb0c-0b28-4274-a26d-74a51835b805",
 			"length": 136000,
 			"externalId": {
 				"spotify": null
@@ -105,7 +105,7 @@
 				}
 			],
 			"name": "Magic Doors",
-			"id": "",
+			"id": "8d006f51-3141-4cab-9789-f978c5fad48b",
 			"length": 212000,
 			"externalId": {
 				"spotify": null
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "Inside Out",
-			"id": "",
+			"id": "1d32678e-0227-4798-ad23-bc9a6237ad46",
 			"length": 223000,
 			"externalId": {
 				"spotify": null

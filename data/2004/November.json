@@ -7,38 +7,38 @@
 		{
 			"album": {
 				"name": "Lovebox",
-				"id": "a8e45e70-ebcc-4661-b432-84b8f255cbdd"
+				"id": "27aecb90-0787-46c3-863c-a42b00e810ce"
 			},
 			"artists": [
 				{
 					"name": "Groove Armada",
-					"id": "88fd00f3-00c2-443e-b4dc-db173eb65bbe"
+					"id": "38326eb7-b5cf-40a1-88e8-89fa0b6fccc5"
 				}
 			],
 			"name": "Hands of Time",
-			"id": "da355545-e1b2-4189-8cff-910f4005395f",
+			"id": "f41b4d43-c48d-49ff-8241-17762653426b",
 			"length": 260075
 		},
 		{
 			"album": {
 				"name": "Collateral",
-				"id": "bf680eb1-9514-40be-8d83-507ecfe8b712"
+				"id": "0cc3117a-0307-43ce-a566-a934a49488e7"
 			},
 			"artists": [
 				{
 					"name": "James Newton Howard",
-					"id": "c21904d6-f76a-4a21-933c-ca6a0d39edf9"
+					"id": "ff1060e3-f4fc-4ee9-86ae-f126e53e238c"
 				}
 			],
 			"name": "Requiem",
-			"id": "e5ee31d4-76c6-4ba5-aa09-00143408a128",
+			"id": "7869d80f-feb9-4e83-b836-f5f40725b91f",
 			"length": 116845
 		},
 		{
 			"album": {
 				"name": "Live A L'Olympia",
 				"year": 2001,
-				"id": "e0ec6a53-1054-44b4-aafc-a99e5c91dc9d"
+				"id": "d1816934-ae2b-435d-bc94-8c3e3322719d"
 			},
 			"artists": [
 				{
@@ -47,7 +47,7 @@
 				}
 			],
 			"name": "Je N'en Connais Pas La Fin",
-			"id": "5ae3ec9c-cd91-43cb-aafe-411557d121ee",
+			"id": "b3bac5ba-492c-4213-863d-bd7c87b237f7",
 			"length": 385750
 		},
 		{
@@ -63,23 +63,23 @@
 				}
 			],
 			"name": "'Premacy",
-			"id": "cd2b1d8f-d3a2-4853-863c-0d43c9e84d94",
+			"id": "5c4d60db-40c3-4d7c-a941-2769fe9c85ea",
 			"length": 202553
 		},
 		{
 			"album": {
 				"name": "Bad Habits",
 				"year": 1994,
-				"id": "121852c5-6aa0-4f9d-8dd1-0ba1fe3e63c4"
+				"id": "a34dbff4-b6f0-47c5-b96c-62784314f1eb"
 			},
 			"artists": [
 				{
 					"name": "Nina Simone",
-					"id": "c4541aaa-96e0-4531-b8a3-c853411148b9"
+					"id": "cc6802db-d2fb-405b-95e6-5058336e7ed0"
 				}
 			],
 			"name": "Four Women",
-			"id": "a6db7738-896f-4b6b-89b4-b199d8bcc554",
+			"id": "7a1944b1-75f0-4510-b8cb-1d68c8014541",
 			"length": 266553
 		}
 	]

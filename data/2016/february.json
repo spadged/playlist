@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Reminder",
 				"year": "",
-				"id": "",
+				"id": "f059a69c-c489-489b-b264-0652f0505a80",
 				"externalId": {
 					"spotify": "34leSDkpEeoIPkyhzSIDYg"
 				}
@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "Reminder",
-			"id": "",
+			"id": "8c55b677-23e1-49ee-957e-d48e02c78346",
 			"length": 234080,
 			"externalId": {
 				"spotify": "2y3VAO6G4RZZY8IU07tBwW"
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "A Retelling",
 				"year": "",
-				"id": "",
+				"id": "b43595f5-1a43-476e-8df8-90cc597dcec6",
 				"externalId": {
 					"spotify": "6u3V2lOfrxUpLWHL8rjllE"
 				}
@@ -48,7 +48,7 @@
 				}
 			],
 			"name": "A Retelling",
-			"id": "",
+			"id": "c9e6ed0d-2e05-4878-83eb-abea7cad83cb",
 			"length": 324085,
 			"externalId": {
 				"spotify": "4VXvw5t6OdQ7EEuMrNAjDS"
@@ -73,7 +73,7 @@
 				}
 			],
 			"name": "Over It",
-			"id": "",
+			"id": "71907273-346b-47b0-922f-a70f39f0819f",
 			"length": 224801,
 			"externalId": {
 				"spotify": "4Y8XqpL3XaYmnvfi1R1sd7"
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Water",
 				"year": "",
-				"id": "",
+				"id": "de8c4bf5-56d3-411b-ab4d-8a339effc6cd",
 				"externalId": {
 					"spotify": "35Cbis4EC9WCCSrmIwGNkJ"
 				}
@@ -91,21 +91,21 @@
 			"artists": [
 				{
 					"name": "Ra Ra Riot",
-					"id": "",
+					"id": "dda81ded-8e79-4b9d-a817-0d0d7ad73a32",
 					"externalId": {
 						"spotify": "6FIrstf3kHEg3zBOyLpvxD"
 					}
 				},
 				{
 					"name": "Rostam",
-					"id": "",
+					"id": "5ed9874b-5aae-4851-a0cc-a65918e0173c",
 					"externalId": {
 						"spotify": "04XggbrM51GcFPTxBYtRXT"
 					}
 				}
 			],
 			"name": "Water",
-			"id": "",
+			"id": "c3022c56-5e6a-4aad-a261-053a6d88ff6f",
 			"length": 280333,
 			"externalId": {
 				"spotify": "7vAb6xya02LhN4YQh8X42w"
@@ -115,7 +115,7 @@
 			"album": {
 				"name": "I Love You, Honeybear",
 				"year": "",
-				"id": "",
+				"id": "3f00feef-b76d-43ce-b4d3-b0209aec3e49",
 				"externalId": {
 					"spotify": "2A8IKX257C4hJaYUHMhLP7"
 				}
@@ -123,14 +123,14 @@
 			"artists": [
 				{
 					"name": "Father John Misty",
-					"id": "",
+					"id": "7ccca3b2-1191-477a-b031-c9f5e3de27a0",
 					"externalId": {
 						"spotify": "2kGBy2WHvF0VdZyqiVCkDT"
 					}
 				}
 			],
 			"name": "True Affection",
-			"id": "",
+			"id": "2511d227-43ae-412b-9309-85cb82551b2b",
 			"length": 236573,
 			"externalId": {
 				"spotify": "4qG7NaN5VGPE2HPFKFHKCs"

@@ -8,7 +8,7 @@
 			"album": {
 				"name": "SBTRKT",
 				"year": "",
-				"id": "",
+				"id": "ec6877ae-7345-414d-88f5-f72eec865fe4",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "SBTRKT",
-					"id": "",
+					"id": "13b5c796-f464-4e36-83dc-f5aaaf8c9666",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Trials Of The Past",
-			"id": "",
+			"id": "b8cae7e5-b3ac-4cfe-ad30-09c918ab09be",
 			"length": 264000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Kittenz And Thee Glitz",
 				"year": "",
-				"id": "",
+				"id": "a3fa38cf-963f-49d9-987d-34cfe05477af",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Felix Da Housecat",
-					"id": "",
+					"id": "8e073222-0418-4249-b2f2-50fdc9ed8913",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Madame Hollywood",
-			"id": "",
+			"id": "9c0cf612-56fa-4bd7-a5e3-e4c7c08972f7",
 			"length": 171000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Mind Bokeh",
 				"year": "",
-				"id": "",
+				"id": "b2208086-8af4-47fe-817b-9caff0207dc9",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "Bibio",
-					"id": "",
+					"id": "180e8c68-3d79-4afa-901b-a2ee8bf3c87b",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Excuses",
-			"id": "",
+			"id": "f23f20af-e9c9-472b-bc68-6791d53b1a6d",
 			"length": 358000,
 			"externalId": {
 				"spotify": null
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "We're New Here",
 				"year": "",
-				"id": "",
+				"id": "fd07b532-cb09-4f74-a108-1e9553d79e0e",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,21 +91,21 @@
 			"artists": [
 				{
 					"name": "Jamie xx",
-					"id": "",
+					"id": "d163135d-c958-4d7c-acd6-5bfbc5b154a2",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Gil Scott-Heron",
-					"id": "",
+					"id": "3decdb12-b06c-4558-84b6-2d5419827224",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "The Crutch",
-			"id": "",
+			"id": "886d10ed-5091-444f-a3ad-9d79cabb7ef1",
 			"length": 189000,
 			"externalId": {
 				"spotify": null
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "Staircase",
-			"id": "",
+			"id": "1bbf7ccd-449b-4bcd-9d40-2b89d364e146",
 			"length": 271000,
 			"externalId": {
 				"spotify": null

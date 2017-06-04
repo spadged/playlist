@@ -7,39 +7,39 @@
 		{
 			"album": {
 				"name": "The Luxury Gap",
-				"id": "46a113e7-df84-46a2-8cf5-eec4dfcf617a"
+				"id": "62f589f5-a1d6-456e-a770-6f5dcf26ece2"
 			},
 			"artists": [
 				{
 					"name": "Heaven 17",
-					"id": "710f2f3f-b7e0-4cbc-a7f2-93dc83bf9868"
+					"id": "51e52fd3-d550-43fc-8c00-bcd6f8d886a7"
 				}
 			],
 			"name": "Temptation",
-			"id": "7ec3373f-29e8-4cd8-976b-9e929933dbc5",
+			"id": "be925185-6372-4987-9973-f0ac6994b41a",
 			"length": 251219
 		},
 		{
 			"album": {
 				"name": "Live With Me",
 				"year": 2006,
-				"id": "721785a2-5a57-46ef-82fb-bc2b58f80182"
+				"id": "e71d0401-eb5d-4f55-a6dc-6414fd4739ec"
 			},
 			"artists": [
 				{
 					"name": "Massive Attack",
-					"id": "c2cb1dce-7eff-4d3f-a9b0-fcbcec8de444"
+					"id": "3818d411-45cf-4c50-98d9-9a3b2fec0893"
 				}
 			],
 			"name": "Live With Me",
-			"id": "47bdfb78-1648-415d-871e-cce7a3f903a7",
+			"id": "f14e3ef4-219e-45d8-881c-765ba51fce4c",
 			"length": 241973
 		},
 		{
 			"album": {
 				"name": "The Fragile",
 				"year": 1999,
-				"id": "e97fb034-a1e9-4148-9df8-3ee35be14b5a"
+				"id": "be52beda-b253-413a-a3ef-014f7676caa2"
 			},
 			"artists": [
 				{
@@ -48,39 +48,39 @@
 				}
 			],
 			"name": "StarFuckers Inc.",
-			"id": "f8f69560-6575-49cf-bc9b-cc17c408ecf5",
+			"id": "e633481b-8214-47e7-8989-b40045758ffa",
 			"length": 300303
 		},
 		{
 			"album": {
 				"name": "Siamese Dream",
 				"year": 1993,
-				"id": "39816928-8b87-443e-b3a2-115d96a7167d"
+				"id": "4a8ea9d0-12c0-464f-abc6-de8fefee140e"
 			},
 			"artists": [
 				{
 					"name": "Smashing Pumpkins",
-					"id": "a5aaa335-5e61-4b43-893c-0f5334f1f52f"
+					"id": "dc048433-d11c-41a3-936a-f8a88966283a"
 				}
 			],
 			"name": "Sweet Sweet",
-			"id": "ba5cc988-0bc2-424a-9f52-a210252730d2",
+			"id": "eaa11fd4-bbb3-4ef1-8ac7-79ae615386fc",
 			"length": 98768
 		},
 		{
 			"album": {
 				"name": "Jailbreak",
 				"year": 1976,
-				"id": "3c712345-853c-49c8-ad44-276c5cab3a31"
+				"id": "d64b8b62-cb9e-4f0b-88b5-d01b1fbf6cc5"
 			},
 			"artists": [
 				{
 					"name": "Thin Lizzy",
-					"id": "15295d97-d943-42c8-9aaf-563780d0499a"
+					"id": "32e86c86-b62d-4845-bbb0-ab682502f7eb"
 				}
 			],
 			"name": "Romeo And The Lonely Girl",
-			"id": "0404d3b5-67ed-443e-a93f-e462c68bc1b8",
+			"id": "52a88e4c-ac3c-4af5-bc3f-cebe60fddd54",
 			"length": 237770
 		}
 	]

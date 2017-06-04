@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Finding Forever",
 				"year": "",
-				"id": "",
+				"id": "9d9cdf77-4298-4d4e-a949-2fde977854bc",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,21 +16,21 @@
 			"artists": [
 				{
 					"name": "Common",
-					"id": "",
+					"id": "aed71bf1-9971-49c7-8583-fe9dbfe6359c",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Lily Allen",
-					"id": "",
+					"id": "48d30ae6-0a45-4b92-a29d-a033ee813b54",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Drivin' Me Wild",
-			"id": "",
+			"id": "898a4b45-b191-495c-aa63-dba96668acae",
 			"length": 222000,
 			"externalId": {
 				"spotify": null
@@ -40,7 +40,7 @@
 			"album": {
 				"name": "The Reminder",
 				"year": "",
-				"id": "",
+				"id": "a4f2b76b-b0f0-485b-98b5-e815c4e4ee6a",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,14 +48,14 @@
 			"artists": [
 				{
 					"name": "Feist",
-					"id": "",
+					"id": "bc0d5ce1-eeb0-46eb-b3f0-b115b750edea",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "One Two Three Four",
-			"id": "",
+			"id": "98e415a8-ccd5-4c2c-99ff-7d4c0fee2684",
 			"length": 183000,
 			"externalId": {
 				"spotify": null
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "Reckoner",
-			"id": "",
+			"id": "91196309-8bce-445c-9bfc-8eb4a3b1f7f4",
 			"length": 290000,
 			"externalId": {
 				"spotify": null
@@ -90,7 +90,7 @@
 			"album": {
 				"name": "Oblivion With Bells",
 				"year": "",
-				"id": "",
+				"id": "85abf852-2074-439d-99c1-287f8ba5ec89",
 				"externalId": {
 					"spotify": null
 				}
@@ -105,7 +105,7 @@
 				}
 			],
 			"name": "To Heal",
-			"id": "",
+			"id": "33ae43cd-c1c1-4ba3-850e-1572bd96fbbd",
 			"length": 156000,
 			"externalId": {
 				"spotify": null
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "The Pills Won't Help You Know",
-			"id": "",
+			"id": "03e4faaf-77f1-4276-b2cb-164706c65870",
 			"length": 397000,
 			"externalId": {
 				"spotify": null

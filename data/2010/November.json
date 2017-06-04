@@ -8,7 +8,7 @@
 			"album": {
 				"name": "High Violet",
 				"year": "",
-				"id": "",
+				"id": "928f4d17-d3e8-4236-846e-203af15905cf",
 				"externalId": {
 					"spotify": null
 				}
@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "England",
-			"id": "",
+			"id": "a2e72438-e34d-4096-acf9-bade9ff0250b",
 			"length": 340000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Nothing",
 				"year": "",
-				"id": "",
+				"id": "1eba25dc-cd52-4ac3-a44d-4b42925d2f93",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,7 +41,7 @@
 			"artists": [
 				{
 					"name": "N.E.R.D.",
-					"id": "",
+					"id": "719717f0-a689-495e-9520-78084b725cc0",
 					"externalId": {
 						"spotify": null
 					}
@@ -55,7 +55,7 @@
 				}
 			],
 			"name": "Hypnotize U",
-			"id": "",
+			"id": "012dfa93-8c05-4cce-8b70-8cbacf56cff3",
 			"length": 257000,
 			"externalId": {
 				"spotify": null
@@ -65,7 +65,7 @@
 			"album": {
 				"name": "Maximum Balloon",
 				"year": "",
-				"id": "",
+				"id": "84df9c7a-4f54-4ca4-98a4-e9d5015fa655",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,21 +73,21 @@
 			"artists": [
 				{
 					"name": "Maximum Balloon",
-					"id": "",
+					"id": "df114310-9d0b-4b50-97c7-77bae5a67363",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Theophilus London",
-					"id": "",
+					"id": "b2defe3e-57c8-43f5-8a44-01d7cc9b69ac",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Groove Me",
-			"id": "",
+			"id": "741e9552-8e49-4460-b8e4-297ce3fb66c1",
 			"length": 224000,
 			"externalId": {
 				"spotify": null
@@ -97,7 +97,7 @@
 			"album": {
 				"name": "Nothing Else",
 				"year": "",
-				"id": "",
+				"id": "e0f50a24-0450-48e8-94e1-17bb1246d4da",
 				"externalId": {
 					"spotify": null
 				}
@@ -105,14 +105,14 @@
 			"artists": [
 				{
 					"name": "Lorn",
-					"id": "",
+					"id": "bacba77b-8eb7-463f-a77b-7905a9829d53",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Cherry Moon",
-			"id": "",
+			"id": "3c0f471a-e27c-4b02-bcbf-f25c074c33d3",
 			"length": 218000,
 			"externalId": {
 				"spotify": null
@@ -122,7 +122,7 @@
 			"album": {
 				"name": "Cerulean",
 				"year": "",
-				"id": "",
+				"id": "b63143af-34cf-42ce-9dc0-384b24234be6",
 				"externalId": {
 					"spotify": null
 				}
@@ -130,14 +130,14 @@
 			"artists": [
 				{
 					"name": "Baths",
-					"id": "",
+					"id": "c17b57fb-e670-4f08-93b5-96437cf4994a",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Rafting Starlit Everglades",
-			"id": "",
+			"id": "97764bf6-e84c-4d40-9690-e4fb1f8cafad",
 			"length": 237000,
 			"externalId": {
 				"spotify": null

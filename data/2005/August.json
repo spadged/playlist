@@ -7,32 +7,32 @@
 		{
 			"album": {
 				"name": "Hefty Fine",
-				"id": "8a75acae-9105-41d6-8f4e-eee6257546ba"
+				"id": "479a0cb6-3861-4e86-8fd6-a1a5381f96f5"
 			},
 			"artists": [
 				{
 					"name": "Bloodhound Gang",
-					"id": "61eaa6dc-9964-446b-8766-29fc61a7f00c"
+					"id": "0278eb1c-88c3-4af3-9029-784fd36658ef"
 				}
 			],
 			"name": "Foxtrot Uniform Charlie Kilo",
-			"id": "06ef2d28-6234-4aa1-b98f-4e95d0a54e8e",
+			"id": "91115187-c7a3-4181-8aa4-7e1db664e0f6",
 			"length": 171781
 		},
 		{
 			"album": {
 				"name": "X&Y",
 				"year": 2005,
-				"id": "4ae313ec-e061-4c2f-ae04-7bd5bb2497b2"
+				"id": "296cff7d-7f2b-4f83-a8c2-db14df79eb63"
 			},
 			"artists": [
 				{
 					"name": "Coldplay",
-					"id": "ec94e866-4d08-4130-a26f-783fce97bd5c"
+					"id": "18747e29-0609-427c-ba5f-c5bbab5dbecc"
 				}
 			],
 			"name": "Til Kingdom Come",
-			"id": "58efff94-8c8f-474b-bb9e-7774db4090bb",
+			"id": "2fc21b10-b5c9-46c2-80ed-9c09b06977ac",
 			"length": 250279
 		},
 		{
@@ -48,30 +48,30 @@
 				}
 			],
 			"name": "Deep Blue Day",
-			"id": "c51200ab-4222-46cc-b808-2166e0c00981",
+			"id": "9f7ac4ef-a083-45ef-8036-23586c117530",
 			"length": 236564
 		},
 		{
 			"album": {
 				"name": "Disraeli Gears",
 				"year": 1967,
-				"id": "b0e0c947-c15c-4fca-bdf4-6409b42e25ca"
+				"id": "ebedea51-a178-4375-9fd3-fc43fb1ca95f"
 			},
 			"artists": [
 				{
 					"name": "Cream",
-					"id": "1e33f118-8f66-49dc-b58c-7df5bfb1f587"
+					"id": "8ec2e25a-d07f-4d2a-8621-35fa9502ecc5"
 				}
 			],
 			"name": "We're Going Wrong",
-			"id": "479ae29e-c390-4675-b73b-df852290d372",
+			"id": "4f73a18f-b12e-493d-a4f6-0472456f1ebc",
 			"length": 207177
 		},
 		{
 			"album": {
 				"name": "Lost Sides",
 				"year": 2003,
-				"id": "a9ac46bd-e178-4df3-84d5-172898940da1"
+				"id": "54d0ca29-4dbd-479b-acd9-ab2e0545a6a1"
 			},
 			"artists": [
 				{
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "Meet Me At The Pier",
-			"id": "5fa13615-fba7-496a-b09e-6784437f6325",
+			"id": "07bfc7c9-edfe-402a-956e-358b91f0ed59",
 			"length": 182831
 		}
 	]

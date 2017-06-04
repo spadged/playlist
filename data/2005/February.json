@@ -8,48 +8,48 @@
 			"album": {
 				"name": "The Life Aquatic With Steve Zissou",
 				"year": 2004,
-				"id": "dbf8f187-6081-4371-990a-6415ead5adc6"
+				"id": "40862d46-936a-4e7c-92e5-7df53f6c012d"
 			},
 			"artists": [
 				{
 					"name": "Seu Jorge",
-					"id": "28dedcf3-6a28-4861-82cc-26a625fac3f7"
+					"id": "28c2cc88-5de7-4f7e-b9b1-f941147621ca"
 				}
 			],
 			"name": "Rebel Rebel",
-			"id": "a63f2441-e02a-4d3c-92a7-8be99e628e96",
+			"id": "57a7f4cb-5ff0-42af-8a2f-ca132c4f5d74",
 			"length": 144248
 		},
 		{
 			"album": {
 				"name": "Hunky Dory",
 				"year": 2004,
-				"id": "f83979bd-b6da-4454-bbc5-4321ab778aa5"
+				"id": "7ed4509a-b5f7-4c4d-904e-55c6b8b53974"
 			},
 			"artists": [
 				{
 					"name": "David Bowie",
-					"id": "d72b8d7a-f1e9-404f-87cd-f067c357656d"
+					"id": "d68c7c70-10fb-44a6-965c-9924bef5e285"
 				}
 			],
 			"name": "Queen Bitch",
-			"id": "1dc12f5a-f7e8-4851-959c-0f80129450dd",
+			"id": "80e6d908-d791-4267-ae04-837a897c5603",
 			"length": 195709
 		},
 		{
 			"album": {
 				"name": "& Yet & Yet",
 				"year": 2002,
-				"id": "35c0ba9d-47ea-4994-88e0-d48601b9405e"
+				"id": "5e8f7454-45c0-42fe-ac81-a903548c28b6"
 			},
 			"artists": [
 				{
 					"name": "Do Make Say Think",
-					"id": "fc096d92-7db0-496b-b72e-062423dc9d15"
+					"id": "187c50b0-4fb3-4b1c-a3bc-54fe26514233"
 				}
 			],
 			"name": "Soul And Onward",
-			"id": "3fb235e7-d2a5-43ba-acfb-412eed889b71",
+			"id": "8c56f8c1-79b5-4591-be24-20f0dc2a1862",
 			"length": 331441
 		},
 		{
@@ -65,23 +65,23 @@
 				}
 			],
 			"name": "Words (Echoboy Remix)",
-			"id": "01e2a289-9973-4724-8d76-ff94c153f20f",
+			"id": "945ed628-0e96-4d6b-b15a-c97bd7029e4f",
 			"length": 445361
 		},
 		{
 			"album": {
 				"name": "Happy Songs For Happy People",
 				"year": 2003,
-				"id": "4f221689-416d-4551-b513-922a9d6cc030"
+				"id": "4a8fd64d-21b0-4e5c-bcab-d988e75afc92"
 			},
 			"artists": [
 				{
 					"name": "Mogwai",
-					"id": "540f6e05-6b89-4824-979c-7cc31b774044"
+					"id": "4233538c-b524-4539-b1bc-43782fa30392"
 				}
 			],
 			"name": "Moses? I Ain't",
-			"id": "6780b7e1-894e-4015-a200-ab3bf5262695",
+			"id": "80686093-e8fe-4fc6-9048-4f0290c3da87",
 			"length": 181420
 		}
 	]

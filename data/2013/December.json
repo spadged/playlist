@@ -30,7 +30,7 @@
 				}
 			],
 			"name": "Hunger",
-			"id": "",
+			"id": "3e970d32-8caa-48bc-86f9-3d2fa935a0ef",
 			"length": 219000,
 			"externalId": {
 				"spotify": null
@@ -40,7 +40,7 @@
 			"album": {
 				"name": "Double Figure",
 				"year": "",
-				"id": "",
+				"id": "fa7224ee-65f4-4406-b873-b4867f36160c",
 				"externalId": {
 					"spotify": null
 				}
@@ -55,7 +55,7 @@
 				}
 			],
 			"name": "Sincetta",
-			"id": "",
+			"id": "4f1e673f-e10f-40f7-b356-0a4bfc1223af",
 			"length": 300000,
 			"externalId": {
 				"spotify": null
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "Book Repository",
-			"id": "",
+			"id": "41fd8c80-3ea5-437f-bbbe-1f632122c7ef",
 			"length": 355000,
 			"externalId": {
 				"spotify": null
@@ -90,7 +90,7 @@
 			"album": {
 				"name": "Richard D. James Album",
 				"year": "",
-				"id": "",
+				"id": "4bebf5b7-7239-4ef2-97aa-41e891c67497",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,14 +98,14 @@
 			"artists": [
 				{
 					"name": "Aphex Twin",
-					"id": "",
+					"id": "636628a1-bd10-4823-a39d-e8e903f05340",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Fingerbib",
-			"id": "",
+			"id": "0208333d-abb3-4740-8545-57c693087141",
 			"length": 228000,
 			"externalId": {
 				"spotify": null
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "All Dried Up",
-			"id": "",
+			"id": "03bee319-0d94-4620-9406-98473cd98df2",
 			"length": 226000,
 			"externalId": {
 				"spotify": null

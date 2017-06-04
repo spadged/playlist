@@ -23,21 +23,21 @@
 				},
 				{
 					"name": "Devonte Hynes",
-					"id": "",
+					"id": "2077b8ab-9782-408a-9254-701aa087ad95",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Tawiah",
-					"id": "",
+					"id": "8bc26151-9a33-4727-82a7-6367899a61c3",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Why Don't You Love Me",
-			"id": "",
+			"id": "1b3f3939-4cf2-4e3a-a73c-aa5dc974f4e3",
 			"length": 245000,
 			"externalId": {
 				"spotify": null
@@ -47,7 +47,7 @@
 			"album": {
 				"name": "Tremors",
 				"year": "",
-				"id": "",
+				"id": "3738c339-ad72-40b3-9a76-99dcae7779e8",
 				"externalId": {
 					"spotify": null
 				}
@@ -62,7 +62,7 @@
 				}
 			],
 			"name": "Lights",
-			"id": "",
+			"id": "e7c00c3c-4483-46ff-9149-61e7cf6eb42a",
 			"length": 269000,
 			"externalId": {
 				"spotify": null
@@ -72,7 +72,7 @@
 			"album": {
 				"name": "Panda Bear Meets The Grim Reaper",
 				"year": "",
-				"id": "",
+				"id": "9a4e7805-ddba-4a7b-b50d-ce312128e5e7",
 				"externalId": {
 					"spotify": null
 				}
@@ -80,14 +80,14 @@
 			"artists": [
 				{
 					"name": "Panda Bear",
-					"id": "",
+					"id": "079f4ffb-34bc-4f98-b588-600f3c4e919f",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Butcher Baker Candlestick Maker",
-			"id": "",
+			"id": "d8a61c56-e4fa-4094-81a4-2b9b8da51839",
 			"length": 187000,
 			"externalId": {
 				"spotify": null
@@ -97,7 +97,7 @@
 			"album": {
 				"name": "New Adventures In Hi-Fi",
 				"year": "",
-				"id": "",
+				"id": "33217a69-d4b7-4c91-88fa-7f672d780bd1",
 				"externalId": {
 					"spotify": null
 				}
@@ -112,7 +112,7 @@
 				}
 			],
 			"name": "Electrolite",
-			"id": "",
+			"id": "2d5a9735-6491-4f42-a3d5-70263c0126cd",
 			"length": 245000,
 			"externalId": {
 				"spotify": null
@@ -137,7 +137,7 @@
 				}
 			],
 			"name": "Drive",
-			"id": "",
+			"id": "4bc55d59-e4d8-4785-a536-ef8a55a1fa48",
 			"length": 311000,
 			"externalId": {
 				"spotify": null

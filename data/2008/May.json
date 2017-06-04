@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Graduation",
 				"year": "",
-				"id": "",
+				"id": "ce37b9a5-653a-4c4c-a977-dd65d313df67",
 				"externalId": {
 					"spotify": null
 				}
@@ -23,14 +23,14 @@
 				},
 				{
 					"name": "Dwele",
-					"id": "",
+					"id": "fd8d817a-33e2-4ed1-8e2f-bfcd7c619fd9",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Flashing Lights",
-			"id": "",
+			"id": "5b1638d3-387f-4f43-9d41-e0f5bd06b6f1",
 			"length": 237000,
 			"externalId": {
 				"spotify": null
@@ -40,7 +40,7 @@
 			"album": {
 				"name": "Ooh La La",
 				"year": "",
-				"id": "",
+				"id": "b816eb3a-dcef-4268-8534-98837dc112db",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,14 +48,14 @@
 			"artists": [
 				{
 					"name": "The Faces",
-					"id": "",
+					"id": "424936ce-2a55-4fb5-8d0e-b2544ecc7258",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Ooh La La",
-			"id": "",
+			"id": "296a6e3d-9c72-4c3e-89f3-6fdf3dd55640",
 			"length": 208000,
 			"externalId": {
 				"spotify": null
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "So Glad To See You",
-			"id": "",
+			"id": "34647aa4-705d-4c0e-be89-36cec08f89d5",
 			"length": 245000,
 			"externalId": {
 				"spotify": null
@@ -105,7 +105,7 @@
 				}
 			],
 			"name": "As The Stars Fall",
-			"id": "",
+			"id": "a7bf6f12-0b73-4816-b5c2-104724fcc8fd",
 			"length": 355000,
 			"externalId": {
 				"spotify": null
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "Battery Acid",
-			"id": "",
+			"id": "228d7700-f9e4-465f-9239-c94b44bd09c7",
 			"length": 246000,
 			"externalId": {
 				"spotify": null

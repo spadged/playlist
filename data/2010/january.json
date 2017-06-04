@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Heligoland",
 				"year": "",
-				"id": "",
+				"id": "a64ed7e2-d457-4ffc-abef-2c5dbb4d4c11",
 				"externalId": {
 					"spotify": null
 				}
@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "Paradise Circus",
-			"id": "",
+			"id": "8dc4c7eb-71af-43fd-9273-ca52650dc060",
 			"length": 313000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Babylon By Car",
 				"year": "",
-				"id": "",
+				"id": "ef76378e-b0b7-42c9-9f25-4572538d17dc",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Bot'Ox",
-					"id": "",
+					"id": "bbf1b670-fedb-47d3-80b1-80864ac7661f",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Blue Steel",
-			"id": "",
+			"id": "64ab74c6-d9ee-479a-832e-6f921e9f3e30",
 			"length": 197000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Unmap",
 				"year": "",
-				"id": "",
+				"id": "8e5798b6-1444-4a66-b391-a4d29b8bd049",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "Volcano Choir",
-					"id": "",
+					"id": "02baab5e-1fbc-4fcb-8da5-741dc7988a3a",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Island, IS",
-			"id": "",
+			"id": "457d57b1-cd92-4c73-821a-7ed4a7b68cc2",
 			"length": 248000,
 			"externalId": {
 				"spotify": null
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Tons Of Friends",
 				"year": "",
-				"id": "",
+				"id": "8d338b63-b68f-4c89-873e-6ffeb04d9c0c",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,21 +91,21 @@
 			"artists": [
 				{
 					"name": "Crookers",
-					"id": "",
+					"id": "fd222966-c596-44fe-be55-6179e4d4a690",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "KiD CuDi",
-					"id": "",
+					"id": "f19e9421-b690-4507-957f-ca50e0785154",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Embrace The Martian",
-			"id": "",
+			"id": "1080a807-3a02-41e8-b397-f2c6dcf19aec",
 			"length": 217000,
 			"externalId": {
 				"spotify": null
@@ -115,7 +115,7 @@
 			"album": {
 				"name": "One Life Stand",
 				"year": "",
-				"id": "",
+				"id": "0e7bb770-bbec-4eb1-9af7-6d8c4ff74969",
 				"externalId": {
 					"spotify": null
 				}
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "One Life Stand",
-			"id": "",
+			"id": "39c630d8-6409-446d-8209-f124d58f5783",
 			"length": 324000,
 			"externalId": {
 				"spotify": null

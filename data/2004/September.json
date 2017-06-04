@@ -8,7 +8,7 @@
 			"album": {
 				"name": "10,000Hz Legend",
 				"year": 2001,
-				"id": "6001255f-ae27-48d4-8646-1bfe44e726b0"
+				"id": "716d6efe-daf9-4428-91fe-7453cfaacc2c"
 			},
 			"artists": [
 				{
@@ -17,30 +17,30 @@
 				}
 			],
 			"name": "Caramel Prisoner",
-			"id": "cb8ceb41-facb-49ea-9e08-efe4bb906858",
+			"id": "2ea27165-2223-4b53-b7cf-0a87c5cb4ed8",
 			"length": 296724
 		},
 		{
 			"album": {
 				"name": "50 first dates",
 				"year": 2004,
-				"id": "d310c26e-e803-42ff-ba0b-bad3906f88d6"
+				"id": "2ffee7ff-e5c9-4411-b360-7f8bc35c778e"
 			},
 			"artists": [
 				{
 					"name": "Adam Sandler",
-					"id": "c6b4c890-b5c1-4d1f-a391-e7391e0d4850"
+					"id": "df033a2a-a7b1-4654-aa1f-3d98cd254ab3"
 				}
 			],
 			"name": "Forgetful Lucy",
-			"id": "15525a42-fdc4-4c97-8764-cb3fee02774b",
+			"id": "7a5bc807-dd6c-4140-9846-cd25126bd391",
 			"length": 111595
 		},
 		{
 			"album": {
 				"name": "Grace",
 				"year": 2004,
-				"id": "547212ab-19bd-4fc5-a384-66db0e808704"
+				"id": "a2a65202-099f-42e3-973e-42cba4708f75"
 			},
 			"artists": [
 				{
@@ -49,22 +49,22 @@
 				}
 			],
 			"name": "Mama, You Been On My Mind",
-			"id": "0eebc0bb-ce88-460a-99d5-38514f2e8d31",
+			"id": "a5bd15cb-6938-4127-ab2c-b029da5de89e",
 			"length": 206497
 		},
 		{
 			"album": {
 				"name": "Still",
-				"id": "68b72fb4-ed2a-4992-871b-9135c2976455"
+				"id": "5200f009-b164-43ae-bd4d-cdd16b71edb7"
 			},
 			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": "5245a41c-8d27-4167-ba74-267f02647f8a"
+					"id": "84becbc1-6c1d-4fe1-ab80-5cc903a2b39d"
 				}
 			],
 			"name": "Leaving Hope",
-			"id": "4c351890-6012-43d1-a45b-1d1012df279e",
+			"id": "b204db8c-8ee7-4b90-a079-7cee839b2fe6",
 			"length": 357564
 		},
 		{
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "All The Wine",
-			"id": "518600a0-8162-49f7-8791-284ebcec3f87",
+			"id": "cb255c12-2016-4dea-a1d8-5fad3b072381",
 			"length": 200202
 		}
 	]

@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Primary Colours",
 				"year": "",
-				"id": "",
+				"id": "b6a59171-e4ea-4f9d-8bad-409f17292111",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "The Horrors",
-					"id": "",
+					"id": "108442c0-feef-4d55-b5c2-341df9c44e04",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Mirror's Image",
-			"id": "",
+			"id": "7608f5f8-74fb-4a41-9f2a-a587bccf9058",
 			"length": 290000,
 			"externalId": {
 				"spotify": null
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "David Lynch",
-					"id": "",
+					"id": "963f5add-97c2-4d2d-94e0-d9e8e3091300",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Dark Night Of The Soul",
-			"id": "",
+			"id": "91c7c794-3882-4f8e-bdce-afd8d1061e0b",
 			"length": 284000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "No Way Down",
 				"year": "",
-				"id": "",
+				"id": "4e03de9e-c702-4378-beab-ef3cfc46de05",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "Air France",
-					"id": "",
+					"id": "40fec144-4aee-43a6-ba8b-5c876a22b2f4",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Collapsing At Your Doorstep",
-			"id": "",
+			"id": "83967035-4786-46de-b3a2-2d7d61245297",
 			"length": 274000,
 			"externalId": {
 				"spotify": null
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "It's Blitz!",
 				"year": "",
-				"id": "",
+				"id": "62062de4-4ae1-43f8-9fd1-171f574cb349",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +98,7 @@
 				}
 			],
 			"name": "Soft Shock",
-			"id": "",
+			"id": "c00e14ca-aaff-4d17-8ff9-2aed6695e5f1",
 			"length": 233000,
 			"externalId": {
 				"spotify": null
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "Daniel",
-			"id": "",
+			"id": "9ac5d6bd-21fd-4264-a6b8-fabcce63dbfc",
 			"length": 252000,
 			"externalId": {
 				"spotify": null

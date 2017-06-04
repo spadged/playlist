@@ -8,7 +8,7 @@
 			"album": {
 				"name": "End It All",
 				"year": "",
-				"id": "",
+				"id": "bd8cac80-5b71-46f0-99fe-24a0c3ab02cf",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "Beans",
-					"id": "",
+					"id": "1f3b6965-aaa8-46d6-b35b-ec3d39532f33",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Mellow You Out",
-			"id": "",
+			"id": "e550224a-aa0d-4808-b995-6848117440b4",
 			"length": 128000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "The Social Network",
 				"year": "",
-				"id": "",
+				"id": "6f87a844-2f1c-4012-9978-66300a0d2a25",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Trent Reznor & Atticus Ross",
-					"id": "",
+					"id": "4c16ecf5-0f86-4a32-8907-3d0d4713c9db",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "In Motion",
-			"id": "",
+			"id": "871cd18e-0228-409a-911b-a4a9cd1fb63a",
 			"length": 296000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "The King Of Limbs",
 				"year": "",
-				"id": "",
+				"id": "1e6190cd-bbec-49b1-9c7b-29e93da0a4f6",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,7 +73,7 @@
 				}
 			],
 			"name": "Lotus Flower",
-			"id": "",
+			"id": "5bfb8a64-960b-49e0-9906-b6bb95e1022f",
 			"length": 300000,
 			"externalId": {
 				"spotify": null
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Gucci Guilty",
 				"year": "",
-				"id": "",
+				"id": "d32c4761-dd12-4253-90af-cb63fb5d8457",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +98,7 @@
 				}
 			],
 			"name": "Strangelove",
-			"id": "",
+			"id": "812a606f-552d-40c4-a4e6-2a78ecd7b42a",
 			"length": 195000,
 			"externalId": {
 				"spotify": null
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "Will Do",
-			"id": "",
+			"id": "e9613998-b717-40fe-b7f7-d422ed94d0a0",
 			"length": 223000,
 			"externalId": {
 				"spotify": null

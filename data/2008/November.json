@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Revolver",
 				"year": "",
-				"id": "",
+				"id": "1e2d0565-cc48-45c4-94b3-cd8144146f89",
 				"externalId": {
 					"spotify": null
 				}
@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "Taxman",
-			"id": "",
+			"id": "5f51e3c5-299f-4770-be17-1b6a517a2c5d",
 			"length": 159000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Only By The Night",
 				"year": "",
-				"id": "",
+				"id": "a0259c88-69e4-4c44-871c-a21d7a3e7f23",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,7 +48,7 @@
 				}
 			],
 			"name": "Crawl",
-			"id": "",
+			"id": "639833d5-8043-4807-bd65-a1d083b7a106",
 			"length": 248000,
 			"externalId": {
 				"spotify": null
@@ -73,7 +73,7 @@
 				}
 			],
 			"name": "Inní Mér Syngur Vitleysingur",
-			"id": "",
+			"id": "12c21234-0ec7-4b9e-8889-f02c80f99bbf",
 			"length": 245000,
 			"externalId": {
 				"spotify": null
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Cast Of Thousands",
 				"year": "",
-				"id": "",
+				"id": "7cf5265e-5f8f-43bf-9e43-4c6284f60e15",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,14 +91,14 @@
 			"artists": [
 				{
 					"name": "Elbow",
-					"id": "",
+					"id": "1f35560c-a594-4adf-8e70-b5d36120f2ec",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Grace Under Pressure",
-			"id": "",
+			"id": "a897a1e8-174d-4247-a48b-0b128612ee60",
 			"length": 297000,
 			"externalId": {
 				"spotify": null
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "The Sounds Of Science",
 				"year": "",
-				"id": "",
+				"id": "f70ec81c-fff2-4090-86c1-b015330655f3",
 				"externalId": {
 					"spotify": null
 				}
@@ -116,14 +116,14 @@
 			"artists": [
 				{
 					"name": "Beastie Boys",
-					"id": "",
+					"id": "25d2d36d-0eb0-4258-a76b-9279dc85f9db",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Alive",
-			"id": "",
+			"id": "d19cf42d-58b9-45d8-9310-2bcd1bb75f2e",
 			"length": 228000,
 			"externalId": {
 				"spotify": null

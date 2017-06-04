@@ -7,23 +7,23 @@
 		{
 			"album": {
 				"name": "Remain in Light",
-				"id": "734150a4-9776-463d-b278-b88309775ab4"
+				"id": "071eb4f6-225f-4af3-954d-b08ea8306ad0"
 			},
 			"artists": [
 				{
 					"name": "Talking Heads",
-					"id": "1594f75a-5792-45a7-ba8a-da21487798d3"
+					"id": "bfad9f02-7d9f-496a-a363-53233ebdbc81"
 				}
 			],
 			"name": "Once in a lifetime",
-			"id": "0dede0d2-1279-4096-8675-2c3b304cfcac",
+			"id": "d13e7842-adfa-4fdf-92b5-a2204baeed2b",
 			"length": 283820
 		},
 		{
 			"album": {
 				"name": "Solitary Man",
 				"year": 2000,
-				"id": "536b1596-5d04-4019-a238-9a4b7be9e3e4"
+				"id": "3448e33d-746c-4da8-b64d-e276c24fdd14"
 			},
 			"artists": [
 				{
@@ -32,28 +32,28 @@
 				}
 			],
 			"name": "I See A Darkness",
-			"id": "ae5e1bb4-bff4-4d75-80d3-bc86fa0a647c",
+			"id": "62c1f108-8f96-4037-aa4e-e53739d3465a",
 			"length": 222693
 		},
 		{
 			"album": {
 				"name": "Riot on Empty street",
-				"id": "6e20c080-5f84-4567-8d84-4cb884b92f61"
+				"id": "ab4b3fcf-26e8-439c-8c10-5c0763be07ad"
 			},
 			"artists": [
 				{
 					"name": "Kings of Convenience",
-					"id": "3be5aad2-36a1-4eab-a67c-1bd400101fdc"
+					"id": "3a4ed5fd-6fdc-48f1-b237-4e042251ca8b"
 				}
 			],
 			"name": "the build-up*",
-			"id": "7fd2f6c6-c192-46b8-b38d-c4393793c866",
+			"id": "2176db18-beeb-468c-8797-567d19e6472e",
 			"length": 244009
 		},
 		{
 			"album": {
 				"name": "Von",
-				"id": "dd93e0ee-ecba-4432-b143-02c76a0e0977"
+				"id": "72936ea5-1259-4864-8a06-132ce7f64595"
 			},
 			"artists": [
 				{
@@ -62,7 +62,7 @@
 				}
 			],
 			"name": "Von",
-			"id": "38909ccc-7c44-465f-a046-48f5561e1139",
+			"id": "2b3d3d20-64ed-4c5e-af56-f66305dbc2ec",
 			"length": 312293
 		},
 		{
@@ -78,7 +78,7 @@
 				}
 			],
 			"name": "Piano Fire",
-			"id": "01673db2-b643-4119-9daa-e240621a5537",
+			"id": "140597b4-425a-4d67-8d66-3bfeaf2d667d",
 			"length": 163787
 		}
 	]

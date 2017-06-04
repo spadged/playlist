@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Merriweather Post Pavilion",
 				"year": "",
-				"id": "",
+				"id": "60c18689-adee-46c1-a80a-95821bfa030b",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "Animal Collective",
-					"id": "",
+					"id": "3a0a7a3f-6e5c-493d-98f8-5cf542839687",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "In The Flowers",
-			"id": "",
+			"id": "daa54150-5aa9-4c44-ae0c-3ff5d5454dfd",
 			"length": 322000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Third",
 				"year": "",
-				"id": "",
+				"id": "7de95ef5-40b6-4ac8-a597-037cbe9ad9e1",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Portishead",
-					"id": "",
+					"id": "1f654a46-d159-457f-9b14-5c4c44e1f750",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "The Rip",
-			"id": "",
+			"id": "a6dc5cf4-9cf8-4586-b16b-34e729087f66",
 			"length": 271000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "The Holy Pictures",
 				"year": "",
-				"id": "",
+				"id": "843025b1-3f80-4f29-96b6-e37f773e94d1",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "David Holmes",
-					"id": "",
+					"id": "7bf61ced-69a6-47aa-b741-c4883a4a1b41",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Love Reign Over Me",
-			"id": "",
+			"id": "a33fa208-64b4-4cfd-bf10-3dfd55ef944e",
 			"length": 227000,
 			"externalId": {
 				"spotify": null
@@ -98,7 +98,7 @@
 				}
 			],
 			"name": "Burning Bridges",
-			"id": "",
+			"id": "922d5b2b-f2e3-461b-a9d1-de3342b516d1",
 			"length": 304000,
 			"externalId": {
 				"spotify": null
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "Kingdom Of Rust",
 				"year": "",
-				"id": "",
+				"id": "3fb552dc-f20b-4718-b25e-5ebfaa4adc1b",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "Jetstream",
-			"id": "",
+			"id": "c7d84858-101c-4317-85bd-1def4c2ffda9",
 			"length": 330000,
 			"externalId": {
 				"spotify": null

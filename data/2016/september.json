@@ -8,7 +8,7 @@
 			"album": {
 				"name": "One By One",
 				"year": "",
-				"id": "",
+				"id": "243c316b-0a76-45a6-876c-e68260e168f6",
 				"externalId": {
 					"spotify": "2TIp2qGorHvqyaiAb82Awe"
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "Foo Fighters",
-					"id": "",
+					"id": "0a403ddf-14eb-4f8b-9660-4fa0bf473a59",
 					"externalId": {
 						"spotify": "7jy3rLJdDQY21OgRLCZ9sD"
 					}
 				}
 			],
 			"name": "Low",
-			"id": "",
+			"id": "c4cf37e1-bbe9-478a-9265-4b6b43acea2a",
 			"length": 268040,
 			"externalId": {
 				"spotify": "01ERgmlDJjGYFXkBLgRTFp"
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Good Times",
 				"year": "",
-				"id": "",
+				"id": "2136e23d-b2ab-4d8d-8cd8-6e5397f3a8ad",
 				"externalId": {
 					"spotify": "36pKx43hkeUF1OGxuxKkZw"
 				}
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Willie Nelson",
-					"id": "",
+					"id": "d60eb8cf-dae0-4684-b64e-1094e9361010",
 					"externalId": {
 						"spotify": "5W5bDNCqJ1jbCgTxDD0Cb3"
 					}
 				}
 			],
 			"name": "Buddy",
-			"id": "",
+			"id": "8da8117e-d326-4c90-9007-3e93ebf6bb48",
 			"length": 135973,
 			"externalId": {
 				"spotify": "1dbQNSAXlOEtngcIZAOfPO"
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Shadows in the Night",
 				"year": "",
-				"id": "",
+				"id": "ae31b3a2-64a6-464d-8e63-7b471c3c4cd7",
 				"externalId": {
 					"spotify": "2mVpSZrllFAWhOgCoyz8ow"
 				}
@@ -73,7 +73,7 @@
 				}
 			],
 			"name": "What'll I Do",
-			"id": "",
+			"id": "212bbf0c-cd58-4a53-bebe-54515421dcc2",
 			"length": 195786,
 			"externalId": {
 				"spotify": "5pWyOsWnOrSfDzNqCqBzOY"
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Elsewhere Anchises",
 				"year": "",
-				"id": "",
+				"id": "b20a650f-a211-471b-9b2d-fec424021026",
 				"externalId": {
 					"spotify": "24i8Sj6loL2qIJNsrojnGT"
 				}
@@ -105,14 +105,14 @@
 				},
 				{
 					"name": "Stephen Rea",
-					"id": "",
+					"id": "29e89882-1835-4aba-bead-55f5a363d92f",
 					"externalId": {
 						"spotify": "5KIabrrmudYdwnxbEl0pOZ"
 					}
 				}
 			],
 			"name": "Elsewhere Anchises",
-			"id": "",
+			"id": "4da50c26-b923-4416-8274-90b6cb93068c",
 			"length": 290769,
 			"externalId": {
 				"spotify": "4nezbRPMpvIWObOOBnOmXk"
@@ -122,7 +122,7 @@
 			"album": {
 				"name": "Avalon",
 				"year": "",
-				"id": "",
+				"id": "706441e2-6d8a-4e1b-9052-e853b872a9e6",
 				"externalId": {
 					"spotify": "3JXODSjT9mUz2lIb4YIErw"
 				}
@@ -130,14 +130,14 @@
 			"artists": [
 				{
 					"name": "Roxy Music",
-					"id": "",
+					"id": "da39238e-7631-493e-a77f-effef68a154b",
 					"externalId": {
 						"spotify": "3fhOTtm0LBJ3Ojn4hIljLo"
 					}
 				}
 			],
 			"name": "More Than This",
-			"id": "",
+			"id": "53656d4b-25ee-458e-b9b1-4432b74fccd8",
 			"length": 270693,
 			"externalId": {
 				"spotify": "6N7gPTru90HYLRUIVDQ185"

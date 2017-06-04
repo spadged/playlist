@@ -8,7 +8,7 @@
 			"album": {
 				"name": "The Family Jewels",
 				"year": "",
-				"id": "",
+				"id": "99eba388-3911-4ddf-bf22-a9dd91a08933",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "Marina and the Diamonds",
-					"id": "",
+					"id": "56d2f27b-bdfe-4273-a07e-96b7788bd3e0",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Hollywood",
-			"id": "",
+			"id": "57649f11-c624-49bd-ab06-d9424417d9c2",
 			"length": 230000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "Los Angeles",
 				"year": "",
-				"id": "",
+				"id": "c15b6917-1108-47f2-96d5-bcd5eb003364",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,7 +48,7 @@
 				}
 			],
 			"name": "Parisian Goldfish",
-			"id": "",
+			"id": "a3dd47f8-af30-44ad-8905-c1741b530e1c",
 			"length": 181000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Odd Blood",
 				"year": "",
-				"id": "",
+				"id": "bc7e8174-5b5f-4c2b-a8ee-6a973ceea65e",
 				"externalId": {
 					"spotify": null
 				}
@@ -66,14 +66,14 @@
 			"artists": [
 				{
 					"name": "Yeasayer",
-					"id": "",
+					"id": "dda40a64-0c87-4b38-bd76-3b3def42e028",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Ambling Alp",
-			"id": "",
+			"id": "6897da2a-8d9b-40c3-b113-be301f8f2885",
 			"length": 237000,
 			"externalId": {
 				"spotify": null
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "",
 				"year": "",
-				"id": "",
+				"id": "f93d9d31-c8a3-4ced-8cc6-1df3ea6b70ba",
 				"externalId": {
 					"spotify": null
 				}
@@ -91,14 +91,14 @@
 			"artists": [
 				{
 					"name": "Jamaica",
-					"id": "",
+					"id": "20b3735c-3456-4a04-a609-4715d0dce31b",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "I Think I Like U 2",
-			"id": "",
+			"id": "4c11badf-b02f-4080-9768-4b9f9804bfb7",
 			"length": 178000,
 			"externalId": {
 				"spotify": null
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "Meet Me Halfway",
-			"id": "",
+			"id": "47fa5c29-5cee-448f-8937-4c1646b8d21d",
 			"length": 284000,
 			"externalId": {
 				"spotify": null

@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Help: A Day In the Life",
 				"year": 2005,
-				"id": "03e59416-4bd8-4253-b9a9-74b738bd0233"
+				"id": "ddd0cfeb-33e1-4610-b3df-02ae5b3da398"
 			},
 			"artists": [
 				{
@@ -17,23 +17,23 @@
 				}
 			],
 			"name": "I Want None of This",
-			"id": "94e840f1-0b62-4b61-b588-b2e66887508f",
+			"id": "211e1f85-cb14-4710-9799-219053291ac3",
 			"length": 195812
 		},
 		{
 			"album": {
 				"name": "Wipe Out 2097",
 				"year": 1996,
-				"id": "12a1c1f1-e697-4e07-8d1f-84d1969c92bf"
+				"id": "8943c0b7-a987-43e7-9bf0-49d53e481e14"
 			},
 			"artists": [
 				{
 					"name": "Underworld",
-					"id": "ab46a56a-68f0-40a2-ad96-bd895365b011"
+					"id": "2acf41c4-89f1-4996-9dc1-f3937cbce3e4"
 				}
 			],
 			"name": "Tin There",
-			"id": "0bfd95b0-3884-4b2c-a44a-62adceb80336",
+			"id": "2b765216-fd3f-4bfe-9c31-5381d0a383e3",
 			"length": 368378
 		},
 		{
@@ -48,37 +48,38 @@
 				}
 			],
 			"name": "DARE",
-			"id": "ab12fdec-9b87-4e20-a035-e168c885f584",
+			"id": "10a33b3c-aa4c-414d-92bb-fa0b896e43b4",
 			"length": 244480
 		},
 		{
 			"album": {
 				"name": "Curtains",
 				"year": 2004,
-				"id": "fa3452df-373c-4a75-9d74-8f54181163b2"
+				"id": "319a0817-3ed9-42c8-915a-057065998071"
 			},
 			"artists": [
 				{
 					"name": "John Frusciante",
-					"id": "df0c13fb-b903-4cd7-a65e-68dfbee6f892"
+					"id": "f5a24936-ecf0-45f4-875e-849fc2824533"
 				}
 			],
 			"name": "The Real",
-			"id": "a7a206be-ed82-4078-aacd-db2ad8958ac5",
+			"id": "5bb160b2-d19d-458d-9869-68b0f7408fc3",
 			"length": 187036
 		},
 		{
 			"album": {
-				"id": "4fbf60ea-ba95-4ca6-9991-2eefc2f8fa54"
+				"name": "The Milk-Eyed Mender",
+				"id": "366c3b96-e229-4300-8b17-d844e1eab3c4"
 			},
 			"artists": [
 				{
 					"name": "Joanna Newsom",
-					"id": "e814461f-d23d-4634-bb69-2dabbae2da22"
+					"id": "4344d252-8ce5-4d47-afc4-21370376371d"
 				}
 			],
 			"name": "This Side of the Blue",
-			"id": "0c6fe569-55ac-4754-b835-c01c95628816",
+			"id": "f86e64b4-b524-4658-8d0e-9752252f47a9",
 			"length": 323552
 		}
 	]

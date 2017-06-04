@@ -8,23 +8,23 @@
 			"album": {
 				"name": "Sheath",
 				"year": 2003,
-				"id": "ea8f7bcb-6832-4f24-ae43-7ebbbe6c31a5"
+				"id": "e987b073-856b-45bc-973d-9fd9c304ed77"
 			},
 			"artists": [
 				{
 					"name": "LFO",
-					"id": "7aa9db1a-09bc-4133-939f-2c61aa197e63"
+					"id": "a3c63bc2-0ae5-4a08-aed9-02146bb1c077"
 				}
 			],
 			"name": "Blown",
-			"id": "1a369f2f-463c-40e1-b520-bac89950ebad",
+			"id": "adca3470-ce73-4ac5-ab48-6a6dc5c71e15",
 			"length": 362893
 		},
 		{
 			"album": {
 				"name": "( ) Untitled #1",
 				"year": 2003,
-				"id": "16e1eaf9-8f9b-437e-ac42-eeb94c93e175"
+				"id": "aed90bd8-e32d-4250-91be-f03b08de9796"
 			},
 			"artists": [
 				{
@@ -33,23 +33,23 @@
 				}
 			],
 			"name": "Untitled 9 A",
-			"id": "5d6ad5db-48ab-4e86-a6aa-16f0bbd13479",
+			"id": "575d2897-5ae8-49bc-96c5-273a7c685068",
 			"length": 278099
 		},
 		{
 			"album": {
 				"name": "Ultravisitor",
 				"year": 2004,
-				"id": "07f3c1a6-aadd-462e-b13c-27a7451a0381"
+				"id": "e6227753-4f2d-48b0-9b52-f3ecc1d6c749"
 			},
 			"artists": [
 				{
 					"name": "Squarepusher",
-					"id": "8280c329-23a8-4d4b-b3bb-1de0f89797b4"
+					"id": "b3ad36ce-ba51-48d3-b01d-0c867cf3c689"
 				}
 			],
 			"name": "Iambic 9 Poetry",
-			"id": "3a6a8faf-e8b2-45ce-8bf4-e6765a5a402b",
+			"id": "81211789-48b9-474b-91c5-58def66f4b85",
 			"length": 415973
 		},
 		{
@@ -64,7 +64,7 @@
 				}
 			],
 			"name": "Asleep",
-			"id": "c4e777f1-8f3f-4155-9aa4-a3c3862a3d32",
+			"id": "b3c19f5e-99f6-4eb2-99d4-bb96f5cee5f4",
 			"length": 250279
 		},
 		{
@@ -80,7 +80,7 @@
 				}
 			],
 			"name": "Gagging Order",
-			"id": "067f1fb2-ba84-458a-b813-bc709a42f8a7",
+			"id": "26d2c947-5e08-46e4-be3d-bfbd098d72ab",
 			"length": 215875
 		}
 	]

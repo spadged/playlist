@@ -8,23 +8,23 @@
 			"album": {
 				"name": "The Three E.P.'s",
 				"year": 1997,
-				"id": "8250f0b0-1075-4ba3-897e-92c8744a1a2f"
+				"id": "fd3e57f3-703b-4f42-bc16-817d0fc70b70"
 			},
 			"artists": [
 				{
 					"name": "The Beta Band",
-					"id": "f2770c8d-b22b-40e6-a05e-9ff6e6ead801"
+					"id": "badbbf48-2cee-471d-85d9-75aef5a10898"
 				}
 			],
 			"name": "Dry The Rain",
-			"id": "ea2f14a6-ec04-477b-8012-42b229c8cebb",
+			"id": "cbb2ee99-64b6-4b15-80bb-290d569e54ff",
 			"length": 365191
 		},
 		{
 			"album": {
 				"name": "The Information",
 				"year": 2006,
-				"id": "3ed2b2df-85d8-4c24-84dc-84707a44de6f"
+				"id": "2ef579a9-2f0b-45b9-b56c-9e96a69e258c"
 			},
 			"artists": [
 				{
@@ -33,43 +33,43 @@
 				}
 			],
 			"name": "New Round",
-			"id": "57eac28a-f271-4170-9f56-0ea894b72448",
+			"id": "6b555206-48bd-4ec0-b71e-34d6935c8b4b",
 			"length": 205662
 		},
 		{
 			"album": {
 				"name": "Remixes",
 				"year": 2006,
-				"id": "eecbdc99-d680-40ef-adf1-2dd2501d19a3"
+				"id": "09522efd-6a87-4174-8c8f-07cbd33e0ab9"
 			},
 			"artists": [
 				{
 					"name": "Four Tet",
-					"id": "69e1c678-33a8-49b2-a589-3bb02602498a"
+					"id": "2ceba663-20f8-4417-a2ea-e1e4bbf6ecf0"
 				},
 				{
 					"name": "Madvillain",
-					"id": "69e1c678-33a8-49b2-a589-3bb02602498a"
+					"id": "ca78107a-6837-4a3f-8cbf-23e00ad33e98"
 				}
 			],
 			"name": "Great Day (Four Tet Remix)",
-			"id": "8a141d31-2250-478c-a6ed-5b58c65970fd",
+			"id": "bf24feae-d9cb-4eda-b388-65d278080209",
 			"length": 165041
 		},
 		{
 			"album": {
 				"name": "The Warning",
 				"year": 2006,
-				"id": "1f3b3b86-4a72-4180-9bdb-7c61e3ef4a2e"
+				"id": "55a54466-9717-4dd4-89de-ff0cddfa5633"
 			},
 			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": "928f7df9-7183-48d4-937a-b1712b547e84"
+					"id": "adeea345-5b85-43ed-add2-03b0f73d9572"
 				}
 			],
 			"name": "Over And Over",
-			"id": "cc996985-f015-4c3f-a99c-04bb8c4f016c",
+			"id": "96d72c4e-f732-40f3-a947-e7557c2b61ec",
 			"length": 347924
 		},
 		{
@@ -85,7 +85,7 @@
 				}
 			],
 			"name": "I Was A Lover",
-			"id": "089cd3cc-a111-49a2-8251-96094d3e344f",
+			"id": "5be94ef4-8284-4332-ab13-e62384eddee0",
 			"length": 261067
 		}
 	]

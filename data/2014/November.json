@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Dare to Be Stupid",
 				"year": "",
-				"id": "",
+				"id": "f9daff20-4162-4b34-ba18-5d29cbbb22b3",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "\"Weird Al\" Yankovic",
-					"id": "",
+					"id": "66e4cab9-23aa-4577-9f36-ab10a0868df1",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Dare to Be Stupid",
-			"id": "",
+			"id": "424638fe-e407-4d66-b5dc-6576cac3f6bc",
 			"length": 205000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "The Physical World",
 				"year": "",
-				"id": "",
+				"id": "e20cf346-fd99-4feb-97f8-d8e5673f9025",
 				"externalId": {
 					"spotify": null
 				}
@@ -48,7 +48,7 @@
 				}
 			],
 			"name": "White Is Red",
-			"id": "",
+			"id": "8d3e1538-0b5f-45c5-96fa-6a4dab9e40ea",
 			"length": 267000,
 			"externalId": {
 				"spotify": null
@@ -58,7 +58,7 @@
 			"album": {
 				"name": "Seeds",
 				"year": "",
-				"id": "",
+				"id": "14e953f2-c2c4-4db3-8333-f3411b127b38",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,7 +73,7 @@
 				}
 			],
 			"name": "Winter",
-			"id": "",
+			"id": "3edf26b5-29ff-4576-a1b6-453c2e8afd67",
 			"length": 220000,
 			"externalId": {
 				"spotify": null
@@ -83,7 +83,7 @@
 			"album": {
 				"name": "Whorl",
 				"year": "",
-				"id": "",
+				"id": "57254d97-ab0f-47c8-a078-f3012218946b",
 				"externalId": {
 					"spotify": null
 				}
@@ -98,7 +98,7 @@
 				}
 			],
 			"name": "Calyx",
-			"id": "",
+			"id": "2cfed9a0-b49c-4e06-8e3c-51a7d8373484",
 			"length": 439000,
 			"externalId": {
 				"spotify": null
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "Papi Pacify",
-			"id": "",
+			"id": "25a0a56b-16e8-4c4e-9b15-6a636f031139",
 			"length": 293000,
 			"externalId": {
 				"spotify": null

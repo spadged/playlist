@@ -8,7 +8,7 @@
 			"album": {
 				"name": "Glow",
 				"year": "",
-				"id": "",
+				"id": "b36f04b9-221e-4bb1-a180-f2e8c7ed6e33",
 				"externalId": {
 					"spotify": null
 				}
@@ -16,14 +16,14 @@
 			"artists": [
 				{
 					"name": "Jackson And His Computerband",
-					"id": "",
+					"id": "8ae4144f-ab1c-4568-9d67-9bfac2a14dc1",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Arp #1",
-			"id": "",
+			"id": "6ba59808-90d5-42ad-9d61-582324ecc453",
 			"length": 308000,
 			"externalId": {
 				"spotify": null
@@ -41,14 +41,14 @@
 			"artists": [
 				{
 					"name": "Goose",
-					"id": "",
+					"id": "7de4ff15-e478-47c7-a07f-6529404b78d8",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Synrise",
-			"id": "",
+			"id": "bc629b68-6016-4349-8177-fb71bfc98568",
 			"length": 222000,
 			"externalId": {
 				"spotify": null
@@ -73,7 +73,7 @@
 				}
 			],
 			"name": "Sexotheque",
-			"id": "",
+			"id": "a9f6466f-9f69-47be-a699-ce3f3c3eb46f",
 			"length": 257000,
 			"externalId": {
 				"spotify": null
@@ -98,7 +98,7 @@
 				}
 			],
 			"name": "Seen and Not Seen",
-			"id": "",
+			"id": "1ae599a0-276e-4b94-b44d-b9c59022d4d2",
 			"length": 204000,
 			"externalId": {
 				"spotify": null
@@ -108,7 +108,7 @@
 			"album": {
 				"name": "Voices",
 				"year": "",
-				"id": "",
+				"id": "b7f36492-5b9f-4cb2-ae2c-8b3cd79150da",
 				"externalId": {
 					"spotify": null
 				}
@@ -123,7 +123,7 @@
 				}
 			],
 			"name": "Nothing But Trouble",
-			"id": "",
+			"id": "dec2336f-775f-45bb-a3d6-fb7f152ee4b7",
 			"length": 245000,
 			"externalId": {
 				"spotify": null

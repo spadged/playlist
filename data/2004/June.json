@@ -8,39 +8,39 @@
 			"album": {
 				"name": "Clinic",
 				"year": 2001,
-				"id": "8f54d35b-3ea6-44fd-90eb-036ce2e05507"
+				"id": "c503473f-434e-4c60-af08-c9742d2cab60"
 			},
 			"artists": [
 				{
 					"name": "Clinic",
-					"id": "16a80505-e482-46d3-a9e5-29b328b870c1"
+					"id": "2b7da7d3-939e-48f7-9474-f500df7cf887"
 				}
 			],
 			"name": "Porno",
-			"id": "251a9e51-b9d8-4d4d-8df4-9fef545caab4",
+			"id": "e4e9e0ae-6997-4b51-b767-2f6e03345cd8",
 			"length": 231862
 		},
 		{
 			"album": {
 				"name": "Kill Bill Volume 2",
 				"year": 2004,
-				"id": "9c7514d3-1b53-4f73-badd-1cbe92d7139e"
+				"id": "eaeb304b-4ee4-4940-89bb-e2bbb1c6a1d4"
 			},
 			"artists": [
 				{
 					"name": "Ennio Morricone",
-					"id": "34e902cb-cf68-4d47-889b-0b22de8c8da1"
+					"id": "e5d153d7-2cc3-426c-b6d9-bbf7e22e01cf"
 				}
 			],
 			"name": "L Arena",
-			"id": "61bc268c-9e54-454e-a4b0-9384d1696fa7",
+			"id": "265d7f73-bc3d-4122-b439-1c124519435b",
 			"length": 286066
 		},
 		{
 			"album": {
 				"name": "Either/Or",
 				"year": 1998,
-				"id": "a2e26580-10b0-40f5-87c2-2b42c9c799f1"
+				"id": "a2e2a6dc-0f73-4de3-839f-4fea72d94782"
 			},
 			"artists": [
 				{
@@ -49,39 +49,39 @@
 				}
 			],
 			"name": "Between the Bars",
-			"id": "eb6eff8b-5669-479f-9279-6b036cf18100",
+			"id": "7b4a8047-125b-445a-b597-f992d5378363",
 			"length": 141217
 		},
 		{
 			"album": {
 				"name": "Hello",
 				"year": 2001,
-				"id": "d9e41ab7-e8d4-4d80-883c-23c535f3e864"
+				"id": "19e48550-cbc8-4065-8e11-e28f4072a98f"
 			},
 			"artists": [
 				{
 					"name": "Half Japanese",
-					"id": "0902609d-e62e-4c04-838a-a344f8f058c8"
+					"id": "3c767e95-6dc5-45f6-9553-5b39b8f9a9d9"
 				}
 			],
 			"name": "Red Sun",
-			"id": "e0b981c5-1135-4a06-b3fb-e3eb971fe489",
+			"id": "5156173a-e056-4415-b6c1-55921e1593a2",
 			"length": 127268
 		},
 		{
 			"album": {
 				"name": "Fever To Tell",
 				"year": 2003,
-				"id": "617e47f0-28e3-42be-97bd-dae8f3ff5027"
+				"id": "c769891d-2baa-420e-aa3e-40055f8b4dc3"
 			},
 			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "6ed70853-8b41-45aa-b1dc-a7bfc1737a49"
+					"id": "e414630c-aac0-44e6-8717-163869cae3e2"
 				}
 			],
 			"name": "Y Control",
-			"id": "861e75ce-194a-4bd0-a5cb-1014178c0a3d",
+			"id": "4d5d8f73-41a9-44eb-9361-6fb8d22b6ce1",
 			"length": 240692
 		}
 	]

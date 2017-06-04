@@ -23,7 +23,7 @@
 				}
 			],
 			"name": "Blackbird",
-			"id": "",
+			"id": "0a2e97bf-0443-4512-9da3-24c7e9984e18",
 			"length": 138000,
 			"externalId": {
 				"spotify": null
@@ -33,7 +33,7 @@
 			"album": {
 				"name": "I Get Around Remixes",
 				"year": "",
-				"id": "",
+				"id": "e6f83a30-c0f4-4a10-9cf8-c2730a19a865",
 				"externalId": {
 					"spotify": null
 				}
@@ -41,21 +41,21 @@
 			"artists": [
 				{
 					"name": "Dragonette",
-					"id": "",
+					"id": "6104f814-6a62-4bab-bbd5-1a2e3c6f4916",
 					"externalId": {
 						"spotify": null
 					}
 				},
 				{
 					"name": "Midnight Juggernaut",
-					"id": "",
+					"id": "eb646d95-ba25-48a8-874e-8f99f50217d6",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "I Get Around (Midnight Juggernaut Mix)",
-			"id": "",
+			"id": "b99a2483-dd25-4e70-831a-4b4f4c73410f",
 			"length": 357000,
 			"externalId": {
 				"spotify": null
@@ -65,7 +65,7 @@
 			"album": {
 				"name": "Boylife",
 				"year": "",
-				"id": "",
+				"id": "46bad739-7c81-4b01-95f0-d1b80e9d859a",
 				"externalId": {
 					"spotify": null
 				}
@@ -73,14 +73,14 @@
 			"artists": [
 				{
 					"name": "Lo-Fi-Fnk",
-					"id": "",
+					"id": "68c3ac33-7e78-4f91-92ee-c2f21be39ae4",
 					"externalId": {
 						"spotify": null
 					}
 				}
 			],
 			"name": "Change Channel",
-			"id": "",
+			"id": "21baef75-b094-4ebc-83f4-2ab4cd39b012",
 			"length": 199000,
 			"externalId": {
 				"spotify": null
@@ -105,7 +105,7 @@
 				}
 			],
 			"name": "Dumb Day",
-			"id": "",
+			"id": "130cd6e7-6b02-4edf-b689-d33b6cc06fbc",
 			"length": 314000,
 			"externalId": {
 				"spotify": null
@@ -115,7 +115,7 @@
 			"album": {
 				"name": "Made In The Dark",
 				"year": "",
-				"id": "",
+				"id": "dc066c4a-596b-4c5f-8bae-aba2858e51e4",
 				"externalId": {
 					"spotify": null
 				}
@@ -130,7 +130,7 @@
 				}
 			],
 			"name": "One Pure Thought",
-			"id": "",
+			"id": "c3b9b953-c075-4def-99f6-700b255dcd7f",
 			"length": 295000,
 			"externalId": {
 				"spotify": null
