@@ -2,6 +2,110 @@
 
 class GenerateLookup
 {
+	private generateManifest():void
+	{
+
+	}
+
+	private generateLookup():void
+	{
+		var pathLookup:string = "../../data/cache/lookup-internal.json";
+		
+		var lookup:any = Utils.openJsonFile(pathLookup);
+
+		this.iterateTracks(function(track:ITrack):void
+		{
+			//do stuff
+		});
+
+		Utils.saveJsonFile(pathLookup, lookup);
+	}
+	
+	private generateInternal():void
+	{
+		var pathLookup:string = "../../data/cache/lookup-internal.json";
+		
+		var lookup:any = Utils.openJsonFile(pathLookup);
+		
+		this.iterateTracks(function(track:ITrack):void
+		{
+			var albumKey:string = Utils.nameToKey(track.album.name);
+
+			if(track.album.id == "")
+			{
+				track.album.id = Utils.generateUUID();
+			}
+
+			if(lookup[track.album.name] === undefined)
+			{
+				lookup[albumKey] = track.album.id;
+			}
+
+			for(var i:number = 0; i < track.artists.length; i++)
+			{
+				var artist:IArtist = track.artists[i];
+
+				var artistKey:string = Utils.nameToKey(artist.name);
+
+				if(artist.id == "")
+				{
+					artist.id = Utils.generateUUID();
+				}
+
+				if(lookup[artistKey] === undefined)
+				{
+					lookup[artistKey] = artist.id;
+				}
+			}
+
+			//todo, resave track data
+		});
+
+		Utils.saveJsonFile(pathLookup, lookup);
+	}
+
+	private iterateTracks(callback:Function):void
+	{
+		this.iteratePlaylists(function(playlist:IPlaylist, path:string)
+		{
+			for(var i:number = 0; i < playlist.tracks.length; i++)
+			{
+				var track:ITrack = playlist.tracks[i];
+				
+				callback(track)
+			}
+		})
+	}
+
+	private iteratePlaylists(callback:Function):void
+	{
+		var dirs:Array<string> = Utils.readDir("../../data/");
+
+		for(var i:number=0; i < dirs.length; i++)
+		{
+			var dir:string = dirs[i];
+
+			if(dir != "cache" && dir != ".DS_Store")
+			{
+				var files:Array<string> = Utils.readDir("../../data/" + dir + "/");
+
+				for(var z:number = 0; z < files.length; z++)
+				{
+					var fileName:string = files[z];
+
+					if(fileName != ".DS_Store")
+					{
+						var filePath:string = "../../data/" + dir + "/" + fileName;
+						
+						var playlist:IPlaylist = Utils.openJsonFile(filePath);
+
+						callback(playlist, filePath);
+					}
+				}
+			}
+		}
+	}
+	
 	constructor()
 	{
 		var dirs:Array<string> = Utils.readDir("../../data/");
@@ -14,8 +118,7 @@ class GenerateLookup
 
 		if(reset)
 		{
-			lookup.artists = {};
-			lookup.albums = {};
+			lookup = {};
 		}
 
 		for(var i:number=0; i < dirs.length; i++)
@@ -109,11 +212,7 @@ class Utils
 
 	public static nameToKey(name:string):string
 	{
-		var result:string = name.toLowerCase();
-
-		result = result.replace(/\s+/g, '');
-
-		return result;
+		return name.toLowerCase().trim().replace(/\s+/g, '');
 	}
 	
 	public static generateUUID():string
