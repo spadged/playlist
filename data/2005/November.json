@@ -1,89 +1,92 @@
 {
 	"name": "November",
-	"month": "11",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2005",
-	"id": "",
+	"id": "dccfbdbe-675c-4094-accd-7c15f7fc32bb",
 	"tracks": [
 		{
 			"album": {
 				"name": "Blue Eyed In The Red Room",
-				"image": "",
-				"id": ""
+				"id": "36ae34d8-faf4-40ef-8a3b-fd0263ef89a6"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Boom Bip",
-					"id": ""
+					"id": "ec7bcfee-69cc-4005-812b-2abf33474356"
 				}
 			],
 			"name": "The Matter (Of Our Discussion)",
-			"id": "",
+			"id": "bff7ba9b-434b-42aa-82e2-5dbbab64ff64",
 			"length": 229250
 		},
 		{
 			"album": {
 				"name": "Smash",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "b439a5dc-88e4-4ba7-82d3-ca6841731e92"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jackson & His Computer Band",
-					"id": ""
+					"id": "41a30a58-bd6e-49ec-af11-31db8725a372"
 				}
 			],
 			"name": "Radio Caca",
-			"id": "",
+			"id": "5bb1b251-f072-4b89-a5ef-054aafc01220",
 			"length": 362866
 		},
 		{
 			"album": {
 				"name": "A Sphere In The Heart Of Silence",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "efc9f68e-8b1e-47b2-9e09-73f4cc869248"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "John Frusciante & Josh Klinghoffer",
-					"id": ""
+					"id": "a79e034b-a8b5-4b2c-9b78-72a44c2fc1e1"
 				}
 			],
 			"name": "At Your Enemies",
-			"id": "",
+			"id": "e2fef126-8515-4a16-b7f0-5a151f260a1e",
 			"length": 263784
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"name": "Late Registration",
+				"id": "5bdf0f5e-39e3-4dc3-8d2c-2b4cc001ae44"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Kanye West ",
-					"id": ""
+					"name": "Kanye West",
+					"id": "448ff158-68af-45bf-a765-2579997bde53"
+				},
+				{
+					"name": "Jamie Foxx",
+					"id": "15bc49f7-db07-450a-997b-3a9f490a0684"
 				}
 			],
 			"name": "Gold Digga",
-			"id": "",
+			"id": "912e4127-9632-4236-861c-cef96158c131",
 			"length": 210364
 		},
 		{
 			"album": {
-				"name": "Breathe Me E.p.",
-				"image": "",
+				"name": "Colour the Small One",
 				"year": 2004,
-				"id": ""
+				"id": "86944956-ef8e-40cf-b4c8-0a61339a3c93"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sia",
-					"id": ""
+					"id": "dd40f51a-414a-496d-a0f7-7cde1a4cde43"
 				}
 			],
 			"name": "Breathe Me",
-			"id": "",
+			"id": "f61d3459-21eb-40ca-b19c-8d79cfd0b0ea",
 			"length": 275017
 		}
 	]

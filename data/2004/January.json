@@ -1,92 +1,90 @@
 {
 	"name": "January",
-	"month": "01",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2004",
-	"id": "",
+	"id": "3464ae02-26db-4a90-928e-bea57173605f",
 	"tracks": [
 		{
 			"album": {
 				"name": "Angels of the Universe",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "73eb1ee9-5043-4016-8bcf-2b750b1489f3"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hilmar Örn Hilmarsson",
-					"id": ""
+					"id": "8e8c876e-7eab-427f-aeb4-3d1e4e54c197"
 				}
 			],
 			"name": "Over the Bend",
-			"id": "",
+			"id": "4ef74a13-c140-42ce-93fc-59e8ce3a290d",
 			"length": 258507
 		},
 		{
 			"album": {
 				"name": "Bridge Over Troubled Water",
-				"image": "",
 				"year": 1970,
-				"id": ""
+				"id": "0addfa60-92d5-44a2-ae32-e39f6fec843c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Simon & Garfunkel",
-					"id": ""
+					"id": "4a710fe7-e272-455f-b649-66e60d691d2d"
 				}
 			],
 			"name": "El Condor Pasa (If I Could)",
-			"id": "",
+			"id": "06ce1f09-db6a-46b0-9798-f6a50ee3bcb3",
 			"length": 189178
 		},
 		{
 			"album": {
 				"name": "?",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "dac2185f-bb6e-4b6f-8427-81f29b2a97c4"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "?",
-					"id": ""
+					"id": "f7d32329-6768-48b5-abf9-798fe175d12c"
 				}
 			],
 			"name": "peace",
-			"id": "",
+			"id": "8e868028-a869-47d8-8020-f861bb86a3c6",
 			"length": 87510
 		},
 		{
 			"album": {
 				"name": "Com Lag: 2+2=5 [EP]",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "7d9f8d26-6fc1-4004-93f6-f78f2a265da9"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "Fog (Again) [Live]",
-			"id": "",
+			"id": "c87c556c-4e2d-4358-aa3a-af72c3078949",
 			"length": 139311
 		},
 		{
 			"album": {
 				"name": "The Man Comes Around",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "c64ca0c1-7924-47dc-8c21-4dc3879ab6de"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Johnny Cash",
-					"id": "6kACVPfCOnqzgfEF5ryl0x"
+					"id": "ea00a0f0-3b0c-4624-aa54-8d421d52ebac"
 				}
 			],
 			"name": "Wichita Lineman.",
-			"id": "",
+			"id": "14b33b70-7ad7-4b08-a1f1-0e5fbf8ee131",
 			"length": 186697
 		}
 	]

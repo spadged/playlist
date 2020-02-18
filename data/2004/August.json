@@ -1,90 +1,88 @@
 {
 	"name": "August",
-	"month": "08",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2004",
-	"id": "",
+	"id": "3385a517-0887-4e63-a9c0-ee20e6164bba",
 	"tracks": [
 		{
 			"album": {
-				"name": "Live Covers",
-				"image": "",
-				"id": ""
+				"name": "Bootleg",
+				"id": "d821322f-a2dd-4ec8-b72a-becba1325fa0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elliott Smith",
-					"id": ""
+					"id": "17bb09c2-723f-4aa3-9df2-a23482a2ce45"
 				}
 			],
 			"name": "Jealous Guy",
-			"id": "",
+			"id": "5a33b37e-ba4b-4773-9e0f-8048a7806af1",
 			"length": 233325
 		},
 		{
 			"album": {
 				"name": "Soul Food",
-				"image": "",
-				"id": ""
+				"id": "9009f58b-fe0a-4076-9d59-4b8428486f3d"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Goodie Mobb ",
-					"id": ""
+					"name": "Goodie Mobb",
+					"id": "85a228fe-c64b-41d9-94c3-0ec620b0dd19"
 				}
 			],
 			"name": "Soul Food",
-			"id": "",
+			"id": "a383ba59-c960-4e4e-84d3-0808654b32bc",
 			"length": 236512
 		},
 		{
 			"album": {
 				"name": "In A Safe Place",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "da36902f-b4a1-4ca5-8fe5-7dde6805be4d"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Album Leaf",
-					"id": ""
+					"id": "1f0a0bdc-7161-4fa7-8544-906ede0ebee9"
 				}
 			],
 			"name": "Over The Pond",
-			"id": "",
+			"id": "2bed5298-fb4d-48ab-97c8-7182f0cee539",
 			"length": 295810
 		},
 		{
 			"album": {
 				"name": "Cherry Tree",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "c43a4214-9445-4f3f-b44a-e2673aba8bf1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The National",
-					"id": ""
+					"id": "5c880de8-23a9-47e1-bbdf-342235bc1cbd"
 				}
 			],
 			"name": "About Today",
-			"id": "",
+			"id": "07c06e2b-d1b2-4315-9f2f-e3c7e4a94bd3",
 			"length": 250827
 		},
 		{
 			"album": {
 				"name": "Think Tank",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "0f0c3630-3aa6-4da1-a312-cb8165b249a8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Blur",
-					"id": ""
+					"id": "f9052324-cb5c-478b-9db6-6f1b28c4746f"
 				}
 			],
 			"name": "Good Song",
-			"id": "",
+			"id": "ce3f6916-c721-425b-980b-b1a51749967a",
 			"length": 188577
 		}
 	]

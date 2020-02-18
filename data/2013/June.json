@@ -1,93 +1,143 @@
 {
-	"name": "June",
-	"month": "06",
+	"name": "June Top 5 2013",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2013",
-	"id": "",
+	"id": "6CefFOhIm2kuFMU1rpC2DF",
 	"tracks": [
 		{
 			"album": {
-				"name": "Random Access Memories",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Daft Punk",
-					"id": ""
-				}
-			],
-			"name": "Lose yourself to dance",
-			"id": "",
-			"length": 350066
-		},
-		{
-			"album": {
-				"name": "...Like Clockwork",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Queens Of The Stone Age",
-					"id": ""
-				}
-			],
-			"name": "Kalopsia",
-			"id": "",
-			"length": 278177
-		},
-		{
-			"album": {
 				"name": "Reach For The Dead",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "0449355f-7040-4b1a-b70a-aebd864b5c0e",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Boards of Canada",
-					"id": ""
+					"id": "0429bb53-d597-43f6-9427-f8e8b4dea0c6",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Reach For The Dead",
-			"id": "",
-			"length": 287477
-		},
-		{
-			"album": {
-				"name": "Hesitation Marks",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Nine Inch Nails",
-					"id": ""
-				}
-			],
-			"name": "Came Back Haunted",
-			"id": "",
-			"length": 317309
+			"id": "80b82e26-6415-4191-a740-76a0c20e350b",
+			"length": 287000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Kveikur",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "b9038b37-905c-4f09-9e2e-0065c1329cbd",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": ""
+					"id": "8765df1a-e512-4885-b0fa-92c22a380ebc",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Brennisteinn",
-			"id": "",
-			"length": 464744
+			"id": "9b556e32-a84e-4085-a49b-5287a101c1b5",
+			"length": 464000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "...Like Clockwork",
+				"year": "",
+				"id": "7a4a1280-8d78-4ea2-b9ef-e87a8cb55c70",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Queens Of The Stone Age",
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Kalopsia",
+			"id": "52228510-53ec-4393-a1ae-d3f5c24c7f8c",
+			"length": 278000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Random Access Memories",
+				"year": "",
+				"id": "296711d3-61f6-4256-95d6-117d53054a0a",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Daft Punk",
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Pharrell Williams ",
+					"id": "0100a3d4-d323-4b96-a7b2-3517ff846de1",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Lose yourself to dance",
+			"id": "3f0200a3-a410-4042-8972-1984c6e03d97",
+			"length": 350000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Hesitation Marks",
+				"year": "",
+				"id": "0f54a970-f8fa-42a0-a9b5-4dd150d7da85",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Nine Inch Nails",
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Came Back Haunted",
+			"id": "c23333c8-aa22-4485-9a8e-ded886bfb40d",
+			"length": 317000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

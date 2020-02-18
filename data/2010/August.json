@@ -1,92 +1,143 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2010",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2010",
-	"id": "",
+	"id": "5AXcgcfqctt53ZJ2arvRQZ",
 	"tracks": [
 		{
 			"album": {
-				"name": "Stop Making Sense",
-				"image": "",
-				"year": 1999,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Talking Heads",
-					"id": ""
-				}
-			],
-			"name": "Heaven",
-			"id": "",
-			"length": 221074
-		},
-		{
-			"album": {
 				"name": "The Suburbs",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "916827dd-7adc-4bba-a214-6cf308bd647a",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Wasted Hours",
-			"id": "",
-			"length": 200777
+			"id": "d0e939d6-2e24-423e-9cab-ebac034dd746",
+			"length": 200000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Cut The Crap Playlist May 2010",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"name": "Machine Dreams",
+				"year": "",
+				"id": "3a8b3d17-a15f-4d5a-bdec-e73b0ac91984",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Little Dragon",
+					"id": "daf53736-0de5-4bca-9ec5-3cc1547ebc9d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "My Step",
-			"id": "",
-			"length": 207255
+			"id": "68aac49d-7985-4825-8137-134a8787a7b4",
+			"length": 207000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Cut The Crap Playlist Summer Jams 2010",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"name": "4th Of July (Fireworks)",
+				"year": "",
+				"id": "edf449df-2df6-444f-9487-03db396b8170",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Kelis",
+					"id": "c609a30e-d9b9-4074-9820-63c596de4860",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Calvin Harris",
+					"id": "a319aaf3-c67b-41d2-ab17-b08dcd73adb7",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "4th Of July (Fireworks) (Calvin Harris Remix)",
-			"id": "",
-			"length": 338599
+			"id": "13418f2f-8755-4114-aced-8f0c817eb624",
+			"length": 338000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"name": "Stop Making Sense",
+				"year": "",
+				"id": "6c2fde76-9f6d-4ca9-9c22-3f82db6e765e",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Talking Heads",
+					"id": "02bd402a-d98a-4551-9613-413ed8b3b24f",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Heaven",
+			"id": "59f6fcf8-b8e4-4da7-8225-e1c5c59f1798",
+			"length": 221000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "My Beautiful Dark Twisted Fantasy",
+				"year": "",
+				"id": "07fe1db5-0b3a-4fd7-8bb3-2501148d6f79",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "Kanye West",
-					"id": ""
+					"id": "448ff158-68af-45bf-a765-2579997bde53",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Power",
-			"id": "",
-			"length": 293668
+			"id": "56863ded-baf5-45a4-bf67-f23ed8c7b5c6",
+			"length": 292000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

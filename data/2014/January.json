@@ -1,92 +1,136 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2014",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2014",
-	"id": "",
+	"id": "0x9L6UjTSUuf9RT8h623mL",
 	"tracks": [
 		{
 			"album": {
 				"name": "Kittenz And Thee Glitz",
-				"image": "",
-				"year": 2001,
-				"id": ""
+				"year": "",
+				"id": "12236ba8-efea-4c3d-bfdd-06d15670a02e",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Felix Da Housecat",
-					"id": ""
+					"id": "699b1f6e-395c-430c-8562-2cab7a560c42",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Harlot (Intro)",
-			"id": "",
-			"length": 190720
+			"id": "8e539875-79e3-4098-aedd-9ca68536fab7",
+			"length": 190000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Record Collection",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "09d4f6f0-94b1-43f2-a703-642fd5c04f48",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Mark Ronson & The Business Intl",
-					"id": ""
+					"id": "97789ec2-ee06-484f-81f1-e79479178cc6",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Record Collection",
-			"id": "",
-			"length": 229851
-		},
-		{
-			"album": {
-				"name": "Cold Spring Fault Less Youth",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Mount Kimbie",
-					"id": ""
-				}
-			],
-			"name": "Made To Stray",
-			"id": "",
-			"length": 286798
+			"id": "e57c09e3-821a-455e-8cb5-815416af67a9",
+			"length": 229000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Music of Grand Theft Auto V",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "1df391fd-4718-4f3c-a26b-2bdd5dce1fe5",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Tyler, The Creator",
+					"id": "f6670f31-f648-48ce-94e4-5f9eb58daeba",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Garbage",
-			"id": "",
-			"length": 208586
+			"id": "4d277bdf-d62b-437d-99dd-5da5319b794d",
+			"length": 208000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Cold Spring Fault Less Youth",
+				"year": "",
+				"id": "d54cc33e-6c66-4781-9fc1-81155cd49bc6",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Mount Kimbie",
+					"id": "c6796f79-8ef9-4d9c-87a3-59f692559dac",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Made To Stray",
+			"id": "25123fd2-35bc-46aa-9f41-1b3245f3b3c6",
+			"length": 286000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Apocalypse",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "56ae2661-8b29-45f3-bd61-cba00628ff64",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Thundercat",
-					"id": ""
+					"id": "70ae474b-62c3-46fa-946b-4665499eb9ec",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Tenfold",
-			"id": "",
-			"length": 184528
+			"id": "d4f7c55e-ffc5-411e-91ec-15d684c9499c",
+			"length": 184000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,93 +1,136 @@
 {
 	"name": "December Top 5 2016",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2016",
 	"id": "46FTuq0NgJ5KutaeqSgZVM",
 	"tracks": [
 		{
 			"album": {
 				"name": "Shadow",
-				"image": "https://i.scdn.co/image/0b818eb30affb344ce9914f211e85f41172868f7",
 				"year": "",
-				"id": "4gy94KSgNMaxdSNQPPMKxO"
+				"id": "85a28376-1976-45d1-b51f-7c070eb07798",
+				"externalId": {
+					"spotify": "4gy94KSgNMaxdSNQPPMKxO"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Chromatics",
-					"id": "4tOVIRjlWWfR1RrAxyRqTE"
+					"id": "0d20cf17-ebce-43df-ba4e-511a6a95ce7d",
+					"externalId": {
+						"spotify": "4tOVIRjlWWfR1RrAxyRqTE"
+					}
 				}
 			],
 			"name": "Shadow - Radio",
-			"id": "7HB9ilX2MtVzvgdrarihMk",
-			"length": 225464
+			"id": "c637e246-e7d2-4713-87ec-a3d3f81dd515",
+			"length": 225464,
+			"externalId": {
+				"spotify": "7HB9ilX2MtVzvgdrarihMk"
+			}
 		},
 		{
 			"album": {
 				"name": "Harry Patch (In Memory Of)",
-				"image": "https://i.scdn.co/image/0c683e9b6d1de017b73490994ada347d3858c291",
 				"year": "",
-				"id": "4SRrKj3jOP6SA5Jr2dFeNz"
+				"id": "11a415b3-cf8a-4488-a8b8-6b0b55b880b3",
+				"externalId": {
+					"spotify": "4SRrKj3jOP6SA5Jr2dFeNz"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
+					"externalId": {
+						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
+					}
 				}
 			],
 			"name": "Harry Patch (In Memory Of)",
-			"id": "7yMPuOVQEqpl7h1AQq4f2i",
-			"length": 332840
+			"id": "16f8cd0c-2b67-4e55-8ad3-dccd8748e102",
+			"length": 332840,
+			"externalId": {
+				"spotify": "7yMPuOVQEqpl7h1AQq4f2i"
+			}
 		},
 		{
 			"album": {
 				"name": "Magnificent (She Says)",
-				"image": "https://i.scdn.co/image/18a9ce893a507f10c0bd0671919908d2c6c556b2",
 				"year": "",
-				"id": "6khwkBgfvELrHOi2dmvXwC"
+				"id": "8dfd52ec-99eb-4899-b514-de57a8fb89a9",
+				"externalId": {
+					"spotify": "6khwkBgfvELrHOi2dmvXwC"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elbow",
-					"id": "0TJB3EE2efClsYIDQ8V2Jk"
+					"id": "bdc6a55d-51d1-493c-88c1-0564c68f271c",
+					"externalId": {
+						"spotify": "0TJB3EE2efClsYIDQ8V2Jk"
+					}
 				}
 			],
 			"name": "Magnificent (She Says)",
-			"id": "1SX2KJP48vW2wyyk7WLhrq",
-			"length": 265745
+			"id": "30ac1a3f-5cb1-4477-a567-7b3081fcdf4b",
+			"length": 265745,
+			"externalId": {
+				"spotify": "1SX2KJP48vW2wyyk7WLhrq"
+			}
 		},
 		{
 			"album": {
 				"name": "Actor",
-				"image": "https://i.scdn.co/image/3879faade0bfec9b0403e8ba60ab121eeb9fc90d",
 				"year": "",
-				"id": "0nARXdbUQGhn3PCyv8p2NT"
+				"id": "d184be20-245b-4ca9-a7ef-120f1271a21e",
+				"externalId": {
+					"spotify": "0nARXdbUQGhn3PCyv8p2NT"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "St. Vincent",
-					"id": "7bcbShaqKdcyjnmv4Ix8j6"
+					"id": "adbcf1d0-1806-4e3e-bb88-269bc3bc1bee",
+					"externalId": {
+						"spotify": "7bcbShaqKdcyjnmv4Ix8j6"
+					}
 				}
 			],
 			"name": "The Strangers",
-			"id": "3LWkeQ4hhHdlz4ZOyt6xHK",
-			"length": 244840
+			"id": "01208e0f-16be-4651-ab04-7353be28de7b",
+			"length": 244840,
+			"externalId": {
+				"spotify": "3LWkeQ4hhHdlz4ZOyt6xHK"
+			}
 		},
 		{
 			"album": {
 				"name": "Mind the Gap",
-				"image": "https://i.scdn.co/image/934d613513591a4730d9539ec0c04352e1465e8e",
 				"year": "",
-				"id": "2bPHTJhbuH6UCJ5qkWznyL"
+				"id": "2b24c043-187b-4974-b02a-8a156234b573",
+				"externalId": {
+					"spotify": "2bPHTJhbuH6UCJ5qkWznyL"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Raleigh Ritchie",
-					"id": "0IB0VjX9NSrGX6PjCXGVcq"
+					"id": "267d5ac3-0650-44ff-8e99-4047a1700532",
+					"externalId": {
+						"spotify": "0IB0VjX9NSrGX6PjCXGVcq"
+					}
 				}
 			],
 			"name": "Unicron Loev",
-			"id": "3cQf4qfc9YGgYP9WScRjtV",
-			"length": 224323
+			"id": "c01efd64-f3f6-483c-8ea0-d3aed8202ddc",
+			"length": 224323,
+			"externalId": {
+				"spotify": "3cQf4qfc9YGgYP9WScRjtV"
+			}
 		}
 	]
 }

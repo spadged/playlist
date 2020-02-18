@@ -1,92 +1,90 @@
 {
 	"name": "February",
-	"month": "02",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2005",
-	"id": "",
+	"id": "0c866004-90b9-4e9f-8e1c-3f82356499c2",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Life Aquatic With Steve Zissou",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "5657b662-b41b-4a43-b239-8907ca257bd1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Seu Jorge",
-					"id": ""
+					"id": "3982090e-4519-4b48-a8db-44658aa17100"
 				}
 			],
 			"name": "Rebel Rebel",
-			"id": "",
+			"id": "57a7f4cb-5ff0-42af-8a2f-ca132c4f5d74",
 			"length": 144248
 		},
 		{
 			"album": {
-				"name": "The Life Aquatic With Steve Zissou",
-				"image": "",
+				"name": "Hunky Dory",
 				"year": 2004,
-				"id": ""
+				"id": "15c20d31-ed03-449f-85f1-e2e2be7c6785"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "David Bowie",
-					"id": "0oSGxfWSnnOXhD2fKuz2Gy"
+					"id": "bc493e43-e606-4a71-851b-3f10762a6774"
 				}
 			],
 			"name": "Queen Bitch",
-			"id": "",
+			"id": "80e6d908-d791-4267-ae04-837a897c5603",
 			"length": 195709
 		},
 		{
 			"album": {
 				"name": "& Yet & Yet",
-				"image": "",
 				"year": 2002,
-				"id": ""
+				"id": "f25e9da0-c59d-4459-86ea-902783e85df4"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Do Make Say Think",
-					"id": ""
+					"id": "db7c7412-59de-4cf6-89d0-2be1610d322f"
 				}
 			],
 			"name": "Soul And Onward",
-			"id": "",
+			"id": "8c56f8c1-79b5-4591-be24-20f0dc2a1862",
 			"length": 331441
 		},
 		{
 			"album": {
 				"name": "Lost Sides",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "a9ac46bd-e178-4df3-84d5-172898940da1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Doves",
-					"id": ""
+					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
 				}
 			],
 			"name": "Words (Echoboy Remix)",
-			"id": "",
+			"id": "945ed628-0e96-4d6b-b15a-c97bd7029e4f",
 			"length": 445361
 		},
 		{
 			"album": {
 				"name": "Happy Songs For Happy People",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "9df11093-52ee-479e-9179-7d37e35cd45c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Mogwai",
-					"id": ""
+					"id": "b0764139-eee5-481c-baf0-0fda14b322f3"
 				}
 			],
 			"name": "Moses? I Ain't",
-			"id": "",
+			"id": "80686093-e8fe-4fc6-9048-4f0290c3da87",
 			"length": 181420
 		}
 	]

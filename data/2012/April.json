@@ -1,93 +1,136 @@
 {
-	"name": "April",
-	"month": "04",
+	"name": "April Top 5 2012",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2012",
-	"id": "",
+	"id": "4t8Jsbiv9Gs2H4bnhUlxYF",
 	"tracks": [
 		{
 			"album": {
-				"name": "Narcoticbeats",
-				"image": "",
-				"year": 1998,
-				"id": ""
+				"name": "Moving a Body",
+				"year": "",
+				"id": "aec8f597-0996-4479-bdc5-2f3cda671382",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Accelera Deck",
-					"id": ""
+					"name": "Will Hanson",
+					"id": "a1428cb7-d8c2-420c-9ba4-1074bbfa3248",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Drifting Out",
-			"id": "",
-			"length": 357276
+			"name": "Home",
+			"id": "9c0f02a0-6a19-4f8a-a5a1-c929e59c3248",
+			"length": 210000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Devotion",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "3e848d94-d015-4501-910d-c3e80254b516",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beach House",
-					"id": "56ZTgzPBDge0OvCGgMO3OY"
+					"id": "3606ae8d-c0d1-4cee-ae28-88131d1a0e8e",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Wedding Bell",
-			"id": "",
-			"length": 234866
-		},
-		{
-			"album": {
-				"name": "End of Line",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Mogi Grumbles",
-					"id": ""
-				}
-			],
-			"name": "Mcp Mpc",
-			"id": "",
-			"length": 272065
+			"id": "6e1a40a0-7f66-4991-aa96-fa6fc4437693",
+			"length": 234000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Brothers",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "61fc16cc-ee90-4da6-972f-f3569300c5b1",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Black Keys",
-					"id": ""
+					"id": "930b16a8-e8f3-4268-8590-39a881773077",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "These Days",
-			"id": "",
-			"length": 311405
+			"id": "784b4691-be8b-40ae-91df-cc6803dffd38",
+			"length": 311000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Moving a Body",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"name": "End of Line",
+				"year": "",
+				"id": "b275514e-b100-4a3d-a7e2-2ed9b55a1b82",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Will Hanson",
-					"id": ""
+					"name": "Mogi Grumbles",
+					"id": "5325dcf1-c37e-49d0-a963-c0d76dd60231",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Home",
-			"id": "",
-			"length": 210703
+			"name": "Mcp Mpc",
+			"id": "1b2593d3-3b9e-4d8b-8dbe-b2c858e20bb1",
+			"length": 272000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Narcotic Beats",
+				"year": "",
+				"id": "a042d052-b817-4636-8fcf-9495f20ad830",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Accelera Deck",
+					"id": "1cfdc399-511e-4a58-b9e3-d56abde2845f",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Drifting Out",
+			"id": "da467fd6-1ad7-4235-b1d3-765194c818b5",
+			"length": 357000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

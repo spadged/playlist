@@ -1,92 +1,136 @@
 {
-	"name": "October",
-	"month": "10",
+	"name": "October Top 5 2014",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2014",
-	"id": "",
+	"id": "0mnFaef3UwzYySOnGh4Jlo",
 	"tracks": [
 		{
 			"album": {
-				"name": "Warpaint",
-				"image": "",
-				"year": 2014,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Warpaint",
-					"id": ""
-				}
-			],
-			"name": "Teese",
-			"id": "",
-			"length": 281913
-		},
-		{
-			"album": {
 				"name": "Seeds",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "22fc6bbe-c51d-47b9-9350-a8e5b12e1107",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Careful You",
-			"id": "",
-			"length": 312163
+			"id": "5e563162-096e-4c6a-8642-7c02d2e02b8f",
+			"length": 312000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Our Love",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "a90929e9-fa52-4490-865e-5a9fd024e12a",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Caribou",
-					"id": ""
+					"id": "2a5bc698-845a-4062-9a0a-53459e186775",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Silver",
-			"id": "",
-			"length": 316708
-		},
-		{
-			"album": {
-				"name": "Carry On The Grudge",
-				"image": "",
-				"year": 2014,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Jamie T",
-					"id": ""
-				}
-			],
-			"name": "They Told Me It Rained",
-			"id": "",
-			"length": 269609
+			"id": "d99d968a-e6e5-421f-b75c-c502bc934828",
+			"length": 316000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Tomorrow's Modern Boxes",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "6c0bda3e-4d32-4014-9d08-01debfcc1856",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Thom Yorke",
-					"id": ""
+					"id": "fdbacbf5-0d00-4169-afb3-41e8322f01ce",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Nose Grows Some",
-			"id": "",
-			"length": 322586
+			"id": "f9f066d2-5133-4edb-baef-a5eb60e66488",
+			"length": 322000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Carry On The Grudge",
+				"year": "",
+				"id": "d74bbf63-abce-4008-8dfe-7dc1a7c6ecb1",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Jamie T",
+					"id": "2de08652-50f9-47b9-8a78-4902481691b4",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "They Told Me It Rained",
+			"id": "dd7ce8ff-dfc0-489b-9be8-b2eb79da224c",
+			"length": 269000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Warpaint",
+				"year": "",
+				"id": "f8b5c782-a709-442f-be31-d4c480ed724a",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Warpaint",
+					"id": "6bc492cd-b367-4942-968c-ecc8a7969601",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Teese",
+			"id": "f68c7fab-50f1-4f04-a9f6-fb695d5c2144",
+			"length": 281000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

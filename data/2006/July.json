@@ -1,91 +1,89 @@
 {
 	"name": "July",
-	"month": "07",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2006",
-	"id": "",
+	"id": "d0029992-c8e5-4d30-a112-ce438c57dc1c",
 	"tracks": [
 		{
 			"album": {
 				"name": "Country Falls",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "b58b2c12-1c07-4e61-b9d9-d5561c78b7ba"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Husky Rescue",
-					"id": ""
+					"id": "93c176e0-f724-46d2-a47d-9ffbd90c399b"
 				}
 			],
 			"name": "My World",
-			"id": "",
+			"id": "0f9895e6-3132-4f77-91ae-205667ab5def",
 			"length": 290951
 		},
 		{
 			"album": {
 				"name": "sutemos net compilation",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "e21eb6c4-e699-4ab7-b51d-ef2c7239a788"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ulrich Schnauss",
-					"id": ""
+					"id": "26bfeef5-7055-46e8-be69-37b2aee6a287"
 				}
 			],
 			"name": "us suddenly",
-			"id": "",
+			"id": "56ef0aa0-211d-4ea7-bbff-b7550e7e9ecc",
 			"length": 382066
 		},
 		{
 			"album": {
 				"name": "The Audiences' Listening",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "fe36a1e2-79da-49af-9033-ce79f32d7b0b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Cut Chemist",
-					"id": ""
+					"id": "fbdff40f-b081-434a-9f8a-8aa348c5636f"
 				}
 			],
 			"name": "The Garden",
-			"id": "",
+			"id": "b97edf6b-ea13-4a19-9870-33832325d035",
 			"length": 376450
 		},
 		{
 			"album": {
 				"name": "6-30-00 LA, CA @ The Palace",
-				"image": "",
-				"id": ""
+				"id": "7c0f7314-7deb-404b-a43e-0654ff6446c4"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "DVDA",
-					"id": ""
+					"id": "03f75541-5c4f-41d1-92e3-f3789c3cb2e1"
 				}
 			],
 			"name": "I AM Chewbacca",
-			"id": "",
+			"id": "224ba149-fada-4654-bf7c-466f273f1488",
 			"length": 214700
 		},
 		{
 			"album": {
 				"name": "Anthology",
-				"image": "",
 				"year": 1973,
-				"id": ""
+				"id": "e6218cb8-683d-4f2e-a0d4-42355b1c1c4a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ray Charles",
-					"id": ""
+					"id": "3516aec6-6a2c-41f3-bc37-c97d4e56aef3"
 				}
 			],
 			"name": "I Can't Stop Loving You",
-			"id": "",
+			"id": "aba03b73-d195-4de0-941d-b10dd440edbb",
 			"length": 254876
 		}
 	]

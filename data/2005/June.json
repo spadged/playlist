@@ -1,89 +1,87 @@
 {
 	"name": "June",
-	"month": "06",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2005",
-	"id": "",
+	"id": "62c3707c-e665-4f4d-b1b9-67c40e62d0c7",
 	"tracks": [
 		{
 			"album": {
-				"name": "Best of",
-				"image": "",
-				"id": ""
+				"name": "Remain in Light",
+				"id": "ee6866c6-d911-4388-9123-0b5f27a7815f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Talking Heads",
-					"id": ""
+					"id": "02bd402a-d98a-4551-9613-413ed8b3b24f"
 				}
 			],
-			"name": "How Did I Get Here?",
-			"id": "",
+			"name": "Once in a lifetime",
+			"id": "d13e7842-adfa-4fdf-92b5-a2204baeed2b",
 			"length": 283820
 		},
 		{
 			"album": {
 				"name": "Solitary Man",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "cfcbde47-1d17-4700-8a0d-75169f85d86b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Johnny Cash",
-					"id": "6kACVPfCOnqzgfEF5ryl0x"
+					"id": "cd5c94d9-33b2-4455-8af7-a593e4669926"
 				}
 			],
 			"name": "I See A Darkness",
-			"id": "",
+			"id": "62c1f108-8f96-4037-aa4e-e53739d3465a",
 			"length": 222693
 		},
 		{
 			"album": {
 				"name": "Riot on Empty street",
-				"image": "",
-				"id": ""
+				"id": "d2269b0d-744e-49d5-bde4-e534760a69ac"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kings of Convenience",
-					"id": ""
+					"id": "7139e1f0-d2f5-4689-8cb5-e019ab2c7109"
 				}
 			],
 			"name": "the build-up*",
-			"id": "",
+			"id": "2176db18-beeb-468c-8797-567d19e6472e",
 			"length": 244009
 		},
 		{
 			"album": {
 				"name": "Von",
-				"image": "",
-				"id": ""
+				"id": "8415d116-6e95-457b-8a00-97f0d7e6d8a3"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": ""
+					"id": "eed7df49-749f-43ba-8b9a-bbcf1b4d8261"
 				}
 			],
 			"name": "Von",
-			"id": "",
+			"id": "2b3d3d20-64ed-4c5e-af56-f66305dbc2ec",
 			"length": 312293
 		},
 		{
 			"album": {
 				"name": "It's A Wonderfull Life",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "80a29117-a33b-4830-8078-fd6717b34f7f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sparklehorse",
-					"id": ""
+					"id": "3f299d22-a8fd-427b-986f-e97f14d0ce28"
 				}
 			],
 			"name": "Piano Fire",
-			"id": "",
+			"id": "140597b4-425a-4d67-8d66-3bfeaf2d667d",
 			"length": 163787
 		}
 	]

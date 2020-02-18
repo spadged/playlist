@@ -1,93 +1,136 @@
 {
 	"name": "May Top 5 2016",
-	"month": "may",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2016",
 	"id": "3PoC1T8K3XtCVnvDM5ovM3",
 	"tracks": [
 		{
 			"album": {
 				"name": "Burn the Witch",
-				"image": "https://i.scdn.co/image/fc67258a36d4631239593313bdd55a16be3885f6",
 				"year": "",
-				"id": "2DCzgO12HyMeGxoQlbtvQV"
+				"id": "ec513191-dba8-481a-a7b3-36cc0263bc56",
+				"externalId": {
+					"spotify": "2DCzgO12HyMeGxoQlbtvQV"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
+					"externalId": {
+						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
+					}
 				}
 			],
 			"name": "Burn the Witch",
-			"id": "3dAxzv7hkxipbuWJaOMzAl",
-			"length": 220609
+			"id": "4f0292a4-c4e9-43fd-bb9c-50d1818f9e78",
+			"length": 220609,
+			"externalId": {
+				"spotify": "3dAxzv7hkxipbuWJaOMzAl"
+			}
 		},
 		{
 			"album": {
 				"name": "In Conflict",
-				"image": "https://i.scdn.co/image/d38dec985f9fde03937a398257b855ec237e1bb0",
 				"year": "",
-				"id": "5uw6bqTj61Fjy73OpymGDC"
+				"id": "206135ac-abfb-463c-bb0a-6fa4916c3b8b",
+				"externalId": {
+					"spotify": "5uw6bqTj61Fjy73OpymGDC"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Owen Pallett",
-					"id": "77Rj6PHmQJFb8nbSH62y68"
+					"id": "3d441729-13bc-4648-938f-d0e57d35a355",
+					"externalId": {
+						"spotify": "77Rj6PHmQJFb8nbSH62y68"
+					}
 				}
 			],
 			"name": "In Conflict",
-			"id": "7HOUmHMzQ1wyNlRksUrmzn",
-			"length": 253706
+			"id": "652d8703-7574-4fd5-80b6-065bbd9f174f",
+			"length": 253706,
+			"externalId": {
+				"spotify": "7HOUmHMzQ1wyNlRksUrmzn"
+			}
 		},
 		{
 			"album": {
 				"name": "Currents",
-				"image": "https://i.scdn.co/image/baf2307038b91139d25efafe175e2a66369efeb8",
 				"year": "",
-				"id": "0rxKf57PZvWEoU8v3m5W2q"
+				"id": "61cb00f0-aefe-423b-a5f8-d3d11c8bb614",
+				"externalId": {
+					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "5INjqkS1o8h1imAzPqGZBb"
+					"id": "db923391-a2cd-48d9-a1c0-d5e963ef44d3",
+					"externalId": {
+						"spotify": "5INjqkS1o8h1imAzPqGZBb"
+					}
 				}
 			],
 			"name": "The Less I Know The Better",
-			"id": "4g3Ax56IslQkI6XVfYKVc5",
-			"length": 216318
+			"id": "54049de8-52de-4acd-95a9-b0ec6d190dad",
+			"length": 216318,
+			"externalId": {
+				"spotify": "4g3Ax56IslQkI6XVfYKVc5"
+			}
 		},
 		{
 			"album": {
 				"name": "VEGA INTL. Night School",
-				"image": "https://i.scdn.co/image/18ee38f742d042fe372d1f571e6669d380889f57",
 				"year": "",
-				"id": "6cAIm2AZBlMXTXpypxgcE5"
+				"id": "56cadc12-c6c1-447f-b707-6c6e20d1edfb",
+				"externalId": {
+					"spotify": "6cAIm2AZBlMXTXpypxgcE5"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Neon Indian",
-					"id": "0KydPQPUUoTNhmiHKOg5Er"
+					"id": "271e60ea-289d-4450-bb4f-bd954a65d395",
+					"externalId": {
+						"spotify": "0KydPQPUUoTNhmiHKOg5Er"
+					}
 				}
 			],
 			"name": "Techno Clique",
-			"id": "6hkd96xGgvtEJTee8TXv7w",
-			"length": 272318
+			"id": "97ac8353-3f64-4715-8d35-9119b2ec8d68",
+			"length": 272318,
+			"externalId": {
+				"spotify": "6hkd96xGgvtEJTee8TXv7w"
+			}
 		},
 		{
 			"album": {
 				"name": "White Men Are Black Men Too",
-				"image": "https://i.scdn.co/image/1c8a96a2c89648bb8b88a83aa0afb92fb8f33555",
 				"year": "",
-				"id": "3xtwcBeltPMO0I4PnDfV0k"
+				"id": "ce2cce42-bf23-45e2-9c2b-9b7c5eb1031b",
+				"externalId": {
+					"spotify": "3xtwcBeltPMO0I4PnDfV0k"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Young Fathers",
-					"id": "5mZC7ndY6oGMxJentRwsuV"
+					"id": "9a2989f5-c829-4bf7-b642-9e9866812837",
+					"externalId": {
+						"spotify": "5mZC7ndY6oGMxJentRwsuV"
+					}
 				}
 			],
 			"name": "Sirens",
-			"id": "2gYdgnpPtB17vcYZms3ats",
-			"length": 180326
+			"id": "df45cd0c-400d-4dbe-bb9b-f5136e438e39",
+			"length": 180326,
+			"externalId": {
+				"spotify": "2gYdgnpPtB17vcYZms3ats"
+			}
 		}
 	]
 }

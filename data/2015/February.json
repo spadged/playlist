@@ -1,93 +1,136 @@
 {
-	"name": "February",
-	"month": "02",
+	"name": "February Top 5 2015",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2015",
-	"id": "",
+	"id": "4gmoQ4xH5ylv0QYFSlrWAe",
 	"tracks": [
 		{
 			"album": {
 				"name": "American V: A Hundred Highways",
-				"image": "",
-				"year": 2006,
-				"id": ""
+				"year": "",
+				"id": "6400025a-58a9-4c21-9b92-853fcd04932e",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Johnny Cash",
-					"id": "6kACVPfCOnqzgfEF5ryl0x"
+					"id": "ea00a0f0-3b0c-4624-aa54-8d421d52ebac",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "God's Gonna Cut You Down",
-			"id": "",
-			"length": 158720
-		},
-		{
-			"album": {
-				"name": "Automatic For The People",
-				"image": "",
-				"year": 1992,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "R.E.M.",
-					"id": ""
-				}
-			],
-			"name": "Star Me Kitten",
-			"id": "",
-			"length": 196257
+			"id": "c118ad39-5717-470c-81c1-566e0c88bc7a",
+			"length": 158000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Deep In the Iris",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "3f38ecb8-c3fb-4d33-9f7e-ba66d411c4eb",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Braids",
-					"id": ""
+					"id": "5b46d4b4-fea3-44f7-b8e0-6cd4ed8c49ae",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Miniskirt",
-			"id": "",
-			"length": 294321
+			"id": "09251121-8716-41d9-9d1b-be62a67ca6f9",
+			"length": 294000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Like I'm a Warrior",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "b088b313-1fea-4d15-8ec9-1e5b5620e21f",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Emilie Nicolas",
-					"id": ""
+					"id": "da686886-a210-4dc9-a205-4eae3a228622",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Grown Up",
-			"id": "",
-			"length": 213133
+			"id": "7eab91dd-bf26-475d-8a13-0bb307d067e8",
+			"length": 213000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Kauai",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "98bd7df4-30df-4cac-af78-7d67d76fecd7",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Childish Gambino",
-					"id": ""
+					"id": "61c0bd9d-539b-4102-884e-698bb65f22d9",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Sober",
-			"id": "",
-			"length": 251376
+			"id": "bc434224-92d7-427d-a68b-16a92432e6fa",
+			"length": 251000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Automatic For The People",
+				"year": "",
+				"id": "3cf4c574-2887-4f6c-8ba6-eaf1baaa95c2",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "R.E.M.",
+					"id": "a26f6db1-ed0a-4ded-9823-61d4ccceef21",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Star Me Kitten",
+			"id": "2437a7be-ac51-4792-ad03-783bdd6d2629",
+			"length": 196000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

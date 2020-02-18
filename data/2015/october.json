@@ -1,93 +1,136 @@
 {
 	"name": "October Top 5 2015",
-	"month": "october",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2015",
 	"id": "0H1gZQ7E95v6wYOutAbjbn",
 	"tracks": [
 		{
 			"album": {
 				"name": "Wild Hearts",
-				"image": "https://i.scdn.co/image/3904699c7f7073a684cc79b7f9a85173c21fa181",
 				"year": "",
-				"id": "75P1rOfezaYmDk2Sc2pzXN"
+				"id": "9b3df7b5-5dd9-4449-aafb-36d564d4726f",
+				"externalId": {
+					"spotify": "75P1rOfezaYmDk2Sc2pzXN"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Seven Davis Jr.",
-					"id": "0j4Q5USZhEJ3OUfyRyW2xj"
+					"id": "0ac0e723-a2cc-41ea-8ab0-1f3e164fd402",
+					"externalId": {
+						"spotify": "0j4Q5USZhEJ3OUfyRyW2xj"
+					}
 				}
 			],
 			"name": "Wild Hearts",
-			"id": "3tvCFBQXRyEqpueQbfV5oz",
-			"length": 428296
+			"id": "cbfced49-e4fb-4b34-9e44-0895958bc4a1",
+			"length": 428296,
+			"externalId": {
+				"spotify": "3tvCFBQXRyEqpueQbfV5oz"
+			}
 		},
 		{
 			"album": {
 				"name": "Matangi",
-				"image": "https://i.scdn.co/image/7524ef86e69db26ef7f972ed7c76880d48c68a70",
 				"year": "",
-				"id": "28GeLpi0VnbGYwLzZzfFUb"
+				"id": "768a95aa-ee77-4f09-9314-73a51df3d411",
+				"externalId": {
+					"spotify": "28GeLpi0VnbGYwLzZzfFUb"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "M.I.A.",
-					"id": "0QJIPDAEDILuo8AIq3pMuU"
+					"id": "67264ab9-2422-4abb-9d2a-e7fe31e10151",
+					"externalId": {
+						"spotify": "0QJIPDAEDILuo8AIq3pMuU"
+					}
 				}
 			],
 			"name": "Bad Girls",
-			"id": "6iBaw0T7b3pTmMH1eMrul0",
-			"length": 227520
+			"id": "01e3e80e-7b3a-4733-b1da-6d46e9e53812",
+			"length": 227520,
+			"externalId": {
+				"spotify": "6iBaw0T7b3pTmMH1eMrul0"
+			}
 		},
 		{
 			"album": {
 				"name": "Golden Ticket",
-				"image": "https://i.scdn.co/image/299bc143b86dcbd81b09b267b23d5deeb0a90375",
 				"year": "",
-				"id": "36mGzBHHjZCHXapneNNuad"
+				"id": "4792c05d-f932-4fab-89d8-f200fa0c0382",
+				"externalId": {
+					"spotify": "36mGzBHHjZCHXapneNNuad"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Golden Rules",
-					"id": "0LvSG8k9YJF0fSevrndsR9"
+					"id": "e2ea5146-93e4-4091-899f-f485f77c977b",
+					"externalId": {
+						"spotify": "0LvSG8k9YJF0fSevrndsR9"
+					}
 				}
 			],
 			"name": "Fogged Window",
-			"id": "1P2HKHV97te8APPrQNjHPS",
-			"length": 179466
+			"id": "35c4bfcb-62c5-437c-8cb6-b15ff51766d2",
+			"length": 179466,
+			"externalId": {
+				"spotify": "1P2HKHV97te8APPrQNjHPS"
+			}
 		},
 		{
 			"album": {
 				"name": "DEAD",
-				"image": "https://i.scdn.co/image/c037970c9794805998737083b55409c47d2789c1",
 				"year": "",
-				"id": "4PishS8bjccWUr4CVrosmb"
+				"id": "98ada3cc-b602-4846-830d-1ee06388a957",
+				"externalId": {
+					"spotify": "4PishS8bjccWUr4CVrosmb"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Young Fathers",
-					"id": "5mZC7ndY6oGMxJentRwsuV"
+					"id": "9a2989f5-c829-4bf7-b642-9e9866812837",
+					"externalId": {
+						"spotify": "5mZC7ndY6oGMxJentRwsuV"
+					}
 				}
 			],
 			"name": "NO WAY",
-			"id": "282UEKLWCpUyTJcTj3fdfL",
-			"length": 169995
+			"id": "83639038-13d1-431f-bddc-e7a94c2ad55c",
+			"length": 169995,
+			"externalId": {
+				"spotify": "282UEKLWCpUyTJcTj3fdfL"
+			}
 		},
 		{
 			"album": {
 				"name": "See My Boat (Remixes)",
-				"image": "https://i.scdn.co/image/1973372fa4687090560ae921fb5f24458059cb80",
 				"year": "",
-				"id": "1Mwxl3JARDicxqGbWw1nIa"
+				"id": "faf8c2ee-dc92-4aa3-9101-256ee7c841a7",
+				"externalId": {
+					"spotify": "1Mwxl3JARDicxqGbWw1nIa"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Rozi Plain",
-					"id": "2plHc7V92yXf40BD8lQl2x"
+					"id": "c8872740-74c4-437f-b6b2-783a046d48ec",
+					"externalId": {
+						"spotify": "2plHc7V92yXf40BD8lQl2x"
+					}
 				}
 			],
 			"name": "See My Boat - Plaisir De France Remix",
-			"id": "7JZQtm9cYgsYCuO2bSMs5F",
-			"length": 249661
+			"id": "e6a161f9-00b2-4bfc-a1b9-cd62f02cdd7e",
+			"length": 249661,
+			"externalId": {
+				"spotify": "7JZQtm9cYgsYCuO2bSMs5F"
+			}
 		}
 	]
 }

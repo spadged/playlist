@@ -1,97 +1,143 @@
 {
 	"name": "February Top 5 2016",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2016",
 	"id": "4YvDnAyzN7SfMbyuTzGgPv",
 	"tracks": [
 		{
 			"album": {
 				"name": "Reminder",
-				"image": "https://i.scdn.co/image/b117e7c08253bcaa280a8f78abb3951dd38fa900",
 				"year": "",
-				"id": "34leSDkpEeoIPkyhzSIDYg"
+				"id": "b75ba0e3-e189-4b05-b7b3-5e3e0cc01576",
+				"externalId": {
+					"spotify": "34leSDkpEeoIPkyhzSIDYg"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Moderat",
-					"id": "2exkZbmNqMKnT8LRWuxWgy"
+					"id": "77d62b3e-96fd-4120-baf2-734bf4cca1cd",
+					"externalId": {
+						"spotify": "2exkZbmNqMKnT8LRWuxWgy"
+					}
 				}
 			],
 			"name": "Reminder",
-			"id": "2y3VAO6G4RZZY8IU07tBwW",
-			"length": 234080
+			"id": "8c55b677-23e1-49ee-957e-d48e02c78346",
+			"length": 234080,
+			"externalId": {
+				"spotify": "2y3VAO6G4RZZY8IU07tBwW"
+			}
 		},
 		{
 			"album": {
 				"name": "A Retelling",
-				"image": "https://i.scdn.co/image/c3f72521aa6cdca7d30eeba86370792fd759056f",
 				"year": "",
-				"id": "6u3V2lOfrxUpLWHL8rjllE"
+				"id": "c2dd9023-443d-42aa-884d-86cf686938ae",
+				"externalId": {
+					"spotify": "6u3V2lOfrxUpLWHL8rjllE"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kindness",
-					"id": "6SYIsHAQ1sPokVxmzpaDBU"
+					"id": "bac5e454-3b48-4774-84a8-235cfb89ebcc",
+					"externalId": {
+						"spotify": "6SYIsHAQ1sPokVxmzpaDBU"
+					}
 				}
 			],
 			"name": "A Retelling",
-			"id": "4VXvw5t6OdQ7EEuMrNAjDS",
-			"length": 324085
+			"id": "c9e6ed0d-2e05-4878-83eb-abea7cad83cb",
+			"length": 324085,
+			"externalId": {
+				"spotify": "4VXvw5t6OdQ7EEuMrNAjDS"
+			}
 		},
 		{
 			"album": {
 				"name": "Big Black Coat",
-				"image": "https://i.scdn.co/image/3bdaf435163262bb1260f8144a791a4f2af91ac2",
 				"year": "",
-				"id": "5pdm3GVR8dE7f0O7foPKbq"
+				"id": "da0fab72-aa36-429b-a710-ef04f70ca709",
+				"externalId": {
+					"spotify": "5pdm3GVR8dE7f0O7foPKbq"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Junior Boys",
-					"id": "39x9e2QDpAxK8xTuJDwRqR"
+					"id": "ecb61415-f741-4a83-9585-253ec6de6dd2",
+					"externalId": {
+						"spotify": "39x9e2QDpAxK8xTuJDwRqR"
+					}
 				}
 			],
 			"name": "Over It",
-			"id": "4Y8XqpL3XaYmnvfi1R1sd7",
-			"length": 224801
+			"id": "71907273-346b-47b0-922f-a70f39f0819f",
+			"length": 224801,
+			"externalId": {
+				"spotify": "4Y8XqpL3XaYmnvfi1R1sd7"
+			}
 		},
 		{
 			"album": {
 				"name": "Water",
-				"image": "https://i.scdn.co/image/9e81ec87b18ab262a52a3e73e2577c122a1b831c",
 				"year": "",
-				"id": "35Cbis4EC9WCCSrmIwGNkJ"
+				"id": "1fce5166-13f5-441a-b4a2-8f9ae666cee1",
+				"externalId": {
+					"spotify": "35Cbis4EC9WCCSrmIwGNkJ"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ra Ra Riot",
-					"id": "6FIrstf3kHEg3zBOyLpvxD"
+					"id": "de6160e0-6d76-46d7-96de-a28bffdc9ab6",
+					"externalId": {
+						"spotify": "6FIrstf3kHEg3zBOyLpvxD"
+					}
 				},
 				{
 					"name": "Rostam",
-					"id": "04XggbrM51GcFPTxBYtRXT"
+					"id": "3f3030a8-2b4f-4d74-a396-6b8c3ed27397",
+					"externalId": {
+						"spotify": "04XggbrM51GcFPTxBYtRXT"
+					}
 				}
 			],
 			"name": "Water",
-			"id": "7vAb6xya02LhN4YQh8X42w",
-			"length": 280333
+			"id": "c3022c56-5e6a-4aad-a261-053a6d88ff6f",
+			"length": 280333,
+			"externalId": {
+				"spotify": "7vAb6xya02LhN4YQh8X42w"
+			}
 		},
 		{
 			"album": {
 				"name": "I Love You, Honeybear",
-				"image": "https://i.scdn.co/image/a6fa9772b2ac5aca79013afa96c05101f6d24b59",
 				"year": "",
-				"id": "2A8IKX257C4hJaYUHMhLP7"
+				"id": "90029b5d-0524-4c30-9143-b5fd8717254c",
+				"externalId": {
+					"spotify": "2A8IKX257C4hJaYUHMhLP7"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Father John Misty",
-					"id": "2kGBy2WHvF0VdZyqiVCkDT"
+					"id": "65ba0263-eb77-4b08-a9a5-97384b8fc779",
+					"externalId": {
+						"spotify": "2kGBy2WHvF0VdZyqiVCkDT"
+					}
 				}
 			],
 			"name": "True Affection",
-			"id": "4qG7NaN5VGPE2HPFKFHKCs",
-			"length": 236573
+			"id": "2511d227-43ae-412b-9309-85cb82551b2b",
+			"length": 236573,
+			"externalId": {
+				"spotify": "4qG7NaN5VGPE2HPFKFHKCs"
+			}
 		}
 	]
 }

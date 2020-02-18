@@ -1,89 +1,88 @@
 {
 	"name": "September",
-	"month": "09",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2005",
-	"id": "",
+	"id": "7dd02e21-38f2-426e-b28c-931fa5d50781",
 	"tracks": [
 		{
 			"album": {
 				"name": "Help: A Day In the Life",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "af2682de-1de2-48ea-a7c0-e4e1765b8daa"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Radiohead",
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "I Want None of This",
-			"id": "",
+			"id": "211e1f85-cb14-4710-9799-219053291ac3",
 			"length": 195812
 		},
 		{
 			"album": {
 				"name": "Wipe Out 2097",
-				"image": "",
 				"year": 1996,
-				"id": ""
+				"id": "6a7a922d-9138-449e-8931-2789d7b520e5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Underworld",
-					"id": ""
+					"id": "2bc5bf42-2f07-4431-8484-afb4c1d3a4a4"
 				}
 			],
 			"name": "Tin There",
-			"id": "",
+			"id": "2b765216-fd3f-4bfe-9c31-5381d0a383e3",
 			"length": 368378
 		},
 		{
 			"album": {
 				"name": "Demon Days",
-				"image": "",
-				"id": ""
+				"id": "aff3ebe3-e430-42de-be16-5e75550ffc08"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Gorillaz",
-					"id": ""
+					"id": "cd2e60f9-2b24-45a9-8697-5c134a7c801e"
 				}
 			],
 			"name": "DARE",
-			"id": "",
+			"id": "10a33b3c-aa4c-414d-92bb-fa0b896e43b4",
 			"length": 244480
 		},
 		{
 			"album": {
 				"name": "Curtains",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "6636bdd4-d2d3-4ef7-8cf4-8b5bacad18e0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "John Frusciante",
-					"id": ""
+					"id": "bccbef8c-c57d-4a11-bad4-32ba0cab7e00"
 				}
 			],
 			"name": "The Real",
-			"id": "",
+			"id": "5bb160b2-d19d-458d-9869-68b0f7408fc3",
 			"length": 187036
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"name": "The Milk-Eyed Mender",
+				"id": "035a9cc9-29fe-4ae8-a551-145d8b7c189b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Joanna Newsom",
-					"id": ""
+					"id": "0f39f426-7f01-4d47-a700-339f44a10939"
 				}
 			],
 			"name": "This Side of the Blue",
-			"id": "",
+			"id": "f86e64b4-b524-4658-8d0e-9752252f47a9",
 			"length": 323552
 		}
 	]

@@ -1,93 +1,136 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2012",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2012",
-	"id": "",
+	"id": "5y5StyxUfdoGpMjD2GNe46",
 	"tracks": [
 		{
 			"album": {
-				"name": "BRONZE",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"name": "Save the World, Get the Girl",
+				"year": "",
+				"id": "c4c71bb6-c31f-44f8-9726-51bf97080d05",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "BRONZE",
-					"id": ""
+					"name": "The King Blues",
+					"id": "e562eaaf-e053-42e1-badc-c3bc1479ec78",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Sunny Day",
-			"id": "",
-			"length": 333949
+			"name": "What If Punk Never Happened (Dan Le Sac vs. Scroobius Pip Remix)",
+			"id": "29f61e4d-e946-43ac-9e8b-b089d56d5114",
+			"length": 539000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "The Singles 86 > 98",
-				"image": "",
-				"year": 1998,
-				"id": ""
+				"name": "Black Celebration",
+				"year": "",
+				"id": "dcc4c499-fa41-48f7-a92e-ff5065ebb6c9",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Depeche Mode",
-					"id": ""
+					"id": "dfb4988e-2a03-43b9-a43f-265b6f197ec4",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Stripped",
-			"id": "",
-			"length": 231732
+			"id": "744c1430-2840-48cc-ad0b-4cbb346177a7",
+			"length": 231000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Bamnan and Slivercork",
-				"image": "",
-				"year": 2004,
-				"id": ""
+				"name": "BRONZE",
+				"year": "",
+				"id": "a62e59a0-012f-4b58-b6d3-091a6bfafd99",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Midlake",
-					"id": ""
+					"name": "BRONZE",
+					"id": "1dd879c8-48be-471b-b50e-308921478677",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Kingfish Pies",
-			"id": "",
-			"length": 260623
+			"name": "Sunny Day",
+			"id": "aea82e17-3a08-42d6-8eb2-c15f1ad1f10d",
+			"length": 333000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Head On The Door",
-				"image": "",
-				"year": 1985,
-				"id": ""
+				"year": "",
+				"id": "e0a936b0-7188-42e8-b3dd-ae6acd6ec4fc",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Cure",
-					"id": ""
+					"id": "335adf40-bc6b-4619-81dc-0c84cf693c27",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Close To Me",
-			"id": "",
-			"length": 204016
+			"id": "514f51aa-1a75-4650-8450-76a1f4fbca7c",
+			"length": 204000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Save the World, Get the Girl (Radio Edit) - EP",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"name": "Bamnan and Slivercork",
+				"year": "",
+				"id": "5bb884c4-a20a-47be-95dd-0edd20193fa2",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "The King Blues",
-					"id": ""
+					"name": "Midlake",
+					"id": "46cd0104-4865-463d-8dfc-f83aeef4e183",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "What If Punk Never Happened (Dan Le Sac vs. Scroobius Pip Remix)",
-			"id": "",
-			"length": 539872
+			"name": "Kingfish Pies",
+			"id": "2b9591ee-dc01-4596-ab0b-897d1e40f261",
+			"length": 260000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

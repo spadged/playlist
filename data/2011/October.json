@@ -1,93 +1,150 @@
 {
-	"name": "October",
-	"month": "10",
+	"name": "October Top 5 2011",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2011",
-	"id": "",
+	"id": "0lDUebIMKOrK5WcUsmmnmX",
 	"tracks": [
 		{
 			"album": {
-				"name": "Cut The Crap Playlist - Summer Jams 2011",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Various Artists",
-					"id": ""
+				"name": "Desire",
+				"year": "",
+				"id": "ff800243-c548-4838-85ce-3779251eb1a6",
+				"externalId": {
+					"spotify": null
 				}
-			],
-			"name": "Midnight City",
-			"id": "",
-			"length": 239725
-		},
-		{
-			"album": {
-				"name": "Drive (Original Motion Picture Soundtrack)",
-				"image": "",
-				"year": 2011,
-				"id": ""
 			},
-			"artist": [
-				{
-					"name": "Kavinsky & Lovefoxxx",
-					"id": ""
-				}
-			],
-			"name": "Nightcall",
-			"id": "",
-			"length": 259866
-		},
-		{
-			"album": {
-				"name": "Drive (Original Motion Picture Soundtrack)",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Desire",
-					"id": ""
+					"id": "3c693bd6-50e4-48af-a1df-3e9e3dca2c90",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Under Your Spell",
-			"id": "",
-			"length": 232933
+			"id": "960dfb67-df5a-483a-b9d1-6f379549fcaf",
+			"length": 232000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Nightcall",
+				"year": "",
+				"id": "870bfe3c-ad3b-4bac-88c8-221812ef6c0a",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Kavinsky",
+					"id": "ae872c69-3939-4d8d-8d3a-5980742abafa",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Lovefoxxx",
+					"id": "b7dd1b54-3041-4ec7-aef8-d46f3348cedc",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Nightcall",
+			"id": "cbd3201b-4b56-4a40-91c5-a2f614b97ed7",
+			"length": 259000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Deep Cuts",
-				"image": "",
-				"year": 2005,
-				"id": ""
+				"year": "",
+				"id": "e539ebc5-83e4-4826-99e6-9b231d3a9a22",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Knife",
-					"id": ""
+					"id": "e52e13e4-6ede-4910-9f68-f7a5d9a0192d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Heartbeats",
-			"id": "",
-			"length": 231800
+			"id": "2657dc85-fabc-4e56-920a-a6cf6d1a6214",
+			"length": 231000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Not In Love (Feat. Robert Smith)",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"name": "Not In Love",
+				"year": "",
+				"id": "6a701c65-ccdc-4c82-8058-642bc4b0757a",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Crystal Castles",
-					"id": ""
+					"id": "e0078692-0393-4b47-8a32-e6fbdafec8fd",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Robert Smith",
+					"id": "3500a0fd-0c2f-4913-8daa-f5d94148d999",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Not In Love",
-			"id": "",
-			"length": 229224
+			"id": "3bab6963-815b-45d1-b81b-9961cb512614",
+			"length": 229000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Hurry Up, We're Dreaming",
+				"year": "",
+				"id": "cd2f2991-af23-489e-89a0-c519e4df1b90",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "M83",
+					"id": "b31c544a-8e9a-4158-9bcd-05e881bba93f",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Midnight City",
+			"id": "5277e12e-621f-458f-9f21-053da7681061",
+			"length": 239000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

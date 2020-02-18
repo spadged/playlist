@@ -1,92 +1,136 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2008",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2008",
-	"id": "",
+	"id": "08jgZyal9q56VrR9mLjSX8",
 	"tracks": [
 		{
 			"album": {
-				"name": "The Eraser",
-				"image": "",
-				"year": 2006,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Thom Yorke",
-					"id": ""
-				}
-			],
-			"name": "Black Swan",
-			"id": "",
-			"length": 289880
-		},
-		{
-			"album": {
 				"name": "Chrome Children",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "335620d9-765d-4960-94bf-bf749caefd41",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Madvillain",
-					"id": ""
+					"id": "12626069-9f90-4bb8-93a4-b8dfa483fed7",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Monkey Suite",
-			"id": "",
-			"length": 159608
-		},
-		{
-			"album": {
-				"name": "Swimming",
-				"image": "",
-				"year": 2008,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "French Kicks",
-					"id": ""
-				}
-			],
-			"name": "Abandon",
-			"id": "",
-			"length": 236486
+			"id": "e81cce8e-80e6-4e58-8b27-ce279404ce68",
+			"length": 159000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Attack Decay Sustain Release",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "a82c08dc-20d8-4189-83dc-61741a379bb6",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Simian Mobile Disco",
-					"id": ""
+					"id": "dc9075da-fb5d-4435-ada7-5cb7609b4e15",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Hustler",
-			"id": "",
-			"length": 222902
+			"id": "8828b95c-02db-4280-9f37-f92fd8491c07",
+			"length": 222000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Swimming",
+				"year": "",
+				"id": "927039d6-f59d-447f-b582-a1ddef6fba0b",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "French Kicks",
+					"id": "f480922a-3c1c-4175-be65-ad10f8b58014",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Abandon",
+			"id": "3d793bb0-a66a-47c0-8064-f4e53ed7f6f0",
+			"length": 236000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Eraser",
+				"year": "",
+				"id": "f53ad30d-c750-4c1b-ba30-14651d8b4ddf",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Thom Yorke",
+					"id": "fdbacbf5-0d00-4169-afb3-41e8322f01ce",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Black Swan",
+			"id": "cdb2a3f3-0da1-4274-8b52-1de01a97170a",
+			"length": 289000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Where The Humans Eat",
-				"image": "",
-				"year": 2004,
-				"id": ""
+				"year": "",
+				"id": "688f5855-56b4-4b81-a233-131aa7a5e520",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Willy Mason",
-					"id": ""
+					"id": "a1a25dad-9df7-4086-b5ee-0ae5ac369b76",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Oxygen",
-			"id": "",
-			"length": 297106
+			"id": "3661c5ed-35ea-479c-8534-616c0f6e9ba9",
+			"length": 297000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

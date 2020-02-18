@@ -1,93 +1,136 @@
 {
 	"name": "January Top 5 2017",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2017",
 	"id": "08IUrLSrqfH03gzT4ZSjLt",
 	"tracks": [
 		{
 			"album": {
 				"name": "Dawn",
-				"image": "https://i.scdn.co/image/df4dd74119df85d052c0a3423cadca459a8331c1",
 				"year": "",
-				"id": "0ht6cjokjU8Xhwj6uABgfO"
+				"id": "464c88f7-0e1a-4e66-9842-e18eb729a0ee",
+				"externalId": {
+					"spotify": "0ht6cjokjU8Xhwj6uABgfO"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "RY X",
-					"id": "2KjAo6wVc9d2WcxdxSArpV"
+					"id": "c2221f40-d7ba-4728-9841-972196a85206",
+					"externalId": {
+						"spotify": "2KjAo6wVc9d2WcxdxSArpV"
+					}
 				}
 			],
 			"name": "Dawn",
-			"id": "3YF74YQR50MhfN1g5JZJ6k",
-			"length": 116862
+			"id": "c850bba6-3e97-4b06-b343-eede4cd37d8d",
+			"length": 116862,
+			"externalId": {
+				"spotify": "3YF74YQR50MhfN1g5JZJ6k"
+			}
 		},
 		{
 			"album": {
-				"name": "My Love Is Cool (Deluxe)",
-				"image": "https://i.scdn.co/image/2d9beb2c07895845ff44c09379f530ff962d1a5a",
+				"name": "My Love Is Cool",
 				"year": "",
-				"id": "0XyVo3op33rKdS44fviU3X"
+				"id": "e81062ca-65d1-40c0-b8c9-53478ea40cc1",
+				"externalId": {
+					"spotify": "0XyVo3op33rKdS44fviU3X"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Wolf Alice",
-					"id": "3btzEQD6sugImIHPMRgkwV"
+					"id": "da045e08-5ab0-48bb-ab89-6d0ab363632a",
+					"externalId": {
+						"spotify": "3btzEQD6sugImIHPMRgkwV"
+					}
 				}
 			],
 			"name": "Silk",
-			"id": "066zBDcIBXPPkuydTbVYo1",
-			"length": 243986
+			"id": "d55e114b-02d9-4f6a-bcc9-2c2b622d07f3",
+			"length": 243986,
+			"externalId": {
+				"spotify": "066zBDcIBXPPkuydTbVYo1"
+			}
 		},
 		{
 			"album": {
 				"name": "Forgiveness Rock Record",
-				"image": "https://i.scdn.co/image/55741665bb1a697fa89224476e4295c8c2e5d6d1",
 				"year": "",
-				"id": "3BvdKIt9XMjG9lq3Kh4r18"
+				"id": "0771ce16-3f63-40c1-93af-978a50cc89e0",
+				"externalId": {
+					"spotify": "3BvdKIt9XMjG9lq3Kh4r18"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Broken Social Scene",
-					"id": "7lOJ7WXyopaxri0dbOiZkd"
+					"id": "fe9bd288-0379-4c1d-8e23-98cd3b93fb03",
+					"externalId": {
+						"spotify": "7lOJ7WXyopaxri0dbOiZkd"
+					}
 				}
 			],
 			"name": "Sweetest Kill",
-			"id": "69HBEwG8ZZ395axJcDXfcS",
-			"length": 309306
+			"id": "13800543-c624-42b1-adc0-2d434d1b1687",
+			"length": 309306,
+			"externalId": {
+				"spotify": "69HBEwG8ZZ395axJcDXfcS"
+			}
 		},
 		{
 			"album": {
 				"name": "I See You",
-				"image": "https://i.scdn.co/image/328d3fb5348a28e14d17e2a9d28223c349b1bea0",
 				"year": "",
-				"id": "2PXy9USZAoTSdtrxfkPBnl"
+				"id": "0c3528d5-33b4-4ba5-9a7b-2ba39085c9e6",
+				"externalId": {
+					"spotify": "2PXy9USZAoTSdtrxfkPBnl"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The xx",
-					"id": "3iOvXCl6edW5Um0fXEBRXy"
+					"id": "a5dfdc75-a9e3-4f9a-a43c-7f6e61b85a9f",
+					"externalId": {
+						"spotify": "3iOvXCl6edW5Um0fXEBRXy"
+					}
 				}
 			],
 			"name": "Say Something Loving",
-			"id": "728zbo72kOoYdGR3AhNsyF",
-			"length": 238373
+			"id": "d3e13c3d-e142-4531-955e-692db88ff2fb",
+			"length": 238373,
+			"externalId": {
+				"spotify": "728zbo72kOoYdGR3AhNsyF"
+			}
 		},
 		{
 			"album": {
 				"name": "Love & Hate",
-				"image": "https://i.scdn.co/image/7f9a3d2b9ce4bd9d08f9f2942d37123c7bbf01da",
 				"year": "",
-				"id": "3NRQk1Ax6VJOmOeP0fy9Tl"
+				"id": "afa94f8f-81f2-4003-96cc-4c8be700389a",
+				"externalId": {
+					"spotify": "3NRQk1Ax6VJOmOeP0fy9Tl"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Michael Kiwanuka",
-					"id": "0bzfPKdbXL5ezYW2z3UGQj"
+					"id": "4648b36a-694b-45e2-a4ac-b1ae54921ca6",
+					"externalId": {
+						"spotify": "0bzfPKdbXL5ezYW2z3UGQj"
+					}
 				}
 			],
 			"name": "Love & Hate",
-			"id": "4hDwb5DvuKq3UMSVMnjXVk",
-			"length": 426602
+			"id": "20b42a72-0c18-400e-a279-00a0d2213b22",
+			"length": 426602,
+			"externalId": {
+				"spotify": "4hDwb5DvuKq3UMSVMnjXVk"
+			}
 		}
 	]
 }

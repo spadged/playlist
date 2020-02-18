@@ -1,0 +1,96 @@
+{
+	"name": "Novmber",
+	"month": {
+		"label": "novmber"
+	},
+	"year": "2009",
+	"id": "4be88d7c-ff66-462a-963f-3726329a9f4c",
+	"tracks": [
+		{
+			"album": {
+				"name": "Kingdom Of Rust",
+				"year": 2009,
+				"id": "c753ab8b-ca38-4c14-a5ef-cb213913f51a"
+			},
+			"artists": [
+				{
+					"name": "Doves",
+					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
+				}
+			],
+			"name": "10:03",
+			"id": "ebc6bb28-03c4-46df-afa7-e5c41ca4cc2a",
+			"length": 244924
+		},
+		{
+			"album": {
+				"name": "Manners",
+				"id": "e460bdaa-f831-465b-a3fa-1da8b7c7b68e"
+			},
+			"artists": [
+				{
+					"name": "Passion Pit",
+					"id": "7125c1de-9fd0-4506-b7d1-26a9091b039c"
+				}
+			],
+			"name": "Swimming In the Flood",
+			"id": "692969cf-47da-4982-8508-69d39cda6424",
+			"length": 298657
+		},
+		{
+			"album": {
+				"name": "Impression: Samurai Champloo",
+				"year": 2004,
+				"id": "564207ce-6321-4e51-905c-7445a9d71788"
+			},
+			"artists": [
+				{
+					"name": "Force of Nature",
+					"id": "ac3ab9c2-a27e-47ca-94de-86f1472aa61d"
+				},
+				{
+					"name": "Nujabes",
+					"id": "706e9901-3a5e-4839-be07-4b5f67c9f2cd"
+				}
+			],
+			"name": "the million way of drum",
+			"id": "c2120d58-4324-497c-8b90-5c342b76a92a",
+			"length": 168071
+		},
+		{
+			"album": {
+				"name": "Scars",
+				"year": 2009,
+				"id": "2a1ae259-f93e-4b6b-be8c-64ab3a7d15aa"
+			},
+			"artists": [
+				{
+					"name": "Basement Jaxx",
+					"id": "fc20c87e-abb9-460e-aac5-94bff49e2724"
+				},
+				{
+					"name": "Lightspeed Champion",
+					"id": "a5ff2501-1d69-459c-882c-5075d9856486"
+				}
+			],
+			"name": "My Turn",
+			"id": "41a400f0-6f43-43c5-8e2c-e0b07dea8cfd",
+			"length": 291892
+		},
+		{
+			"album": {
+				"name": "Manhattan Research, Inc.",
+				"id": "fea71cfe-c04b-4f6b-863c-15ffad004f18"
+			},
+			"artists": [
+				{
+					"name": "Raymond Scott",
+					"id": "3bf07dae-353a-4864-93b2-96f634908a52"
+				}
+			],
+			"name": "Cyclic Bit",
+			"id": "8a5d2f04-4b64-4b8a-84bd-f3a68244f80b",
+			"length": 64679
+		}
+	]
+}

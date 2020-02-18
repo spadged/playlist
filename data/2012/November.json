@@ -1,93 +1,150 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2012",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2012",
-	"id": "",
+	"id": "6P3qfBnkQ98YHVXvPqmmDp",
 	"tracks": [
 		{
 			"album": {
-				"name": "The Haunted Man",
-				"image": "",
-				"year": 2012,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Bat For Lashes",
-					"id": "6l77PmL5iuEEcYjGl8K6s7"
+				"name": "The Wheel",
+				"year": "",
+				"id": "9925a26b-9bb0-45da-8e77-414e900d6126",
+				"externalId": {
+					"spotify": null
 				}
-			],
-			"name": "A Wall",
-			"id": "",
-			"length": 241815
-		},
-		{
-			"album": {
-				"name": "The Wheel - EP",
-				"image": "",
-				"year": 2012,
-				"id": ""
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "S O H N",
-					"id": ""
+					"name": "Sohn",
+					"id": "b7e7d60a-8e5e-443e-b027-367e42968657",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Wheel",
-			"id": "",
-			"length": 233026
+			"id": "d9960f07-fa95-4c94-a1eb-90939493eace",
+			"length": 233000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Handsome Moves - EP",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"name": "Handsome Moves",
+				"year": "",
+				"id": "559c8c53-ce9b-4b88-9a1e-bbf2abc1da8b",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Peach Kings",
-					"id": ""
+					"id": "c5ec6066-529c-43cd-8460-35d4a7148220",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Lonely",
-			"id": "",
-			"length": 242118
+			"id": "a2f5a6ac-6372-47aa-ae6c-b35e51495c5f",
+			"length": 242000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Haunted Man",
+				"year": "",
+				"id": "6efd77c0-05ab-4604-99fb-7af4b3bf3529",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Bat For Lashes",
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "A Wall",
+			"id": "ae5cae30-cf14-47aa-a374-ecc393fb043f",
+			"length": 241000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Plateau Vision",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "da244e77-2ef1-49a7-9516-7e18b756f92b",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Lushlife",
-					"id": ""
+					"id": "43980fd5-399c-4de9-a5d2-d7f80a2f9ba9",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Andrew Cedermark",
+					"id": "70874a18-d35b-4e2c-b837-1392ff8f0d0d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Romance of the Telescope",
-			"id": "",
-			"length": 292880
+			"id": "8e179d29-8dab-4cc0-865a-dc94ee40886b",
+			"length": 292000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Eclipse / Blue (feat. Kazu Makino) - Single",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"name": "Home",
+				"year": "",
+				"id": "6d6893a9-ebf4-49a7-a4ba-de72a174441a",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nosaj Thing",
-					"id": ""
+					"id": "ce67c455-320e-416b-8202-55b547d64621",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Kazu Makino",
+					"id": "5d518c71-a811-4790-8613-a67bbabba8e9",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Eclipse / Blue ",
-			"id": "",
-			"length": 269093
+			"name": "Eclipse / Blue",
+			"id": "b50c280c-a799-4647-bf59-63cda498a082",
+			"length": 269000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

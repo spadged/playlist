@@ -1,90 +1,88 @@
 {
 	"name": "October",
-	"month": "10",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2004",
-	"id": "",
+	"id": "74da8732-54ef-415c-a796-5c538cd2d43a",
 	"tracks": [
 		{
 			"album": {
-				"name": "Traffic",
-				"image": "",
-				"id": ""
+				"name": "Apollo: Atmospheres and Soundtracks",
+				"id": "20124702-3bf0-4579-83b6-8ee231b10e21"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Brian Eno",
-					"id": ""
+					"id": "76699e65-50eb-4007-920d-916231977b30"
 				}
 			],
 			"name": "Ascent (An Ending)",
-			"id": "",
+			"id": "34a8a8e9-d6da-4d40-829d-f42339c51426",
 			"length": 265874
 		},
 		{
 			"album": {
-				"name": "Vanilla Sky",
-				"image": "",
-				"id": ""
+				"name": "Blonde on Blonde",
+				"id": "7cd5a1ed-f88a-4f68-aa70-6f4dc84abede"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bob Dylan",
-					"id": "74ASZWbe4lXaubB36ztrGX"
+					"id": "d2b0ae64-b67e-46dd-ba96-23d4d7206551"
 				}
 			],
 			"name": "Fourth time around",
-			"id": "",
+			"id": "54a469fd-4b70-4c40-b64b-71fc044ce494",
 			"length": 275957
 		},
 		{
 			"album": {
 				"name": "Figure 8",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "1de0e668-384a-4596-8521-a29e76ad0633"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elliott Smith",
-					"id": ""
+					"id": "e6dcf363-0002-406d-ad4c-156fa6f093e1"
 				}
 			],
 			"name": "Bye",
-			"id": "",
+			"id": "abc3d9cf-4e8d-4087-b965-e7331fcc3bb6",
 			"length": 113214
 		},
 		{
 			"album": {
 				"name": "Antics",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "a1e34239-5ecb-4629-a26d-536fdd94a772"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Interpol",
-					"id": ""
+					"id": "a8cc658d-4bb4-419c-b2cc-096a7a1dff32"
 				}
 			],
 			"name": "Slow Hands",
-			"id": "",
+			"id": "609566f0-d279-4b13-a3a8-ec96482c59d7",
 			"length": 184189
 		},
 		{
 			"album": {
 				"name": "Black Market Music",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "b1bb29b9-9bbf-4b27-b2d5-fc917845569d"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Placebo",
-					"id": ""
+					"id": "8d5c070c-1121-42fc-a2a3-a933bbebc1d5"
 				}
 			],
 			"name": "Black-Eyed",
-			"id": "",
+			"id": "f9b73d01-f4e4-4cbf-80a4-e61b48f96792",
 			"length": 228179
 		}
 	]

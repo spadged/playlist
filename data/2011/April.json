@@ -1,178 +1,261 @@
 {
-	"name": "April",
-	"month": "04",
+	"name": "April Top 5 2011",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2011",
-	"id": "",
+	"id": "522nZwyD87wJp8flG64Fwu",
 	"tracks": [
 		{
 			"album": {
-				"name": "Pitchfork Presents: The 100 Best Tracks of 2008",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"name": "Exile Vilify",
+				"year": "",
+				"id": "ca0c5266-5369-4a92-84b8-17d3c5fbb75d",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "The National",
+					"id": "5c880de8-23a9-47e1-bbdf-342235bc1cbd",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Exile Vilify",
+			"id": "e356aa3a-8865-456d-bc19-6f592a79d25f",
+			"length": 285000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Spectrum",
+				"year": "",
+				"id": "727e56df-c864-4682-9f11-86116f338b5f",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "Final Fantasy",
-					"id": ""
+					"id": "6272e5b7-7da1-47cd-adb8-6f2d5c79741c",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Butcher",
-			"id": "",
-			"length": 252395
-		},
-		{
-			"album": {
-				"name": "Season 2 Flight of the Conchords",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Flight of the Conchords",
-					"id": ""
-				}
-			],
-			"name": "I Got Hurt Feelings",
-			"id": "",
-			"length": 147200
-		},
-		{
-			"album": {
-				"name": "The Suburbs",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Arcade Fire",
-					"id": ""
-				}
-			],
-			"name": "Sprawl II (Mountains Beyond Mountains)",
-			"id": "",
-			"length": 325616
-		},
-		{
-			"album": {
-				"name": "Magic Chairs",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Efterklang",
-					"id": ""
-				}
-			],
-			"name": "Modern Drift",
-			"id": "",
-			"length": 293825
-		},
-		{
-			"album": {
-				"name": "The Inbetween",
-				"image": "",
-				"year": 2008,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Essie Jain",
-					"id": ""
-				}
-			],
-			"name": "You",
-			"id": "",
-			"length": 166034
-		},
-		{
-			"album": {
-				"name": "Nine Types Of Light",
-				"image": "",
-				"year": 2011,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "TV On The Radio",
-					"id": ""
-				}
-			],
-			"name": "Keep Your Heart",
-			"id": "",
-			"length": 343457
+			"id": "114cbb31-3dbf-4cf3-9b51-f89394f4fd01",
+			"length": 252000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "End of Line",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"year": "",
+				"id": "b275514e-b100-4a3d-a7e2-2ed9b55a1b82",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Mogi Grumbles",
-					"id": ""
+					"id": "5325dcf1-c37e-49d0-a963-c0d76dd60231",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Logic Probe",
-			"id": "",
-			"length": 66063
+			"id": "80d27865-57f6-466c-9194-985a2ce53d0a",
+			"length": 66000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Nine Types Of Light",
+				"year": "",
+				"id": "3cab1ac9-f019-4970-a082-a1e0e34c264d",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "TV On The Radio",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Keep Your Heart",
+			"id": "8a3bb4fc-b68d-4760-8ad0-875576bddf81",
+			"length": 343000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Suburbs",
+				"year": "",
+				"id": "916827dd-7adc-4bba-a214-6cf308bd647a",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Arcade Fire",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Sprawl II (Mountains Beyond Mountains)",
+			"id": "ab37df57-842e-47ee-9089-b2a272aa3aa4",
+			"length": 325000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Supercollider / The Butcher",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"year": "",
+				"id": "1028a098-3d45-4d2e-bca9-524ccbb6dc01",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Butcher",
-			"id": "",
-			"length": 280659
+			"id": "fea3b917-92de-4b5f-bf5b-afa29f1974e8",
+			"length": 280000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Exile Vilify",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"name": "Magic Chairs",
+				"year": "",
+				"id": "f8e48862-256d-4f78-b434-5fb2459e47a8",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "The National",
-					"id": ""
+					"name": "Efterklang",
+					"id": "5ae691a2-7bd0-4a96-85d3-d0faa01bae36",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Exile Vilify",
-			"id": "",
-			"length": 285000
+			"name": "Modern Drift",
+			"id": "003a539f-688e-4ead-8a43-bc25a308804f",
+			"length": 293000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "A Chore - Single",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"name": "I Told You I Was Freaky",
+				"year": "",
+				"id": "159b29f8-b635-44c7-ab73-9d8235ff5f73",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Flight of the Conchords",
+					"id": "7994ea75-dbed-41b4-a825-f400b364f754",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "I Got Hurt Feelings",
+			"id": "9dda26bf-5d78-4dc8-a69a-ddede57e6c73",
+			"length": 147000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Leisure Seizure",
+				"year": "",
+				"id": "a0159164-8e6b-4e3d-8ff6-ed08d07d4522",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "Tom Vek",
-					"id": ""
+					"id": "ff98b5d0-38be-4a17-b880-8d4f65dd30c0",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "A Chore",
-			"id": "",
-			"length": 227173
+			"id": "054bd72b-0343-41f0-bbfe-137ed4cfa746",
+			"length": 227000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Inbetween",
+				"year": "",
+				"id": "80640d4d-3818-485c-a509-d4949c22655b",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Essie Jain",
+					"id": "068250f2-bc74-4466-ace3-cc6b286dc303",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "You",
+			"id": "db97d689-9380-4bd6-b1ee-f80e09e3d06d",
+			"length": 166000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

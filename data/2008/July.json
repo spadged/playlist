@@ -1,175 +1,268 @@
 {
-	"name": "July",
-	"month": "07",
+	"name": "July Top 5 2008",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2008",
-	"id": "",
+	"id": "3F64FsHP4QIL08Siqc0RNO",
 	"tracks": [
 		{
 			"album": {
-				"name": "Engineers",
-				"image": "",
-				"year": 2005,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Engineers",
-					"id": ""
-				}
-			],
-			"name": "Let's Just See",
-			"id": "",
-			"length": 261015
-		},
-		{
-			"album": {
-				"name": "Knives Out, Pt. 3",
-				"image": "",
-				"year": 2001,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
-				}
-			],
-			"name": "Worry Wort",
-			"id": "",
-			"length": 276819
-		},
-		{
-			"album": {
-				"name": "Kompakt",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Closer Musik",
-					"id": ""
-				}
-			],
-			"name": "1,2,3, No Gravity",
-			"id": "",
-			"length": 400692
-		},
-		{
-			"album": {
 				"name": "Robbers & Cowards",
-				"image": "",
-				"year": 2006,
-				"id": ""
+				"year": "",
+				"id": "cf89b605-95ff-49f8-b4dd-b31fe85b6672",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Cold War Kids",
-					"id": ""
+					"id": "c5e1f663-01c4-4896-9409-11a9e1d25c11",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Hospital Beds",
-			"id": "",
-			"length": 279431
+			"id": "f3750eff-7ba6-47c5-81ef-24cac8997596",
+			"length": 279000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "The Synchronicity Suite",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"name": "Engineers",
+				"year": "",
+				"id": "8c5478b8-0f90-4dea-8d2f-fc3c6a9cde8f",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "The Reflecting Skin",
-					"id": ""
+					"name": "Engineers",
+					"id": "2ed3d75d-4fb9-4540-81c2-a9766a3fb97b",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Cavedweller (instrumental version)",
-			"id": "",
-			"length": 299311
-		},
-		{
-			"album": {
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Funki Porcini",
-					"id": ""
-				}
-			],
-			"name": "Dubble",
-			"id": "",
-			"length": 415634
+			"name": "Let's Just See",
+			"id": "c28ff864-7aaf-43a4-822d-ef2d80d42e49",
+			"length": 261000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Walls",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "1c77509f-e9ea-4b23-8dac-5fcb22587dc2",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Apparat",
-					"id": ""
+					"id": "a7b5b69a-c398-4932-82a9-0b4e5701cf6d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Arcadia",
-			"id": "",
-			"length": 310204
+			"id": "24d1694d-6125-4dd1-9d5a-98c5df3cf2d8",
+			"length": 310000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Synchronicity Suite",
+				"year": "",
+				"id": "c0bc2ad0-985e-4c2b-8136-db1b95203a7f",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Reflecting Skin",
+					"id": "db7bbc32-4242-4a00-bc36-39c3d9467d65",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Cavedweller (instrumental version)",
+			"id": "0a1ebe5a-a793-4770-acee-1ec266c33f90",
+			"length": 299000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Hed Phone Sex",
+				"year": "",
+				"id": "32f60bcc-3436-4ccb-922c-eb4f837c4d69",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Funki Porcini",
+					"id": "161fe42a-3851-4135-a0e6-21df4c39110b",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Dubble",
+			"id": "08c3c025-8967-41b7-8874-9125a2d6bf1e",
+			"length": 415000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Kompakt",
+				"year": "",
+				"id": "5f10a15c-07d2-4a07-b8e8-d928ed1457c6",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Closer Musik",
+					"id": "025a145d-8648-420c-8307-fe3d08b73e26",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "1,2,3, No Gravity",
+			"id": "58ea0b00-53ad-429c-9906-032ec49f2dc0",
+			"length": 400000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Modern Guilt",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "28a0e789-ae7c-4a16-a6f4-c32f26631efd",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beck",
-					"id": ""
+					"id": "2e82a8f0-265e-4a6e-93b9-6bff6b2b5d42",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Gamma Ray",
-			"id": "",
-			"length": 176979
+			"id": "8450daa9-a5e6-4df2-8340-7eb65e91e707",
+			"length": 176000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Ghostly Swim",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "b03011e1-c816-4077-9ccd-e194e4ebc01d",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Mux Mool",
-					"id": ""
+					"id": "054d42bc-e36f-4af6-9db1-b078df0a494e",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Night Court",
-			"id": "",
-			"length": 198060
+			"id": "4e8b1936-b72a-4325-91a5-4d5874b0a5a5",
+			"length": 198000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Phrenology",
-				"image": "",
-				"year": 2002,
-				"id": ""
+				"year": "",
+				"id": "b7f3b2af-3eec-478f-ad7a-47614fa52dfe",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Roots",
-					"id": ""
+					"id": "64cec3c2-4189-4a8a-93e4-eb0eece8375f",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Cody Chesnutt",
+					"id": "9ce09d9c-49d3-4278-affb-8c919f2775a1",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "The Seed (2.0) ",
-			"id": "",
-			"length": 268355
+			"name": "The Seed (2.0)",
+			"id": "50b9dc81-34a9-42a6-952c-b25d93f63e58",
+			"length": 268000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Amnesiac",
+				"year": "",
+				"id": "0caf4ccf-cbee-44e8-9331-86ba96c0f94f",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Radiohead",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Worrywort",
+			"id": "dd904380-608a-42c7-88d7-4c0f153533b1",
+			"length": 277000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

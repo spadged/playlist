@@ -1,90 +1,88 @@
 {
 	"name": "November",
-	"month": "11",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2004",
-	"id": "",
+	"id": "87ebd670-7b59-4f3d-be54-2736b21486df",
 	"tracks": [
 		{
 			"album": {
-				"name": "Collateral",
-				"image": "",
-				"id": ""
+				"name": "Lovebox",
+				"id": "a4e77eb2-4911-4c0c-8803-4209f6e8a8a0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Groove Armada",
-					"id": ""
+					"id": "25f92871-732d-481d-9f09-adb8d47e82c6"
 				}
 			],
 			"name": "Hands of Time",
-			"id": "",
+			"id": "f41b4d43-c48d-49ff-8241-17762653426b",
 			"length": 260075
 		},
 		{
 			"album": {
 				"name": "Collateral",
-				"image": "",
-				"id": ""
+				"id": "15a40b6f-7342-4314-94db-770caccfbe31"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "James Newton Howard",
-					"id": ""
+					"id": "243b6e00-508e-4dfb-a3ff-f6c80896526c"
 				}
 			],
 			"name": "Requiem",
-			"id": "",
+			"id": "7869d80f-feb9-4e83-b836-f5f40725b91f",
 			"length": 116845
 		},
 		{
 			"album": {
 				"name": "Live A L'Olympia",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "05a042dd-4b42-44d6-9bba-019a2c37e113"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jeff Buckley",
-					"id": ""
+					"id": "487fa324-d6df-415e-aeed-e9cd0d38a714"
 				}
 			],
 			"name": "Je N'en Connais Pas La Fin",
-			"id": "",
+			"id": "b3bac5ba-492c-4213-863d-bd7c87b237f7",
 			"length": 385750
 		},
 		{
 			"album": {
 				"name": "Sheath",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "ea8f7bcb-6832-4f24-ae43-7ebbbe6c31a5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "LFO",
-					"id": ""
+					"id": "7aa9db1a-09bc-4133-939f-2c61aa197e63"
 				}
 			],
 			"name": "'Premacy",
-			"id": "",
+			"id": "5c4d60db-40c3-4d7c-a941-2769fe9c85ea",
 			"length": 202553
 		},
 		{
 			"album": {
 				"name": "Bad Habits",
-				"image": "",
 				"year": 1994,
-				"id": ""
+				"id": "ffeecf1f-c4c0-4be7-af64-ac8af4c27f8f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nina Simone",
-					"id": ""
+					"id": "0063dc2d-cf5b-46c0-a38a-6935c38be662"
 				}
 			],
 			"name": "Four Women",
-			"id": "",
+			"id": "7a1944b1-75f0-4510-b8cb-1d68c8014541",
 			"length": 266553
 		}
 	]

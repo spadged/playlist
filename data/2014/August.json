@@ -1,91 +1,136 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2014",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2014",
-	"id": "",
+	"id": "1rjFIb8D1leL4g4QOY1ENb",
 	"tracks": [
 		{
 			"album": {
-				"name": "Fragrant World",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"name": "Laughing Stock",
+				"year": "",
+				"id": "f777e135-3e68-47bb-b7bd-b040bce2c0d7",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Yeasayer",
-					"id": ""
+					"name": "Talk Talk",
+					"id": "43325764-dfc9-4756-9502-c56eaefaeac2",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Blue Paper",
-			"id": "",
-			"length": 306703
+			"name": "New Grass",
+			"id": "265376ef-b70e-4a42-b163-9f0ccb548e6d",
+			"length": 586000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Trouble In Paradise",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "7edb95c3-2cdf-4bf6-9a33-6bf1ec32a37b",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "La Roux",
-					"id": ""
+					"id": "25907714-f115-48a9-be6e-589aba0a3d6f",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Cruel Sexuality",
-			"id": "",
-			"length": 255190
+			"id": "588534da-04e2-4fce-8537-3eecf08a6920",
+			"length": 255000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Laughing Stock",
-				"image": "",
-				"id": ""
+				"name": "Fragrant World",
+				"year": "",
+				"id": "b543986d-36b2-4c80-90e3-d2beb6ef110d",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Talk Talk",
-					"id": ""
+					"name": "Yeasayer",
+					"id": "36d53436-1f70-43f7-8441-e4e1fe7f496c",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "New Grass",
-			"id": "",
-			"length": 586501
+			"name": "Blue Paper",
+			"id": "ae28b8f7-9476-4e12-aada-f2b356050840",
+			"length": 306000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Warpaint",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "f8b5c782-a709-442f-be31-d4c480ed724a",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Warpaint",
-					"id": ""
+					"id": "6bc492cd-b367-4942-968c-ecc8a7969601",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Disco//very",
-			"id": "",
-			"length": 244427
+			"id": "3abc1a36-3528-47d6-8cf7-0f08f47f7da5",
+			"length": 244000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "EP2",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "579c5d1a-41f4-4dc9-8817-3773f6e6dc9e",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "FKA twigs",
-					"id": ""
+					"id": "d0f87ca5-5745-45a7-bed8-c618c390db4f",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Water Me",
-			"id": "",
-			"length": 204826
+			"id": "c7721abc-eb03-4f52-ae7b-b3d248746554",
+			"length": 204000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

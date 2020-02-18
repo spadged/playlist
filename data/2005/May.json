@@ -1,175 +1,180 @@
 {
 	"name": "May",
-	"month": "05",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2005",
-	"id": "",
+	"id": "a799eb00-2905-4074-8e2b-e4e3d28df3fc",
 	"tracks": [
 		{
 			"album": {
 				"name": "Guero",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "d707b2cc-ec67-4f01-81fe-7342a494a48c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beck",
-					"id": ""
+					"id": "ff9bbdef-78ff-4fa8-a16e-47c87b52c30d"
 				}
 			],
 			"name": "Earthquake Weather",
-			"id": "",
+			"id": "c701b369-b9ed-4fad-ad8e-25bf85f10060",
 			"length": 266057
 		},
 		{
 			"album": {
 				"name": "Global Underground #023 - Barcelona ",
-				"image": "",
 				"year": 2002,
-				"id": ""
+				"id": "adce049e-8f39-4c4c-a1f1-c93fb38a6920"
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "James Lavelle",
+					"id": "c8f5156a-3122-4e13-8b59-85dfd61c1ddd"
+				},
 				{
 					"name": "Dead Prez",
-					"id": ""
+					"id": "de8abb20-59ec-4d3f-81f4-92a7f0575301"
 				}
 			],
 			"name": "Hip Hop",
-			"id": "",
+			"id": "7b7b76cc-89d0-468a-bf8c-12101bad44ac",
 			"length": 230922
 		},
 		{
 			"album": {
 				"name": "Demon Days",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "01f5bfe6-9b5e-4851-aa6b-1f99206878bb"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Gorillaz",
-					"id": ""
+					"id": "e7af629b-06d5-4e6d-8b79-8c44493d74a1"
 				}
 			],
 			"name": "Feel Good Inc",
-			"id": "",
+			"id": "8c7909ff-7a20-424b-8da7-ef093a5162ab",
 			"length": 224052
 		},
 		{
 			"album": {
 				"name": "Global Underground #023 - Barcelona ",
-				"image": "",
 				"year": 2002,
-				"id": ""
+				"id": "a837df9a-1ad8-484e-bb3d-922c05da538b"
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "James Lavelle",
+					"id": "1fb9344e-6dfa-4113-98fd-55a54663cb7c"
+				},
 				{
 					"name": "Ian Brown",
-					"id": ""
+					"id": "935fcf1d-22ac-4d4a-a823-34c356541665"
 				}
 			],
 			"name": "F.E.A.R.",
-			"id": "",
+			"id": "4c98ba8c-7582-4607-9f3e-993f86a4e427",
 			"length": 338181
 		},
 		{
 			"album": {
-				"name": "Anthology",
-				"image": "",
+				"name": "John Lennon/Plastic Ono Band",
 				"year": 1998,
-				"id": ""
+				"id": "8f34c1d4-01e6-4090-a7b8-35d797b848c1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "John Lennon",
-					"id": ""
+					"id": "5888450f-e48c-48db-96ae-b52c0c463684"
 				}
 			],
 			"name": "God",
-			"id": "",
+			"id": "8e379e94-9311-42bb-8763-ff02bccd02b6",
 			"length": 213263
 		},
 		{
 			"album": {
 				"name": "The Love Below",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "e9511f72-2de4-4a07-a9f8-870371f3d531"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Outkast Featuring Norah Jones",
-					"id": ""
+					"name": "Outkast",
+					"id": "a5ea008d-7b3d-45a4-9566-856a0bba8368"
+				},
+				{
+					"name": "Norah Jones",
+					"id": "94f26570-ef49-4519-81df-09c8e3600575"
 				}
 			],
 			"name": "Take Off Your Cool",
-			"id": "",
+			"id": "e93d8994-0079-437f-8c28-9669cb003fdf",
 			"length": 158066
 		},
 		{
 			"album": {
 				"name": "The National",
-				"image": "",
-				"id": ""
+				"id": "cc2fe2b9-803d-44e5-bd62-bfe569ec0593"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The National",
-					"id": ""
+					"id": "9783479b-53cf-4810-8f8c-fe24b1005309"
 				}
 			],
 			"name": "Cold Girl Fever",
-			"id": "",
+			"id": "2ad977cc-6514-428e-9373-1e124be05ac5",
 			"length": 246987
 		},
 		{
 			"album": {
 				"name": "Franks Wild Years",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "acc2c381-2440-4b45-bd7c-2c23c6e43972"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tom Waits",
-					"id": ""
+					"id": "1a78be0a-ad44-4d9b-95e3-67415e758da1"
 				}
 			],
 			"name": "Please Wake Me Up",
-			"id": "",
+			"id": "aeac12a0-e11f-4140-bcb4-ed43f7b2277f",
 			"length": 215301
 		},
 		{
 			"album": {
 				"name": "It's All Around You",
-				"image": "",
-				"id": ""
+				"id": "916337f8-65fc-4221-b4f3-029206e3d73d"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tortoise",
-					"id": ""
+					"id": "0117a826-16b1-4ad2-ae5c-e734e33760c8"
 				}
 			],
 			"name": "The Lithium Stiffs",
-			"id": "",
+			"id": "fdd30584-7a3a-40c0-82c2-663bd6d75e25",
 			"length": 239281
 		},
 		{
 			"album": {
 				"name": "American 4: The Man Comes Around",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "cd5a2df0-4c1b-4b17-9b46-9c99b861d44d"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Johnny Cash",
-					"id": "6kACVPfCOnqzgfEF5ryl0x"
+					"id": "cd5c94d9-33b2-4455-8af7-a593e4669926"
 				}
 			],
 			"name": "I Hung My Head",
-			"id": "",
+			"id": "ff3d2049-357a-421a-89c6-d1b291355b61",
 			"length": 233769
 		}
 	]

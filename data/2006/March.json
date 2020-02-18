@@ -1,91 +1,89 @@
 {
 	"name": "March",
-	"month": "03",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2006",
-	"id": "",
+	"id": "19d76794-bfed-4ca7-aae1-6ee9affc10a0",
 	"tracks": [
 		{
 			"album": {
-				"name": "Greatest Hits of the 80s ",
-				"image": "",
-				"id": ""
+				"name": "The Luxury Gap",
+				"id": "cfeab936-f15f-40ec-8d98-0545a1b6d0df"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Heaven 17",
-					"id": ""
+					"id": "9b546f1f-e337-44fd-907e-4caf1ab83376"
 				}
 			],
 			"name": "Temptation",
-			"id": "",
+			"id": "be925185-6372-4987-9973-f0ac6994b41a",
 			"length": 251219
 		},
 		{
 			"album": {
-				"name": "Live With Me - Single",
-				"image": "",
+				"name": "Live With Me",
 				"year": 2006,
-				"id": ""
+				"id": "8b2370db-d1fd-453f-92b5-933587f3b8f0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Massive Attack",
-					"id": ""
+					"id": "5872c080-2650-4417-a57c-f928e22d7944"
 				}
 			],
 			"name": "Live With Me",
-			"id": "",
+			"id": "f14e3ef4-219e-45d8-881c-765ba51fce4c",
 			"length": 241973
 		},
 		{
 			"album": {
 				"name": "The Fragile",
-				"image": "",
 				"year": 1999,
-				"id": ""
+				"id": "c44035dd-26d8-47ac-ae15-b4e05ee1e8d2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": ""
+					"id": "5245a41c-8d27-4167-ba74-267f02647f8a"
 				}
 			],
 			"name": "StarFuckers Inc.",
-			"id": "",
+			"id": "e633481b-8214-47e7-8989-b40045758ffa",
 			"length": 300303
 		},
 		{
 			"album": {
 				"name": "Siamese Dream",
-				"image": "",
 				"year": 1993,
-				"id": ""
+				"id": "1481b125-b82a-449f-a001-10f4ea59c06f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Smashing Pumpkins",
-					"id": ""
+					"id": "dae89290-803a-40fa-8bce-70524a7d6508"
 				}
 			],
 			"name": "Sweet Sweet",
-			"id": "",
+			"id": "eaa11fd4-bbb3-4ef1-8ac7-79ae615386fc",
 			"length": 98768
 		},
 		{
 			"album": {
 				"name": "Jailbreak",
-				"image": "",
 				"year": 1976,
-				"id": ""
+				"id": "d248c33f-0ef7-4d56-92ab-ef7e48ea7c79"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Thin Lizzy",
-					"id": ""
+					"id": "bc8917dc-8701-4a04-816a-a9811372aa06"
 				}
 			],
 			"name": "Romeo And The Lonely Girl",
-			"id": "",
+			"id": "52a88e4c-ac3c-4af5-bc3f-cebe60fddd54",
 			"length": 237770
 		}
 	]

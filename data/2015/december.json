@@ -1,93 +1,136 @@
 {
 	"name": "December Top 5 2015",
-	"month": "december",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2015",
 	"id": "2DiqdoZ90FuaYJzEiAOVsJ",
 	"tracks": [
 		{
 			"album": {
 				"name": "Utakata No Hibi",
-				"image": "https://i.scdn.co/image/06256f13b2315792b80b8f8168cce508772456b8",
 				"year": "",
-				"id": "19BBMeNLwsJc3tA72c6Klh"
+				"id": "5524984e-8400-4db6-8829-13f3ea9e1579",
+				"externalId": {
+					"spotify": "19BBMeNLwsJc3tA72c6Klh"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Mariah",
-					"id": "0yMkwfeRG8lviQY0mZ1BBI"
+					"id": "9a7ffb4f-ce31-4cd1-bf12-dcbeb7e04f0b",
+					"externalId": {
+						"spotify": "0yMkwfeRG8lviQY0mZ1BBI"
+					}
 				}
 			],
 			"name": "Shinzo No Tobira",
-			"id": "1qSbZgwqe8nTQXajtEzbkM",
-			"length": 282386
+			"id": "e67ea339-6e2a-4b0b-8213-75f8ee926900",
+			"length": 282386,
+			"externalId": {
+				"spotify": "1qSbZgwqe8nTQXajtEzbkM"
+			}
 		},
 		{
 			"album": {
-				"name": "Heaven Or Las Vegas (Remastered)",
-				"image": "https://i.scdn.co/image/b82625ff4057711798302c4456bf2a9c061d3d9d",
+				"name": "Heaven Or Las Vegas",
 				"year": "",
-				"id": "37hHXJ7xas2Nb7Jbi8ip4E"
+				"id": "ca6bc2e1-b2fd-4742-a4cc-d5e1301e36d0",
+				"externalId": {
+					"spotify": "37hHXJ7xas2Nb7Jbi8ip4E"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Cocteau Twins",
-					"id": "5Wabl1lPdNOeIn0SQ5A1mp"
+					"id": "d6ae8812-0ddd-4303-9cc4-1fe5eefac740",
+					"externalId": {
+						"spotify": "5Wabl1lPdNOeIn0SQ5A1mp"
+					}
 				}
 			],
 			"name": "Cherry-coloured Funk",
-			"id": "6sVQNUvcVFTXvlk3ec0ngd",
-			"length": 192466
+			"id": "efb2c3b3-add4-44f3-b5fe-fae03d610fe2",
+			"length": 192466,
+			"externalId": {
+				"spotify": "6sVQNUvcVFTXvlk3ec0ngd"
+			}
 		},
 		{
 			"album": {
 				"name": "Parklands",
-				"image": "https://i.scdn.co/image/b70f2c960b5f0cebbfb747947532874f0841f9a1",
 				"year": "",
-				"id": "1NhIMd6O3u6F9Opm7skw9N"
+				"id": "2e5508cc-f1d8-4d25-8596-a6ab61fbe943",
+				"externalId": {
+					"spotify": "1NhIMd6O3u6F9Opm7skw9N"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hiatus",
-					"id": "421vyBBkhgRAOz4cYPvrZJ"
+					"id": "e3275d65-a4c7-4023-82bf-df11896c4a07",
+					"externalId": {
+						"spotify": "421vyBBkhgRAOz4cYPvrZJ"
+					}
 				}
 			],
 			"name": "We Can Be Ghosts Now",
-			"id": "4buZVQ9wDGXk8AbVeGM5E6",
-			"length": 258815
+			"id": "0a66f4ce-d944-4776-a54d-fc92dc3f181b",
+			"length": 258815,
+			"externalId": {
+				"spotify": "4buZVQ9wDGXk8AbVeGM5E6"
+			}
 		},
 		{
 			"album": {
-				"name": "The Lava - EP",
-				"image": "https://i.scdn.co/image/093f623016200725f1cb2f5dc02c6d37c824191b",
+				"name": "The Lava",
 				"year": "",
-				"id": "2VR0eAvJRcxpfH2sWIcsXP"
+				"id": "51e6fac6-fc12-4327-abf1-42a45073549e",
+				"externalId": {
+					"spotify": "2VR0eAvJRcxpfH2sWIcsXP"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Equateur",
-					"id": "0U1HS8p8djJ7F4qNGejemo"
+					"id": "818e6a43-261f-4378-bc9e-94a90f4d1e7e",
+					"externalId": {
+						"spotify": "0U1HS8p8djJ7F4qNGejemo"
+					}
 				}
 			],
 			"name": "The Lava",
-			"id": "3VRwQjJdUIN0XWzFxJWyVa",
-			"length": 278650
+			"id": "d4b91f7e-650f-44e7-bcf6-c39d671d11b9",
+			"length": 278650,
+			"externalId": {
+				"spotify": "3VRwQjJdUIN0XWzFxJWyVa"
+			}
 		},
 		{
 			"album": {
 				"name": "Another Night's Dreams Reach Earth Again",
-				"image": "https://i.scdn.co/image/2fdd1cff1abd8f795a987a78336e6b0310f5ce3f",
 				"year": "",
-				"id": "1JQx3Aeof7tkoYj6V1odFs"
+				"id": "0f34d193-12f8-4ca5-8a6c-3d8984fcdd88",
+				"externalId": {
+					"spotify": "1JQx3Aeof7tkoYj6V1odFs"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Outfit",
-					"id": "1izAFKIapgqtHzOr4Nk73u"
+					"id": "13bee01b-cce9-4d1a-bf25-2618b03372d9",
+					"externalId": {
+						"spotify": "1izAFKIapgqtHzOr4Nk73u"
+					}
 				}
 			],
 			"name": "Dashing in Passing",
-			"id": "6z4nJUCyGctmAnth6Lcequ",
-			"length": 219722
+			"id": "868b27a1-0f37-4349-8e90-0229343ba6f8",
+			"length": 219722,
+			"externalId": {
+				"spotify": "6z4nJUCyGctmAnth6Lcequ"
+			}
 		}
 	]
 }

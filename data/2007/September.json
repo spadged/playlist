@@ -1,91 +1,101 @@
 {
 	"name": "September",
-	"month": "09",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2007",
-	"id": "",
+	"id": "d4ac1091-8f62-43e5-8381-dd2ba9b5a14f",
 	"tracks": [
 		{
 			"album": {
-				"name": "Twin Peaks: Fire Walk With Me (Soundtrack from the Motion Picture)",
-				"image": "",
+				"name": "Twin Peaks: Fire Walk With Me",
 				"year": 1992,
-				"id": ""
+				"id": "8915457f-390d-4989-8282-985799c51051"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Angelo Badalamenti",
-					"id": ""
+					"id": "1186fbb0-d16a-465c-9a12-06a61d0606da"
+				},
+				{
+					"name": "Jimmy Scott",
+					"id": "7f767ac4-45aa-4a3f-b0af-29367162b2c7"
 				}
 			],
 			"name": "Sycamore Trees",
-			"id": "",
+			"id": "08f14f6d-92cb-4a40-b4e2-6a561000c71d",
 			"length": 238119
 		},
 		{
 			"album": {
 				"name": "Idealism",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "58c54b80-ce99-42e0-8830-13fa81003413"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Digitalism",
-					"id": ""
+					"id": "0cdc3dda-8801-4333-a351-fb278fbbaa84"
 				}
 			],
 			"name": "Pogo",
-			"id": "",
+			"id": "942f329a-0658-448a-a6bf-8bf2802e51f7",
 			"length": 226507
 		},
 		{
 			"album": {
 				"name": "I'll Sleep When You're Dead",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "e84ff741-836d-4dd3-a208-83d2604fe762"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "El-P",
-					"id": ""
+					"id": "3e1a08fb-d2e4-478e-b4e8-79971e2db7bf"
 				}
 			],
 			"name": "The Overly Dramatic Truth",
-			"id": "",
+			"id": "bb32045f-1ac6-4a45-812c-240dbf9a40a8",
 			"length": 270654
 		},
 		{
 			"album": {
 				"name": "Happy Birthday!",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "766b123a-6d2a-4749-b4bc-f374984d7d6e"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Modeselektor Featuring Thom Yorke",
-					"id": ""
+					"name": "Modeselektor",
+					"id": "617b3769-97d4-4793-b064-337799df49ad"
+				},
+				{
+					"name": "Thom Yorke",
+					"id": "17017095-6110-4d88-878a-f6d356b81cfc"
 				}
 			],
 			"name": "The White Flash",
-			"id": "",
+			"id": "03c2677d-7693-457e-9188-563cf16eee2a",
 			"length": 289645
 		},
 		{
 			"album": {
 				"name": "Self Defence",
-				"image": "",
-				"id": ""
+				"id": "87c45c75-6f1f-40e1-987b-49b00753b0eb"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Unkle",
-					"id": ""
+					"id": "e505e79c-6cba-4369-92a0-c8ed58ee4699"
+				},
+				{
+					"name": "Moby",
+					"id": "5b44de9f-2d49-4181-95a1-e5d9c98e5dc7"
 				}
 			],
 			"name": "In A State/God moving Over The Waters",
-			"id": "",
+			"id": "cfb43a8b-bbf7-4c4c-b474-2363ed2ab0aa",
 			"length": 666801
 		}
 	]

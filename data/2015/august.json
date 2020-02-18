@@ -1,93 +1,136 @@
 {
 	"name": "August Top 5 2015",
-	"month": "august",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2015",
 	"id": "1eIQ9yNAx269vt94p1MZcr",
 	"tracks": [
 		{
 			"album": {
 				"name": "Currents",
-				"image": "https://i.scdn.co/image/baf2307038b91139d25efafe175e2a66369efeb8",
 				"year": "",
-				"id": "0rxKf57PZvWEoU8v3m5W2q"
+				"id": "61cb00f0-aefe-423b-a5f8-d3d11c8bb614",
+				"externalId": {
+					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "5INjqkS1o8h1imAzPqGZBb"
+					"id": "db923391-a2cd-48d9-a1c0-d5e963ef44d3",
+					"externalId": {
+						"spotify": "5INjqkS1o8h1imAzPqGZBb"
+					}
 				}
 			],
 			"name": "Yes I'm Changing",
-			"id": "10ZwvQF9EbmXA20sFf9bO3",
-			"length": 270678
+			"id": "78e3c8be-a07a-401c-a6c9-381d408a3870",
+			"length": 270678,
+			"externalId": {
+				"spotify": "10ZwvQF9EbmXA20sFf9bO3"
+			}
 		},
 		{
 			"album": {
 				"name": "Born In The Echoes",
-				"image": "https://i.scdn.co/image/5fa791f48d2bc2d664a6bff1ef2781e42d14938f",
 				"year": "",
-				"id": "36E5LAM5D3AKnVx8s5dyc6"
+				"id": "05e28708-be9d-4385-8c50-6d47bb7e5bc3",
+				"externalId": {
+					"spotify": "36E5LAM5D3AKnVx8s5dyc6"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Chemical Brothers",
-					"id": "1GhPHrq36VKCY3ucVaZCfo"
+					"id": "95561727-a19d-4ae3-84f3-05ea623c647c",
+					"externalId": {
+						"spotify": "1GhPHrq36VKCY3ucVaZCfo"
+					}
 				}
 			],
 			"name": "Wide Open",
-			"id": "702bgtK1RC080O8pozq94S",
-			"length": 354603
+			"id": "0f43979f-ba68-4177-aa8f-708e890d1774",
+			"length": 354603,
+			"externalId": {
+				"spotify": "702bgtK1RC080O8pozq94S"
+			}
 		},
 		{
 			"album": {
 				"name": "The Best Of DMX",
-				"image": "https://i.scdn.co/image/a103ec4668f4e62387d7a19ade57a283aaf73527",
 				"year": "",
-				"id": "1B6nlZKCMmawwnnijTeH3I"
+				"id": "fd0935df-b00b-430b-90ec-4746efbe908f",
+				"externalId": {
+					"spotify": "1B6nlZKCMmawwnnijTeH3I"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "DMX",
-					"id": "1HwM5zlC5qNWhJtM00yXzG"
+					"id": "a603f1ed-9849-46b8-b593-8b7bb06fb28c",
+					"externalId": {
+						"spotify": "1HwM5zlC5qNWhJtM00yXzG"
+					}
 				}
 			],
 			"name": "X Gon' Give It To Ya",
-			"id": "2NeHnSFnwNp1Z5WYgcjJ8L",
-			"length": 219253
+			"id": "bb25149d-ba53-4d71-b993-bb8c5db2e5e6",
+			"length": 219253,
+			"externalId": {
+				"spotify": "2NeHnSFnwNp1Z5WYgcjJ8L"
+			}
 		},
 		{
 			"album": {
 				"name": "Ceremony",
-				"image": "https://i.scdn.co/image/ff179eaffa1c868563f0b1f0b97af020547d8220",
 				"year": "",
-				"id": "2qf3yzwEdaklZSu7777unx"
+				"id": "ecd73fe0-5ab2-492e-bfa2-b8d37f4682e1",
+				"externalId": {
+					"spotify": "2qf3yzwEdaklZSu7777unx"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Anna von Hausswolff",
-					"id": "1eiXrvua27VlWgZ9kiaIn6"
+					"id": "3f65cbe1-92b3-4001-89d5-1b91893b297a",
+					"externalId": {
+						"spotify": "1eiXrvua27VlWgZ9kiaIn6"
+					}
 				}
 			],
 			"name": "Mountains Crave",
-			"id": "0IZ05Z5gVwYQ4b3QFazN89",
-			"length": 215131
+			"id": "3b4b9830-75cd-4ade-bce3-21cf8674efdf",
+			"length": 215131,
+			"externalId": {
+				"spotify": "0IZ05Z5gVwYQ4b3QFazN89"
+			}
 		},
 		{
 			"album": {
-				"name": "Inherent Vice (Original Motion Picture Soundtrack)",
-				"image": "https://i.scdn.co/image/f0d318466e21f4718970bc1603821e2ffda1c865",
+				"name": "Inherent Vice",
 				"year": "",
-				"id": "3LIMxY8oQG9c70DWKe0iHN"
+				"id": "40c09e6b-99f6-4efb-bef4-d09b4065c51c",
+				"externalId": {
+					"spotify": "3LIMxY8oQG9c70DWKe0iHN"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jonny Greenwood",
-					"id": "0z9s3P5vCzKcUBSxgBDyLU"
+					"id": "38cb4f8e-d429-408a-ba2f-c6f51ad8c78d",
+					"externalId": {
+						"spotify": "0z9s3P5vCzKcUBSxgBDyLU"
+					}
 				}
 			],
 			"name": "Amethyst",
-			"id": "2vgNEKfr2AiRJB8Hjdi9Ha",
-			"length": 123653
+			"id": "17fc9aa1-132d-45c5-b3dd-55a6fa189aa3",
+			"length": 123653,
+			"externalId": {
+				"spotify": "2vgNEKfr2AiRJB8Hjdi9Ha"
+			}
 		}
 	]
 }

@@ -1,91 +1,93 @@
 {
 	"name": "April",
-	"month": "04",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2007",
-	"id": "",
+	"id": "6433419f-ebb3-480e-b856-b103351f0c8a",
 	"tracks": [
 		{
 			"album": {
 				"name": "Is This It?",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "fab96ca8-4e51-4af4-b9ae-2835d9d94434"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Strokes",
-					"id": ""
+					"id": "57f8afe0-0222-4324-bcf1-53e0b13a9b24"
 				}
 			],
 			"name": "Hard To Explain",
-			"id": "",
+			"id": "544649d7-26e0-41d3-af2b-cad681453950",
 			"length": 227787
 		},
 		{
 			"album": {
 				"name": "The Beach",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "e4a81a86-d28d-49b6-8203-c81f424e04fa"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Underworld",
-					"id": ""
+					"id": "ab46a56a-68f0-40a2-ad96-bd895365b011"
 				}
 			],
 			"name": "8 Ball",
-			"id": "",
+			"id": "a3f69c63-c0a3-48f3-9279-085b38b1aaea",
 			"length": 531539
 		},
 		{
 			"album": {
 				"name": "The Beach",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "30a4908f-389e-43f7-96ea-4fb8663fe395"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Faithless",
-					"id": ""
+					"id": "2094925c-4d8d-4641-842e-9d9b88f300bd"
 				}
 			],
 			"name": "Woozy",
-			"id": "",
+			"id": "76d9536b-5b66-478b-bac2-f4c49ed358a7",
 			"length": 473155
 		},
 		{
 			"album": {
 				"name": "The Beach",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "249b263d-2de7-458e-99bd-714aaf18cc7d"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Orbital & Angelo Badalamenti",
-					"id": ""
+					"name": "Orbital",
+					"id": "93748910-ae81-48df-bc47-5af19477c427"
+				},
+				{
+					"name": "Angelo Badalamenti",
+					"id": "58b670dc-a57b-4f35-a3dc-2fe5d71a3805"
 				}
 			],
 			"name": "Beached",
-			"id": "",
+			"id": "a2455f06-d120-47c1-999e-54e0a6ed7191",
 			"length": 403069
 		},
 		{
 			"album": {
 				"name": "Return To Cookie Mountain",
-				"image": "",
-				"id": ""
+				"id": "1a630fae-9ba6-4600-bea9-6c56059937d1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0"
 				}
 			],
 			"name": "Snakes and Martyrs",
-			"id": "",
+			"id": "ed7f8faa-b055-40d1-87fe-752a4bb0f712",
 			"length": 246987
 		}
 	]

@@ -1,175 +1,168 @@
 {
 	"name": "February",
-	"month": "02",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2006",
-	"id": "",
+	"id": "52e3d647-3fe3-4f92-95d2-dc8a8e0d0b59",
 	"tracks": [
 		{
 			"album": {
 				"name": "Guerolito",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "05050ae9-375d-4907-ae67-3b4c9f90f45b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beck",
-					"id": ""
+					"id": "ff9bbdef-78ff-4fa8-a16e-47c87b52c30d"
 				}
 			],
 			"name": "Emergency Exit (Remixed by Th' Corn Gangg)",
-			"id": "",
+			"id": "20b63243-4a80-461f-b11b-f63efffda51c",
 			"length": 198227
 		},
 		{
 			"album": {
 				"name": "The Very Best Of The Sun Years",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "511144fa-36e6-452f-a9f6-a5a8d5dc6ec4"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Johnny Cash",
-					"id": "6kACVPfCOnqzgfEF5ryl0x"
+					"id": "cd5c94d9-33b2-4455-8af7-a593e4669926"
 				}
 			],
 			"name": "Folsom Prison Blues",
-			"id": "",
+			"id": "cd9c0e7e-a80d-4bcb-b7d4-6cae5b5506ef",
 			"length": 168933
 		},
 		{
 			"album": {
 				"name": "Mel",
-				"image": "",
 				"year": 1996,
-				"id": ""
+				"id": "56f90809-daca-47ab-b503-3ef7f522dcbc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "East River Pipe",
-					"id": ""
+					"id": "cf77596e-2c75-4929-a7d1-bec2f8fe1be2"
 				}
 			],
 			"name": "Prettiest Whore",
-			"id": "",
+			"id": "8b0d6c1c-8a8f-4c21-99bd-ee61205dac78",
 			"length": 212897
 		},
 		{
 			"album": {
 				"name": "The Back Room",
-				"image": "",
-				"id": ""
+				"id": "13a1d8e9-ef37-44eb-98ef-40d89d9c1b13"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Editors",
-					"id": ""
+					"id": "817c340d-4d38-408c-ba9c-b9bca75b35cb"
 				}
 			],
 			"name": "You are Fading",
-			"id": "",
+			"id": "4333effd-eb85-4c39-a9dd-71a277a9ab98",
 			"length": 270602
 		},
 		{
 			"album": {
 				"name": "Sketches For My Sweetheart The Drunk",
-				"image": "",
 				"year": 1998,
-				"id": ""
+				"id": "c562b185-fd6d-42e4-ba5c-0e722c16381c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jeff Buckley",
-					"id": ""
+					"id": "487fa324-d6df-415e-aeed-e9cd0d38a714"
 				}
 			],
 			"name": "I Know We Could Be So Happy Baby (If We Wanted To Be)",
-			"id": "",
+			"id": "2651b723-8413-47b4-a914-9f89c9d1adb6",
 			"length": 267311
 		},
 		{
 			"album": {
 				"name": "Anthology",
-				"image": "",
 				"year": 1998,
-				"id": ""
+				"id": "df7ff5ba-d5cd-40d6-9b36-aa4df66b91a1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "John Lennon",
-					"id": ""
+					"id": "5888450f-e48c-48db-96ae-b52c0c463684"
 				}
 			],
 			"name": "Borrowed Time",
-			"id": "",
+			"id": "102da8b6-4953-40e2-8bc4-532b0ecb71f2",
 			"length": 238680
 		},
 		{
 			"album": {
-				"name": "I Might be wrong. {special}",
-				"image": "",
-				"id": ""
+				"name": "Amnesiac",
+				"id": "0caf4ccf-cbee-44e8-9331-86ba96c0f94f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "Cuttooth",
-			"id": "",
+			"id": "82a119ba-a72b-41f9-b9ce-e7cb389ee6a2",
 			"length": 324597
 		},
 		{
 			"album": {
 				"name": "Sgt. Pepper's Lonely Hearts Club Band",
-				"image": "",
 				"year": 1967,
-				"id": ""
+				"id": "0a4bdf5d-48f8-4058-b66f-9a1a355a5be2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Beatles",
-					"id": ""
+					"id": "7b6056f0-45b2-4b89-8db6-a92088ebeef1"
 				}
 			],
 			"name": "A Day In The Life",
-			"id": "",
+			"id": "6d9ed6a4-ed0c-469d-acdd-4549cea8ca70",
 			"length": 333975
 		},
 		{
 			"album": {
 				"name": "Fever To Tell",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "617e47f0-28e3-42be-97bd-dae8f3ff5027"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Yeah Yeah Yeahs",
-					"id": "3TNt4aUIxgfy9aoaft5Jj2"
+					"id": "6ed70853-8b41-45aa-b1dc-a7bfc1737a49"
 				}
 			],
 			"name": "Pin",
-			"id": "",
+			"id": "11f77e7f-62ea-46be-b2c9-b4c666d25a73",
 			"length": 120058
 		},
 		{
 			"album": {
 				"name": "The Freewheelin' Bob Dylan",
-				"image": "",
 				"year": 1963,
-				"id": ""
+				"id": "e73a1db5-dae5-489a-a9ec-2a50fc7758c8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bob Dylan",
-					"id": "74ASZWbe4lXaubB36ztrGX"
+					"id": "beca1caf-35b1-454b-a26c-3a9f733fcefc"
 				}
 			],
 			"name": "Masters Of War",
-			"id": "",
+			"id": "800295b0-f43c-4aa0-b055-5bb175a8f968",
 			"length": 278256
 		}
 	]

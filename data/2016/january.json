@@ -1,93 +1,136 @@
 {
 	"name": "January Top 5 2016",
-	"month": "january",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2016",
 	"id": "2Kuc8EgmbITV34iqHna1DC",
 	"tracks": [
 		{
 			"album": {
 				"name": "Blackstar",
-				"image": "https://i.scdn.co/image/de1c3166528adc912b746cac1f28ccd501801218",
 				"year": "",
-				"id": "2w1YJXWMIco6EBf0CovvVN"
+				"id": "2c70a23c-514e-448b-a374-6f41a5c1576c",
+				"externalId": {
+					"spotify": "2w1YJXWMIco6EBf0CovvVN"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "David Bowie",
-					"id": "0oSGxfWSnnOXhD2fKuz2Gy"
+					"id": "bc493e43-e606-4a71-851b-3f10762a6774",
+					"externalId": {
+						"spotify": "0oSGxfWSnnOXhD2fKuz2Gy"
+					}
 				}
 			],
 			"name": "I Can't Give Everything Away",
-			"id": "42bQZnfDGmejgB5elWY3QA",
-			"length": 347280
+			"id": "a955edd6-01a4-412c-a3ed-239c07f9a5b9",
+			"length": 347280,
+			"externalId": {
+				"spotify": "42bQZnfDGmejgB5elWY3QA"
+			}
 		},
 		{
 			"album": {
 				"name": "Move Systems",
-				"image": "https://i.scdn.co/image/aea5630726910963ed16adc5c65db6f333096d82",
 				"year": "",
-				"id": "1AGw9r5Gc8yTNDHSucPnPE"
+				"id": "b486084c-5a67-46d5-8c0d-98dbf1f867fc",
+				"externalId": {
+					"spotify": "1AGw9r5Gc8yTNDHSucPnPE"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Georgia",
-					"id": "06knYh538h5SI7OAEF8ek3"
+					"id": "d4439ade-57a7-4e6f-a1f1-56395ea935b8",
+					"externalId": {
+						"spotify": "06knYh538h5SI7OAEF8ek3"
+					}
 				}
 			],
 			"name": "Move Systems",
-			"id": "3AA5tJXZ2Xq8NPCXWGxhhe",
-			"length": 211859
+			"id": "9ec989a4-9907-4103-84d5-d985cead0be2",
+			"length": 211859,
+			"externalId": {
+				"spotify": "3AA5tJXZ2Xq8NPCXWGxhhe"
+			}
 		},
 		{
 			"album": {
 				"name": "Persephone Dreams",
-				"image": "https://i.scdn.co/image/1159f295addfe365ec3ed9b9189e11dc9fce76e8",
 				"year": "",
-				"id": "4WlYAXQ299MIo4zoUAVX4F"
+				"id": "fc131eae-5a1b-4af4-8ace-a8e7a6b24f6f",
+				"externalId": {
+					"spotify": "4WlYAXQ299MIo4zoUAVX4F"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "NZCA LINES",
-					"id": "1pmvcZaqyRJw8o6at71MJP"
+					"id": "b90ad3f2-70c8-4fae-aa1c-d96571d3b963",
+					"externalId": {
+						"spotify": "1pmvcZaqyRJw8o6at71MJP"
+					}
 				}
 			],
 			"name": "Persephone Dreams",
-			"id": "6OfZTS1i4K5e2b1U1WVa6p",
-			"length": 367849
+			"id": "7aeff859-7e85-48f3-a746-0979ed774a4b",
+			"length": 367849,
+			"externalId": {
+				"spotify": "6OfZTS1i4K5e2b1U1WVa6p"
+			}
 		},
 		{
 			"album": {
 				"name": "Trick",
-				"image": "https://i.scdn.co/image/c0cf66b57374145e85c8ea184e09e871c405282e",
 				"year": "",
-				"id": "5lC3WbJnhVuwucuUOwpTQ0"
+				"id": "f17ba52c-957c-486b-9a46-adc8c25b26da",
+				"externalId": {
+					"spotify": "5lC3WbJnhVuwucuUOwpTQ0"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kele",
-					"id": "0LsO2x5E0KNdMxkWh0EmE0"
+					"id": "97ff8aab-76b2-452f-be67-693c38313819",
+					"externalId": {
+						"spotify": "0LsO2x5E0KNdMxkWh0EmE0"
+					}
 				}
 			],
 			"name": "First Impressions",
-			"id": "7dxMgPgXF0CVCswasSdQ0M",
-			"length": 236456
+			"id": "334cede9-def7-4bff-9169-9bc8151a99eb",
+			"length": 236456,
+			"externalId": {
+				"spotify": "7dxMgPgXF0CVCswasSdQ0M"
+			}
 		},
 		{
 			"album": {
 				"name": "Lost in the Dream",
-				"image": "https://i.scdn.co/image/bb2baeb4e627df0aeff6e863ff713693803fc57d",
 				"year": "",
-				"id": "7ogAbzopd3XkOj3gdStnSi"
+				"id": "c1aff0c3-8f21-4eaa-95e2-13b96abd1921",
+				"externalId": {
+					"spotify": "7ogAbzopd3XkOj3gdStnSi"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The War On Drugs",
-					"id": "6g0mn3tzAds6aVeUYRsryU"
+					"id": "4577b75e-66b2-4c26-bcac-f7e0a488e5d0",
+					"externalId": {
+						"spotify": "6g0mn3tzAds6aVeUYRsryU"
+					}
 				}
 			],
 			"name": "Under The Pressure",
-			"id": "5oMFoh1uOsVzERQyAFe7M8",
-			"length": 530706
+			"id": "29f63937-1147-4608-a231-992dc1bd93f8",
+			"length": 530706,
+			"externalId": {
+				"spotify": "5oMFoh1uOsVzERQyAFe7M8"
+			}
 		}
 	]
 }

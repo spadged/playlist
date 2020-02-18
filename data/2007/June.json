@@ -1,175 +1,173 @@
 {
 	"name": "June",
-	"month": "06",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2007",
-	"id": "",
+	"id": "ddb77846-c1b1-4dc6-9067-eace4013b030",
 	"tracks": [
 		{
 			"album": {
 				"name": "New Health Rock",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "867e17e3-ad2f-4f3f-b61e-02fbc4eedfbc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0"
 				}
 			],
 			"name": "New Health Rock",
-			"id": "",
+			"id": "ad28e00b-7c90-4caf-b4a3-f472a3a60e14",
 			"length": 243644
 		},
 		{
 			"album": {
 				"name": "Favourite Worst Nightmare",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "7813368c-6e20-44e5-b2a4-2ec7a8f81948"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arctic Monkeys",
-					"id": ""
+					"id": "63da9fe3-c88f-4d33-a0d5-6d1ba5f4aede"
 				}
 			],
 			"name": "Flourescent Adolescent",
-			"id": "",
+			"id": "dc6e6aea-b885-4098-a5f8-8bf927554ba0",
 			"length": 177580
 		},
 		{
 			"album": {
 				"name": "Ma Fleur",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "e186eaa1-9d62-4742-a225-4ff54fb4173c"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "The Cinematic Orchestra Feat. Patrick Watson",
-					"id": ""
+					"name": "The Cinematic Orchestra",
+					"id": "1bdbfec1-0180-42a1-b128-3a29404c68dd"
+				},
+				{
+					"name": "Patrick Watson",
+					"id": "c10b4c1b-09bb-46c2-a883-25062c83b4ee"
 				}
 			],
 			"name": "To Build A Home",
-			"id": "",
+			"id": "c45c5bd8-7d21-4bcc-8b6e-6c10324142af",
 			"length": 371382
 		},
 		{
 			"album": {
 				"name": "Warm & Scratchy",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "4bae13ed-2a64-4985-9b95-8833a71c7f97"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jesu",
-					"id": ""
+					"id": "b96f4de1-76a3-43bf-b70a-8295bf3c6862"
 				}
 			],
 			"name": "Silver (Original Beats)",
-			"id": "",
+			"id": "4119fdb1-813e-4040-900e-d896c5777ada",
 			"length": 421459
 		},
 		{
 			"album": {
 				"name": "Human After All ",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "6beacf48-e384-4bdf-bf8c-eb528de47318"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Daft Punk ",
-					"id": ""
+					"name": "Daft Punk",
+					"id": "f3465668-ddb5-4494-a9af-60a6c73debfa"
 				}
 			],
 			"name": "emotion",
-			"id": "",
+			"id": "8eca5642-af9a-4c4a-b3e8-0bead8700c94",
 			"length": 417541
 		},
 		{
 			"album": {
 				"name": "Our Love To Admire",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "03274d2e-49fc-4572-9425-787840e836c3"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Interpol",
-					"id": ""
+					"id": "ef080f93-7b82-4e68-ae8e-60fbe627d865"
 				}
 			],
 			"name": "The Heinrich Maneuver",
-			"id": "",
+			"id": "25b8fbd0-14e4-4c2a-ad09-a0d8b78ebfc7",
 			"length": 208692
 		},
 		{
 			"album": {
 				"name": "Overtones",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "b49da717-3bdd-4c0a-9b3b-6af4c05a2209"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Just Jack",
-					"id": ""
+					"id": "53f5af18-cef0-4cf2-b906-a66e15ea68bb"
 				}
 			],
 			"name": "Writer's Block",
-			"id": "",
+			"id": "54f6fcc0-29ba-443b-92ac-2862d114a4ff",
 			"length": 222693
 		},
 		{
 			"album": {
-				"image": "",
-				"id": ""
+				"name": "Kala",
+				"id": "33aac9e4-f674-491b-a364-7020e0105d8c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "MIA",
-					"id": ""
+					"id": "8dcc5428-a924-436a-b6a6-5fc5fc0f526b"
 				}
 			],
 			"name": "Boyz",
-			"id": "",
+			"id": "b01ee2cd-cabd-404e-807e-63823f5638f4",
 			"length": 210886
 		},
 		{
 			"album": {
 				"name": "Era Vulgaris",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "3a4637ca-065c-4e5a-8669-b62f7feaee63"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Queens of the Stone Age",
-					"id": ""
+					"id": "073b9ca7-2b8f-4ce5-b07d-5807e00363c6"
 				}
 			],
 			"name": "Sick, Sick, Sick",
-			"id": "",
+			"id": "d1822481-56f5-4ee2-bcdd-078124fbdc9e",
 			"length": 214778
 		},
 		{
 			"album": {
 				"name": "War Stories",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "dad8c7e5-6d05-40b8-9843-406936512693"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "UNKLE featuring Autolux",
-					"id": ""
+					"id": "7fca1753-a56f-4762-88b3-0c04f6417e99"
 				}
 			],
 			"name": "PERSONS & MACHINERY",
-			"id": "",
+			"id": "7278f348-61c9-4854-b32f-58982ac8796b",
 			"length": 366915
 		}
 	]

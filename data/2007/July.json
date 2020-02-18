@@ -1,92 +1,90 @@
 {
 	"name": "July",
-	"month": "07",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2007",
-	"id": "",
+	"id": "47f80f7d-d733-4275-b59c-b452f452e946",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Warning",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "1f3b3b86-4a72-4180-9bdb-7c61e3ef4a2e"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": ""
+					"id": "928f7df9-7183-48d4-937a-b1712b547e84"
 				}
 			],
 			"name": "Boys From School",
-			"id": "",
+			"id": "e215bdb6-251d-4fb1-9251-46bb642f3125",
 			"length": 319712
 		},
 		{
 			"album": {
 				"name": "Discovery",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "415ab1f3-0e6a-480b-b71e-33c291c912ac"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Daft Punk",
-					"id": ""
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128"
 				}
 			],
 			"name": "Harder, Better, Faster, Stronger",
-			"id": "",
+			"id": "593cba5b-51c4-4bf2-b5a1-2c4ec6f982dd",
 			"length": 224339
 		},
 		{
 			"album": {
 				"name": "Cross",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "870651a6-531f-443b-8345-c3c8ec79ec17"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Justice",
-					"id": ""
+					"id": "f6a44559-c685-4297-814c-ba9db8696ca0"
 				}
 			],
 			"name": "D.A.N.C.E",
-			"id": "",
+			"id": "1fcdaf2b-a418-4d49-9316-8efae047f806",
 			"length": 242311
 		},
 		{
 			"album": {
 				"name": "We Are The Night",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "c00f7c8b-ffaa-4ff2-b680-792d8fd7e8e6"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Chemical Brothers",
-					"id": "1GhPHrq36VKCY3ucVaZCfo"
+					"id": "c8401f21-bb18-47b6-b5c2-83980ed7594a"
 				}
 			],
 			"name": "The Salmon Dance",
-			"id": "",
+			"id": "f27e1f9e-792b-4d73-bd80-18ec1d6451f7",
 			"length": 220290
 		},
 		{
 			"album": {
 				"name": "Crystal Castles",
-				"image": "",
 				"year": 2008,
-				"id": ""
+				"id": "f7c0f748-ae03-4fa8-bcba-c6c1232683e8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Crystal Castles",
-					"id": ""
+					"id": "d523bbc0-9ee3-4b21-b07a-ceddf961b15f"
 				}
 			],
 			"name": "Love and caring",
-			"id": "",
+			"id": "08aecae5-3b25-4bd0-ade6-2c3807dcebe2",
 			"length": 140486
 		}
 	]

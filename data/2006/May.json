@@ -1,92 +1,90 @@
 {
 	"name": "May",
-	"month": "05",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2006",
-	"id": "",
+	"id": "f48a559d-7b43-40a4-b5e3-5ce91359b343",
 	"tracks": [
 		{
 			"album": {
-				"name": "Alternative Eighties",
-				"image": "",
+				"name": "Combat Rock",
 				"year": 2002,
-				"id": ""
+				"id": "5d454c38-1922-478a-a0c8-489feb5e6630"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Clash",
-					"id": ""
+					"id": "935f4bf9-76f7-455b-b070-f945bc33cb1f"
 				}
 			],
 			"name": "Rock The Casbah",
-			"id": "",
+			"id": "30794121-3e20-4b8c-ab50-cfbfacaadc52",
 			"length": 225880
 		},
 		{
 			"album": {
 				"name": "Elizabethtown",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "514c3693-4c05-44ab-899a-533992c810b6"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Washington Phillips",
-					"id": ""
+					"id": "3365373a-2000-416e-8468-114f8ec100ad"
 				}
 			],
 			"name": "What Are They Doing In Heaven Today",
-			"id": "",
+			"id": "c115152e-5b47-46e0-b0a6-21be5da8ef43",
 			"length": 198112
 		},
 		{
 			"album": {
 				"name": "The Lamb Lies Down On Broadway",
-				"image": "",
 				"year": 1994,
-				"id": ""
+				"id": "12963968-2833-47f4-a0f2-ffc1b1565c18"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Genesis",
-					"id": ""
+					"id": "9fe46ab4-e6e0-4f9e-aebc-d1a5180a5ebd"
 				}
 			],
 			"name": "Back In N.Y.C.",
-			"id": "",
+			"id": "cba565b7-54cf-403e-aeb2-c74567b0aa35",
 			"length": 342817
 		},
 		{
 			"album": {
 				"name": "About A Boy",
-				"image": "",
 				"year": 2002,
-				"id": ""
+				"id": "cdca04cf-8d9c-4cfc-bf9b-fa1147655733"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Badly Drawn Boy",
-					"id": ""
+					"id": "5b51791e-7f2c-479e-bfcc-332602bed349"
 				}
 			],
 			"name": "A Minor Incident",
-			"id": "",
+			"id": "2ef4ab9c-b91d-4471-86cc-2763d34b14c4",
 			"length": 224365
 		},
 		{
 			"album": {
-				"name": "Supermassive Black Hole - Single",
-				"image": "",
+				"name": "Black holes and revelations",
 				"year": 2006,
-				"id": ""
+				"id": "26f5b66f-f42e-45f0-87de-4e7791303c3a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Muse",
-					"id": ""
+					"id": "57ccadf2-8fad-43b5-a5d9-15b970d7ce96"
 				}
 			],
 			"name": "Supermassive Black Hole",
-			"id": "",
+			"id": "82ce0742-3de4-4778-bddd-bdf6755db5af",
 			"length": 210789
 		}
 	]

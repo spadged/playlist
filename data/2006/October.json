@@ -1,92 +1,94 @@
 {
 	"name": "October",
-	"month": "10",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2006",
-	"id": "",
+	"id": "80cb5447-8176-4d6c-8446-6d42faa69e3a",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Three E.P.'s",
-				"image": "",
 				"year": 1997,
-				"id": ""
+				"id": "cf925207-158c-48f9-8a0a-2877e263d2bf"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Beta Band",
-					"id": ""
+					"id": "5100c0cb-5f28-466a-b5ef-bf164e2e11a7"
 				}
 			],
 			"name": "Dry The Rain",
-			"id": "",
+			"id": "cbb2ee99-64b6-4b15-80bb-290d569e54ff",
 			"length": 365191
 		},
 		{
 			"album": {
 				"name": "The Information",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "a1ebff7a-37b0-409c-ad08-a380f651033a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beck",
-					"id": ""
+					"id": "ff9bbdef-78ff-4fa8-a16e-47c87b52c30d"
 				}
 			],
 			"name": "New Round",
-			"id": "",
+			"id": "6b555206-48bd-4ec0-b71e-34d6935c8b4b",
 			"length": 205662
 		},
 		{
 			"album": {
 				"name": "Remixes",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "880d2ff7-8e50-4f1b-bd53-10224bcb82e7"
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Four Tet",
+					"id": "f44998e2-a1cc-4ef3-b8d7-353d5b75cb76"
+				},
 				{
 					"name": "Madvillain",
-					"id": ""
+					"id": "5db0bc8b-be22-4e98-a3fb-f3effe516da2"
 				}
 			],
 			"name": "Great Day (Four Tet Remix)",
-			"id": "",
+			"id": "bf24feae-d9cb-4eda-b388-65d278080209",
 			"length": 165041
 		},
 		{
 			"album": {
 				"name": "The Warning",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "acdbf36a-a8a9-4f04-8a6f-a20dc094cbad"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": ""
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89"
 				}
 			],
 			"name": "Over And Over",
-			"id": "",
+			"id": "96d72c4e-f732-40f3-a947-e7557c2b61ec",
 			"length": 347924
 		},
 		{
 			"album": {
 				"name": "Return To Cookie Mountain",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "1a630fae-9ba6-4600-bea9-6c56059937d1"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0"
 				}
 			],
 			"name": "I Was A Lover",
-			"id": "",
+			"id": "5be94ef4-8284-4332-ab13-e62384eddee0",
 			"length": 261067
 		}
 	]

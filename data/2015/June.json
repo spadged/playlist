@@ -1,93 +1,150 @@
 {
-	"name": "June",
-	"month": "06",
+	"name": "June Top 5 2015",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2015",
-	"id": "",
+	"id": "5MDLLl4G9YJ3T2Fyq8dfHI",
 	"tracks": [
 		{
 			"album": {
 				"name": "Ambivalence Avenue",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "5e8ddf02-f4d5-4388-9131-edc88a05eb34",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bibio",
-					"id": ""
+					"id": "f076a11e-d339-4b20-9262-a1180bffa5bf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "cry! baby!",
-			"id": "",
-			"length": 238027
-		},
-		{
-			"album": {
-				"name": "Why Make Sense?",
-				"image": "",
-				"year": 2015,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Hot Chip",
-					"id": ""
-				}
-			],
-			"name": "Need You Now",
-			"id": "",
-			"length": 285596
+			"id": "1a85b882-d85a-4dee-881b-d2ba392ef907",
+			"length": 238000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "In Colour",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "39c64ab8-ffc3-4cde-a158-ce66890294f5",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jamie xx",
-					"id": ""
+					"id": "dc00c068-f555-46e1-9e68-592786dec474",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Romy",
+					"id": "59957765-d8ea-4d93-be7e-4703ea76b50e",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "SeeSaw",
-			"id": "",
-			"length": 268852
+			"id": "90b8887b-e79c-47e0-9197-c88239d9990d",
+			"length": 268000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Peace Is the Mission",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "18a2cfe9-8b6e-4aa9-856f-7c7aa784ae1e",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Major Lazer",
-					"id": ""
+					"id": "298816c8-02cf-48a7-b698-68f93abe0c4a",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Wild Belle",
+					"id": "5c0752af-573d-41eb-a621-90a253ab08d5",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Be Together",
-			"id": "",
-			"length": 233038
+			"id": "020c727f-9fab-4326-84ec-10d476b50ac6",
+			"length": 233000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Why Make Sense?",
+				"year": "",
+				"id": "e4f85fde-488b-440f-b75b-2ed2c9527d77",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Hot Chip",
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Need You Now",
+			"id": "9fac5fbb-7e46-436d-a8c4-1417f1952ccd",
+			"length": 285000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Ego Death",
-				"image": "",
-				"year": 2015,
-				"id": ""
+				"year": "",
+				"id": "1fb8bc15-c9e0-46f0-85e3-75f200b9dd5e",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Internet",
-					"id": ""
+					"id": "8d9f28de-a614-4882-8c91-1ba6a9c157f0",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Get Away",
-			"id": "",
-			"length": 150282
+			"id": "2a22eadc-ec4d-4ed0-a8c5-a193f621ecc5",
+			"length": 150000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

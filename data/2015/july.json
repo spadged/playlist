@@ -1,93 +1,136 @@
 {
 	"name": "July Top 5 2015",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2015",
 	"id": "1AeWnCj0ZmgDXD177YMGIa",
 	"tracks": [
 		{
 			"album": {
 				"name": "1992 EP",
-				"image": "https://i.scdn.co/image/46960799eec57f677f315c31e03016b5ada85ac2",
 				"year": "",
-				"id": "6NebCuedf30wTZqRTGprn2"
+				"id": "3f29edcd-4023-4db4-a491-51136865d921",
+				"externalId": {
+					"spotify": "6NebCuedf30wTZqRTGprn2"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ben Khan",
-					"id": "2YwPMfgNYeDjbkGI7PwZ3K"
+					"id": "24042b52-3f1f-402c-9058-f8ecf4ad2cc8",
+					"externalId": {
+						"spotify": "2YwPMfgNYeDjbkGI7PwZ3K"
+					}
 				}
 			],
 			"name": "Youth",
-			"id": "3bfZPCm4UrEEmrayPyxtbU",
-			"length": 197447
+			"id": "db9f3b82-7805-420a-9320-19c7e9e2c7e3",
+			"length": 197447,
+			"externalId": {
+				"spotify": "3bfZPCm4UrEEmrayPyxtbU"
+			}
 		},
 		{
 			"album": {
 				"name": "Black and Blue Point Two",
-				"image": "https://i.scdn.co/image/37dfa54104b3bdae613f803f52fa40f073c84200",
 				"year": "",
-				"id": "2lEDwGmnDigTwgVlUoSOfj"
+				"id": "d0aecf58-556c-40d6-9df1-02ff0f240d15",
+				"externalId": {
+					"spotify": "2lEDwGmnDigTwgVlUoSOfj"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Raleigh Ritchie",
-					"id": "0IB0VjX9NSrGX6PjCXGVcq"
+					"id": "267d5ac3-0650-44ff-8e99-4047a1700532",
+					"externalId": {
+						"spotify": "0IB0VjX9NSrGX6PjCXGVcq"
+					}
 				}
 			],
 			"name": "The Chased",
-			"id": "2MxjJldXH0aNaRIzD58gwq",
-			"length": 252426
+			"id": "4692815e-a43e-4cef-aafd-ba9e5a2a034c",
+			"length": 252426,
+			"externalId": {
+				"spotify": "2MxjJldXH0aNaRIzD58gwq"
+			}
 		},
 		{
 			"album": {
 				"name": "Anjou",
-				"image": "https://i.scdn.co/image/8ca8507ffeaed0a383be4bbaec8992dbaa813a39",
 				"year": "",
-				"id": "7xImr4MTdxDm8eJsYnrHrS"
+				"id": "1ef13af3-fc8a-400a-9f35-29f998b7c81f",
+				"externalId": {
+					"spotify": "7xImr4MTdxDm8eJsYnrHrS"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Youandewan",
-					"id": "4z6FshDl8yeHQSpFWdgN32"
+					"id": "6a80ed23-7232-41f1-921e-16c16b96337d",
+					"externalId": {
+						"spotify": "4z6FshDl8yeHQSpFWdgN32"
+					}
 				}
 			],
 			"name": "Anjou - Original Mix",
-			"id": "5FE7lwVtWQ0kCjD8Nwr3lJ",
-			"length": 401423
+			"id": "05ee4716-798e-408d-850e-9968cbe37660",
+			"length": 401423,
+			"externalId": {
+				"spotify": "5FE7lwVtWQ0kCjD8Nwr3lJ"
+			}
 		},
 		{
 			"album": {
 				"name": "Indigo Child",
-				"image": "https://i.scdn.co/image/df99855c5403dcb2ef402353d18bcb7708aee053",
 				"year": "",
-				"id": "3HVk2UGwXUfE51s1MmPzrL"
+				"id": "f0a87cdc-f6ae-40d0-ad3b-2917f19cb32e",
+				"externalId": {
+					"spotify": "3HVk2UGwXUfE51s1MmPzrL"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Raury",
-					"id": "2PU4qFehXQF7WnlFsJpBiJ"
+					"id": "9e83e612-0076-4f3e-ab1a-a87bfb9ee446",
+					"externalId": {
+						"spotify": "2PU4qFehXQF7WnlFsJpBiJ"
+					}
 				}
 			],
 			"name": "God's Whisper",
-			"id": "4BjX3hTy43SMyXUKXBVF2v",
-			"length": 248613
+			"id": "a0b7113c-f040-488f-b678-10c78e4c16f7",
+			"length": 248613,
+			"externalId": {
+				"spotify": "4BjX3hTy43SMyXUKXBVF2v"
+			}
 		},
 		{
 			"album": {
 				"name": "Currents",
-				"image": "https://i.scdn.co/image/baf2307038b91139d25efafe175e2a66369efeb8",
 				"year": "",
-				"id": "0rxKf57PZvWEoU8v3m5W2q"
+				"id": "61cb00f0-aefe-423b-a5f8-d3d11c8bb614",
+				"externalId": {
+					"spotify": "0rxKf57PZvWEoU8v3m5W2q"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "5INjqkS1o8h1imAzPqGZBb"
+					"id": "db923391-a2cd-48d9-a1c0-d5e963ef44d3",
+					"externalId": {
+						"spotify": "5INjqkS1o8h1imAzPqGZBb"
+					}
 				}
 			],
 			"name": "'Cause I'm A Man",
-			"id": "2oVyKK5NH2oawyrDZJn581",
-			"length": 241985
+			"id": "f1f67757-58bb-4b52-aa6e-be3ee7e19a83",
+			"length": 241985,
+			"externalId": {
+				"spotify": "2oVyKK5NH2oawyrDZJn581"
+			}
 		}
 	]
 }

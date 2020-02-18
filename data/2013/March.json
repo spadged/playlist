@@ -1,92 +1,90 @@
 {
 	"name": "March",
-	"month": "03",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2013",
-	"id": "",
+	"id": "b62bd8bc-a031-4d8b-bd02-58c103e43b3d",
 	"tracks": [
 		{
 			"album": {
 				"name": "One Life Stand",
-				"image": "",
 				"year": 2010,
-				"id": ""
+				"id": "6b5e8b26-4172-449b-b903-e07693627cc9"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": ""
+					"id": "928f7df9-7183-48d4-937a-b1712b547e84"
 				}
 			],
 			"name": "Alley Cats",
-			"id": "",
+			"id": "c6125643-5c33-4cea-b168-3174f238c770",
 			"length": 321097
 		},
 		{
 			"album": {
 				"name": "Scratch My Back",
-				"image": "",
 				"year": 2010,
-				"id": ""
+				"id": "c4bb9fd4-8824-40e0-989e-828c0f73b2da"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Peter Gabriel",
-					"id": ""
+					"id": "5834a8d4-9c98-4976-8668-65366c9a6417"
 				}
 			],
 			"name": "Listening Wind",
-			"id": "",
+			"id": "a654d9e6-13e6-499d-89d4-5ec07ae99e59",
 			"length": 264620
 		},
 		{
 			"album": {
-				"name": "Retrograde - Single",
-				"image": "",
+				"name": "Overgrown",
 				"year": 2013,
-				"id": ""
+				"id": "2871410b-ccc9-43b0-8e60-c6b9be4f7cb9"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "James Blake",
-					"id": ""
+					"id": "87c7e201-63a0-4598-b3c0-d73bbf0c96f8"
 				}
 			],
 			"name": "Retrograde",
-			"id": "",
+			"id": "e964860a-1796-44f4-9566-24ab1d8799de",
 			"length": 223596
 		},
 		{
 			"album": {
-				"name": "Yolo - Single",
-				"image": "",
+				"name": "The Wack Album",
 				"year": 2013,
-				"id": ""
+				"id": "e3040484-0ac7-4e51-a20f-cb24b14195d7"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Lonely Island",
-					"id": ""
+					"id": "df190132-d030-48ea-943b-8fabd3d6edc4"
 				}
 			],
 			"name": "Yolo",
-			"id": "",
+			"id": "7f929e83-4506-47a8-9fd7-a9018ea41bef",
 			"length": 188786
 		},
 		{
 			"album": {
 				"name": "Amok",
-				"image": "",
 				"year": 2013,
-				"id": ""
+				"id": "9068a0e0-9d1b-40e1-bf83-634592eaca94"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Atoms For Peace",
-					"id": ""
+					"id": "2780b1d2-55be-4435-837a-d03bdbb2a03d"
 				}
 			],
 			"name": "Ingenue",
-			"id": "",
+			"id": "9fbae44d-2c14-454c-8106-704fbd310f09",
 			"length": 270889
 		}
 	]

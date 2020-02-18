@@ -1,92 +1,143 @@
 {
-	"name": "October",
-	"month": "10",
+	"name": "October Top 5 2010",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2010",
-	"id": "",
+	"id": "4HgCMHvPLJ064EfxCQQ9WP",
 	"tracks": [
 		{
 			"album": {
-				"name": "Cerulean",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Baths",
-					"id": ""
-				}
-			],
-			"name": "Hall",
-			"id": "",
-			"length": 165407
-		},
-		{
-			"album": {
-				"name": "Barking",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Underworld",
-					"id": ""
-				}
-			],
-			"name": "Bird 1",
-			"id": "",
-			"length": 411010
-		},
-		{
-			"album": {
-				"name": "Upper Air",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Bowerbids",
-					"id": ""
-				}
-			],
-			"name": "Crooked Lust",
-			"id": "",
-			"length": 244271
-		},
-		{
-			"album": {
 				"name": "Logic of Chance",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "a3cae223-2479-4fc3-9944-ad39113b6c7d",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Dan Le Sac vs. Scroobius Pip",
-					"id": ""
+					"name": "Dan Le Sac vs Scroobius Pip",
+					"id": "47403fa8-f8d2-47cc-9d7f-36e657a0234a",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Snob",
-			"id": "",
-			"length": 241005
+			"id": "c3a577b4-5417-49e4-af7b-caa1506e309e",
+			"length": 241000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Maximum Balloon",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "d5825c82-afe0-4a91-be9f-5b12044c920e",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Maximum Balloon",
-					"id": ""
+					"id": "6ae871cf-9312-4f1a-ae97-7c697ffaa9ac",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Katrina Ford",
+					"id": "41ee621f-c470-4e9e-b2d6-32c4571c312c",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Young Love",
-			"id": "",
-			"length": 208718
+			"id": "34fb1d42-61ef-42a3-8713-7abe68bca0f1",
+			"length": 208000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Upper Air",
+				"year": "",
+				"id": "adc912b5-f010-43ea-84ef-cdce0831d041",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Bowerbirds",
+					"id": "7616c5fa-c968-468e-a623-616028a43433",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Crooked Lust",
+			"id": "109751ba-010d-4b43-84c0-0db4c28d348e",
+			"length": 244000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Barking",
+				"year": "",
+				"id": "3685ddf3-5087-48a0-a071-1671caa1034f",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Underworld",
+					"id": "2bc5bf42-2f07-4431-8484-afb4c1d3a4a4",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Bird 1",
+			"id": "9f4bfa41-614c-4543-a120-c25c53d4d6a8",
+			"length": 411000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Cerulean",
+				"year": "",
+				"id": "4f13807d-6dd8-4f5e-bd2b-c4bddadb094e",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Baths",
+					"id": "e11c7985-b201-47a5-9080-6da37a189d61",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Hall",
+			"id": "a013a301-70ba-4a59-abd8-66fc946bd20d",
+			"length": 165000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

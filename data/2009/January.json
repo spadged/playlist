@@ -1,92 +1,136 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2009",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2009",
-	"id": "",
+	"id": "6NGZuTyAC2408U9B0nScwY",
 	"tracks": [
 		{
 			"album": {
-				"name": "The Holy Pictures",
-				"image": "",
-				"year": 2008,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "David Holmes",
-					"id": "10kGEgP8MxhlfeA2tMinsL"
-				}
-			],
-			"name": "Love Reign Over Me",
-			"id": "",
-			"length": 227840
-		},
-		{
-			"album": {
-				"name": "Rare stuff",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Arcade Fire",
-					"id": ""
-				}
-			],
-			"name": "Burning Bridges",
-			"id": "",
-			"length": 304848
-		},
-		{
-			"album": {
 				"name": "Merriweather Post Pavilion",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "b7e44c34-333c-43fc-80d7-d4ed37217d31",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Animal Collective",
-					"id": "4kwxTgCKMipBKhSnEstNKj"
+					"id": "f3eb8355-4783-44f9-896b-64008fa8f0c6",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "In The Flowers",
-			"id": "",
-			"length": 322089
-		},
-		{
-			"album": {
-				"name": "Kingdom Of Rust",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Doves",
-					"id": ""
-				}
-			],
-			"name": "Jetstream",
-			"id": "",
-			"length": 330814
+			"id": "daa54150-5aa9-4c44-ae0c-3ff5d5454dfd",
+			"length": 322000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Third",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "29b85566-62d7-4bf4-8084-fbc2755858f1",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Portishead",
-					"id": ""
+					"id": "450c9faf-6f13-4574-afcb-8f5c85c88cf2",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Rip",
-			"id": "",
-			"length": 271020
+			"id": "a6dc5cf4-9cf8-4586-b16b-34e729087f66",
+			"length": 271000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Holy Pictures",
+				"year": "",
+				"id": "012145bb-877d-4757-abf5-9240c768abcc",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "David Holmes",
+					"id": "7408db14-48ab-4963-832f-8042742e08ea",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Love Reign Over Me",
+			"id": "a33fa208-64b4-4cfd-bf10-3dfd55ef944e",
+			"length": 227000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Bootleg",
+				"year": "",
+				"id": "f45881ef-07e2-439e-a84d-3f36c21286dc",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Arcade Fire",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Burning Bridges",
+			"id": "922d5b2b-f2e3-461b-a9d1-de3342b516d1",
+			"length": 304000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Kingdom Of Rust",
+				"year": "",
+				"id": "94c46919-0430-40b3-9155-b525ff0ede01",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Doves",
+					"id": "99bcf564-2a38-4924-8819-56181fdf471a",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Jetstream",
+			"id": "c7d84858-101c-4317-85bd-1def4c2ffda9",
+			"length": 330000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

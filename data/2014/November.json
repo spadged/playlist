@@ -1,93 +1,136 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2014",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2014",
-	"id": "",
+	"id": "7grqJ5146eamsYHb7vhPTa",
 	"tracks": [
 		{
 			"album": {
-				"name": "Transformers The Movie",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"name": "Dare to Be Stupid",
+				"year": "",
+				"id": "2b86f0dc-3c18-4116-ab3c-4fa4a82a66c9",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various",
-					"id": ""
+					"name": "\"Weird Al\" Yankovic",
+					"id": "4ea17030-62eb-418f-9e17-75463d41dc2d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Dare to Be Stupid",
-			"id": "",
-			"length": 205688
-		},
-		{
-			"album": {
-				"name": "EP2",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "FKA twigs",
-					"id": ""
-				}
-			],
-			"name": "Papi Pacify",
-			"id": "",
-			"length": 293982
-		},
-		{
-			"album": {
-				"name": "Whorl",
-				"image": "",
-				"year": 2014,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Simian Mobile Disco",
-					"id": ""
-				}
-			],
-			"name": "Calyx",
-			"id": "",
-			"length": 439980
+			"id": "424638fe-e407-4d66-b5dc-6576cac3f6bc",
+			"length": 205000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Physical World",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "4c5603ce-526a-4835-9252-31e973417734",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Death From Above 1979",
-					"id": ""
+					"id": "c04d9277-62e4-4f6d-a9cf-88fd61ac3101",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "White Is Red",
-			"id": "",
-			"length": 267911
+			"id": "8d3e1538-0b5f-45c5-96fa-6a4dab9e40ea",
+			"length": 267000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Seeds",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "22fc6bbe-c51d-47b9-9350-a8e5b12e1107",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Winter",
-			"id": "",
-			"length": 220943
+			"id": "3edf26b5-29ff-4576-a1b6-453c2e8afd67",
+			"length": 220000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Whorl",
+				"year": "",
+				"id": "be6f7aae-31bf-4d51-bfc5-86aecb16e49d",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Simian Mobile Disco",
+					"id": "dc9075da-fb5d-4435-ada7-5cb7609b4e15",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Calyx",
+			"id": "2cfed9a0-b49c-4e06-8e3c-51a7d8373484",
+			"length": 439000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "EP2",
+				"year": "",
+				"id": "579c5d1a-41f4-4dc9-8817-3773f6e6dc9e",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "FKA twigs",
+					"id": "d0f87ca5-5745-45a7-bed8-c618c390db4f",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Papi Pacify",
+			"id": "25a0a56b-16e8-4c4e-9b15-6a636f031139",
+			"length": 293000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,93 +1,136 @@
 {
 	"name": "September Top 5 2015",
-	"month": "september",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2015",
 	"id": "0egh01ABOrCIqaxS0AVLRf",
 	"tracks": [
 		{
 			"album": {
 				"name": "Singles",
-				"image": "https://i.scdn.co/image/166d6c384231563865ae733ef162d493a1775b89",
 				"year": "",
-				"id": "1dKh4z5Aayt8FFDWjO5FDh"
+				"id": "62d884e2-1d14-4083-8eab-2b465bf1f797",
+				"externalId": {
+					"spotify": "1dKh4z5Aayt8FFDWjO5FDh"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Future Islands",
-					"id": "1WvvwcQx0tj6NdDhZZ2zZz"
+					"id": "d6ca5854-5741-449f-b4d8-a3c1c73dd9ee",
+					"externalId": {
+						"spotify": "1WvvwcQx0tj6NdDhZZ2zZz"
+					}
 				}
 			],
 			"name": "Seasons (Waiting On You)",
-			"id": "41X9To0bQ4fpoSRri4NHiI",
-			"length": 226440
+			"id": "66a7afc2-470d-4576-bc4d-9f7b9bd8a786",
+			"length": 226440,
+			"externalId": {
+				"spotify": "41X9To0bQ4fpoSRri4NHiI"
+			}
 		},
 		{
 			"album": {
 				"name": "Viet Cong",
-				"image": "https://i.scdn.co/image/5cedad9b9f465eecd979094d163ce04c114e9464",
 				"year": "",
-				"id": "55o2mmwmXmaHm53Q6XwiPb"
+				"id": "76345581-7478-41a7-9066-233110bb15b5",
+				"externalId": {
+					"spotify": "55o2mmwmXmaHm53Q6XwiPb"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Viet Cong",
-					"id": "3ngYPt2kwxWpF5cr5tGYf0"
+					"id": "037cc2a6-0b53-43dd-9cc4-7af8f6e62557",
+					"externalId": {
+						"spotify": "3ngYPt2kwxWpF5cr5tGYf0"
+					}
 				}
 			],
 			"name": "Continental Shelf",
-			"id": "0lsTtHKw648CWYLnWdRxiw",
-			"length": 198506
+			"id": "fed1ba3b-2a57-4897-9a6d-064df88829a5",
+			"length": 198506,
+			"externalId": {
+				"spotify": "0lsTtHKw648CWYLnWdRxiw"
+			}
 		},
 		{
 			"album": {
 				"name": "Sparks",
-				"image": "https://i.scdn.co/image/53a426779cd300cf51418a981196289451fcb6d5",
 				"year": "",
-				"id": "2vOGDvaWjNceuRTvZdd1tY"
+				"id": "48c49d9a-91f9-44d6-b3c0-9be0aa30f800",
+				"externalId": {
+					"spotify": "2vOGDvaWjNceuRTvZdd1tY"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beach House",
-					"id": "56ZTgzPBDge0OvCGgMO3OY"
+					"id": "3606ae8d-c0d1-4cee-ae28-88131d1a0e8e",
+					"externalId": {
+						"spotify": "56ZTgzPBDge0OvCGgMO3OY"
+					}
 				}
 			],
 			"name": "Sparks",
-			"id": "6y231RMtRgh78I5NuLtOHS",
-			"length": 321133
+			"id": "dbbface9-1862-409b-ab54-0be68bda1d9f",
+			"length": 321133,
+			"externalId": {
+				"spotify": "6y231RMtRgh78I5NuLtOHS"
+			}
 		},
 		{
 			"album": {
 				"name": "Happiness Is Happening",
-				"image": "https://i.scdn.co/image/3d968a0845898bff80d0b405fcf8bc1d888dec3f",
 				"year": "",
-				"id": "1o749fQxB6OKWsieznl9R9"
+				"id": "db60ac9f-3533-432d-82a9-7d7d183f047a",
+				"externalId": {
+					"spotify": "1o749fQxB6OKWsieznl9R9"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Roman Flügel",
-					"id": "2GvwZbDjH1DbQpodGKENDw"
+					"id": "cda1fc82-acf7-4dae-bdc5-b493127a9858",
+					"externalId": {
+						"spotify": "2GvwZbDjH1DbQpodGKENDw"
+					}
 				}
 			],
 			"name": "Wilkie",
-			"id": "5xBFcWpd7SxKsXaFwafKSn",
-			"length": 323026
+			"id": "014cb3eb-71b5-4654-8181-489a5f3aa193",
+			"length": 323026,
+			"externalId": {
+				"spotify": "5xBFcWpd7SxKsXaFwafKSn"
+			}
 		},
 		{
 			"album": {
 				"name": "White Men Are Black Men Too",
-				"image": "https://i.scdn.co/image/1c8a96a2c89648bb8b88a83aa0afb92fb8f33555",
 				"year": "",
-				"id": "3xtwcBeltPMO0I4PnDfV0k"
+				"id": "ce2cce42-bf23-45e2-9c2b-9b7c5eb1031b",
+				"externalId": {
+					"spotify": "3xtwcBeltPMO0I4PnDfV0k"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Young Fathers",
-					"id": "5mZC7ndY6oGMxJentRwsuV"
+					"id": "9a2989f5-c829-4bf7-b642-9e9866812837",
+					"externalId": {
+						"spotify": "5mZC7ndY6oGMxJentRwsuV"
+					}
 				}
 			],
 			"name": "Nest",
-			"id": "0BV6oacj2oBi06TWvvNEAl",
-			"length": 197433
+			"id": "8e824bbd-262b-4486-a0c8-660c207657cb",
+			"length": 197433,
+			"externalId": {
+				"spotify": "0BV6oacj2oBi06TWvvNEAl"
+			}
 		}
 	]
 }

@@ -1,93 +1,143 @@
 {
-	"name": "September",
-	"month": "09",
+	"name": "September Top 5 2014",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2014",
-	"id": "",
+	"id": "13PwqArdAZaj0HZXYueny7",
 	"tracks": [
 		{
 			"album": {
 				"name": "Seeds",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "22fc6bbe-c51d-47b9-9350-a8e5b12e1107",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Happy Idiot",
-			"id": "",
-			"length": 182909
+			"id": "59165bb3-ca20-4b92-af0f-6da50dd61613",
+			"length": 182000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "You're Dead",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "18876df8-783a-4e0f-bd36-c95c31030be5",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Flying Lotus",
-					"id": ""
+					"id": "52b9b635-d8eb-4312-90fe-f580eebbc445",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Kendrick Lamar",
+					"id": "9071d1d4-214f-4b38-a450-c300e0bae8fa",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Never Catch Me (feat. Kendrick Lamar)",
-			"id": "",
-			"length": 234553
+			"name": "Never Catch Me",
+			"id": "d0b16c4f-c201-4814-82a5-042aaa733cf2",
+			"length": 234000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Syro",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "e09d5e32-d387-49bc-972d-1534f64d2902",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Aphex Twin",
-					"id": "6kBDZFXuLrZgHnvmPu9NsG"
+					"id": "02f357df-4e60-4b83-8bfc-0ce290854fda",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "minipops 67 [120.2][source field mix]",
-			"id": "",
-			"length": 287660
+			"id": "0444b970-b6ac-4e7f-9e14-5a2bec367a08",
+			"length": 287000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "El Pintor",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "b07dfc64-64b3-4a4f-ac23-127c49f1755c",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Interpol",
-					"id": ""
+					"id": "a8cc658d-4bb4-419c-b2cc-096a7a1dff32",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Ancient Ways",
-			"id": "",
-			"length": 180906
+			"id": "6176f21d-b8af-43e6-a2b8-959bbdc854b3",
+			"length": 180000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Jungle",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "019cfb34-02c6-4b7d-b241-10fc8dd90524",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jungle",
-					"id": ""
+					"id": "d7bf48f4-07a8-45b5-903c-a59c6a5f086d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Heat",
-			"id": "",
-			"length": 196101
+			"id": "f659fec2-1a15-4c2a-b5e6-58b8604678ab",
+			"length": 196000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

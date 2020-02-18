@@ -1,92 +1,136 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2013",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2013",
-	"id": "",
+	"id": "7soZ6NUnqHTGrM8IO2Eiq1",
 	"tracks": [
 		{
 			"album": {
-				"name": "Down Colorful Hill",
-				"image": "",
-				"year": 1992,
-				"id": ""
+				"name": "R.I.P.",
+				"year": "",
+				"id": "332419c3-feaa-44fd-b94e-cc5ce60e3cc7",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Actress",
+					"id": "6fee1375-acc9-41ea-8661-eb2d6745944d",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "N.E.W.",
+			"id": "18d4481b-465b-4793-9078-f04a6e232025",
+			"length": 328000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Down Colorful Hill",
+				"year": "",
+				"id": "87cbdee9-413b-4132-8f64-771946b855bf",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "Red House Painters",
-					"id": ""
+					"id": "4407fc5e-b634-464b-befb-202d986398cf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Lord Kill The Pain",
-			"id": "",
-			"length": 363467
+			"id": "65f9c3cb-8600-4b9d-91c0-ab7e9a68ddc6",
+			"length": 363000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Pop Music / False B-Sides",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"year": "",
+				"id": "221a4ce4-ee48-4866-aa7e-33fd10221511",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Baths",
-					"id": ""
+					"id": "e11c7985-b201-47a5-9080-6da37a189d61",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Pop Song",
-			"id": "",
-			"length": 208400
+			"id": "1bda84a9-7e41-4ec9-9940-c5af504ef8f4",
+			"length": 208000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "R.I.P.",
-				"image": "",
-				"year": 2012,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Actress",
-					"id": ""
+				"name": "The Next Day",
+				"year": "",
+				"id": "c1d92a43-ebf7-4f9f-9251-faa9b8b0c01e",
+				"externalId": {
+					"spotify": null
 				}
-			],
-			"name": "N.E.W.",
-			"id": "",
-			"length": 328228
-		},
-		{
-			"album": {
-				"image": "",
-				"year": 1993,
-				"id": ""
 			},
-			"artist": [
-				{
-					"name": "James",
-					"id": ""
-				}
-			],
-			"name": "Sometimes",
-			"id": "",
-			"length": 310573
-		},
-		{
-			"album": {
-				"name": "The Next Day (Deluxe)",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
+			"artists": [
 				{
 					"name": "David Bowie",
-					"id": "0oSGxfWSnnOXhD2fKuz2Gy"
+					"id": "bc493e43-e606-4a71-851b-3f10762a6774",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Where Are We Now?",
-			"id": "",
-			"length": 248253
+			"id": "36739adb-d3c9-4ce4-9c0e-5675a182dc35",
+			"length": 249000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Laid",
+				"year": "",
+				"id": "842d1230-bf67-40f8-ac22-0f39cae61422",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "James",
+					"id": "6a69167f-8550-47ec-9944-56cadeb4e5fc",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Sometimes",
+			"id": "0eba3a26-7b0d-4c7f-86c0-03d6bf47376b",
+			"length": 310000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

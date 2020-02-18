@@ -1,63 +1,143 @@
 {
 	"name": "February Top 5 2017",
-	"month": "february",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2017",
 	"id": "6oVvUC1JOFC1VEuhhooyxD",
 	"tracks": [
 		{
 			"album": {
-				"name": "Down Boy",
-				"image": "https://i.scdn.co/image/2a9bee8fabffefd43a6c87b72296cb3f7a642753",
-				"year": "",
-				"id": "5uhti5qBvfcn3GjJ4rujMR"
-			},
-			"artist": [
-				{
-					"name": "Yeah Yeah Yeahs",
-					"id": "3TNt4aUIxgfy9aoaft5Jj2"
-				}
-			],
-			"name": "Down Boy",
-			"id": "0afF5ZsEWpZOpaACIMeQOX",
-			"length": 235133
-		},
-		{
-			"album": {
 				"name": "Natural Blue",
-				"image": "https://i.scdn.co/image/32635e9d981b1fdffd76a53d660ce9d2099dff8d",
 				"year": "",
-				"id": "0QhK165FAvAQ1wuUCG5bay"
+				"id": "f59784e9-13bf-4555-a3da-94e579d12c1f",
+				"externalId": {
+					"spotify": "0QhK165FAvAQ1wuUCG5bay"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Julie Byrne",
-					"id": "10duXbKJkvdGK5RgktEnxV"
+					"id": "3f4f7436-7dd5-4cd5-9952-3888eaf4d497",
+					"externalId": {
+						"spotify": "10duXbKJkvdGK5RgktEnxV"
+					}
 				}
 			],
 			"name": "Natural Blue",
-			"id": "3Fj8OLFuxg0UetSHTeFBh6",
-			"length": 239046
+			"id": "cba28c7b-9b40-4839-8fae-13cd54ee343a",
+			"length": 239046,
+			"externalId": {
+				"spotify": "3Fj8OLFuxg0UetSHTeFBh6"
+			}
 		},
 		{
 			"album": {
 				"name": "Only God Knows",
-				"image": "https://i.scdn.co/image/917645724196a44cc25595f4b870e97b91ee1bed",
 				"year": "",
-				"id": "1wiO5677V7Ar51vKSrjLxM"
+				"id": "a031d2fb-e9c8-4fcd-9b90-531d5d77d857",
+				"externalId": {
+					"spotify": "1wiO5677V7Ar51vKSrjLxM"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Young Fathers",
-					"id": "5mZC7ndY6oGMxJentRwsuV"
+					"id": "9a2989f5-c829-4bf7-b642-9e9866812837",
+					"externalId": {
+						"spotify": "5mZC7ndY6oGMxJentRwsuV"
+					}
 				},
 				{
 					"name": "Leith Congregational Choir",
-					"id": "1c1jJnGGqsDx9YlorUbhix"
+					"id": "731f31a7-5212-41a7-8597-b5c0cf538f7f",
+					"externalId": {
+						"spotify": "1c1jJnGGqsDx9YlorUbhix"
+					}
 				}
 			],
 			"name": "Only God Knows",
-			"id": "7vmLW0qZn0vBgH6WN7ZAnC",
-			"length": 231750
+			"id": "0a431ba8-64fb-448c-8008-0f294adcbf1b",
+			"length": 231750,
+			"externalId": {
+				"spotify": "7vmLW0qZn0vBgH6WN7ZAnC"
+			}
+		},
+		{
+			"album": {
+				"name": "Feel It",
+				"year": "",
+				"id": "add3b132-6a25-4ffd-b789-536cfb3d575e",
+				"externalId": {
+					"spotify": "08lRM2S9YgFhWSURvkKDlQ"
+				}
+			},
+			"artists": [
+				{
+					"name": "Georgia",
+					"id": "d4439ade-57a7-4e6f-a1f1-56395ea935b8",
+					"externalId": {
+						"spotify": "06knYh538h5SI7OAEF8ek3"
+					}
+				}
+			],
+			"name": "Feel It",
+			"id": "fdf03857-6878-4e77-8a55-be4fd1fe29d5",
+			"length": 228490,
+			"externalId": {
+				"spotify": "2xyO2w239DYYr4AI6S5292"
+			}
+		},
+		{
+			"album": {
+				"name": "Heads Up",
+				"year": "",
+				"id": "fa9d98b3-39c8-48b2-a680-58d2c0f56467",
+				"externalId": {
+					"spotify": "5uGGOeDoB2jHetZJTbkwcC"
+				}
+			},
+			"artists": [
+				{
+					"name": "Warpaint",
+					"id": "6bc492cd-b367-4942-968c-ecc8a7969601",
+					"externalId": {
+						"spotify": "3AmgGrYHXqgbmZ2yKoIVzO"
+					}
+				}
+			],
+			"name": "The Stall",
+			"id": "d83af4c2-75be-40a2-a53f-b8dba1894f81",
+			"length": 295666,
+			"externalId": {
+				"spotify": "7pGSGnFvgsgyBQlsbsC3bi"
+			}
+		},
+		{
+			"album": {
+				"name": "Civilian",
+				"year": "",
+				"id": "a3b3155f-c134-4363-80c9-c4900546af1c",
+				"externalId": {
+					"spotify": "2IWn2PFFPhYexWP8fBDNp9"
+				}
+			},
+			"artists": [
+				{
+					"name": "Wye Oak",
+					"id": "8d194b0c-030f-4f45-9af7-7cac01fd9c20",
+					"externalId": {
+						"spotify": "5SjNVG3L9mgWQPsfp1sFDB"
+					}
+				}
+			],
+			"name": "Civilian",
+			"id": "388b85e6-2bdf-4e5a-9075-cc54213d8b08",
+			"length": 220917,
+			"externalId": {
+				"spotify": "7630alXL5HfQAHQhBam5pJ"
+			}
 		}
 	]
 }

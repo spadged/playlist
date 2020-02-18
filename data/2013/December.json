@@ -1,92 +1,143 @@
 {
-	"name": "December",
-	"month": "12",
+	"name": "December Top 5 2013",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2013",
-	"id": "",
+	"id": "0MNamOkitWdoyVdPZpKXKq",
 	"tracks": [
 		{
 			"album": {
-				"name": "Richard D. James Album",
-				"image": "",
-				"year": 1996,
-				"id": ""
+				"name": "Until The Quiet Comes",
+				"year": "",
+				"id": "7106f475-8b1b-418e-9b32-5575c3a34fd4",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Aphex Twin",
-					"id": "6kBDZFXuLrZgHnvmPu9NsG"
+					"name": "Flying Lotus",
+					"id": "52b9b635-d8eb-4312-90fe-f580eebbc445",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Niki Randa",
+					"id": "106b6b95-bc78-4b2a-a4ae-f801c89595f0",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Fingerbib",
-			"id": "",
-			"length": 228937
-		},
-		{
-			"album": {
-				"name": "Special Forces",
-				"image": "",
-				"year": 2004,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Julian Fane",
-					"id": ""
-				}
-			],
-			"name": "Book Repository",
-			"id": "",
-			"length": 355653
+			"name": "Hunger",
+			"id": "3e970d32-8caa-48bc-86f9-3d2fa935a0ef",
+			"length": 219000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Double Figure",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "f732a2eb-c264-4296-b689-022e2610d251",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Plaid",
-					"id": ""
+					"id": "ab351a97-15f7-4ae4-aab3-23ca0bc7d3a0",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Sincetta",
-			"id": "",
-			"length": 300852
+			"id": "4f1e673f-e10f-40f7-b356-0a4bfc1223af",
+			"length": 300000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Until The Quiet Comes",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"name": "Special Forces",
+				"year": "",
+				"id": "a5656288-f1d6-4b83-8934-64df5884addf",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Flying Lotus",
-					"id": ""
+					"name": "Julian Fane",
+					"id": "9bd7ef6b-a974-4d8d-8caa-b0f88b607353",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Hunger",
-			"id": "",
-			"length": 219611
+			"name": "Book Repository",
+			"id": "41fd8c80-3ea5-437f-bbbe-1f632122c7ef",
+			"length": 355000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Richard D. James Album",
+				"year": "",
+				"id": "9821de38-ec49-4f82-a59f-d993516c8c1a",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Aphex Twin",
+					"id": "02f357df-4e60-4b83-8bfc-0ce290854fda",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Fingerbib",
+			"id": "0208333d-abb3-4740-8545-57c693087141",
+			"length": 228000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Eyelid Movies",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "031103a8-5f85-4f7d-8927-1842e35fd132",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Phantogram",
-					"id": ""
+					"id": "63b0990b-0cc2-4b6b-a566-10a386d0cf0d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "All Dried Up",
-			"id": "",
-			"length": 226351
+			"id": "03bee319-0d94-4620-9406-98473cd98df2",
+			"length": 226000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

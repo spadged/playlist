@@ -1,92 +1,136 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2012",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2012",
-	"id": "",
+	"id": "3VJXmN761zjD0wIowcO98Y",
 	"tracks": [
 		{
 			"album": {
-				"name": "Cerulean",
-				"image": "",
-				"id": ""
+				"name": "World, You Need A Change Of Mind",
+				"year": "",
+				"id": "6d0aa197-a991-4c98-9ca0-6f8076b2eb67",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Kindness",
+					"id": "bac5e454-3b48-4774-84a8-235cfb89ebcc",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Seod",
+			"id": "974594ce-64dd-4dfa-b681-d4da5c9b9f87",
+			"length": 390000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Cerulean",
+				"year": "",
+				"id": "4f13807d-6dd8-4f5e-bd2b-c4bddadb094e",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "Baths",
-					"id": ""
+					"id": "e11c7985-b201-47a5-9080-6da37a189d61",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Rafting Starlit Everglades",
-			"id": "",
-			"length": 237662
+			"id": "6eae26cf-3de0-4ad8-844f-0757fe37493f",
+			"length": 237000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Mind Bokeh",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "1f06a1a3-6415-413b-81d2-2e69e7866322",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bibio",
-					"id": ""
+					"id": "f076a11e-d339-4b20-9262-a1180bffa5bf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Feminine Eye",
-			"id": "",
-			"length": 110628
+			"id": "8bcadb9e-0a8c-4fef-b6ab-661dcd0342f6",
+			"length": 110000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Player Piano",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"year": "",
+				"id": "8332ff94-76c2-46ce-8844-381a62117ab7",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Memory Tapes",
-					"id": ""
+					"id": "c5f2b046-7abe-4ff6-ba6a-60c656ff8023",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Humming",
-			"id": "",
-			"length": 166920
-		},
-		{
-			"album": {
-				"name": "World, You Need A Change Of Mind",
-				"image": "",
-				"year": 2012,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Kindness",
-					"id": "6SYIsHAQ1sPokVxmzpaDBU"
-				}
-			],
-			"name": "Seod",
-			"id": "",
-			"length": 390582
+			"id": "9e3ec65e-d5da-463c-96af-ab8629c9aec2",
+			"length": 166000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Fragrant World",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "b543986d-36b2-4c80-90e3-d2beb6ef110d",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Yeasayer",
-					"id": ""
+					"id": "36d53436-1f70-43f7-8441-e4e1fe7f496c",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Fingers Never Bleed",
-			"id": "",
-			"length": 269871
+			"id": "9a12a0fc-de97-4353-9c35-80485bdddd44",
+			"length": 269000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

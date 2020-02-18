@@ -1,93 +1,136 @@
 {
 	"name": "June Top 5 2016",
-	"month": "june",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2016",
 	"id": "7F5WRpxABIAyWSYxdD55Sh",
 	"tracks": [
 		{
 			"album": {
 				"name": "A Moon Shaped Pool",
-				"image": "https://i.scdn.co/image/0d1460c036897175f4631e8480ea4a2217bf5447",
 				"year": "",
-				"id": "6vuykQgDLUCiZ7YggIpLM9"
+				"id": "ca4eb648-b77f-4d63-a443-28941b75223d",
+				"externalId": {
+					"spotify": "6vuykQgDLUCiZ7YggIpLM9"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
+					"externalId": {
+						"spotify": "4Z8W4fKeB5YxbusRsdQVPb"
+					}
 				}
 			],
 			"name": "Present Tense",
-			"id": "4eruRiSfDY1jdT03hjyi0i",
-			"length": 306581
+			"id": "758f3525-1e5d-4135-bebe-111485d22dcc",
+			"length": 306581,
+			"externalId": {
+				"spotify": "4eruRiSfDY1jdT03hjyi0i"
+			}
 		},
 		{
 			"album": {
 				"name": "Going Somewhere",
-				"image": "https://i.scdn.co/image/4fa4949210be8c8b8f8a0ac736f28b79c8146fd1",
 				"year": "",
-				"id": "6UMknHv7MCdwNP8Yf2Zq6m"
+				"id": "1f02dfcb-cae8-48cb-a5c1-71028615082f",
+				"externalId": {
+					"spotify": "6UMknHv7MCdwNP8Yf2Zq6m"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Colin Hay",
-					"id": "5mxB08ktCukEhGMg2YZeEv"
+					"id": "b66f53aa-9f57-40b5-a645-e395caa81d23",
+					"externalId": {
+						"spotify": "5mxB08ktCukEhGMg2YZeEv"
+					}
 				}
 			],
 			"name": "Maggie",
-			"id": "0Dglw1nW9qIZUSdYvPr4FK",
-			"length": 261066
+			"id": "5f0c6f1c-f2f8-488c-a1dc-11930d63a9a9",
+			"length": 261066,
+			"externalId": {
+				"spotify": "0Dglw1nW9qIZUSdYvPr4FK"
+			}
 		},
 		{
 			"album": {
 				"name": "Chaleur Humaine",
-				"image": "https://i.scdn.co/image/3657a97c489a906310915e64586d7bb30754661a",
 				"year": "",
-				"id": "0dwg19QWat3Rw6GvtiZRML"
+				"id": "fcecd62c-571f-40b8-9915-988dd9e5d9a3",
+				"externalId": {
+					"spotify": "0dwg19QWat3Rw6GvtiZRML"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Christine and the Queens",
-					"id": "04vj3iPUiVh5melWr0w3xT"
+					"id": "198fb29b-dec2-4fa1-95f6-2b5690d6084d",
+					"externalId": {
+						"spotify": "04vj3iPUiVh5melWr0w3xT"
+					}
 				}
 			],
 			"name": "Tilted",
-			"id": "2E5tEyCqn9conRgZrXTF3Y",
-			"length": 233247
+			"id": "dde38111-db63-4612-8049-f40fc3e32947",
+			"length": 233247,
+			"externalId": {
+				"spotify": "2E5tEyCqn9conRgZrXTF3Y"
+			}
 		},
 		{
 			"album": {
 				"name": "Tango In The Night",
-				"image": "https://i.scdn.co/image/6b0c9a134a02a54a1c330dd0043aad286ec16857",
 				"year": "",
-				"id": "1W5YP0TlKjFtb2UZJThLpV"
+				"id": "a4ffae81-e3b0-4dd9-9d36-bcb84a7f5608",
+				"externalId": {
+					"spotify": "1W5YP0TlKjFtb2UZJThLpV"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Fleetwood Mac",
-					"id": "08GQAI4eElDnROBrJRGE0X"
+					"id": "caafae41-9a3e-4d5a-9237-5f8937b5614a",
+					"externalId": {
+						"spotify": "08GQAI4eElDnROBrJRGE0X"
+					}
 				}
 			],
 			"name": "Everywhere",
-			"id": "6i8ecOsx4J2Px1maiqzqoG",
-			"length": 222733
+			"id": "04339001-239d-4143-9990-d5a09a833a6b",
+			"length": 222733,
+			"externalId": {
+				"spotify": "6i8ecOsx4J2Px1maiqzqoG"
+			}
 		},
 		{
 			"album": {
 				"name": "The Bride",
-				"image": "https://i.scdn.co/image/7a628de9b3bb2bc949b4d34b4bbe63bfba4c4150",
 				"year": "",
-				"id": "0FOJVGWk7r4QKYCP1hCCEq"
+				"id": "a5bbb719-9e50-4428-9456-90daee35713c",
+				"externalId": {
+					"spotify": "0FOJVGWk7r4QKYCP1hCCEq"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "6l77PmL5iuEEcYjGl8K6s7"
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
+					"externalId": {
+						"spotify": "6l77PmL5iuEEcYjGl8K6s7"
+					}
 				}
 			],
 			"name": "Joe's Dream",
-			"id": "3pN7HDHbcahxyHTgNOyOLs",
-			"length": 325080
+			"id": "12e5ce3c-1b35-4f60-8eda-1984f57ac528",
+			"length": 325080,
+			"externalId": {
+				"spotify": "3pN7HDHbcahxyHTgNOyOLs"
+			}
 		}
 	]
 }

@@ -1,177 +1,182 @@
 {
 	"name": "May",
-	"month": "05",
+	"month": {
+		"label": "may",
+		"value": 5
+	},
 	"year": "2007",
-	"id": "",
+	"id": "94818764-41fc-4e34-a533-4380d0cd0279",
 	"tracks": [
 		{
 			"album": {
 				"name": "Maritime",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "423ff1f3-361e-42ea-a0f0-ac0969ec609a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Minotaur Shock",
-					"id": ""
+					"id": "4a23fa5d-1133-4394-86ec-1cce2ef9de42"
 				}
 			],
 			"name": "Luck Shield",
-			"id": "",
+			"id": "527a6d39-7e4c-43e4-a699-0e1dea29fafd",
 			"length": 342413
 		},
 		{
 			"album": {
 				"name": "Roadkillovercoat",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "6d84b975-1611-4fee-a907-64652dd00d33"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Busdriver",
-					"id": ""
+					"id": "7bc8511e-7552-4bf5-b2e8-e334c82c1400"
 				}
 			],
 			"name": "Mr. Mistake (Bested by the Whisper Chasm)",
-			"id": "",
+			"id": "eeb3672d-1f71-40a0-b325-9500030e0839",
 			"length": 242599
 		},
 		{
 			"album": {
 				"name": "Blur",
-				"image": "",
 				"year": 1997,
-				"id": ""
+				"id": "ffb8d184-9595-44a7-a5a8-3f168f664c1c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Blur",
-					"id": ""
+					"id": "86c51e59-c04c-4efe-a5b8-286a9dc512a9"
 				}
 			],
 			"name": "Beetlebum",
-			"id": "",
+			"id": "80ad7d1b-89cb-40b0-a8ec-5d2db61da1d2",
 			"length": 305188
 		},
 		{
 			"album": {
 				"name": "Brazilification {Remixes 95-99}",
-				"image": "",
 				"year": 1997,
-				"id": ""
+				"id": "1bbea899-580b-4dde-b1b2-2040dff0cca7"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Fila Brazillia",
-					"id": ""
+					"id": "18e59422-52bf-4dbb-a2d7-6763b4d738c6"
+				},
+				{
+					"name": "Radiohead",
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
-			"name": "Climbing Up the Walls (Fila Brazillia Mix)",
-			"id": "",
+			"name": "Climbing Up the Walls",
+			"id": "5eb5182d-04ad-496b-b1d8-34a94ec48d5a",
 			"length": 314671
 		},
 		{
 			"album": {
 				"name": "Brazilification {Remixes 95-99}",
-				"image": "",
 				"year": 1995,
-				"id": ""
+				"id": "2bd1cf71-4474-4887-b0af-6813b77ce009"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Fila Brazillia",
-					"id": ""
+					"id": "3e87b8f7-9b70-461e-a420-65c6f58539dc"
+				},
+				{
+					"name": "Lamb",
+					"id": "557f7381-1dba-4f4f-9d24-c24a98d14826"
 				}
 			],
 			"name": "Cotton wool",
-			"id": "",
+			"id": "abf14f91-d4c1-4619-87d4-1131ca998418",
 			"length": 494654
 		},
 		{
 			"album": {
 				"name": "Ma Fleur",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "249ea0b1-4a90-4a3c-b304-98cca299bb33"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "The Cinematic Orchestra Feat. Fontella Bass",
-					"id": ""
+					"name": "The Cinematic Orchestra",
+					"id": "d8d7da1b-1aeb-4c86-920b-8f5aad48cda3"
+				},
+				{
+					"name": "Fontella Bass",
+					"id": "47bf98e7-e684-434a-b6dd-f93313bddaed"
 				}
 			],
 			"name": "Breathe",
-			"id": "",
+			"id": "26d7c53f-4293-4b94-9c17-e42a147e3253",
 			"length": 393560
 		},
 		{
 			"album": {
 				"name": "Nino Rojo",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "81d9f367-e692-4186-80a0-fb630eca5503"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Devendra Banhart",
-					"id": ""
+					"id": "aa0f1247-9ec4-41f3-84d9-3c6987b08e49"
 				}
 			],
 			"name": "Little Yellow Spider",
-			"id": "",
+			"id": "a6f25073-a898-455d-b451-68c7352cc5fa",
 			"length": 219682
 		},
 		{
 			"album": {
 				"name": "Under The Western Freeway",
-				"image": "",
 				"year": 1997,
-				"id": ""
+				"id": "be459239-e3de-442e-969f-a88a0a3592de"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Grandaddy",
-					"id": ""
+					"id": "1e7bfe45-b379-4784-85dc-af1ceb8a920b"
 				}
 			],
 			"name": "A.M. 180",
-			"id": "",
+			"id": "e06f476a-06b3-4f3a-96dc-096b9932a08e",
 			"length": 200724
 		},
 		{
 			"album": {
 				"name": "Self Defence",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "24edca23-6670-4b15-be6d-3a9ee0bebba9"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Unkle",
-					"id": ""
+					"id": "2fab40b2-239b-40cb-a451-4f7dc4c31c5e"
 				}
 			],
 			"name": "Tracier",
-			"id": "",
+			"id": "42201e77-1566-45ea-b83c-c4205b37c97b",
 			"length": 120476
 		},
 		{
 			"album": {
 				"name": "The Boy With No Name",
-				"image": "",
 				"year": 2007,
-				"id": ""
+				"id": "5542c3b9-bed7-418c-96b9-3db7d0f4eb5a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Travis",
-					"id": ""
+					"id": "57ff22dd-02a3-4804-92ff-42f106c8fc0d"
 				}
 			],
 			"name": "Closer",
-			"id": "",
+			"id": "11288a68-a635-40cc-8752-62d138610feb",
 			"length": 240718
 		}
 	]

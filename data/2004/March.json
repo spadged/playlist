@@ -1,91 +1,89 @@
 {
 	"name": "March",
-	"month": "03",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2004",
-	"id": "",
+	"id": "5dc6eca3-f617-4906-bbd7-279a7c348887",
 	"tracks": [
 		{
 			"album": {
 				"name": "Sheath",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "27402b95-fb6d-4cf7-bfba-d761f91e5bb2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "LFO",
-					"id": ""
+					"id": "e310f502-87da-490e-8064-0432a3f83248"
 				}
 			],
 			"name": "Blown",
-			"id": "",
+			"id": "adca3470-ce73-4ac5-ab48-6a6dc5c71e15",
 			"length": 362893
 		},
 		{
 			"album": {
 				"name": "( ) Untitled #1",
-				"image": "",
 				"year": 2003,
-				"id": ""
+				"id": "a25d52f4-b9e2-4205-8823-3b600d6bc2d8"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": ""
+					"id": "eed7df49-749f-43ba-8b9a-bbcf1b4d8261"
 				}
 			],
 			"name": "Untitled 9 A",
-			"id": "",
+			"id": "575d2897-5ae8-49bc-96c5-273a7c685068",
 			"length": 278099
 		},
 		{
 			"album": {
 				"name": "Ultravisitor",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "1e891e96-6ecb-4e18-bbcd-31f0e7ae4774"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Squarepusher",
-					"id": ""
+					"id": "73a4fd10-9f20-4d47-9b0c-6f40f74c3fad"
 				}
 			],
 			"name": "Iambic 9 Poetry",
-			"id": "",
+			"id": "81211789-48b9-474b-91c5-58def66f4b85",
 			"length": 415973
 		},
 		{
 			"album": {
 				"name": "Louder than Bombs",
-				"image": "",
-				"id": ""
+				"id": "0789f188-adb3-4013-bf88-2c88a4191b4c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Smiths",
-					"id": ""
+					"id": "d1ba81fb-cb1c-42bb-be9c-379323e1828a"
 				}
 			],
 			"name": "Asleep",
-			"id": "",
+			"id": "b3c19f5e-99f6-4eb2-99d4-bb96f5cee5f4",
 			"length": 250279
 		},
 		{
 			"album": {
 				"name": "Com Lag: 2+2=5 [EP]",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "c4d00ba9-8790-4ffd-86ac-c428858b5e25"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
+					"id": "09613218-6862-4c46-b384-01228005827c"
 				}
 			],
 			"name": "Gagging Order",
-			"id": "",
+			"id": "26d2c947-5e08-46e4-be3d-bfbd098d72ab",
 			"length": 215875
 		}
 	]

@@ -1,176 +1,169 @@
 {
 	"name": "March",
-	"month": "03",
+	"month": {
+		"label": "march",
+		"value": 3
+	},
 	"year": "2005",
-	"id": "",
+	"id": "4565c98d-d766-4f12-8811-66b850621082",
 	"tracks": [
 		{
 			"album": {
 				"name": "Planet Waves",
-				"image": "",
 				"year": 1974,
-				"id": ""
+				"id": "563441ec-0f9b-4192-86bd-28bb735e04c3"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bob Dylan",
-					"id": "74ASZWbe4lXaubB36ztrGX"
+					"id": "beca1caf-35b1-454b-a26c-3a9f733fcefc"
 				}
 			],
 			"name": "Dirge",
-			"id": "",
+			"id": "bb7d7b10-0865-4b6c-a2c2-37a368f8ab9f",
 			"length": 336065
 		},
 		{
 			"album": {
 				"name": "Watch Repeat & Play",
-				"image": "",
-				"id": ""
+				"id": "d26e9541-74eb-4ac6-8e5e-d9d1029fb44c"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Buddy Peace",
-					"id": ""
+					"id": "7a80584e-fba7-46d5-b2a7-9552aae6377c"
 				}
 			],
 			"name": "Section 008",
-			"id": "",
+			"id": "e43840ec-4cfe-4f9e-a593-b328fd96aade",
 			"length": 294478
 		},
 		{
 			"album": {
 				"name": "Some Cities",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "26abc978-2604-444b-8217-14e4d44fa6dd"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Doves",
-					"id": ""
+					"id": "78b2dd95-bff2-46ff-9d33-429b68caa9a8"
 				}
 			],
 			"name": "Black And White Town",
-			"id": "",
+			"id": "417b3994-a0ab-4eb2-9779-b22b0dacbac6",
 			"length": 255477
 		},
 		{
 			"album": {
 				"name": "From A Basement On The Hill",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "c930cb6f-7958-4a00-acce-343e112cca1b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elliott Smith",
-					"id": ""
+					"id": "e6dcf363-0002-406d-ad4c-156fa6f093e1"
 				}
 			],
 			"name": "Don't Go Down",
-			"id": "",
+			"id": "8a8107d7-b775-43d1-9482-93cd56f105ab",
 			"length": 274520
 		},
 		{
 			"album": {
 				"name": "From A Basement On The Hill",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "623c02f7-1869-4fd5-8da1-bf604b4f41f5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elliott Smith",
-					"id": ""
+					"id": "e6dcf363-0002-406d-ad4c-156fa6f093e1"
 				}
 			],
 			"name": "King's Crossing",
-			"id": "",
+			"id": "2daaad29-5150-4986-8e8b-69a3af4e4521",
 			"length": 298109
 		},
 		{
 			"album": {
 				"name": "The Creek Drank The Cradle",
-				"image": "",
 				"year": 2002,
-				"id": ""
+				"id": "11feb2db-a6dc-482b-bdb5-ce7916d1a175"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Iron & Wine",
-					"id": ""
+					"id": "0c66d1e2-948a-4576-8a13-b2bbda63a8a6"
 				}
 			],
 			"name": "Faded From The Winter",
-			"id": "",
+			"id": "e305e663-0bed-4c69-821a-46abe3c6c889",
 			"length": 197799
 		},
 		{
 			"album": {
 				"name": "With Teeth",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "f36d6541-361a-41ca-9e4b-b26d19ebc195"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": ""
+					"id": "5245a41c-8d27-4167-ba74-267f02647f8a"
 				}
 			],
 			"name": "The Hand that Feeds",
-			"id": "",
+			"id": "b826487e-f83b-4ebf-9470-117e1b563171",
 			"length": 211748
 		},
 		{
 			"album": {
 				"name": "Lullabies To Paralyze",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "051cdb4b-a72f-4a33-8a4c-7a87b615fc39"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Queens Of The Stone Age",
-					"id": ""
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3"
 				}
 			],
 			"name": "I Never Came",
-			"id": "",
+			"id": "b39c94b9-5ff2-47ab-a0b8-3998829312e3",
 			"length": 288522
 		},
 		{
 			"album": {
 				"name": "Push The Button",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "9a915ca8-9462-456d-8d43-0d7d6fd3d8b6"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Chemical Brothers",
-					"id": "1GhPHrq36VKCY3ucVaZCfo"
+					"id": "95561727-a19d-4ae3-84f3-05ea623c647c"
 				}
 			],
 			"name": "Close Your Eyes",
-			"id": "",
+			"id": "0fc7fa3e-30de-4bdb-a151-d32b05922f80",
 			"length": 374047
 		},
 		{
 			"album": {
 				"name": "Is This It?",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "209b43db-a0ed-44e6-b51e-fea5b3250b4a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Strokes",
-					"id": ""
+					"id": "57f8afe0-0222-4324-bcf1-53e0b13a9b24"
 				}
 			],
 			"name": "Trying Your Luck",
-			"id": "",
+			"id": "9ec416cc-98b7-41df-83d6-83e2b422fecf",
 			"length": 207647
 		}
 	]

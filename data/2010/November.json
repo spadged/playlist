@@ -1,92 +1,150 @@
 {
-	"name": "November",
-	"month": "11",
+	"name": "November Top 5 2010",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2010",
-	"id": "",
+	"id": "3U6ODC53vp3ObeHTxtwoBB",
 	"tracks": [
 		{
 			"album": {
 				"name": "High Violet",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "be752d59-d78d-4c8f-abee-fa8d91bcc1b2",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The National",
-					"id": ""
+					"id": "5c880de8-23a9-47e1-bbdf-342235bc1cbd",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "England",
-			"id": "",
-			"length": 340244
-		},
-		{
-			"album": {
-				"name": "Nothing Else",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Lorn",
-					"id": ""
-				}
-			],
-			"name": "Cherry Moon",
-			"id": "",
-			"length": 218070
-		},
-		{
-			"album": {
-				"name": "Cerulean",
-				"image": "",
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Baths",
-					"id": ""
-				}
-			],
-			"name": "Rafting Starlit Everglades",
-			"id": "",
-			"length": 237662
-		},
-		{
-			"album": {
-				"name": "Maximum Balloon",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Maximum Balloon",
-					"id": ""
-				}
-			],
-			"name": "Groove Me",
-			"id": "",
-			"length": 224809
+			"id": "a2e72438-e34d-4096-acf9-bade9ff0250b",
+			"length": 340000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Nothing",
-				"image": "",
-				"year": 2010,
-				"id": ""
+				"year": "",
+				"id": "03a5c844-ad24-45b1-ba5e-5400300f750f",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "N.E.R.D.",
-					"id": ""
+					"id": "3d2ac78e-0da2-4db5-9275-1853b6c1aef1",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Daft Punk",
+					"id": "d7f9fb81-6eac-40e5-be10-8aa110b21128",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Hypnotize U",
-			"id": "",
-			"length": 257112
+			"id": "012dfa93-8c05-4cce-8b70-8cbacf56cff3",
+			"length": 257000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Maximum Balloon",
+				"year": "",
+				"id": "d5825c82-afe0-4a91-be9f-5b12044c920e",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Maximum Balloon",
+					"id": "6ae871cf-9312-4f1a-ae97-7c697ffaa9ac",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Theophilus London",
+					"id": "4a294744-6e07-4537-bf3a-df6148d008e0",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Groove Me",
+			"id": "741e9552-8e49-4460-b8e4-297ce3fb66c1",
+			"length": 224000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Nothing Else",
+				"year": "",
+				"id": "7dda0666-efdf-440a-a0c3-abc2d5a2440f",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Lorn",
+					"id": "76cd30d3-1ee4-4799-a515-f5c8b2b13a81",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Cherry Moon",
+			"id": "3c0f471a-e27c-4b02-bcbf-f25c074c33d3",
+			"length": 218000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Cerulean",
+				"year": "",
+				"id": "4f13807d-6dd8-4f5e-bd2b-c4bddadb094e",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Baths",
+					"id": "e11c7985-b201-47a5-9080-6da37a189d61",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Rafting Starlit Everglades",
+			"id": "97764bf6-e84c-4d40-9690-e4fb1f8cafad",
+			"length": 237000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,88 +1,86 @@
 {
 	"name": "December",
-	"month": "12",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2003",
-	"id": "",
+	"id": "2d4c4e32-7f44-4f7a-b3eb-925d72b9fea6",
 	"tracks": [
 		{
 			"album": {
-				"name": "Vanilla Sky",
-				"image": "",
-				"id": ""
+				"name": "Peter Gabriel",
+				"id": "cd24dda0-1de2-45af-a63b-fee92bf9b3c0"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Peter Gabriel",
-					"id": ""
+					"id": "6f41e875-27f2-4b63-ad11-7b208ecb415f"
 				}
 			],
 			"name": "Solsbury Hill",
-			"id": "",
+			"id": "3c8d4dcc-a5c3-4cc2-82a7-1dbef3abd446",
 			"length": 263836
 		},
 		{
 			"album": {
-				"name": "Vanilla Sky",
-				"image": "",
-				"id": ""
+				"name": "Songs for a Blue Guitar",
+				"id": "95e52534-e6ec-4f54-a9be-c648f8d0dad3"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Red House Painters",
-					"id": ""
+					"id": "4407fc5e-b634-464b-befb-202d986398cf"
 				}
 			],
-			"name": "Have You Forgotten ",
-			"id": "",
+			"name": "Have You Forgotten",
+			"id": "aa081fa4-2bad-4d44-9618-9ca2e858f198",
 			"length": 328881
 		},
 		{
 			"album": {
 				"name": "Vanilla Sky",
-				"image": "",
-				"id": ""
+				"id": "97e0eb2f-93f9-40d6-a755-d07137bf97dc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nancy Wilson",
-					"id": ""
+					"id": "a4c41769-078e-4bf3-9934-9bdcffc678c0"
 				}
 			],
 			"name": "Elevator Heat",
-			"id": "",
+			"id": "fd8fd7ce-c687-4059-9262-ccaf7c8a849b",
 			"length": 164101
 		},
 		{
 			"album": {
 				"name": "Sketches For My Sweetheart The Drunk",
-				"image": "",
 				"year": 1998,
-				"id": ""
+				"id": "108fb638-0691-4fec-8c32-3e377706e0ed"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jeff Buckley",
-					"id": ""
+					"id": "d6370506-54de-44ea-9048-2ca129c435e3"
 				}
 			],
 			"name": "Satisfied Mind",
-			"id": "",
+			"id": "45681763-68a0-42c8-ba97-3a014ec95e2e",
 			"length": 357929
 		},
 		{
 			"album": {
 				"name": "Led Zeppelin Three",
-				"image": "",
-				"id": ""
+				"id": "c850ee4c-0cf5-4642-91e0-fa9bcef7794d"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Led Zeppelin",
-					"id": ""
+					"id": "40f9f83a-4421-42e2-8987-1f541951fd4e"
 				}
 			],
 			"name": "Tangerine",
-			"id": "",
+			"id": "6a7dfdcb-50e1-4b7b-8bde-3bd3e669c883",
 			"length": 190380
 		}
 	]

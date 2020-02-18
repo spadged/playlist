@@ -1,92 +1,143 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2008",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2008",
-	"id": "",
+	"id": "46KdvM0vEPaBzybjvM8Rkm",
 	"tracks": [
 		{
 			"album": {
-				"name": "Blue Eyed In The Red Room",
-				"image": "",
-				"id": ""
+				"name": "The White Album",
+				"year": "",
+				"id": "cb7e9364-fcac-4a4c-8ac6-16702570ebc0",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "The Beatles",
+					"id": "88fbae7b-dd9d-4f45-a9ff-1dd198e75192",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Blackbird",
+			"id": "0a2e97bf-0443-4512-9da3-24c7e9984e18",
+			"length": 138000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "I Get Around Remixes",
+				"year": "",
+				"id": "3b66173a-87be-4446-bbea-c796f05c341c",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Dragonette",
+					"id": "ddaf6fea-6074-4f1a-adcf-9a8714ab425a",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Midnight Juggernaut",
+					"id": "bfd8bb07-fb0d-4c61-88c6-67abde0cb034",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "I Get Around (Midnight Juggernaut Mix)",
+			"id": "b99a2483-dd25-4e70-831a-4b4f4c73410f",
+			"length": 357000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Boylife",
+				"year": "",
+				"id": "4f45a810-cdeb-4f7e-91a9-0d0dc8d5e0e8",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Lo-Fi-Fnk",
+					"id": "6e91dce3-607a-492a-87e4-04694acade2f",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Change Channel",
+			"id": "21baef75-b094-4ebc-83f4-2ab4cd39b012",
+			"length": 199000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Blue Eyed In The Red Room",
+				"year": "",
+				"id": "36ae34d8-faf4-40ef-8a3b-fd0263ef89a6",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "Boom Bip",
-					"id": ""
+					"id": "ec7bcfee-69cc-4005-812b-2abf33474356",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Dumb Day",
-			"id": "",
-			"length": 314880
+			"id": "130cd6e7-6b02-4edf-b689-d33b6cc06fbc",
+			"length": 314000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Made In The Dark",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "ee8d3b34-8d93-4af3-9412-36db851cbaf8",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": ""
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "One Pure Thought",
-			"id": "",
-			"length": 295392
-		},
-		{
-			"album": {
-				"name": "The White Album",
-				"image": "",
-				"year": 1968,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Beatles",
-					"id": ""
-				}
-			],
-			"name": "Blackbird",
-			"id": "",
-			"length": 138318
-		},
-		{
-			"album": {
-				"name": "Kitsuné Maison 4",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Dragonette",
-					"id": ""
-				}
-			],
-			"name": "I Get Around (Midnight Juggernaut Mix)",
-			"id": "",
-			"length": 357642
-		},
-		{
-			"album": {
-				"name": "Kitsuné Maison",
-				"image": "",
-				"year": 2005,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Lo-Fi-Fnk",
-					"id": ""
-				}
-			],
-			"name": "Change Channel",
-			"id": "",
-			"length": 199523
+			"id": "c3b9b953-c075-4def-99f6-700b255dcd7f",
+			"length": 295000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,92 +1,136 @@
 {
-	"name": "June",
-	"month": "06",
+	"name": "June Top 5 2012",
+	"month": {
+		"label": "june",
+		"value": 6
+	},
 	"year": "2012",
-	"id": "",
+	"id": "6Ku32MiqoXpHAuRqAqBYkQ",
 	"tracks": [
 		{
 			"album": {
-				"name": "To Lose My Life",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "White Lies",
-					"id": ""
-				}
-			],
-			"name": "Fifty On Our Foreheads",
-			"id": "",
-			"length": 261720
-		},
-		{
-			"album": {
 				"name": "World, You Need A Change Of Mind",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "6d0aa197-a991-4c98-9ca0-6f8076b2eb67",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kindness",
-					"id": "6SYIsHAQ1sPokVxmzpaDBU"
+					"id": "bac5e454-3b48-4774-84a8-235cfb89ebcc",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Swingin Party",
-			"id": "",
-			"length": 237923
+			"id": "b055b9bc-4bee-473b-a5c3-69ad3e92efcc",
+			"length": 237000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "To Lose My Life",
+				"year": "",
+				"id": "5bc97fa3-79f2-4038-a30f-754405d7c405",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "White Lies",
+					"id": "99927382-80d8-4916-98bc-02500b560a32",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Fifty On Our Foreheads",
+			"id": "afdbc95b-782f-402d-ae45-c6df0a71f6fe",
+			"length": 261000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "In Our Heads",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "6bf1e7ac-a52b-406b-8fd6-9fd90d7d86c0",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Hot Chip",
-					"id": ""
+					"id": "f2bfcbb3-8365-4c53-851c-e0d555a55f89",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Ends Of The Earth",
-			"id": "",
-			"length": 340924
+			"id": "0a42bb38-17ab-4be0-bf3a-b769029d7985",
+			"length": 340000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Mixed Emotions",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "8db99737-0034-4562-ae12-4f037d50dc73",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tanlines",
-					"id": ""
+					"id": "371a6051-f3c2-4aa9-9be2-a0721b78dd1e",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Brothers",
-			"id": "",
-			"length": 248424
+			"id": "baa0985b-9bb7-4d13-b54f-09e6cf46f37e",
+			"length": 248000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Nightlife",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "a45aa851-c6e3-466b-9ad6-3f1bb8bad9d0",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Phantogram",
-					"id": ""
+					"id": "63b0990b-0cc2-4b6b-a566-10a386d0cf0d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Don't Move",
-			"id": "",
-			"length": 257750
+			"id": "a7e21092-1705-4e3e-b4d7-6f146eee286d",
+			"length": 258000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

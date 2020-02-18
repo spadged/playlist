@@ -1,92 +1,102 @@
 {
 	"name": "December",
-	"month": "12",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2006",
-	"id": "",
+	"id": "8405d224-fc7a-401c-b4fe-772fc1c8c965",
 	"tracks": [
 		{
 			"album": {
 				"name": "Aluminium",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "58a4c119-26ff-49b9-a59d-efbeb77fcfa5"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Aluminium",
-					"id": ""
+					"id": "81594189-bfcd-4744-9b04-82a6f02cd86f"
 				}
 			],
 			"name": "I'm Bound to Pack It Up",
-			"id": "",
+			"id": "d923c79f-52bd-4e1d-93ee-26432061ebfc",
 			"length": 253910
 		},
 		{
 			"album": {
 				"name": "The Fountain",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "7894acf1-e4de-46ab-8efe-2fc6a11adf10"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Clint Mansell",
-					"id": ""
+					"id": "b0f5b00c-bc68-48a5-904c-05796d2b6d98"
 				}
 			],
 			"name": "The Last Man",
-			"id": "",
+			"id": "c1039297-fe5e-4154-9b99-3cceb02f3f00",
 			"length": 369200
 		},
 		{
 			"album": {
 				"name": "The Grey Album",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "f865e6ff-1178-43df-8038-18fe67de4b27"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Jay-Z + DJ Danger Mouse",
-					"id": ""
+					"name": "DJ Danger Mouse",
+					"id": "26c9f406-eb4e-40a0-b5be-41c09a44382c"
+				},
+				{
+					"name": "Jay-Z",
+					"id": "a55a0235-ce05-4479-9534-d47290e10cd3"
 				}
 			],
 			"name": "Encore",
-			"id": "",
+			"id": "d020ff3e-75d7-4686-a9a0-a5f964df667a",
 			"length": 160417
 		},
 		{
 			"album": {
 				"name": "Idlewild",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "1afc4211-e221-42a3-b279-a452ec4c50c2"
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Outkast featuring Lil' Wayne & Snoop Dogg",
-					"id": ""
+					"name": "Outkast",
+					"id": "b257e585-0292-4eea-ae68-b89d414420d5"
+				},
+				{
+					"name": "Lil' Wayne",
+					"id": "8f7bde77-a451-40d0-9baf-5cf1d2c8b44e"
+				},
+				{
+					"name": "Snoop Dogg",
+					"id": "a1402c99-5b56-4b0d-9428-6c58c127941b"
 				}
 			],
 			"name": "Hollywood Divorce",
-			"id": "",
+			"id": "99b0f858-9c0e-46f0-8cdf-81eedf01dc5d",
 			"length": 323265
 		},
 		{
 			"album": {
 				"name": "Return To Cookie Mountain",
-				"image": "",
 				"year": 2006,
-				"id": ""
+				"id": "8d78e854-df60-4c29-9282-92612320ce86"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "d2eb6cfc-1ddc-4d58-b76e-440b027957c0"
 				}
 			],
 			"name": "Wolf Like Me",
-			"id": "",
+			"id": "53264623-51a5-403e-b738-3163ee182d15",
 			"length": 279353
 		}
 	]

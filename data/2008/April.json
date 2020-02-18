@@ -1,93 +1,150 @@
 {
-	"name": "April",
-	"month": "04",
+	"name": "April Top 5 2008",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2008",
-	"id": "",
+	"id": "7Esik1aN4OzrXLnwq20e2K",
 	"tracks": [
 		{
 			"album": {
-				"name": "In Rainbows",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Radiohead",
-					"id": "4Z8W4fKeB5YxbusRsdQVPb"
-				}
-			],
-			"name": "4 Minute Warning",
-			"id": "",
-			"length": 246308
-		},
-		{
-			"album": {
-				"name": "Sound Of Silver",
-				"image": "",
-				"year": 2007,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "LCD Soundsystem",
-					"id": ""
-				}
-			],
-			"name": "Get Innocuous!",
-			"id": "",
-			"length": 431568
-		},
-		{
-			"album": {
 				"name": "Era Vulgaris",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "3a4637ca-065c-4e5a-8669-b62f7feaee63",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Queens of the Stone Age",
-					"id": ""
+					"id": "6904e2a7-31f3-4bcb-9135-cc5d73266fe3",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "River In The Road",
-			"id": "",
-			"length": 199993
+			"id": "eead93fd-8dd0-46f9-952c-2af27f018168",
+			"length": 199000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Y34RZ3R0R3M1X3D",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "7711012f-f796-49c5-ba90-f46f8ba4ba21",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Kronos Quartet and Enrique Gonzalez Muller",
-					"id": ""
+					"name": "Nine Inch Nails",
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Kronos Quartet",
+					"id": "41ac40f6-5d7e-4005-bbe7-81ac3ae12c88",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "nrique Gonzalez Muller",
+					"id": "a9f30c42-cefe-4287-b4a2-a3dd3445cb7a",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Another Version of the Truth",
-			"id": "",
-			"length": 265221
+			"id": "08c4e57a-9690-48b6-b570-b930996ca6da",
+			"length": 265000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Sound Of Silver",
+				"year": "",
+				"id": "ff89327a-ec8a-4f66-b06d-f3308f0a9b82",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "LCD Soundsystem",
+					"id": "00a582fa-b658-4aac-bbbe-91c8eeabdf27",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Get Innocuous!",
+			"id": "f8e6d92b-a002-47cc-910c-89529f3e14a9",
+			"length": 431000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "In Rainbows",
+				"year": "",
+				"id": "a7eaf61a-3d41-47a9-b42f-eaef8ba7e21c",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Radiohead",
+					"id": "aa1574fa-4108-4e33-8989-614b1104c7e4",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "4 Minute Warning",
+			"id": "c7bc8dae-f8ce-4fd3-bd61-6883c7a4a90c",
+			"length": 246000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "We Were Dead Before The Ship Even Sank",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "dc3d1dac-3d93-4182-b4d8-18c9a1a3a21a",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Modest Mouse",
-					"id": ""
+					"id": "e419440a-c594-4219-ba70-70daa8cc8bbf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Steam Engenius",
-			"id": "",
-			"length": 266370
+			"id": "cdd3ae2d-5e23-48e5-ab29-b7a2d3b38f2e",
+			"length": 266000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,93 +1,136 @@
 {
 	"name": "July Top 5 2016",
-	"month": "july",
+	"month": {
+		"label": "july",
+		"value": 7
+	},
 	"year": "2016",
 	"id": "7A6kV4GKeLu4ro9Dc33582",
 	"tracks": [
 		{
 			"album": {
 				"name": "The Bride",
-				"image": "https://i.scdn.co/image/7a628de9b3bb2bc949b4d34b4bbe63bfba4c4150",
 				"year": "",
-				"id": "0FOJVGWk7r4QKYCP1hCCEq"
+				"id": "a5bbb719-9e50-4428-9456-90daee35713c",
+				"externalId": {
+					"spotify": "0FOJVGWk7r4QKYCP1hCCEq"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bat For Lashes",
-					"id": "6l77PmL5iuEEcYjGl8K6s7"
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
+					"externalId": {
+						"spotify": "6l77PmL5iuEEcYjGl8K6s7"
+					}
 				}
 			],
 			"name": "Widow's Peak",
-			"id": "05AevinMY2xCmHbPhAi7mm",
-			"length": 226573
+			"id": "8f86b512-40e2-4e26-9dad-4dbaa74d4e6c",
+			"length": 226573,
+			"externalId": {
+				"spotify": "05AevinMY2xCmHbPhAi7mm"
+			}
 		},
 		{
 			"album": {
-				"name": "Policy (Deluxe Version)",
-				"image": "https://i.scdn.co/image/63184ee5e7ae4353109c8142098a4cef3e2083ad",
+				"name": "Policy",
 				"year": "",
-				"id": "0vQ671QsneNp0OF7xl0c1p"
+				"id": "c3d5e650-16d6-4c75-8fe4-d46b8d8f4528",
+				"externalId": {
+					"spotify": "0vQ671QsneNp0OF7xl0c1p"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Will Butler",
-					"id": "1POwuKLQ9xhMZzIYElNtWp"
+					"id": "10bfe588-67d3-40e4-bda7-35838cc3d0c9",
+					"externalId": {
+						"spotify": "1POwuKLQ9xhMZzIYElNtWp"
+					}
 				}
 			],
 			"name": "Madonna Can't Save Me Now",
-			"id": "0OOvEkgZT1iNl7tV4vsAap",
-			"length": 203986
+			"id": "5b4cc5ee-3ae1-4f14-8b6f-0cf9bb7669f8",
+			"length": 203986,
+			"externalId": {
+				"spotify": "0OOvEkgZT1iNl7tV4vsAap"
+			}
 		},
 		{
 			"album": {
 				"name": "Cheetah EP",
-				"image": "https://i.scdn.co/image/6e366b6deab31d04aabe31a920cf410f8017418b",
 				"year": "",
-				"id": "1pC7hHcaOmrDotqv1ZnuT8"
+				"id": "5de52552-fd42-43ed-b842-d99669352f87",
+				"externalId": {
+					"spotify": "1pC7hHcaOmrDotqv1ZnuT8"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Aphex Twin",
-					"id": "6kBDZFXuLrZgHnvmPu9NsG"
+					"id": "02f357df-4e60-4b83-8bfc-0ce290854fda",
+					"externalId": {
+						"spotify": "6kBDZFXuLrZgHnvmPu9NsG"
+					}
 				}
 			],
 			"name": "CHEETAHT2 [Ld spectrum]",
-			"id": "44IECBxt9Hev9ivOFLG7W0",
-			"length": 353320
+			"id": "0ba2f54c-27ac-4e43-b243-ee97c0410754",
+			"length": 353320,
+			"externalId": {
+				"spotify": "44IECBxt9Hev9ivOFLG7W0"
+			}
 		},
 		{
 			"album": {
 				"name": "What Follows",
-				"image": "https://i.scdn.co/image/0bfc608ed3eb0c2cab557c49569236d1968dfd37",
 				"year": "",
-				"id": "0TZrzXFGNNAzb3EaCMlWnm"
+				"id": "c6590486-04cf-45fe-a3b2-ba4130784dae",
+				"externalId": {
+					"spotify": "0TZrzXFGNNAzb3EaCMlWnm"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Shit Robot",
-					"id": "2ZvXaOrinJFZDexa3fWqMZ"
+					"id": "ee523831-b42f-492d-a06b-3817ee93e154",
+					"externalId": {
+						"spotify": "2ZvXaOrinJFZDexa3fWqMZ"
+					}
 				}
 			],
 			"name": "End of the Trail",
-			"id": "02EhxL24z3M1ldt70S2YuF",
-			"length": 395007
+			"id": "6fcb4a17-0bb0-4feb-b166-c23d03e5752c",
+			"length": 395007,
+			"externalId": {
+				"spotify": "02EhxL24z3M1ldt70S2YuF"
+			}
 		},
 		{
 			"album": {
 				"name": "Advancement",
-				"image": "https://i.scdn.co/image/a36f90153f4c166ae78fde4edcc2ebddf183a9cd",
 				"year": "",
-				"id": "69NT51Ixs5Yjvjp6s3X3lV"
+				"id": "688abe26-8981-455b-a8de-1c9fb7c65a71",
+				"externalId": {
+					"spotify": "69NT51Ixs5Yjvjp6s3X3lV"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Solar Bears",
-					"id": "5stWr4xhAG8w29JUSt8UCO"
+					"id": "dbb17453-1397-4e8c-b526-289db034174f",
+					"externalId": {
+						"spotify": "5stWr4xhAG8w29JUSt8UCO"
+					}
 				}
 			],
 			"name": "Wild Flowers",
-			"id": "43Yqsa0OXlCnG8611MuwPt",
-			"length": 191733
+			"id": "f85c5950-e8b7-45c8-a6b4-708f2089c5fe",
+			"length": 191733,
+			"externalId": {
+				"spotify": "43Yqsa0OXlCnG8611MuwPt"
+			}
 		}
 	]
 }

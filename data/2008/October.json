@@ -1,93 +1,136 @@
 {
-	"name": "October",
-	"month": "10",
+	"name": "October Top 5 2008",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2008",
-	"id": "",
+	"id": "3PwEqrp02iGcCTgYuGf5ht",
 	"tracks": [
 		{
 			"album": {
 				"name": "One Word Extinguisher",
-				"image": "",
-				"year": 2003,
-				"id": ""
+				"year": "",
+				"id": "68e5d62a-790f-4dfe-a13c-28a8b51355ad",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Prefuse 73",
-					"id": ""
+					"id": "39188be1-d786-4ea4-b92f-8de728633b4b",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Perverted Undertone",
-			"id": "",
-			"length": 198086
+			"id": "aea3ef3d-499a-4fa9-97e5-c08d760c205a",
+			"length": 198000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "LCD Soundsystem",
-				"image": "",
-				"year": 2005,
-				"id": ""
+				"year": "",
+				"id": "c3cb96e8-d5e2-4ecd-a93a-6e0fff464590",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "LCD Soundsystem",
-					"id": ""
+					"id": "00a582fa-b658-4aac-bbbe-91c8eeabdf27",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Losing My Edge",
-			"id": "",
-			"length": 473129
+			"id": "ac13f794-05a3-481c-8e4b-065159c6cca7",
+			"length": 473000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Dear Science",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "bb134379-6c79-455f-a1c8-7be8167d4392",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Stork And Owl",
-			"id": "",
-			"length": 241841
+			"id": "f09499a6-ba07-4cb5-b9d1-5a86a7de28a9",
+			"length": 241000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Oeuvres Majeures",
-				"image": "",
-				"year": 1999,
-				"id": ""
+				"year": "",
+				"id": "8bb94be9-f6c8-41e0-8377-e38bc9f6871f",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Philip Glass",
-					"id": ""
+					"id": "975c2fd4-9db6-4241-b6f2-3ec278e0f7a2",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "metamorphosis one",
-			"id": "",
-			"length": 341655
+			"id": "d796666b-4bad-4873-9d2b-17a99447cda3",
+			"length": 341000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "29",
-				"image": "",
-				"year": 2005,
-				"id": ""
+				"year": "",
+				"id": "f2740bba-bc17-4f6a-bbc1-e19f41afd347",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Ryan Adams",
-					"id": ""
+					"id": "e024594d-1fbe-4661-b883-655c18bb0838",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Strawberry Wine",
-			"id": "",
-			"length": 478693
+			"id": "7b270672-c2e7-43f0-96be-23c5883ec28a",
+			"length": 478000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

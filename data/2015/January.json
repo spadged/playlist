@@ -1,93 +1,150 @@
 {
-	"name": "January",
-	"month": "01",
+	"name": "January Top 5 2015",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2015",
-	"id": "",
+	"id": "7cvHM2IvxSJ5IJMTWAomgi",
 	"tracks": [
 		{
 			"album": {
-				"name": "Warpaint",
-				"image": "",
-				"year": 2014,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Warpaint",
-					"id": ""
-				}
-			],
-			"name": "Drive",
-			"id": "",
-			"length": 311536
-		},
-		{
-			"album": {
 				"name": "Otherness",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "46106cc7-a97b-4887-9d34-69f80b28f991",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kindness",
-					"id": "6SYIsHAQ1sPokVxmzpaDBU"
-				}
-			],
-			"name": "Why Don't You Love Me Featuring Devonté Hynes & Tawiah",
-			"id": "",
-			"length": 245159
-		},
-		{
-			"album": {
-				"name": "Panda Bear Meets The Grim Reaper",
-				"image": "",
-				"year": 2015,
-				"id": ""
-			},
-			"artist": [
+					"id": "bac5e454-3b48-4774-84a8-235cfb89ebcc",
+					"externalId": {
+						"spotify": null
+					}
+				},
 				{
-					"name": "Panda Bear",
-					"id": ""
-				}
-			],
-			"name": "Butcher Baker Candlestick Maker",
-			"id": "",
-			"length": 187715
-		},
-		{
-			"album": {
-				"name": "New Adventures In Hi-Fi",
-				"image": "",
-				"year": 1996,
-				"id": ""
-			},
-			"artist": [
+					"name": "Devonte Hynes",
+					"id": "6a939080-244e-4f15-9c7b-75c515791122",
+					"externalId": {
+						"spotify": null
+					}
+				},
 				{
-					"name": "R.E.M.",
-					"id": ""
+					"name": "Tawiah",
+					"id": "d1e7cf49-0f85-48fd-896c-1f3bae778a92",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Electrolite",
-			"id": "",
-			"length": 245315
+			"name": "Why Don't You Love Me",
+			"id": "1b3f3939-4cf2-4e3a-a73c-aa5dc974f4e3",
+			"length": 245000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Tremors",
-				"image": "",
-				"year": 2014,
-				"id": ""
+				"year": "",
+				"id": "f66d2ebb-908b-420e-ac33-d1c73fd81306",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sohn",
-					"id": ""
+					"id": "b7e7d60a-8e5e-443e-b027-367e42968657",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Lights",
-			"id": "",
-			"length": 269662
+			"id": "e7c00c3c-4483-46ff-9149-61e7cf6eb42a",
+			"length": 269000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Panda Bear Meets The Grim Reaper",
+				"year": "",
+				"id": "9d23aa7b-3267-471d-b692-7fe5f8d5eb2c",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Panda Bear",
+					"id": "079f4ffb-34bc-4f98-b588-600f3c4e919f",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Butcher Baker Candlestick Maker",
+			"id": "d8a61c56-e4fa-4094-81a4-2b9b8da51839",
+			"length": 187000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "New Adventures In Hi-Fi",
+				"year": "",
+				"id": "d38d1954-e70b-4dfa-9bef-e7088ad5b50b",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "R.E.M.",
+					"id": "a26f6db1-ed0a-4ded-9823-61d4ccceef21",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Electrolite",
+			"id": "2d5a9735-6491-4f42-a3d5-70263c0126cd",
+			"length": 245000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Warpaint",
+				"year": "",
+				"id": "f8b5c782-a709-442f-be31-d4c480ed724a",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Warpaint",
+					"id": "6bc492cd-b367-4942-968c-ecc8a7969601",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Drive",
+			"id": "4bc55d59-e4d8-4785-a536-ef8a55a1fa48",
+			"length": 311000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,93 +1,143 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2013",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2013",
-	"id": "",
+	"id": "1oTOjtWiXr5L2Ih5thf85C",
 	"tracks": [
 		{
 			"album": {
-				"name": "Everything Ecstatic",
-				"image": "",
-				"year": 2005,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Four Tet",
-					"id": ""
-				}
-			],
-			"name": "You Were There With Me",
-			"id": "",
-			"length": 352523
-		},
-		{
-			"album": {
-				"name": "Barking",
-				"image": "",
-				"year": 2010,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Underworld",
-					"id": ""
-				}
-			],
-			"name": "Moon In Water",
-			"id": "",
-			"length": 342230
-		},
-		{
-			"album": {
 				"name": "Lonerism",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "baa59fd2-0a55-4287-a19f-117b13e21168",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Tame Impala",
-					"id": "5INjqkS1o8h1imAzPqGZBb"
+					"id": "db923391-a2cd-48d9-a1c0-d5e963ef44d3",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Nothing That Has Happened So Far Has Been Anything We Could Control",
-			"id": "",
-			"length": 361377
+			"id": "c29ad8e4-f7a8-4f76-b6ae-821858366812",
+			"length": 361000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Grace/Confusion",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "0fab4549-a0bd-49aa-ba31-b49d519a1f3b",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Memory Tapes",
-					"id": ""
+					"id": "c5f2b046-7abe-4ff6-ba6a-60c656ff8023",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Let Me Be",
-			"id": "",
-			"length": 289018
+			"id": "324e6bcf-6f98-4151-9386-618134691917",
+			"length": 289000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Barking",
+				"year": "",
+				"id": "3685ddf3-5087-48a0-a071-1671caa1034f",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Underworld",
+					"id": "2bc5bf42-2f07-4431-8484-afb4c1d3a4a4",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Moon In Water",
+			"id": "6d5e24af-7663-404f-9d3a-8b5912bb6ee1",
+			"length": 342000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Everything Ecstatic",
+				"year": "",
+				"id": "a622b9f4-2f61-429a-9c5c-0e565db75807",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Four Tet",
+					"id": "f44998e2-a1cc-4ef3-b8d7-353d5b75cb76",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "You Were There With Me",
+			"id": "f9f7a9bb-afd1-4f87-a306-73a65ef40e65",
+			"length": 352000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Free The Universe",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "8dfc0253-c8ee-465e-9c36-d696321ba75f",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Major Lazer",
-					"id": ""
+					"id": "298816c8-02cf-48a7-b698-68f93abe0c4a",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Amber Coffman",
+					"id": "e4981e2a-55e7-4fae-bf1f-3e49bfe66bbe",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Get Free",
-			"id": "",
-			"length": 290037
+			"id": "d988b780-c05b-4cfa-98c0-260dac16dbcb",
+			"length": 290000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

@@ -1,93 +1,143 @@
 {
-	"name": "December",
-	"month": "12",
+	"name": "December Top 5 2012",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2012",
-	"id": "",
+	"id": "0GwJIk1c7xLyIsk0xNH6hu",
 	"tracks": [
 		{
 			"album": {
-				"name": "Everything That Happens Will Happen Today",
-				"image": "",
-				"year": 2008,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "David Byrne & Brian Eno",
-					"id": ""
-				}
-			],
-			"name": "Strange Overtones",
-			"id": "",
-			"length": 257515
-		},
-		{
-			"album": {
 				"name": "With Teeth",
-				"image": "",
-				"year": 2005,
-				"id": ""
+				"year": "",
+				"id": "f36d6541-361a-41ca-9e4b-b26d19ebc195",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Nine Inch Nails",
-					"id": ""
+					"id": "0917bc0f-ec9a-4471-8742-5f0e83ddea5d",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "The Line Begins to Blur",
-			"id": "",
-			"length": 224496
+			"id": "80bcb270-377c-4230-a774-5071e1da9ac2",
+			"length": 224000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "The Boy With No Name",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"name": "Everything That Happens Will Happen Today",
+				"year": "",
+				"id": "561ff635-6932-4213-be51-543ae0c6d8e3",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Travis",
-					"id": ""
+					"name": "David Byrne",
+					"id": "93a49268-9417-41ae-8394-eaba7b688f4c",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Brian Eno",
+					"id": "76699e65-50eb-4007-920d-916231977b30",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Big Chair",
-			"id": "",
-			"length": 247771
-		},
-		{
-			"album": {
-				"name": "The Haunted Man",
-				"image": "",
-				"year": 2012,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Bat For Lashes",
-					"id": "6l77PmL5iuEEcYjGl8K6s7"
-				}
-			],
-			"name": "Laura",
-			"id": "",
-			"length": 266266
+			"name": "Strange Overtones",
+			"id": "b3345ac6-d4de-4fd6-93d2-d240801c5aba",
+			"length": 257000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Visions",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"year": "",
+				"id": "ed7200d3-0c90-4d3f-8bca-7d934834c081",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Grimes",
-					"id": ""
+					"id": "768f8d89-0723-402b-b66a-b8789df1bf3a",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Circumambient",
-			"id": "",
-			"length": 223026
+			"id": "9126e39e-d527-49dd-9038-5cea722bdedf",
+			"length": 223000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Boy With No Name",
+				"year": "",
+				"id": "5542c3b9-bed7-418c-96b9-3db7d0f4eb5a",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Travis",
+					"id": "57ff22dd-02a3-4804-92ff-42f106c8fc0d",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Big Chair",
+			"id": "67c4f153-7de1-4afa-8356-c9ac04c6cbc3",
+			"length": 247000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Haunted Man",
+				"year": "",
+				"id": "6efd77c0-05ab-4604-99fb-7af4b3bf3529",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Bat For Lashes",
+					"id": "29a80f99-af41-4cbd-bcd7-e574d606d47a",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Laura",
+			"id": "9f06ef0f-3fae-40d6-8a93-1af0a750a6d4",
+			"length": 266000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

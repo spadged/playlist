@@ -1,92 +1,136 @@
 {
-	"name": "September",
-	"month": "09",
+	"name": "September Top 5 2008",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2008",
-	"id": "",
+	"id": "2nCJ3dJOVp6unjvuYjaokD",
 	"tracks": [
 		{
 			"album": {
-				"name": "Everyone Alive Wants Answers",
-				"image": "",
-				"year": 2003,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Colleen",
-					"id": ""
-				}
-			],
-			"name": "Your Heart On Your Sleeve",
-			"id": "",
-			"length": 166635
-		},
-		{
-			"album": {
-				"name": "Blue Velvet",
-				"image": "",
-				"year": 1963,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Roy Orbison",
-					"id": ""
-				}
-			],
-			"name": "In Dreams",
-			"id": "",
-			"length": 169430
-		},
-		{
-			"album": {
 				"name": "Attack Decay Sustain Release",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "a82c08dc-20d8-4189-83dc-61741a379bb6",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Simian Mobile Disco",
-					"id": ""
+					"id": "dc9075da-fb5d-4435-ada7-5cb7609b4e15",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Love",
-			"id": "",
-			"length": 182543
+			"id": "ab7ed173-a9ef-40ac-b495-137cf671236a",
+			"length": 182000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Everyone Alive Wants Answers",
+				"year": "",
+				"id": "766b9ee3-fb03-416c-9f3a-4b7666d1a783",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Colleen",
+					"id": "db4fa1c3-0083-43e4-98e1-3826c0c503c1",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Your Heart On Your Sleeve",
+			"id": "8e15c220-4939-4634-b02f-492f12145211",
+			"length": 166000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "In Dreams",
+				"year": "",
+				"id": "0b287121-18da-4c68-9d34-cb802f50642a",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Roy Orbison",
+					"id": "b8ff1ea1-1d15-4a36-97e3-76620a520c44",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "In Dreams",
+			"id": "1bc6e7cd-0110-43cc-bc14-9b4ce7670ba2",
+			"length": 169000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Does You Inspire You",
-				"image": "",
-				"id": ""
+				"year": "",
+				"id": "df7b89f0-eaf1-4595-8c98-3b3e04710197",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Chairlift",
-					"id": ""
+					"id": "b97dc99d-6448-4070-a64b-007924712ff7",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Bruises",
-			"id": "",
-			"length": 241573
+			"id": "1a37a502-1844-488f-9b51-d23f2d53fc9c",
+			"length": 241000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "One Of The Boys",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "29b556ef-e829-4c4c-aed8-58eaa5bfe394",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Katy Perry",
-					"id": ""
+					"id": "bf906184-4059-49c7-9ae1-6857aabdf646",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "I Kissed A Girl",
-			"id": "",
-			"length": 180244
+			"id": "884043b9-a4a1-4786-8c22-574cee3eea91",
+			"length": 180000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

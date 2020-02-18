@@ -1,93 +1,143 @@
 {
-	"name": "October",
-	"month": "10",
+	"name": "October Top 5 2009",
+	"month": {
+		"label": "october",
+		"value": 10
+	},
 	"year": "2009",
-	"id": "",
+	"id": "5lEnWIEuRNCVKcAlYh4J8u",
 	"tracks": [
 		{
 			"album": {
-				"name": "Special Forces",
-				"image": "",
-				"year": 2004,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Julian Fane",
-					"id": ""
-				}
-			],
-			"name": "Stasis",
-			"id": "",
-			"length": 324746
-		},
-		{
-			"album": {
-				"name": "Funeral",
-				"image": "",
-				"year": 2004,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Arcade Fire",
-					"id": ""
-				}
-			],
-			"name": "In The Backseat",
-			"id": "",
-			"length": 374726
-		},
-		{
-			"album": {
-				"name": "The Singles",
-				"image": "",
-				"year": 1982,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Clash",
-					"id": ""
-				}
-			],
-			"name": "Straight To Hell",
-			"id": "",
-			"length": 233482
-		},
-		{
-			"album": {
 				"name": "Oblivion With Bells",
-				"image": "",
-				"year": 2007,
-				"id": ""
+				"year": "",
+				"id": "94e34f9f-9a08-4219-9de5-c44dbee535d4",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Underworld",
-					"id": ""
+					"id": "2bc5bf42-2f07-4431-8484-afb4c1d3a4a4",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Faxed Invitation",
-			"id": "",
-			"length": 284682
+			"id": "29b5aa73-b8ea-49d3-9489-f6d8e2ceedb4",
+			"length": 284000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Combat Rock",
+				"year": "",
+				"id": "5d454c38-1922-478a-a0c8-489feb5e6630",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Clash",
+					"id": "935f4bf9-76f7-455b-b070-f945bc33cb1f",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Straight To Hell",
+			"id": "d5f4a3a2-b95d-435a-83b2-3c0960888ea8",
+			"length": 233000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Special Forces",
+				"year": "",
+				"id": "a5656288-f1d6-4b83-8934-64df5884addf",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Julian Fane",
+					"id": "9bd7ef6b-a974-4d8d-8caa-b0f88b607353",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Stasis",
+			"id": "93d60db6-8564-422e-a48c-9fada2e37f91",
+			"length": 324000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "See Clear Now",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "0d1d4cd9-21c4-421a-ae4a-e541948dbb7b",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Wiley",
-					"id": ""
+					"id": "31b012ac-e9b0-405a-a713-b73519599aa8",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Daniel Merriweather",
+					"id": "470dc2f9-4ef7-433d-8011-93a439f5eeab",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Cash in My Pocket",
-			"id": "",
-			"length": 180558
+			"id": "3adc5c56-8153-4d77-bbe3-3279b5081e80",
+			"length": 180000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Funeral",
+				"year": "",
+				"id": "25ed4f2f-290a-4954-a5cb-9e727cf804f7",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Arcade Fire",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "In The Backseat",
+			"id": "de53ecad-3cf7-4991-9e05-580f89141673",
+			"length": 374000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

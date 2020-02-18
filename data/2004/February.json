@@ -1,90 +1,88 @@
 {
 	"name": "February",
-	"month": "02",
+	"month": {
+		"label": "february",
+		"value": 2
+	},
 	"year": "2004",
-	"id": "",
+	"id": "22d0752c-dafd-41cd-b16c-a02dda309325",
 	"tracks": [
 		{
 			"album": {
-				"name": "Mystery White Boy ",
-				"image": "",
+				"name": "Mystery White Boy",
 				"year": 2000,
-				"id": ""
+				"id": "a349ecae-f50a-452c-8790-508a01c569d2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jeff Buckley",
-					"id": ""
+					"id": "487fa324-d6df-415e-aeed-e9cd0d38a714"
 				}
 			],
 			"name": "Moodswing Whiskey",
-			"id": "",
+			"id": "0996f8dc-7410-44c1-ad5b-a16a0582449e",
 			"length": 336927
 		},
 		{
 			"album": {
 				"name": "Mystery White Boy",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "e49ee749-8f98-45f6-b03a-b8f9ddccf47b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Jeff Buckley",
-					"id": ""
+					"id": "487fa324-d6df-415e-aeed-e9cd0d38a714"
 				}
 			],
 			"name": "That's All I Ask (live)",
-			"id": "",
+			"id": "e7e9aca3-4a22-495d-b741-2a381dfe9ade",
 			"length": 325746
 		},
 		{
 			"album": {
 				"name": "Then it was a bad, bad night",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "fb866b27-9647-4d18-9fe6-71269e8ba5cb"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kidd",
-					"id": ""
+					"id": "a23111dd-81e9-41d5-8d04-5e24dcb59616"
 				}
 			],
 			"name": "South bound on Avalon",
-			"id": "",
+			"id": "85f8430f-7039-4ddc-8edc-bf1be186ca0e",
 			"length": 445962
 		},
 		{
 			"album": {
 				"name": "Ágætis Byrjun",
-				"image": "",
-				"id": ""
+				"id": "59303939-b787-4259-b366-d5ea5957aeee"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sigur Rós",
-					"id": ""
+					"id": "8765df1a-e512-4885-b0fa-92c22a380ebc"
 				}
 			],
 			"name": "Ágaetis Byrjun",
-			"id": "",
+			"id": "7fa44272-9550-44f2-a548-c598beac11be",
 			"length": 475872
 		},
 		{
 			"album": {
 				"name": "Louder than Bombs",
-				"image": "",
-				"id": ""
+				"id": "617c0a99-fae8-44ea-8709-04aad543e23b"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Smiths",
-					"id": ""
+					"id": "1ba04fc6-d220-472a-b75a-18ce6cacddb5"
 				}
 			],
 			"name": "Please please please let me get what I want",
-			"id": "",
+			"id": "016ec358-3335-4505-a1b3-7e6b658c268d",
 			"length": 114207
 		}
 	]

@@ -1,93 +1,143 @@
 {
-	"name": "August",
-	"month": "08",
+	"name": "August Top 5 2009",
+	"month": {
+		"label": "august",
+		"value": 8
+	},
 	"year": "2009",
-	"id": "",
+	"id": "0TPCWHIGFRkI0BamHjWwqQ",
 	"tracks": [
 		{
 			"album": {
-				"name": "Young Lairs EP",
-				"image": "",
-				"year": 2003,
-				"id": ""
+				"name": "Young Lairs",
+				"year": "",
+				"id": "c5350cd3-05ae-415f-8e86-f1f7518bbf71",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV on the Radio",
-					"id": ""
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Satellite",
-			"id": "",
-			"length": 273711
-		},
-		{
-			"album": {
-				"name": "Temporary Pleasure",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Simian Mobile Disco",
-					"id": ""
-				}
-			],
-			"name": "Audacity Of Huge",
-			"id": "",
-			"length": 228022
-		},
-		{
-			"album": {
-				"name": "Humbug",
-				"image": "",
-				"year": 2009,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Humbug",
-					"id": ""
-				}
-			],
-			"name": "Cornerstone ",
-			"id": "",
-			"length": 198034
+			"id": "056ec042-7a07-4888-90a5-172dbc8b335a",
+			"length": 273000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Viva La Vida",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "b9810809-abd9-45c7-b4ce-2f2f21ba58f6",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Coldplay",
-					"id": ""
+					"id": "6497d2dc-8620-4cc5-92b5-646faba27332",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Strawberry Swing",
-			"id": "",
-			"length": 249835
+			"id": "53c94a4c-2e35-4bbc-9ee6-3ae05cfd50ac",
+			"length": 249000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Temporary Pleasure",
+				"year": "",
+				"id": "28373b63-7c56-4e2f-9960-5457c350fa76",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Simian Mobile Disco",
+					"id": "dc9075da-fb5d-4435-ada7-5cb7609b4e15",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Chris Keating",
+					"id": "b493a0c6-1e66-4c5d-8026-f941c56159cd",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Audacity Of Huge",
+			"id": "d97c29f9-6a33-4553-a814-d225090a373d",
+			"length": 228000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Conditions",
-				"image": "",
-				"year": 2009,
-				"id": ""
+				"year": "",
+				"id": "18c64d34-f167-4356-a989-a0238b7f0e12",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The Temper Trap",
-					"id": ""
+					"id": "9452ee91-073a-4fe8-a061-5b0d42585dae",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Love Lost",
-			"id": "",
-			"length": 216137
+			"id": "e2c253d8-d00d-440e-b1bf-950259064b96",
+			"length": 216000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Humbug",
+				"year": "",
+				"id": "e94a3e1d-80c9-4bd2-abef-907f4cd24120",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Arctic Monkeys",
+					"id": "63da9fe3-c88f-4d33-a0d5-6d1ba5f4aede",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Cornerstone ",
+			"id": "ce5e0d79-a850-489b-9a5c-d481898679bc",
+			"length": 198000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

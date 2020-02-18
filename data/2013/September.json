@@ -1,178 +1,261 @@
 {
-	"name": "September",
-	"month": "09",
+	"name": "September Top 5 2013",
+	"month": {
+		"label": "september",
+		"value": 9
+	},
 	"year": "2013",
-	"id": "",
+	"id": "5uJ8dZcDAYK3W5ZAqreJ0M",
 	"tracks": [
 		{
 			"album": {
-				"name": "Kveikur",
-				"image": "",
-				"year": 2013,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Sigur Rós",
-					"id": ""
-				}
-			],
-			"name": "Ísjaki",
-			"id": "",
-			"length": 303124
-		},
-		{
-			"album": {
 				"name": "Reflektor",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "8b6230e5-0dd6-411e-b33c-ddaecf81c594",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Arcade Fire",
-					"id": ""
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Reflektor",
-			"id": "",
-			"length": 453987
+			"id": "a047bf33-bf57-4a29-a102-b92363616d03",
+			"length": 453000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Queen: Greatest Hits II (2011 Remaster)",
-				"image": "",
-				"year": 2011,
-				"id": ""
+				"name": "The Works",
+				"year": "",
+				"id": "5fb7afc6-9994-4c2d-bc6d-1b27b14ed8df",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Queen",
-					"id": ""
+					"id": "6414c714-fbad-40d8-b557-1b529f1185cc",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
-			"name": "Radio Ga Ga (Remastered)",
-			"id": "",
-			"length": 343320
+			"name": "Radio Ga Ga",
+			"id": "ba106680-5282-4699-9985-3943c1e6d660",
+			"length": 343000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "Million Miles - Single",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"name": "Kveikur",
+				"year": "",
+				"id": "b9038b37-905c-4f09-9e2e-0065c1329cbd",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
+				{
+					"name": "Sigur Rós",
+					"id": "8765df1a-e512-4885-b0fa-92c22a380ebc",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Ísjaki",
+			"id": "09cce734-4624-4a93-bf22-58ed692afabd",
+			"length": 303000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Million Miles",
+				"year": "",
+				"id": "4473683a-cba3-447d-a7ac-0d48f624be29",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
 				{
 					"name": "TV On the Radio",
-					"id": ""
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Million Miles",
-			"id": "",
-			"length": 263525
+			"id": "54940a90-48f8-48bc-84cb-0127e9a5b6b0",
+			"length": 263000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Music of Grand Theft Auto V",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "1df391fd-4718-4f3c-a26b-2bdd5dce1fe5",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Neon Indian",
+					"id": "271e60ea-289d-4450-bb4f-bd954a65d395",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Change of Coast",
-			"id": "",
-			"length": 192733
+			"id": "a67effc9-9e28-4a46-8a24-d68c67f6b29d",
+			"length": 192000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Music of Grand Theft Auto V",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "1df391fd-4718-4f3c-a26b-2bdd5dce1fe5",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "HEALTH",
+					"id": "8cacd6a5-f742-4983-8695-d27db0e46c52",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "High Pressure Dave",
-			"id": "",
-			"length": 195466
+			"id": "eb291b43-17bc-42f4-86ca-2a4a59c8bbb1",
+			"length": 195000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Music of Grand Theft Auto V",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "1df391fd-4718-4f3c-a26b-2bdd5dce1fe5",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Nite Jewel",
+					"id": "7832a419-70af-472b-a874-006d216a54bc",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Nowhere To Go",
-			"id": "",
-			"length": 239253
+			"id": "c905812b-1a70-4fc7-8d14-cd2b2dd65266",
+			"length": 239000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Music of Grand Theft Auto V",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "1df391fd-4718-4f3c-a26b-2bdd5dce1fe5",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "Age of Consent",
+					"id": "860e97b3-929c-46d7-9001-c74b6c91bcff",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Colours",
-			"id": "",
-			"length": 263386
+			"id": "90b45c47-c8ea-408b-9e51-dbd00f648deb",
+			"length": 263000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "The Music of Grand Theft Auto V",
-				"image": "",
-				"year": 2013,
-				"id": ""
+				"year": "",
+				"id": "1df391fd-4718-4f3c-a26b-2bdd5dce1fe5",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
-					"name": "Various Artists",
-					"id": ""
+					"name": "The Chain Gang of 1974",
+					"id": "57eac85a-24eb-430c-bd29-c45d34a7741c",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Sleepwalking",
-			"id": "",
-			"length": 218693
+			"id": "ffc63e19-6ca3-45e9-9f27-56e303a69a09",
+			"length": 218000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
-				"name": "From Nowhere (Remixes) - EP",
-				"image": "",
-				"year": 2012,
-				"id": ""
+				"name": "From Nowhere",
+				"year": "",
+				"id": "8d937ce0-c158-4c66-acc7-c29c744273c3",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Dan Croll",
-					"id": ""
+					"id": "832435fd-fa05-4b43-a31c-b61759e22d3c",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "From Nowhere (Baardsen Remix)",
-			"id": "",
-			"length": 267099
+			"id": "9c58fa64-bf99-477a-aac5-7e1b165801e9",
+			"length": 267000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

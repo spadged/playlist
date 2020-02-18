@@ -1,92 +1,90 @@
 {
 	"name": "April",
-	"month": "04",
+	"month": {
+		"label": "april",
+		"value": 4
+	},
 	"year": "2005",
-	"id": "",
+	"id": "a566dd28-b264-4007-97fe-317e3cc79826",
 	"tracks": [
 		{
 			"album": {
 				"name": "Guero",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "58d62471-4814-4124-b2df-8e36c817c5b7"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Beck",
-					"id": ""
+					"id": "2e82a8f0-265e-4a6e-93b9-6bff6b2b5d42"
 				}
 			],
 			"name": "Broken Drum (Boards Of Canada Remix)",
-			"id": "",
+			"id": "9c4b6bdf-693c-4f35-a1a9-2ba4dc302998",
 			"length": 339853
 		},
 		{
 			"album": {
 				"name": "Planet Waves",
-				"image": "",
 				"year": 1974,
-				"id": ""
+				"id": "6862744c-2ad9-4b1e-897b-0980756836fe"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bob Dylan",
-					"id": "74ASZWbe4lXaubB36ztrGX"
+					"id": "beca1caf-35b1-454b-a26c-3a9f733fcefc"
 				}
 			],
 			"name": "Wedding Song",
-			"id": "",
+			"id": "081900d4-2d1c-4dd9-ad5e-4ad59f55ec75",
 			"length": 282383
 		},
 		{
 			"album": {
 				"name": "Not yet. no.",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "2af69d86-b873-46b1-8783-ec765fd70c5a"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Kidd",
-					"id": ""
+					"id": "cd982f72-27ba-4ea9-9b29-94edaaf3d89f"
 				}
 			],
 			"name": "Pending...",
-			"id": "",
+			"id": "676e8aec-bc56-4981-92d4-04c343615d37",
 			"length": 745691
 		},
 		{
 			"album": {
 				"name": "It's A Wonderfull Life",
-				"image": "",
 				"year": 2001,
-				"id": ""
+				"id": "4bfa9209-a130-42f4-8c7f-a661d60c3882"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Sparklehorse",
-					"id": ""
+					"id": "bd818382-aecc-46fa-8af6-a09a08ca610d"
 				}
 			],
 			"name": "More Yellow Birds",
-			"id": "",
+			"id": "0e8d8915-bbe7-493a-a390-90826dd80dc2",
 			"length": 293093
 		},
 		{
 			"album": {
 				"name": "Alligator",
-				"image": "",
 				"year": 2005,
-				"id": ""
+				"id": "45e411b4-5407-4c66-83d9-cffe9d016ca6"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The National",
-					"id": ""
+					"id": "9783479b-53cf-4810-8f8c-fe24b1005309"
 				}
 			],
 			"name": "City Middle",
-			"id": "",
+			"id": "02c1d58d-81ab-4e8a-a9c5-d05c00d63050",
 			"length": 267650
 		}
 	]

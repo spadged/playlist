@@ -1,92 +1,90 @@
 {
 	"name": "January",
-	"month": "01",
+	"month": {
+		"label": "january",
+		"value": 1
+	},
 	"year": "2005",
-	"id": "",
+	"id": "fbfe6be0-3cfb-4b17-a4d4-749505e0dee8",
 	"tracks": [
 		{
 			"album": {
 				"name": "Queen Of The Meadow",
-				"image": "",
 				"year": 2000,
-				"id": ""
+				"id": "bc0615ab-dd5a-4f2c-ba7a-e78375d56c2f"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Elysian Fields",
-					"id": ""
+					"id": "c939a1ec-282a-4f07-ac9b-4931063fb011"
 				}
 			],
 			"name": "Black Acres",
-			"id": "",
+			"id": "ced44d47-3577-413c-b7c0-716096f7189d",
 			"length": 267206
 		},
 		{
 			"album": {
 				"name": "Antics",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "25b4a472-3a94-4e38-8102-d84b8a32d3ac"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Interpol",
-					"id": ""
+					"id": "ef080f93-7b82-4e68-ae8e-60fbe627d865"
 				}
 			],
 			"name": "Take You On A Cruise",
-			"id": "",
+			"id": "696f85a1-cf2f-469d-8b22-cb4fd536a69e",
 			"length": 294452
 		},
 		{
 			"album": {
 				"name": "Houses Of The Holy",
-				"image": "",
 				"year": 1973,
-				"id": ""
+				"id": "f859211a-b746-4ae8-9091-1715e751f5cc"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Led Zeppelin",
-					"id": ""
+					"id": "b7078b8d-8383-48dc-830c-27dc2ee2a1df"
 				}
 			],
 			"name": "The Rain Song",
-			"id": "",
+			"id": "73f63131-c8fc-4579-987b-4bc6982fa5e9",
 			"length": 459337
 		},
 		{
 			"album": {
 				"name": "Dusty Gems And Raw Nuggets [Bonus Disc]",
-				"image": "",
 				"year": 2004,
-				"id": ""
+				"id": "698d4449-b65e-4761-a02b-257a1a04a0c2"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Weezer",
-					"id": ""
+					"id": "512909b2-a645-4d16-a446-3a7189902bec"
 				}
 			],
 			"name": "My Names Is Jonas (Live)",
-			"id": "",
+			"id": "792f99c5-a2c9-4f00-9ff8-e65163ac61ee",
 			"length": 219977
 		},
 		{
 			"album": {
 				"name": "Nashville Skyline",
-				"image": "",
 				"year": 1969,
-				"id": ""
+				"id": "c1991eba-ec0c-4e6a-8090-d2b3e3eef441"
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Bob Dylan",
-					"id": "74ASZWbe4lXaubB36ztrGX"
+					"id": "beca1caf-35b1-454b-a26c-3a9f733fcefc"
 				}
 			],
 			"name": "Lay Lady Lay",
-			"id": "",
+			"id": "1331077f-4fbc-43a6-bc63-970aa0fc393b",
 			"length": 201273
 		}
 	]

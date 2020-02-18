@@ -1,93 +1,136 @@
 {
-	"name": "December",
-	"month": "12",
+	"name": "December Top 5 2008",
+	"month": {
+		"label": "december",
+		"value": 12
+	},
 	"year": "2008",
-	"id": "",
+	"id": "6SPofhHU205uVt0fUV8CPC",
 	"tracks": [
 		{
 			"album": {
-				"name": "Turn On The Bright Lights",
-				"image": "",
-				"year": 2002,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Interpol",
-					"id": ""
-				}
-			],
-			"name": "NYC",
-			"id": "",
-			"length": 259631
-		},
-		{
-			"album": {
 				"name": "Black Market Music",
-				"image": "",
-				"year": 2000,
-				"id": ""
+				"year": "",
+				"id": "b1bb29b9-9bbf-4b27-b2d5-fc917845569d",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Placebo",
-					"id": ""
+					"id": "8d5c070c-1121-42fc-a2a3-a933bbebc1d5",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Taste In Men",
-			"id": "",
-			"length": 255059
-		},
-		{
-			"album": {
-				"name": "Dreamt For Light Years In The Belly Of A Mountain (Capitol Records)",
-				"image": "",
-				"year": 2006,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "Sparklehorse",
-					"id": ""
-				}
-			],
-			"name": "Knives Of Summertime",
-			"id": "",
-			"length": 259631
-		},
-		{
-			"album": {
-				"name": "Raw Power",
-				"image": "",
-				"year": 1973,
-				"id": ""
-			},
-			"artist": [
-				{
-					"name": "The Stooges",
-					"id": ""
-				}
-			],
-			"name": "Search And Destroy",
-			"id": "",
-			"length": 209528
+			"id": "7a9c23c9-3dbf-4ea5-b83f-7fec739f19f9",
+			"length": 255000,
+			"externalId": {
+				"spotify": null
+			}
 		},
 		{
 			"album": {
 				"name": "Dear Science",
-				"image": "",
-				"year": 2008,
-				"id": ""
+				"year": "",
+				"id": "bb134379-6c79-455f-a1c8-7be8167d4392",
+				"externalId": {
+					"spotify": null
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "TV On The Radio",
-					"id": ""
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
 				}
 			],
 			"name": "Lover's Day",
-			"id": "",
-			"length": 355761
+			"id": "c4473ab1-8540-43f4-bfac-dbad424749a9",
+			"length": 355000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Dreamt For Light Years In The Belly Of A Mountain",
+				"year": "",
+				"id": "b89d844b-ded0-41a0-9818-1e015408e92f",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Sparklehorse",
+					"id": "bd818382-aecc-46fa-8af6-a09a08ca610d",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Knives Of Summertime",
+			"id": "efd0d391-e90a-4cac-abb9-1166bb499235",
+			"length": 259000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Turn On The Bright Lights",
+				"year": "",
+				"id": "37595bcf-f799-4027-bc4e-cc3a7a3cb3d2",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Interpol",
+					"id": "a8cc658d-4bb4-419c-b2cc-096a7a1dff32",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "NYC",
+			"id": "36d785ae-76de-4b7d-abe7-96df1760dd7f",
+			"length": 259000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Raw Power",
+				"year": "",
+				"id": "6848b880-ffab-4cd6-8acd-5015fb55e5ed",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The Stooges",
+					"id": "04af1d6a-4efc-4b27-8a01-027ab4d429cd",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Search And Destroy",
+			"id": "9c5f4bd1-5ebc-4a18-bb86-b8baefb8eddb",
+			"length": 209000,
+			"externalId": {
+				"spotify": null
+			}
 		}
 	]
 }

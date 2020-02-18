@@ -1,93 +1,136 @@
 {
 	"name": "November Top 5 2015",
-	"month": "november",
+	"month": {
+		"label": "november",
+		"value": 11
+	},
 	"year": "2015",
 	"id": "7zuWPp9LQH5UYQmOdvSHsJ",
 	"tracks": [
 		{
 			"album": {
-				"name": "Lost River (Original Motion Picture Soundtrack) [Deluxe Edition]",
-				"image": "https://i.scdn.co/image/c22c12837c5fa31f8046e0d6537d60a0ca1c4554",
+				"name": "Lost River",
 				"year": "",
-				"id": "0TfWE9a9CF7HffMQJceXMy"
+				"id": "a578dd27-f3f6-457a-8a45-1d92209b6aaa",
+				"externalId": {
+					"spotify": "0TfWE9a9CF7HffMQJceXMy"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Chromatics",
-					"id": "4tOVIRjlWWfR1RrAxyRqTE"
+					"id": "0d20cf17-ebce-43df-ba4e-511a6a95ce7d",
+					"externalId": {
+						"spotify": "4tOVIRjlWWfR1RrAxyRqTE"
+					}
 				}
 			],
 			"name": "Yes (Love Theme From Lost River)",
-			"id": "2e8cM1MIE8wBqfT8DxGyXn",
-			"length": 204929
+			"id": "2fe2e3f3-446b-4c9f-b5dc-27d46ccc5865",
+			"length": 204929,
+			"externalId": {
+				"spotify": "2e8cM1MIE8wBqfT8DxGyXn"
+			}
 		},
 		{
 			"album": {
-				"name": "Where Does This Disco? - EP",
-				"image": "https://i.scdn.co/image/f0c8d6a5376598f0649fef28f5fa409e8d5a6bda",
+				"name": "Where Does This Disco?",
 				"year": "",
-				"id": "2u2x1FQkK2MODVnd9y1aZo"
+				"id": "45eee88e-5cee-48cc-92c2-891cba225ed3",
+				"externalId": {
+					"spotify": "2u2x1FQkK2MODVnd9y1aZo"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "YACHT",
-					"id": "57anmI1X2hXWPrNagFdzZr"
+					"id": "f60b79f1-4f12-4d2c-9d57-e16fe4cb7fc0",
+					"externalId": {
+						"spotify": "57anmI1X2hXWPrNagFdzZr"
+					}
 				}
 			],
 			"name": "Where Does This Disco?",
-			"id": "4mDwthm6IwAT6zljZ16uKC",
-			"length": 222026
+			"id": "dbedefe0-dfd3-4755-af16-556711fb138a",
+			"length": 222026,
+			"externalId": {
+				"spotify": "4mDwthm6IwAT6zljZ16uKC"
+			}
 		},
 		{
 			"album": {
 				"name": "Ride with You",
-				"image": "https://i.scdn.co/image/0e6eaafd590ed69652a774057bee3a705cc468f6",
 				"year": "",
-				"id": "6BSYe6No02Pa0qfNlQqQEa"
+				"id": "8c9607bf-06a3-4ff7-b307-52c30737d721",
+				"externalId": {
+					"spotify": "6BSYe6No02Pa0qfNlQqQEa"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "The White Lamp",
-					"id": "7LFAiz5tf9LJGgkgaqcmU2"
+					"id": "979fdf2f-3695-450f-b00e-227b925e2357",
+					"externalId": {
+						"spotify": "7LFAiz5tf9LJGgkgaqcmU2"
+					}
 				}
 			],
 			"name": "Ride with You",
-			"id": "0lNTM46HUY1whYMrRT1W5A",
-			"length": 409778
+			"id": "5fe796b7-e28b-4d23-8ce6-33e8af5d3ab7",
+			"length": 409778,
+			"externalId": {
+				"spotify": "0lNTM46HUY1whYMrRT1W5A"
+			}
 		},
 		{
 			"album": {
 				"name": "Simple Days",
-				"image": "https://i.scdn.co/image/4aa866866c7aad73f9e152d463bacc4f0bf59ee6",
 				"year": "",
-				"id": "2SvlSQVYP3e6knJ3J8OzmJ"
+				"id": "87f86b62-e685-41e6-8ff5-b1df207d9979",
+				"externalId": {
+					"spotify": "2SvlSQVYP3e6knJ3J8OzmJ"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Button Eyes",
-					"id": "1rUkuuAl5d1TyJfaV2lTRf"
+					"id": "24099082-9473-4135-bee8-4e8ee06d3da4",
+					"externalId": {
+						"spotify": "1rUkuuAl5d1TyJfaV2lTRf"
+					}
 				}
 			],
 			"name": "Simple Days",
-			"id": "7f095GbYggxICYMYeJezW8",
-			"length": 210973
+			"id": "128e7792-bc08-4ca7-8c0e-6c93ef547ba4",
+			"length": 210973,
+			"externalId": {
+				"spotify": "7f095GbYggxICYMYeJezW8"
+			}
 		},
 		{
 			"album": {
 				"name": "Courting The Squall",
-				"image": "https://i.scdn.co/image/f3f757dc85e60b78b0efa26ffd7fd874a07a0e1b",
 				"year": "",
-				"id": "1JqlXUT71FJmOO46l8I7fc"
+				"id": "a2668360-d55e-43ef-9244-ba2f015a6ad1",
+				"externalId": {
+					"spotify": "1JqlXUT71FJmOO46l8I7fc"
+				}
 			},
-			"artist": [
+			"artists": [
 				{
 					"name": "Guy Garvey",
-					"id": "2j3K3e7Jnnmd2KwlFgCC5u"
+					"id": "a3fa2962-0bc2-4917-9d51-926a1d7486ae",
+					"externalId": {
+						"spotify": "2j3K3e7Jnnmd2KwlFgCC5u"
+					}
 				}
 			],
 			"name": "Courting The Squall",
-			"id": "6UsORESAorb76oZ5LvM3VV",
-			"length": 270706
+			"id": "06715f74-a418-4683-b165-7e7abbfed83c",
+			"length": 270706,
+			"externalId": {
+				"spotify": "6UsORESAorb76oZ5LvM3VV"
+			}
 		}
 	]
 }
