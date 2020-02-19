@@ -1,0 +1,821 @@
+{
+	"href" : "https://api.spotify.com/v1/users/1162685727/playlists?offset=0&limit=20",
+	"items" : [ {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/3HMUWjY25fmW9QCzLcnb4x"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/3HMUWjY25fmW9QCzLcnb4x",
+	  "id" : "3HMUWjY25fmW9QCzLcnb4x",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/1ce23ba5fcbd7d200eb9e18d051e7a6a12fa287cab67616d0000b273965f1a626c0d8667af96d7d3ab67616d0000b2739a2c40b6a1af4a92aac991c5ab67616d0000b273d4cf51e6450778ad3d83d80f",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/1ce23ba5fcbd7d200eb9e18d051e7a6a12fa287cab67616d0000b273965f1a626c0d8667af96d7d3ab67616d0000b2739a2c40b6a1af4a92aac991c5ab67616d0000b273d4cf51e6450778ad3d83d80f",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/1ce23ba5fcbd7d200eb9e18d051e7a6a12fa287cab67616d0000b273965f1a626c0d8667af96d7d3ab67616d0000b2739a2c40b6a1af4a92aac991c5ab67616d0000b273d4cf51e6450778ad3d83d80f",
+		"width" : 60
+	  } ],
+	  "name" : "Breat & Realx",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "MjQsMGQzNDU4YWI4ZWJkNjcxZGM1OWY0NmY3NTBhOTY0ZTEwMzQwOTJhNg==",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/3HMUWjY25fmW9QCzLcnb4x/tracks",
+		"total" : 15
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:3HMUWjY25fmW9QCzLcnb4x"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/1lTJLxQwJHSppqVJXDosyb"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/1lTJLxQwJHSppqVJXDosyb",
+	  "id" : "1lTJLxQwJHSppqVJXDosyb",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://i.scdn.co/image/1ce23ba5fcbd7d200eb9e18d051e7a6a12fa287c",
+		"width" : 640
+	  } ],
+	  "name" : "February Top 5 2020",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "NiwzZmNiODM0MTYzMDZjZWRmNGQxOTMzMjZlZDE2NWRjMjI5MzQ4MTRj",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/1lTJLxQwJHSppqVJXDosyb/tracks",
+		"total" : 3
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:1lTJLxQwJHSppqVJXDosyb"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/24gGrOD8AOsbzpUlauRrA3"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/24gGrOD8AOsbzpUlauRrA3",
+	  "id" : "24gGrOD8AOsbzpUlauRrA3",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/6c687d2e32d44791f558407813f2ca7c5ee401ce87062cd9eeb633e8b2b519073af6ce5caaaf2933ab67616d0000b273a0bb93884823982d57cb2004ab67616d0000b273f679c91273efb30ce1c3b00d",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/6c687d2e32d44791f558407813f2ca7c5ee401ce87062cd9eeb633e8b2b519073af6ce5caaaf2933ab67616d0000b273a0bb93884823982d57cb2004ab67616d0000b273f679c91273efb30ce1c3b00d",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/6c687d2e32d44791f558407813f2ca7c5ee401ce87062cd9eeb633e8b2b519073af6ce5caaaf2933ab67616d0000b273a0bb93884823982d57cb2004ab67616d0000b273f679c91273efb30ce1c3b00d",
+		"width" : 60
+	  } ],
+	  "name" : "January Top 5 2020",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "NywzMzdlNDhmMzdiMDQxZTk3NGVlZGQxNzM0Mzk5ZDMwNzBhYzlkNTU2",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/24gGrOD8AOsbzpUlauRrA3/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:24gGrOD8AOsbzpUlauRrA3"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/2WvBPWlFDy2FRUAsHVShQe"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/2WvBPWlFDy2FRUAsHVShQe",
+	  "id" : "2WvBPWlFDy2FRUAsHVShQe",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/4490d819e1436c1ea450ef9e125726c1959ff4ee54138569c5675377d3b2fc5e23679b4e94a4977293a24c9735256c1763f340a2a99dc14351e3bbd6ab67616d0000b2739a8b9f3d1f7bdc5788864a90",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/4490d819e1436c1ea450ef9e125726c1959ff4ee54138569c5675377d3b2fc5e23679b4e94a4977293a24c9735256c1763f340a2a99dc14351e3bbd6ab67616d0000b2739a8b9f3d1f7bdc5788864a90",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/4490d819e1436c1ea450ef9e125726c1959ff4ee54138569c5675377d3b2fc5e23679b4e94a4977293a24c9735256c1763f340a2a99dc14351e3bbd6ab67616d0000b2739a8b9f3d1f7bdc5788864a90",
+		"width" : 60
+	  } ],
+	  "name" : "December Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "Niw1ZjIzOWUzMmUzOTA3YjMyMjEyNDZjNjRjZTdhYjc0MDM3NjJhYTE3",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/2WvBPWlFDy2FRUAsHVShQe/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:2WvBPWlFDy2FRUAsHVShQe"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/6pa1S9X2jok4DrgbIa9CtZ"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/6pa1S9X2jok4DrgbIa9CtZ",
+	  "id" : "6pa1S9X2jok4DrgbIa9CtZ",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/ab67616d0000b273036e573c16a9cb165638243eab67616d0000b2733d5b8fe604275dfab677bd0dab67616d0000b27390c16d1a8cacf4cf489f0f96cacde00ad7e33aaff60a8e525f33366cc539f8d2",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/ab67616d0000b273036e573c16a9cb165638243eab67616d0000b2733d5b8fe604275dfab677bd0dab67616d0000b27390c16d1a8cacf4cf489f0f96cacde00ad7e33aaff60a8e525f33366cc539f8d2",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/ab67616d0000b273036e573c16a9cb165638243eab67616d0000b2733d5b8fe604275dfab677bd0dab67616d0000b27390c16d1a8cacf4cf489f0f96cacde00ad7e33aaff60a8e525f33366cc539f8d2",
+		"width" : 60
+	  } ],
+	  "name" : "November Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "NyxkYjBkNzUzYmJiMTZiNWFmN2I0MmY1ZGE3ODdlY2MwYzgyYzdmMzBk",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/6pa1S9X2jok4DrgbIa9CtZ/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:6pa1S9X2jok4DrgbIa9CtZ"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/6v8ekrvLmh7y8ldQBQbtDS"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/6v8ekrvLmh7y8ldQBQbtDS",
+	  "id" : "6v8ekrvLmh7y8ldQBQbtDS",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/04f999d4b1b7be9e59bc1c923dcd05814581e4ce30d91ee3c75d8cc3b5c86af170eddfc750ab0bd25e10ce2386c5d2345b3441c089cbd6cc51851010ab67616d0000b273b7ae37d76e668dcbaf9f4ef2",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/04f999d4b1b7be9e59bc1c923dcd05814581e4ce30d91ee3c75d8cc3b5c86af170eddfc750ab0bd25e10ce2386c5d2345b3441c089cbd6cc51851010ab67616d0000b273b7ae37d76e668dcbaf9f4ef2",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/04f999d4b1b7be9e59bc1c923dcd05814581e4ce30d91ee3c75d8cc3b5c86af170eddfc750ab0bd25e10ce2386c5d2345b3441c089cbd6cc51851010ab67616d0000b273b7ae37d76e668dcbaf9f4ef2",
+		"width" : 60
+	  } ],
+	  "name" : "October Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "MTMsN2M5OTU2ZGNkOTVkOWJjNWI3NWNiMDllZDdkNTVlYmEyMGVkOTMwZg==",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/6v8ekrvLmh7y8ldQBQbtDS/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:6v8ekrvLmh7y8ldQBQbtDS"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/74S91fWX7LtZfsvvmMLy8I"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/74S91fWX7LtZfsvvmMLy8I",
+	  "id" : "74S91fWX7LtZfsvvmMLy8I",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/3e557fe0578f678144aa3bc8134b31eb283cb8d4ab67616d0000b27332083f1a325ed4939f1fbecdab67616d0000b2738f7128431367ce70f773651cdaba520c60f1e8d99968b6c481ef83f716528709",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/3e557fe0578f678144aa3bc8134b31eb283cb8d4ab67616d0000b27332083f1a325ed4939f1fbecdab67616d0000b2738f7128431367ce70f773651cdaba520c60f1e8d99968b6c481ef83f716528709",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/3e557fe0578f678144aa3bc8134b31eb283cb8d4ab67616d0000b27332083f1a325ed4939f1fbecdab67616d0000b2738f7128431367ce70f773651cdaba520c60f1e8d99968b6c481ef83f716528709",
+		"width" : 60
+	  } ],
+	  "name" : "September Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "NiwyMWI2NTc2ZTc4N2E3MzBiNWZmNWZjMTliNGI4YjhlOThjNmNmMTNm",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/74S91fWX7LtZfsvvmMLy8I/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:74S91fWX7LtZfsvvmMLy8I"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/5bSqtaudWQUtBpKaZS9PQ9"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/5bSqtaudWQUtBpKaZS9PQ9",
+	  "id" : "5bSqtaudWQUtBpKaZS9PQ9",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/ab67616d0000b2734117e531f63855d072059d6eab67616d0000b2739ae06de6ea3b9d1b0022c84dab67616d0000b273bd67638b510dc5ea4049a5b9ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/ab67616d0000b2734117e531f63855d072059d6eab67616d0000b2739ae06de6ea3b9d1b0022c84dab67616d0000b273bd67638b510dc5ea4049a5b9ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/ab67616d0000b2734117e531f63855d072059d6eab67616d0000b2739ae06de6ea3b9d1b0022c84dab67616d0000b273bd67638b510dc5ea4049a5b9ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+		"width" : 60
+	  } ],
+	  "name" : "August Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "MTIsMjk3ZWVlMTA2ZWYwOGQyZjQ3YjM1MDc2ZjUxYWYxMWM1YmVjOWQzNA==",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/5bSqtaudWQUtBpKaZS9PQ9/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:5bSqtaudWQUtBpKaZS9PQ9"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/0Y1DbY1eQHg8qhtSeHKtu2"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/0Y1DbY1eQHg8qhtSeHKtu2",
+	  "id" : "0Y1DbY1eQHg8qhtSeHKtu2",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/ab67616d0000b27325ac64717f45c41a4a71a437ab67616d0000b273bfcd8d6b28c07d92a902e1c2ab67616d0000b273c0c3ea2b63b251637f0f155aab67616d0000b273d52bfb90ee8dfeda8378b99b",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/ab67616d0000b27325ac64717f45c41a4a71a437ab67616d0000b273bfcd8d6b28c07d92a902e1c2ab67616d0000b273c0c3ea2b63b251637f0f155aab67616d0000b273d52bfb90ee8dfeda8378b99b",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/ab67616d0000b27325ac64717f45c41a4a71a437ab67616d0000b273bfcd8d6b28c07d92a902e1c2ab67616d0000b273c0c3ea2b63b251637f0f155aab67616d0000b273d52bfb90ee8dfeda8378b99b",
+		"width" : 60
+	  } ],
+	  "name" : "July Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "OSw3M2M0NDQyZWU1YWM2NjRlZTk5YTBmOThlODk5ODkxYTBiNTA4MWNh",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/0Y1DbY1eQHg8qhtSeHKtu2/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:0Y1DbY1eQHg8qhtSeHKtu2"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/1sKuytiwCkPEwXaFN0jUL8"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/1sKuytiwCkPEwXaFN0jUL8",
+	  "id" : "1sKuytiwCkPEwXaFN0jUL8",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/ab67616d0000b27352426e8cc612c20fc7b1aad3ab67616d0000b27371ea4fd661043f9b32e54c98ab67616d0000b273a7550f364b8203b68c502794ab67616d0000b273c8bcec375525e027d13b1aa4",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/ab67616d0000b27352426e8cc612c20fc7b1aad3ab67616d0000b27371ea4fd661043f9b32e54c98ab67616d0000b273a7550f364b8203b68c502794ab67616d0000b273c8bcec375525e027d13b1aa4",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/ab67616d0000b27352426e8cc612c20fc7b1aad3ab67616d0000b27371ea4fd661043f9b32e54c98ab67616d0000b273a7550f364b8203b68c502794ab67616d0000b273c8bcec375525e027d13b1aa4",
+		"width" : 60
+	  } ],
+	  "name" : "June Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "OCw2MTU2MGI3ZWViZjRlODI2MzM5MTdhY2Y3NGM4ZDI2MGI1ZDc3MzA0",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/1sKuytiwCkPEwXaFN0jUL8/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:1sKuytiwCkPEwXaFN0jUL8"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/4kx7oBey1NwQrWXsBbqOdV"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/4kx7oBey1NwQrWXsBbqOdV",
+	  "id" : "4kx7oBey1NwQrWXsBbqOdV",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/9d92fe9e51b1595252249affb9d64396bec92dcbab67616d0000b2735b2a4d5702b659d99b51d99cab67616d0000b273dd5a0c14041d566885aa51e5ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/9d92fe9e51b1595252249affb9d64396bec92dcbab67616d0000b2735b2a4d5702b659d99b51d99cab67616d0000b273dd5a0c14041d566885aa51e5ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/9d92fe9e51b1595252249affb9d64396bec92dcbab67616d0000b2735b2a4d5702b659d99b51d99cab67616d0000b273dd5a0c14041d566885aa51e5ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+		"width" : 60
+	  } ],
+	  "name" : "May Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "Niw5NjE4ZTZjZTI4MzYyZmMxMzg5ZWU5MzhjYTVhOGMzM2QxMGVjNjM4",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/4kx7oBey1NwQrWXsBbqOdV/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:4kx7oBey1NwQrWXsBbqOdV"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/3qag0kJpPJGSsLLEBAjH9J"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/3qag0kJpPJGSsLLEBAjH9J",
+	  "id" : "3qag0kJpPJGSsLLEBAjH9J",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/28dda567e28cca4ac6b21e716f7e5b94be251065ab67616d0000b2732345b7f21b6326520efaee96ab67616d0000b2738fcb7b530b1f39a272e22f2eab67616d0000b273fc3d8d2c7e3f2d335f915cfa",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/28dda567e28cca4ac6b21e716f7e5b94be251065ab67616d0000b2732345b7f21b6326520efaee96ab67616d0000b2738fcb7b530b1f39a272e22f2eab67616d0000b273fc3d8d2c7e3f2d335f915cfa",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/28dda567e28cca4ac6b21e716f7e5b94be251065ab67616d0000b2732345b7f21b6326520efaee96ab67616d0000b2738fcb7b530b1f39a272e22f2eab67616d0000b273fc3d8d2c7e3f2d335f915cfa",
+		"width" : 60
+	  } ],
+	  "name" : "April Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "NiwxYmNjMDU2MTZjM2M2ZDI5YjYzNjdiNzNkYjgwNzNiZjUyZjJiZjc2",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/3qag0kJpPJGSsLLEBAjH9J/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:3qag0kJpPJGSsLLEBAjH9J"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/0q5ViEUtnHSICykkAgNZl5"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/0q5ViEUtnHSICykkAgNZl5",
+	  "id" : "0q5ViEUtnHSICykkAgNZl5",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/437c65e86e4a5e8e42889e4c5496cdb409e8913dab67616d0000b27330eee8584e380c089e0ba724ab67616d0000b27353c20a85199dc4291a7260d5ab67616d0000b27373b063d18cd9be91eb12284a",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/437c65e86e4a5e8e42889e4c5496cdb409e8913dab67616d0000b27330eee8584e380c089e0ba724ab67616d0000b27353c20a85199dc4291a7260d5ab67616d0000b27373b063d18cd9be91eb12284a",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/437c65e86e4a5e8e42889e4c5496cdb409e8913dab67616d0000b27330eee8584e380c089e0ba724ab67616d0000b27353c20a85199dc4291a7260d5ab67616d0000b27373b063d18cd9be91eb12284a",
+		"width" : 60
+	  } ],
+	  "name" : "March Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "MTEsMmUxYzA0Yzk4NzcxNmMyZjJhNDNjMzUxMGQyNDFkY2RlNDA0YzUxMQ==",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/0q5ViEUtnHSICykkAgNZl5/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:0q5ViEUtnHSICykkAgNZl5"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/5BbgyANBwTcCrNxKRC8a4X"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/5BbgyANBwTcCrNxKRC8a4X",
+	  "id" : "5BbgyANBwTcCrNxKRC8a4X",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/0cfefe29a2316ce33a0d82e5c4995195a758a45dab67616d0000b27328e8b705447fed16d2cc857eab67616d0000b273e4fe8bd8c90d10c818a9d1aeab67616d0000b273eaf51925f9dde8f871647b24",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/0cfefe29a2316ce33a0d82e5c4995195a758a45dab67616d0000b27328e8b705447fed16d2cc857eab67616d0000b273e4fe8bd8c90d10c818a9d1aeab67616d0000b273eaf51925f9dde8f871647b24",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/0cfefe29a2316ce33a0d82e5c4995195a758a45dab67616d0000b27328e8b705447fed16d2cc857eab67616d0000b273e4fe8bd8c90d10c818a9d1aeab67616d0000b273eaf51925f9dde8f871647b24",
+		"width" : 60
+	  } ],
+	  "name" : "February Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "NiwyZDAxY2RiZDdhNmE2YzMwYWMzMzg5ZjkzY2FlYmE5YzE0ZTgxMjI5",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/5BbgyANBwTcCrNxKRC8a4X/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:5BbgyANBwTcCrNxKRC8a4X"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/4bIis9T51854fD3LxvkfAn"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/4bIis9T51854fD3LxvkfAn",
+	  "id" : "4bIis9T51854fD3LxvkfAn",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/6af0f9762f4a3e989224dbc4a0ab190069ee2ee7ab67616d0000b2736f2091e07ec63271040c1f9eab67616d0000b273a7865e686c36a4adda6c9978ab67616d0000b273cd2af1dde46b88c2497b6e47",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/6af0f9762f4a3e989224dbc4a0ab190069ee2ee7ab67616d0000b2736f2091e07ec63271040c1f9eab67616d0000b273a7865e686c36a4adda6c9978ab67616d0000b273cd2af1dde46b88c2497b6e47",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/6af0f9762f4a3e989224dbc4a0ab190069ee2ee7ab67616d0000b2736f2091e07ec63271040c1f9eab67616d0000b273a7865e686c36a4adda6c9978ab67616d0000b273cd2af1dde46b88c2497b6e47",
+		"width" : 60
+	  } ],
+	  "name" : "January Top 5 2019",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "Niw3ODUyMDZiYzFkMDI4OGI5MjhjNTY2YzhkMGY4MDVkNzcwOTIwOGZl",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/4bIis9T51854fD3LxvkfAn/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:4bIis9T51854fD3LxvkfAn"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/0SIbZD43hU9AF98lOj3hXj"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/0SIbZD43hU9AF98lOj3hXj",
+	  "id" : "0SIbZD43hU9AF98lOj3hXj",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/a78cbc5cf031305a2a6cc60349a6c20e1b70a84bab67616d0000b2731b901d6c0702e806aaa7ecf5ab67616d0000b27324d34e800313040a1001e590ab67616d0000b27352426e8cc612c20fc7b1aad3",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/a78cbc5cf031305a2a6cc60349a6c20e1b70a84bab67616d0000b2731b901d6c0702e806aaa7ecf5ab67616d0000b27324d34e800313040a1001e590ab67616d0000b27352426e8cc612c20fc7b1aad3",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/a78cbc5cf031305a2a6cc60349a6c20e1b70a84bab67616d0000b2731b901d6c0702e806aaa7ecf5ab67616d0000b27324d34e800313040a1001e590ab67616d0000b27352426e8cc612c20fc7b1aad3",
+		"width" : 60
+	  } ],
+	  "name" : "December Top 5 2018",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "OCxiZTJlMzc4NTUxZGY0NGUzZTdkYWQ2OGQ1YzU0NDVhY2I1MzMyMzQ1",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/0SIbZD43hU9AF98lOj3hXj/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:0SIbZD43hU9AF98lOj3hXj"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/4p7icU5gOIeXMq2a8PT1LS"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/4p7icU5gOIeXMq2a8PT1LS",
+	  "id" : "4p7icU5gOIeXMq2a8PT1LS",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/ab67616d0000b2733c1c883bb20705b2805aa550ab67616d0000b2736ad772bca89bf75370488cc4ab67616d0000b273ea6f0474d0f8d2efbcb72fdaab67616d0000b273ee1ca4ec002d7b2f7835636c",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/ab67616d0000b2733c1c883bb20705b2805aa550ab67616d0000b2736ad772bca89bf75370488cc4ab67616d0000b273ea6f0474d0f8d2efbcb72fdaab67616d0000b273ee1ca4ec002d7b2f7835636c",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/ab67616d0000b2733c1c883bb20705b2805aa550ab67616d0000b2736ad772bca89bf75370488cc4ab67616d0000b273ea6f0474d0f8d2efbcb72fdaab67616d0000b273ee1ca4ec002d7b2f7835636c",
+		"width" : 60
+	  } ],
+	  "name" : "November Top 5 2018",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "Niw2OWQ3ODNlNDcyMWJiMjA1ZWEzNjZlOWRlYzQ1YjM5MDdmMDk3ODYz",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/4p7icU5gOIeXMq2a8PT1LS/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:4p7icU5gOIeXMq2a8PT1LS"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/4vHfofF3XnreOBf6HRJH15"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/4vHfofF3XnreOBf6HRJH15",
+	  "id" : "4vHfofF3XnreOBf6HRJH15",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/ab67616d0000b2736000c611948b1f0c14aad421ab67616d0000b2738ce6b75631d618ead5b47348ab67616d0000b2738d8a4900922874c9f4ea26b5ab67616d0000b273d75b85940e8cd9e648aae782",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/ab67616d0000b2736000c611948b1f0c14aad421ab67616d0000b2738ce6b75631d618ead5b47348ab67616d0000b2738d8a4900922874c9f4ea26b5ab67616d0000b273d75b85940e8cd9e648aae782",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/ab67616d0000b2736000c611948b1f0c14aad421ab67616d0000b2738ce6b75631d618ead5b47348ab67616d0000b2738d8a4900922874c9f4ea26b5ab67616d0000b273d75b85940e8cd9e648aae782",
+		"width" : 60
+	  } ],
+	  "name" : "October Top 5 2018",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "OCwwODQ3ODNhYTZhZDQ2YjBmODk1YWEyYjBiNGVmODM5MzkxOGFkMDU0",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/4vHfofF3XnreOBf6HRJH15/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:4vHfofF3XnreOBf6HRJH15"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/1siANxaLvjRc0poGHafNHv"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/1siANxaLvjRc0poGHafNHv",
+	  "id" : "1siANxaLvjRc0poGHafNHv",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/4432b32b8edf8bfc9485ff37405246d8c9afcb67ab67616d0000b27324d34e800313040a1001e590ab67616d0000b273890ff7951e76fdc133b03892ab67616d0000b273bbbfc498a1fe95d479a5ec8d",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/4432b32b8edf8bfc9485ff37405246d8c9afcb67ab67616d0000b27324d34e800313040a1001e590ab67616d0000b273890ff7951e76fdc133b03892ab67616d0000b273bbbfc498a1fe95d479a5ec8d",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/4432b32b8edf8bfc9485ff37405246d8c9afcb67ab67616d0000b27324d34e800313040a1001e590ab67616d0000b273890ff7951e76fdc133b03892ab67616d0000b273bbbfc498a1fe95d479a5ec8d",
+		"width" : 60
+	  } ],
+	  "name" : "September Top 5 2018",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "OCwzNjMyZDE0ZTA4ZjU5ZWUyNmZlMDI2MWUzYTE5ZjRmYjc2Y2Y2NmVj",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/1siANxaLvjRc0poGHafNHv/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:1siANxaLvjRc0poGHafNHv"
+	}, {
+	  "collaborative" : false,
+	  "description" : "",
+	  "external_urls" : {
+		"spotify" : "https://open.spotify.com/playlist/4BGPKNnvhU6OPhYUNBSmRS"
+	  },
+	  "href" : "https://api.spotify.com/v1/playlists/4BGPKNnvhU6OPhYUNBSmRS",
+	  "id" : "4BGPKNnvhU6OPhYUNBSmRS",
+	  "images" : [ {
+		"height" : 640,
+		"url" : "https://mosaic.scdn.co/640/ab67616d0000b2733f8116ec97daa992fd96f13eab67616d0000b2734e4e6843ddec4f2516577605ab67616d0000b2735e149abf2d24cd29e40c6b84ab67616d0000b273a960aeecf8d8d6d893ca9791",
+		"width" : 640
+	  }, {
+		"height" : 300,
+		"url" : "https://mosaic.scdn.co/300/ab67616d0000b2733f8116ec97daa992fd96f13eab67616d0000b2734e4e6843ddec4f2516577605ab67616d0000b2735e149abf2d24cd29e40c6b84ab67616d0000b273a960aeecf8d8d6d893ca9791",
+		"width" : 300
+	  }, {
+		"height" : 60,
+		"url" : "https://mosaic.scdn.co/60/ab67616d0000b2733f8116ec97daa992fd96f13eab67616d0000b2734e4e6843ddec4f2516577605ab67616d0000b2735e149abf2d24cd29e40c6b84ab67616d0000b273a960aeecf8d8d6d893ca9791",
+		"width" : 60
+	  } ],
+	  "name" : "August Top 5 2018",
+	  "owner" : {
+		"display_name" : "Grant Spencer Meek",
+		"external_urls" : {
+		  "spotify" : "https://open.spotify.com/user/1162685727"
+		},
+		"href" : "https://api.spotify.com/v1/users/1162685727",
+		"id" : "1162685727",
+		"type" : "user",
+		"uri" : "spotify:user:1162685727"
+	  },
+	  "primary_color" : null,
+	  "public" : true,
+	  "snapshot_id" : "OCwxZDY4MDk1Mzc0NDQzMGRkZjBiYjI1YzRjMmVmYTk1ZTQxMzIxNTgz",
+	  "tracks" : {
+		"href" : "https://api.spotify.com/v1/playlists/4BGPKNnvhU6OPhYUNBSmRS/tracks",
+		"total" : 5
+	  },
+	  "type" : "playlist",
+	  "uri" : "spotify:playlist:4BGPKNnvhU6OPhYUNBSmRS"
+	} ],
+	"limit" : 20,
+	"next" : "https://api.spotify.com/v1/users/1162685727/playlists?offset=20&limit=20",
+	"offset" : 0,
+	"previous" : null,
+	"total" : 280
+  }
