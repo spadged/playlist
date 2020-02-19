@@ -7,7 +7,7 @@ class PlaylistGrabber
 
 	constructor()
 	{
-		var keys:any = Utils.openJsonFile("../keys.json");
+		var keys:any = Utils.openJsonFile("../../keys.json");
 
 		this.spotifyApi = new this.SpotifyWebApi({
 			clientId: keys.ClientId,
@@ -19,7 +19,7 @@ class PlaylistGrabber
 
 		/*this.spotifyApi.clientCredentialsGrant()
 		.then(
-			function (data)
+			(data) =>
 			{
 				console.log('The access token expires in ' + data.body['expires_in']);
 				console.log('The access token is ' + data.body['access_token']);
@@ -49,7 +49,9 @@ class PlaylistGrabber
 			{
 				console.log('Got Current User');
 
-				self.getPlaylist(data.body.id);
+				console.log(data);
+
+				//self.getPlaylist(data.body.id);
 			},
 			function (err)
 			{
@@ -115,7 +117,7 @@ class PlaylistGrabber
 
 			var outPlaylist:IPlaylist = {
 				name: playlist.name,
-				month: month,
+				month: {value: month, label: ""},
 				year:year,
 				id: playlist.id,
 				tracks: []
