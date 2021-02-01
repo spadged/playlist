@@ -7,7 +7,7 @@ class PlaylistGrabber
 
 	constructor()
 	{
-		var keys:any = Utils.openJsonFile("../../keys.json");
+		var keys:any = Utils.openJsonFile("../keys.json");
 
 		this.spotifyApi = new this.SpotifyWebApi({
 			clientId: keys.ClientId,
@@ -51,7 +51,7 @@ class PlaylistGrabber
 
 				console.log(data);
 
-				//self.getPlaylist(data.body.id);
+				self.getPlaylist(data.body.id);
 			},
 			function (err)
 			{
@@ -111,7 +111,7 @@ class PlaylistGrabber
 			
 			var items:Array<any> = data.body.items;
 
-			var path = "../../data/" + year + "/" + month + ".json";
+			var path = "../data/" + year + "/" + month + ".json";
 			
 			console.log("Playlist:", playlist.name)
 
