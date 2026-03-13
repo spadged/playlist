@@ -1,0 +1,910 @@
+{
+	"02-2004": [
+		{
+			"trackId": 0,
+			"name": "South bound on Avalon",
+			"artist": "Kidd",
+			"albumArtist": "Kidd",
+			"composer": [
+				"Simon Shakespeare", "David Shakespeare"
+			],
+			"album": "Then it was a bad, bad night",
+			"genre": "Electronic",
+			"kind": "local music",
+			"size": 0,
+			"totalTime": "7:25",
+			"discNumber": 1,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"01-2004": [
+		{
+			"trackId": 0,
+			"name": "Peace",
+			"artist": "?",
+			"albumArtist": "?",
+			"composer": [
+				"Ripped from the dvd menu of the film Adaptation"
+			],
+			"album": "",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"09-2004": [
+		{
+			"trackId": 0,
+			"name": "Forgetful Lucy",
+			"artist": "Adam Sandler",
+			"albumArtist": "Adam Sandler",
+			"composer": [
+				"Ripped from the film: Forgetful Lucy"
+			],
+			"album": "Forgetful Lucy",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"04-2005": [
+		{
+			"trackId": 0,
+			"name": "Pending...",
+			"artist": "Kidd",
+			"albumArtist": "Kidd",
+			"composer": [
+				"Simon Shakespeare", "David Shakespeare"
+			],
+			"album": "Not yet. No.",
+			"genre": "Electronic",
+			"kind": "local music",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"12-2005": [
+		{
+			"trackId": 0,
+			"name": "Boxer",
+			"artist": "Interpol",
+			"albumArtist": "",
+			"composer": [
+				"Not sure if this is interpol at all"
+			],
+			"album": "",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		},
+		{
+			"trackId": 0,
+			"name": "Unisex Chipshop",
+			"artist": "Bill Bailey",
+			"albumArtist": "Bill Bailey",
+			"composer": [
+				"Bill Bailey"
+			],
+			"album": "?",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"03-2005": [
+		{
+			"trackId": 0,
+			"name": "Section 008",
+			"artist": "Buddy Peace",
+			"albumArtist": "Various",
+			"composer": [
+				"Ripped from a warp records sampler CD"
+			],
+			"album": "",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"12-2006": [
+		{
+			"trackId": 0,
+			"name": "Encore",
+			"artist": "Jay Z & Danger Mouse",
+			"albumArtist": "Jay Z & Danger Mouse",
+			"composer": [
+				"Jay Z"
+			],
+			"album": "The Grey Album",
+			"genre": "Hiphop",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"11-2006": [
+		{
+			"trackId": 0,
+			"name": "Public Service Announcement",
+			"artist": "Jay Z, Danger Mouse",
+			"albumArtist": "Jay Z, Danger Mouse",
+			"composer": [
+				"Jay Z", "Danger Mouse"
+			],
+			"album": "The Grey Album",
+			"genre": "Hip Hop",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"04-2007": [
+		{
+			"trackId": 0,
+			"name": "Woozy",
+			"artist": "Faithless",
+			"albumArtist": "Various",
+			"composer": [
+				"Faithless"
+			],
+			"album": "The Beach Soundtrack",
+			"genre": "Electronic",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"12-2007": [
+		{
+			"trackId": 0,
+			"name": "Sad Song",
+			"artist": "Psapp",
+			"albumArtist": "Various",
+			"composer": [
+				"Psapp"
+			],
+			"album": "David Shrigleys Worried Noodles",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"11-2007": [
+		{
+			"album": {
+				"name": "David Shrigley's Worried Noodles",
+				"year": "",
+				"id": "c8fc6334-8580-41ab-84f6-84fb9ce175a0",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Scarlet's Well",
+					"id": "892cb4eb-27d8-4f03-b475-64103d43362e",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Maybe",
+			"id": "b2d16bf0-ecb5-4c69-a367-07e794ee6853",
+			"length": 134000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "David Shrigley's Worried Noodles",
+				"year": "",
+				"id": "c8fc6334-8580-41ab-84f6-84fb9ce175a0",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "David Byrne",
+					"id": "93a49268-9417-41ae-8394-eaba7b688f4c",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "For You",
+			"id": "d9b5c475-50a7-4c75-9106-4e28bc48ea35",
+			"length": 200000,
+			"externalId": {
+				"spotify": null
+			}
+		}
+	],
+	"04-2009": [
+		{
+			"album": {
+				"name": "Six Feet Under - Everything Ends",
+				"year": "",
+				"id": "bf4af665-366d-40fb-9f77-479f7921ce25",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Arcade Fire",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Cold Wind",
+			"id": "ba0d17bf-a701-4f2c-aeba-fda8f44e82cc",
+			"length": 189000,
+			"externalId": {
+				"spotify": null
+			}
+		}
+	],
+	"01-2009": [
+		{
+			"album": {
+				"name": "Bootleg",
+				"year": "",
+				"id": "f45881ef-07e2-439e-a84d-3f36c21286dc",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Arcade Fire",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Burning Bridges",
+			"id": "922d5b2b-f2e3-461b-a9d1-de3342b516d1",
+			"length": 304000,
+			"externalId": {
+				"spotify": null
+			}
+		}
+	],
+	"04-2011": [
+		{
+			"album": {
+				"name": "Exile Vilify",
+				"year": "",
+				"id": "ca0c5266-5369-4a92-84b8-17d3c5fbb75d",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "The National",
+					"id": "5c880de8-23a9-47e1-bbdf-342235bc1cbd",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Exile Vilify",
+			"id": "e356aa3a-8865-456d-bc19-6f592a79d25f",
+			"length": 285000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "The Inbetween",
+				"year": "",
+				"id": "80640d4d-3818-485c-a509-d4949c22655b",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Essie Jain",
+					"id": "068250f2-bc74-4466-ace3-cc6b286dc303",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "You",
+			"id": "db97d689-9380-4bd6-b1ee-f80e09e3d06d",
+			"length": 166000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"trackId": 0,
+			"name": "",
+			"artist": "",
+			"albumArtist": "",
+			"composer": [
+				""
+			],
+			"album": "",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"07-2011": [
+		{
+			"album": {
+				"name": "It's Frightening",
+				"year": "",
+				"id": "a4618385-a6ed-405d-bd64-f4c8153a94f1",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "White Rabbits",
+					"id": "04a1d4c9-5904-4d89-b0dd-dc55b181bab9",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Percussion Gun",
+			"id": "e1969e21-5381-48a7-8944-1380aa91fe09",
+			"length": 188000,
+			"externalId": {
+				"spotify": null
+			}
+		}
+	],
+	"09-2011": [
+		{
+			"album": {
+				"name": "Baby Style",
+				"year": "",
+				"id": "adca28f7-db1d-4e02-bf11-0cd3eaba7c71",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Keepaway",
+					"id": "c4d947b8-5b1e-4165-8238-68540e99b693",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],s
+			"name": "Yellow Wings",
+			"id": "0ebacdf3-277a-4cf3-bf4b-1a0a5564b663",
+			"length": 298000,
+			"externalId": {
+				"spotify": null
+			},
+			"Notes": "On spotify, but not on apple" 
+		}
+	],
+	"03-2012": [
+		{
+			"album": {
+				"name": "Young Folks ",
+				"year": "",
+				"id": "99843328-d025-42d5-a163-a14b26d6fea2",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Peter Bjorn And John",
+					"id": "369d79cd-908c-47f0-82e8-61feb5b8baaa",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Ancient Curse",
+			"id": "87b58286-2b68-4aad-9092-79f8baeaea8c",
+			"length": 201000,
+			"externalId": {
+				"spotify": null
+			},
+			"Notes": "B-side on Young Folks - Not on apple"
+		}
+	],
+	"10-2013": [
+		{
+			"album": {
+				"name": "Repent Replenish Repeat",
+				"year": "",
+				"id": "656ddaee-451a-435b-a9a6-45b99eaa9c7d",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Dan Le Sac vs Scroobius Pip",
+					"id": "47403fa8-f8d2-47cc-9d7f-36e657a0234a",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Terminal",
+			"id": "b0c5dccc-d79c-430c-91e2-2165014d4425",
+			"length": 258000,
+			"externalId": {
+				"spotify": null
+			}
+		},
+		{
+			"album": {
+				"name": "Mercy",
+				"year": "",
+				"id": "eeaebe98-68b5-4735-bae2-db1175ea298c",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "TV On the Radio",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Mercy",
+			"id": "3a1f4568-7619-4b8e-838f-cb3eccfe53e3",
+			"length": 197000,
+			"externalId": {
+				"spotify": null
+			},
+			"notes": "Single released in 2013 - not on apple music"
+		}
+	],
+	"09-2013": [
+		{
+			"album": {
+				"name": "Million Miles",
+				"year": "",
+				"id": "4473683a-cba3-447d-a7ac-0d48f624be29",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "TV On the Radio",
+					"id": "2bc744fa-06f0-469d-943c-dba7bd1ab1cf",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Million Miles",
+			"id": "54940a90-48f8-48bc-84cb-0127e9a5b6b0",
+			"length": 263000,
+			"externalId": {
+				"spotify": null
+			},
+			"notes": "Single released in 2013 - not on apple music"
+		}
+	],
+	"12-2014": [
+		{
+			"album": {
+				"name": "December Will Be Magic Again",
+				"id": "3d8222e0-585b-4a9c-bef1-63e17697c19b"
+			},
+			"artists": [
+				{
+					"name": "Kate Bush",
+					"id": "a95e148c-51a4-4346-b657-f3c5a0302f19"
+				}
+			],
+			"name": "December Will Be Magic Again",
+			"id": "34a8dcf5-9e6e-4810-8ade-919da054481e",
+			"length": 236486,
+			"notes": "Not on any of the streamers, I think this might be an audio rip from a video"
+		}
+	],
+	"03-2014": [
+		{
+			"album": {
+				"name": "",
+				"year": "",
+				"id": "3b36c315-cbea-462a-9fcc-005443a0b298",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Soul Wax",
+					"id": "38b5731f-d46e-40e7-a78f-50da003fcce2",
+					"externalId": {
+						"spotify": null
+					}
+				},
+				{
+					"name": "Arcade Fire",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Sprawl II",
+			"id": "d1d31488-b6a2-4af5-b911-3f4e1aa52252",
+			"length": 410000,
+			"externalId": {
+				"spotify": null
+			},
+			"notes": "A soul wax remix of an arcade fire song. Ripped from youtube"
+
+		}
+	],
+	"11-2017": [
+		{
+			"album": {
+				"name": "Fevers Worse EP",
+				"year": "",
+				"id": "3b36c315-cbea-462a-9fcc-005443a0b298",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Young Fathers",
+					"id": "36dc1882-e430-42c6-9c12-961568007584",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "Fevers Worse",
+			"id": "d1d31488-b6a2-4af5-b911-3f4e1aa52252",
+			"length": 410000,
+			"externalId": {
+				"spotify": null
+			},
+			"notes": "Not available on UK apple music, but is available on the US one."
+		}
+	],
+	"04-2018": [
+		{
+			"album": {
+				"name": "It's not a moon EP",
+				"year": "",
+				"id": "",
+				"externalId": {
+					"spotify": null
+				}
+			},
+			"artists": [
+				{
+					"name": "Bad Lip Reading",
+					"id": "",
+					"externalId": {
+						"spotify": null
+					}
+				}
+			],
+			"name": "It's not a moon",
+			"id": "",
+			"length": 410000,
+			"externalId": {
+				"spotify": null
+			},
+			"notes": "Not available on apple music,"
+		}
+	],
+	"11-2018": [
+		{
+			"trackId": 0,
+			"name": "",
+			"artist": "",
+			"albumArtist": "",
+			"composer": [
+				""
+			],
+			"album": "",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"09-2018": [
+		{
+			"trackId": 0,
+			"name": "",
+			"artist": "",
+			"albumArtist": "",
+			"composer": [
+				""
+			],
+			"album": "",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"07-2022": [
+		{
+			"trackId": 0,
+			"name": "",
+			"artist": "",
+			"albumArtist": "",
+			"composer": [
+				""
+			],
+			"album": "",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	],
+	"07-2023": [
+		{
+			"trackId": 0,
+			"name": "",
+			"artist": "",
+			"albumArtist": "",
+			"composer": [
+				""
+			],
+			"album": "",
+			"genre": "",
+			"kind": "",
+			"size": 0,
+			"totalTime": 0,
+			"discNumber": 0,
+			"trackNumber": 0,
+			"trackCount": 0,
+			"year": 1900,
+			"dateModified": "",
+			"bitRate": 0,
+			"sampleRate": 0,
+			"releaseDate": "",
+			"artworkCount": 0,
+			"sortAlbum": "",
+			"sortArtist": "",
+			"sortName": "",
+			"persistentId": "",
+			"trackType": ""
+		}
+	]
+}

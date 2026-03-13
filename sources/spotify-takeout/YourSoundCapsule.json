@@ -1,0 +1,87 @@
+{
+  "stats" : [ {
+    "date" : "2026-03-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ ],
+    "topArtists" : [ ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2025-11-23",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Fall In Love Again",
+      "country" : "GB",
+      "position" : 4530
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Lose You",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Blossom Caldarone",
+      "secondEntity" : "Katya Gabeli"
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Floating Points",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "The Fate of Ophelia",
+      "country" : "GB",
+      "position" : 2,
+      "previousPosition" : 1,
+      "numberOfListeners" : 1354905
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZEVXbiiszFdXNoo1",
+      "listeningPercentage" : 31.698574631070404
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Procession",
+      "country" : "GB",
+      "position" : 711
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Underworld", "Nine Inch Nails", "Orbital", "UFO", "The Scythe", "Cheap Hotel", "Movies - English Teacher Rework", "leave it all behind, Mike", "You Never Know - Goldfrapp Remix" ],
+      "milestoneListeningSeconds" : 84571
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Part Of Us",
+      "country" : "GB",
+      "position" : 4191
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Cut Copy",
+      "milestoneListeningSeconds" : 25541
+    }
+  } ]
+}
